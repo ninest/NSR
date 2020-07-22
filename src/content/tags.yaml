@@ -1,0 +1,21 @@
+tags:
+  general:
+    title: General
+    slug: general
+    color: 
+      background: "000001"
+      text: eeeeee
+  
+  bmt:
+    title: BMT
+    slug: bmt
+    color:
+      background: "bbffbc"
+      text: "003300"
+  
+  financial:
+    title: Financial
+    slug: financial
+    color:
+      background: "bbffbc"
+      text: "003300"

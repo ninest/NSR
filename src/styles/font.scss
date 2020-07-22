@@ -1,0 +1,26 @@
+a {
+  color: unset;
+  text-decoration: unset;
+}
+
+// used in navbar, footer, almost everywhere actually
+.link-hover {
+  border-radius: var(--b-r);
+  margin: -0.25rem -0.6rem;
+  padding: 0.25rem 0.6rem;
+
+  &:hover {
+
+    background-color: var(--link-hover);
+  }
+
+  &.solid {
+    margin: -0.25rem -0.6rem;
+    padding: 0.25rem 0.6rem;
+  }
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 3rem;
+}

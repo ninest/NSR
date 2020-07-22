@@ -1,0 +1,30 @@
+button {
+  border-radius: var(--b-r);
+  padding: 0.8rem 1.6rem;
+  border: none;
+  font-weight: 600;
+
+  font-size: 0.9rem;
+  letter-spacing: 0.06rem;
+
+  background-color: var(--button);
+
+  &.dark {
+    color: var(--button-dark);
+  }
+  &.light {
+    color: var(--button-light);
+  }
+
+  // if icons
+  &.icon-l {
+    svg {
+      margin-right: 1rem;
+    }
+  }
+  &.icon-r {
+    svg {
+      margin-left: 1rem;
+    }
+  }
+}

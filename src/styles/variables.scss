@@ -1,0 +1,43 @@
+:root {
+  --side-p: 8%;
+  @include mobile-screen {
+    --side-p: 5%;
+  }
+
+  // main border radius
+  --b-r: 0.4rem;
+
+
+  // colors
+  --white-1: #fefefe;
+  --white-2: #eeeeee;
+  --white-3: #e5e7eb; // border
+  --white-4: #cdcdcd;
+  --white-5: #bcbcbc;
+  --white-6: #aaaaaa;
+
+  --black-1: #000000;
+  --black-2: #111111;
+  --black-3: #121212; // title
+  --black-4: #222222;
+  --black-5: #232323; // paragraph
+  --black-6: #333333;
+  --black-7: #666666;
+  --black-8: #999999;
+}
+
+.light {
+  --bg: var(--white-1);
+  // --nav-bg: var(--black-4);
+
+  --text: var(--black-5);
+
+  --button: var(--white-3);
+  --button-dark: var(--white-3);
+  --button-light: var(--black-4);
+
+  --link-hover: var(--white-3);
+  --nav-link: var(--black-7);
+
+  --border: var(--black-8);
+}
