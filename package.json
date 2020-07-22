@@ -6,9 +6,9 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "build-static": "nuxt build --target static",
-    "start": "nuxt start",
-    "export": "nuxt export"
+    "export": "nuxt export",
+    "create-website": "npm run build; npm run export",
+    "start": "nuxt start"
   },
   "dependencies": {
     "@nuxtjs/google-analytics": "^2.3.0",
