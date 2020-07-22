@@ -31,15 +31,7 @@ export default {
   <section>
     <h2>Latest</h2>
     <div class="articles latest">
-      <ArticlePreview 
-        v-for="article in articles" v-bind:key="article.slug"
-        :title="article.title"
-        :slug="article.slug"
-        :date="article.createdAt"
-        :tags="article.tags"
-        :colors="colors"
-      >
-      </ArticlePreview>
+      <ArticlePreviewList :articles="articles"></ArticlePreviewList>
     </div>
   </section>
 
@@ -49,12 +41,5 @@ export default {
 
 <style lang="scss" scoped>
 section {
-  .articles {
-
-    // spacing between articles above/below each other
-    a + a {
-      margin-top: 1rem;
-    }
-  }
 }
 </style>

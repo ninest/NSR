@@ -1,5 +1,6 @@
 ---
 title: Saving money in NS
+featured: true
 
 author:
   name: u/OxySempra
