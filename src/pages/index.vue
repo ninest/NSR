@@ -1,22 +1,20 @@
 <script>
 export default {
   async asyncData({$content}) {
-    const articles = await $content('articles')
+    const latestArticles = await $content('articles')
+      .sortBy('createdAt', 'desc')
+      .only(['title', 'slug', 'tags', 'createdAt', 'author'])
+      .fetch()
+
+    const featuredArticles = await $content('articles')
+      .where({'featured': {$eq: true}})
       .only(['title', 'slug', 'tags', 'createdAt', 'author'])
       .fetch()
     
-    // need to get colors for each tag too
-    const tags = (await $content('tags').fetch()).tags
-    const colors = {}
-    const keys = Object.keys(tags);
-    for (var i = 0; i < keys.length; i++) {
-      const tagSlug = keys[i]
-      colors[tagSlug] = tags[tagSlug].color
-    }
 
     return {
-      articles,
-      colors
+      latestArticles,
+      featuredArticles
     }
   }
 }
@@ -30,9 +28,12 @@ export default {
 
   <section>
     <h2>Latest</h2>
-    <div class="articles latest">
-      <ArticlePreviewList :articles="articles"></ArticlePreviewList>
-    </div>
+    <ArticlePreviewList :articles="latestArticles"></ArticlePreviewList>
+  </section>
+
+  <section>
+    <h2>Featured</h2>
+    <ArticlePreviewList :articles="featuredArticles"></ArticlePreviewList>
   </section>
 
 
@@ -40,6 +41,4 @@ export default {
 </template>
 
 <style lang="scss" scoped>
-section {
-}
 </style>

@@ -6,8 +6,8 @@ a {
 // used in navbar, footer, almost everywhere actually
 .link-hover {
   border-radius: var(--b-r);
-  margin: -0.25rem -0.6rem;
-  padding: 0.25rem 0.6rem;
+  margin: -0.25em -0.6em;
+  padding: 0.25em 0.6em;
 
   &:hover {
 
@@ -15,12 +15,28 @@ a {
   }
 
   &.solid {
-    margin: -0.25rem -0.6rem;
-    padding: 0.25rem 0.6rem;
+    margin: -0.25em -0.6em;
+    padding: 0.25em 0.6em;
+  }
+}
+
+// used in toc
+.link-hover-block {
+  border-radius: var(--b-r);
+  padding: 0.25em 0.6em;
+  &:hover {
+    background-color: var(--link-hover);
   }
 }
 
 h1 {
   font-weight: 900;
   font-size: 3rem;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 2em;
+
+  border-bottom: 2px solid var(--title-border);
 }

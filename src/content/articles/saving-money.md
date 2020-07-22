@@ -1,5 +1,5 @@
 ---
-title: Saving money in NS
+title: Saving money
 featured: true
 
 author:

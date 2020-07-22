@@ -33,3 +33,10 @@ body {
   overflow-x: hidden;
   // overflow-y: hidden;
 }
+
+// at bottom of articles
+hr {
+  border-left: none;
+  border-top: 1px solid var(--hr);
+  border-radius: 1px;
+}

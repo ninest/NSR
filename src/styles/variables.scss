@@ -5,7 +5,7 @@
   }
 
   // main border radius
-  --b-r: 0.4rem;
+  --b-r: 0.4em;
 
 
   // colors
@@ -28,9 +28,10 @@
 
 .light {
   --bg: var(--white-1);
-  // --nav-bg: var(--black-4);
+  --hr: var(--white-5);
 
   --text: var(--black-5);
+  --title-border: var(--white-4);
 
   --button: var(--white-3);
   --button-dark: var(--white-3);

@@ -9,7 +9,16 @@ export default {
       type: Boolean,
       required: false,
       default: false,
-    }
+    },
+    showEditButton: {
+      type: Boolean,
+      required: false,
+      default: false,
+    },
+    toc: {
+      type: Array,
+      required: false,
+    },
   },
 }
 </script>
@@ -30,6 +39,11 @@ export default {
 
       <div class="sidebar">
         <Add v-if="showAddButton"></Add>
+
+        <Edit v-if="showEditButton"></Edit>
+
+        <Toc v-if="toc" :list="toc"></Toc>
+
         <Links></Links>
       </div>
 
@@ -59,8 +73,10 @@ main {
     margin-top: 1rem;
 
     div + div {
-      margin-top: 1rem;
+      margin-top: 2rem;
     }
   }
+
+  margin-bottom: 5em;
 }
 </style>

@@ -24,7 +24,9 @@ export default {
 
 <template>
   <div class="article-list">
+    <div v-if="$fetchState.pending">Loading articles ...</div>
     <ArticlePreview 
+      v-else
       v-for="article in articles" v-bind:key="article.slug"
       :title="article.title"
       :slug="article.slug"
@@ -39,7 +41,7 @@ export default {
 .article-list {
   // spacing between articles above/below each other
   a + a {
-    margin-top: 1.5rem;
+    margin-top: 1.2rem;
   }
 }
 </style>

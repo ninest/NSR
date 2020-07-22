@@ -56,6 +56,13 @@ module.exports = {
       "styles/screen.scss",
     ],
   },
+  // nuxt content 
+  content: {
+    markdown: {
+      remarkPlugins: ['remark-breaks']
+    }
+  },
+
   fontawesome: {
     component: 'fa',
     suffix: true,
@@ -63,7 +70,8 @@ module.exports = {
       solid: [
         'faArrowRight',
         'faRandom',
-        'faPlus'
+        'faPlus',
+        'faPen'
       ],
     }
   },

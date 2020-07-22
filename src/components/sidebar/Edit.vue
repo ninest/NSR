@@ -2,8 +2,8 @@
 <template>
   <div class="add">
     <button class="light icon-l">
-        <fa-icon :icon="['fas', 'plus']" />
-        Add content
+        <fa-icon :icon="['fas', 'pen']" />
+        Edit content
       </button>
   </div>
 </template>

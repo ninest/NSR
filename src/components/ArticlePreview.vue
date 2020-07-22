@@ -62,6 +62,8 @@ export default {
     grid-gap: 0.2em;
   }
 
+  padding-bottom: 0.5em;
+
 
   .left {
     .date {
@@ -76,7 +78,6 @@ export default {
   } 
 
   .tags {
-    
     @include not-mobile-screen {
       justify-self: end;
     }
@@ -87,7 +88,7 @@ export default {
       padding: 0.1rem 0.5rem;
       border-radius: var(--b-r);
 
-      font-size: 0.9rem;
+      font-size: 0.85rem;
       font-weight: 600;
       
     }
