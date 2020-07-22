@@ -1,6 +1,6 @@
 ---
 title: Commands
-
+description: Essential commands (marching and parade commands)
 tags:
   - general
   - bmt

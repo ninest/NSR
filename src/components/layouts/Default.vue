@@ -66,6 +66,7 @@ main {
   .content{
     .page-title {
       margin-top: 0;
+      margin-bottom: 0.7rem;
     }
   }
 

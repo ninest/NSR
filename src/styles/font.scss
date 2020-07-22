@@ -40,3 +40,32 @@ h2 {
 
   border-bottom: 2px solid var(--title-border);
 }
+
+
+article {
+  a {
+    @include link
+  }
+}
+
+
+// styling for link page
+article.page-links {
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    a {
+      color: unset;
+      text-decoration: unset;
+
+      display: block;
+      width: 100%;
+
+      @extend .link-hover;
+
+      font-size: 1.1rem;
+    }
+  }
+}

@@ -23,11 +23,11 @@ module.exports = {
       { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
 
       // INTER UI font
-      // {
-      //   rel: "stylesheet",
-      //   href:
-      //     "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap",
-      // },
+      {
+        rel: "stylesheet",
+        href:
+          "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap",
+      },
     ],
 
     //light theme by default
@@ -54,6 +54,7 @@ module.exports = {
   styleResources: {
     scss: [
       "styles/screen.scss",
+      "styles/mixins.scss",
     ],
   },
   // nuxt content 

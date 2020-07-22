@@ -12,6 +12,20 @@ tags:
     color:
       background: "bbffbc"
       text: "003300"
+
+  vocation:
+    title: Vocation
+    slug: vocation
+    color:
+      background: "bbffbc"
+      text: "003300"
+
+  unit:
+    title: Unit
+    slug: unit
+    color:
+      background: "bbffbc"
+      text: "003300"
   
   financial:
     title: Financial

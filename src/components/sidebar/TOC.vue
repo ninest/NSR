@@ -12,12 +12,15 @@ export default {
 <template>
   <div class="toc">
     <div class="title">Contents</div>
-    <div v-for="item in list" class="link-hover-block">
-      <nuxt-link :to="`#${item.id}`">
-        {{ item.text }}
-      </nuxt-link>
+    <div class="list">
+      <div v-for="item in list" 
+        :class="`link-hover-block indent-${item.depth}`"
+      >
+        <nuxt-link :to="`#${item.id}`">
+          {{ item.text }}
+        </nuxt-link>
+      </div>
     </div>
-    <!-- {{ list }} -->
   </div>
 </template>
 
@@ -25,5 +28,12 @@ export default {
 .title {
   font-size: 1.1em;
   font-weight: 600;
+}
+
+.list {
+  color: var(--toc-item);
+  .indent-3 {margin-left: 1em; }
+  .indent-4 { margin-left: 2em; }
+  .indent-5 { margin-left: 3em; }
 }
 </style>

@@ -1,19 +1,9 @@
 <template>
   <div class="link">
+    <!-- {{ this.siteConfig.footerLinks }} -->
     <ul>
-      <li>
-        <nuxt-link to="/" class="link-hover">Discord</nuxt-link>
-      </li>
-
-      <li>
-        <nuxt-link to="/" class="link-hover">r/NSSG</nuxt-link>
-      </li>
-        
-      <li>
-        <nuxt-link to="/" class="link-hover">r/SG</nuxt-link>
-      </li>
-      <li>
-        <nuxt-link to="/" class="link-hover">GitHub</nuxt-link>
+      <li v-for="link in this.siteConfig.footerLinks">
+        <a :href="link.url" target="_blank">{{ link.title }}</a>
       </li>
     </ul>
   </div>
@@ -24,7 +14,9 @@ ul {
   list-style: none;
   margin: 0;
   padding: 0;
+  
   display: flex;
+  flex-flow: wrap;
 
   font-weight: 600;
   font-size: 0.9rem;
@@ -32,9 +24,9 @@ ul {
 
   li {
     display: inline-block;
+    margin-right: 0.5rem;
   }
   li + li {
-    margin-left: 0.5rem;
   }
 }
 </style>

@@ -1,3 +1,13 @@
 name: NS Resources
 shortName: NSR
 description: A site for sharing articles and resources related to Natinal Service in Singapore
+
+footerLinks:
+  - title: Discord
+    url: https://discord.com/invite/jZzsPGS
+  - title: r/NSSG
+    url: https://www.reddit.com/r/NationalServiceSG/
+  - title: r/SG
+    url: https://www.reddit.com/r/Singapore
+  - title: GitHub
+    url:

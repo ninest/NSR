@@ -1,3 +1,7 @@
+---
+title: Links
+---
+
 ## BMT
 - [SteamedChickenRice guide](https://www.reddit.com/r/singapore/comments/acp8bz/steamedchickenrice_guide_on_bmt/)
 - [Key tips](https://www.reddit.com/r/singapore/comments/2x9ecv/gold_key_tips_for_those_who_are_just_about_to/)

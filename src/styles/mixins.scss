@@ -1,0 +1,10 @@
+@mixin link {
+  border-radius: var(--b-r);
+  color: blue;
+
+  &:hover {
+    background-color: rgba(0, 0, 255, 0.1);
+    margin: -0.1em -0.2em;
+    padding: 0.1em 0.2em;
+  }
+}

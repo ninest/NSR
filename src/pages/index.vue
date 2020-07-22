@@ -16,15 +16,23 @@ export default {
       latestArticles,
       featuredArticles
     }
+  },
+  head() {
+    return {
+      title: "NSR",
+      titleTemplate: "%s"
+    }
   }
 }
 </script>
 
 <template>
+    <!-- title="NS Resources" -->
   <Default
-    title="NS Resources"
     :showAddButton="true"
   >
+
+  <h1>NSR</h1>
 
   <section>
     <h2>Latest</h2>
@@ -41,4 +49,8 @@ export default {
 </template>
 
 <style lang="scss" scoped>
+h1 {
+  margin-top: 0;
+  font-style: italic;
+}
 </style>
