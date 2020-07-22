@@ -1,10 +1,18 @@
-
+<script>
+export default {
+  methods: {
+    add() {
+      this.$router.push('/contribute')
+    }
+  },
+}
+</script>
 <template>
   <div class="add">
-    <button class="light icon-l">
-        <fa-icon :icon="['fas', 'plus']" />
-        Add content
-      </button>
+    <button @click="add" class="light icon-l">
+      <fa-icon :icon="['fas', 'plus']" />
+      Add content
+    </button>
   </div>
 </template>
 

@@ -57,7 +57,8 @@ These websites are usually under maintenance on weekends.
 ### Navy
 - [Warfare system operator](https://www.reddit.com/r/singapore/comments/9fq9m6/ns_life_after_bmt/)
 
-### Past posting orders
+## Past posting orders
+- [02/20](https://www.reddit.com/r/NationalServiceSG/comments/hjn8wi/posting_order_megathread_for_july_2020/)
 - [01/20](https://www.reddit.com/r/NationalServiceSG/comments/fhdok9/posting_012020/)
 - [04/19](https://www.reddit.com/r/singapore/comments/e9w56h/ns_postings_0419/)
 - [03/19](https://www.reddit.com/r/singapore/comments/d3huve/0319_postings_thread/)
@@ -65,6 +66,8 @@ These websites are usually under maintenance on weekends.
 - [02/19 (2)](https://www.reddit.com/r/singapore/comments/c0ehzc/0219_ns_postings/)
 - [01/19](https://www.reddit.com/r/singapore/comments/b18omm/ns_postings_0119/)
 - [04/18](https://www.reddit.com/r/singapore/comments/a5z4n7/ns_postings_0418/)
+
+From 2020 onwards, all posting orders will be in [r/NationalServiceSG](https://reddit.com/r/NationalServiceSG/)
 
 ## Stories
 ### Stories

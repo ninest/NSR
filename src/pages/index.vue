@@ -33,17 +33,16 @@ export default {
   >
 
   <h1>NSR</h1>
-
-  <section>
-    <h2>Latest</h2>
-    <ArticlePreviewList :articles="latestArticles"></ArticlePreviewList>
-  </section>
-
+  
   <section>
     <h2>Featured</h2>
     <ArticlePreviewList :articles="featuredArticles"></ArticlePreviewList>
   </section>
 
+  <section>
+    <h2>Latest</h2>
+    <ArticlePreviewList :articles="latestArticles"></ArticlePreviewList>
+  </section>
 
   </Default>
 </template>

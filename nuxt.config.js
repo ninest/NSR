@@ -44,6 +44,9 @@ module.exports = {
   buildModules: [
     "@nuxt/components",
     "@nuxtjs/fontawesome",
+    ['@nuxtjs/google-analytics', {
+      id: 'UA-161514707-1'
+    }]
   ],
   components: true,
   modules: [

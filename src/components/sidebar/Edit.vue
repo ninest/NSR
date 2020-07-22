@@ -1,10 +1,19 @@
+<script>
+export default {
+  methods: {
+    edit() {
+      this.$router.push('/contribute')
+    }
+  },
+}
+</script>
 
 <template>
-  <div class="add">
-    <button class="light icon-l">
-        <fa-icon :icon="['fas', 'pen']" />
-        Edit content
-      </button>
+  <div class="edit">
+    <button @click="edit" class="light icon-l">
+      <fa-icon :icon="['fas', 'pen']" />
+      Edit content
+    </button>
   </div>
 </template>
 
