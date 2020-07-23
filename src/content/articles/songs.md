@@ -6,70 +6,106 @@ tags:
   - bmt
 ---
 
+## Training To Be Soldiers
+Training to be soldiers
+Fight for our land
+Once in our lives
+Two years of our time
+
+Have you ever wondered?
+Why must we serve?
+Because we love our land
+And we want it to be free to be free yeah!
+
+Looking all around us
+People everywhere
+Children having fun
+While we are holding guns
+
+Stand up
+Be on your guard
+Come on everybody
+Do your part
+Come on every soldier
+Soul and heart
+Do it for our nation
+Do it for our Singapore
+
+## Left Toe Right Toe
+
+Left toe right toe, keep up the tempo
+Left toe right toe, way-loh way-loh ah
+
+Here we go again
+Same old march again
+Up and down this avenue
+X more days and we’ll be through
+
+X more days to book out day
+Book out book out day
+Way-loh way-loh way-loh way-loh, ah ah
+Way-loh way-loh way-loh way-loh, ooh ah ah
+
+Up the hill
+Down the slope
+Up the slope
+Down the hill
+
+Any sweat?
+No sweat, chicken feet ha ha
+All the way
+
+## When The Whistle Blows
+When the whistle blows
+Silence everywhere
+And the flag goes up
+In the battalion square
+
+Soldiers all around
+Never let you down
+‘Cos we are the best
+In the SAF
+
+So echo echo out loud
+Viper warriors never let you down yah
+So echo echo out loud
+Viper warriors never let you down yah
+
+Up in the sky
+Where the planes fly high
+And the parachutes bloom
+Like flowers in the sky
+
+I wanna be
+A Viper Coy! warrior
+‘Cos we are the best
+In the SAF
+
 ## Purple Light
-Purple light
-In the valley
-There is where
-I want to be
-Infantry
-Close Companion
-With my rifle and my buddy and me ...
+Purple light, in the valley
+That is where, I want to be
+Viper Coy, best companions
+With my rifle and my buddy and me
 
-Purple light
-In the valley
-There is where
-I want to be
-Infantry
-Close Companion
-With my rifle and my buddy and me ...
+SOC, si bei jia lat
+IPPT, lagi worse
+Every day, doing PT
+With my rifle and my buddy and me
 
-Purple light
-In the valley
-There is where
-I want to be
-Infantry
-Close Companion
-With my rifle and my buddy and me ...
+Booking out, saw my girlfriend
+Saw her with, another man
+Scold the man, dump my girlfriend
+With my rifle and my buddy and me
 
+ORD, back to study
+Get degree, so happy
+Can’t forget, days in army
+With my rifle and my buddy and me
 
-SOC
-Si Bei Jia Lat
-IPPT
-Lagi worst
-Everyday
-Doing PT
-With my rifle and my buddy and me ...
-
-Booking out
-To see my girlfriend
-Saw her with
-another girl
-Now I have
-No girlfriend
-Wmy rifle and my buddy and me ...
-
-Booking in
-Took a shower
-Dropped my soap
-Bent my knees
-Felt something up my arsehole
-With my rifle and my buddy and me ...
-
-Purple Light
-At the warfront
-There is where
-My Buddy die
-if I die
-would you bury me?
-With my rifle and my buddy and me ...
-
-ORD
-Back to study
-Got degree
-So happy
-Can't Forget
-Still remember
-With my rifle and my buddy and me ...
+Purple light, at the warfront
+That is where, my buddy died
+If i died, would you bury me?
+With my rifle and my buddy and me
 
 ## Army Life
 They say that in the army, the food is very nice
@@ -107,14 +143,34 @@ Took a little walk
 Ran into some terrorist
 Had a little talk
 
-We push them YAH!
-We Kick them YAH!
-We push them kick them YAH YAH!
+We push them (YAH!)
+We Kick them (YAH!)
+We push them kick them (YAH YAH!)
 Into to the river
 Left them to drown
 
 We don't need no terrorist
 Hanging around
+
+## *Attend C*
+
+A is for Attend C
+I is for Injury
+R is for Report Sick
+B is for Born to Geng
+O is for OOC
+R is for RMJ
+N is for Never Try
+E is for Excuse
+
+Down by the MO
+Took a little walk
+Ran into the MO
+Had a little talk
+
+Beg him (YAH!)
+Plead him (YAH!)
+Beg him, plead him (YAH YAH!)
 
 ## Cold Wind
 In the early morning march
@@ -135,6 +191,38 @@ I know I know
 You have to go
 So hurry back home
 I miss you so
+
+## C-130
+
+C130 rolling down the street
+Viper warriors took a little trip
+Stand up, hook it up, shuffle to the door
+Jump right out by the count of four
+
+Oh wa eh ya
+Left right eh ya
+Oh wa eh ya
+Viper eh ya
+
+If my shoot doesn’t open wide
+I got a spare one by my side
+If that one doesn’t open too
+Oh hard ground I am coming for you
+
+If I land in the Russian Front
+Bury me with a Russian gun
+If I land in the Vietnam War
+Send me back to Singapore
+
+If I land in Sentosa,
+Send me back by cable car
+If I land in the Old Folk’s Home
+Pack me up and send me home
+
+Tell my mom I’ve done my best
+Now its time for me to rest
+Tell my girl I’ve done my best
+Silver wings upon my chest.
 
 ## I Ask My Girl
 
@@ -164,3 +252,79 @@ Torchlight no light
 So we used star light
 Star light not bright
 *So we used Purple Light*
+
+## *Hentak Kaki*
+Count by the count by the left foot count yah
+
+One! Can’t hear your ah!
+Two! Shout louder ah!
+Three! Much better ah!
+Four! All together now!
+
+One! Two! Three! Four!
+
+We come from a company
+Famous in BMT
+Come from a very special company
+
+Fight for our glory
+Fight for our victory
+Fight with a spirit never seen before
+
+Viper Coy! Viper Coy! all the way
+We like it here we like it here
+We found ourselves a home
+A home, a home sweet home
+
+## Book Out Day
+Today is my book out day, book out book out
+Today is my book out day, book out book out day
+
+No more SOC
+No IPPT
+
+No more sergeant tekan me
+Book out book out day
+
+## Infantry Song
+We are the bedrock of our army
+One thing to keep our people free
+Committed to the independence of our nation
+We are the men from the infantry
+
+There will never be a mountain too high
+Or a route too rough for us
+We are about to rule the day and the darkest night
+We will never rest till the wrong is right
+
+From the land, air and sea
+We will strike our enemies
+They have called us the queen of the battlefield
+
+We are brothers in arms
+We are brothers proud to be
+We are the first, the one and only infantry
+
+We are a special band of soldiers
+Raised to guard our nation's shores
+We based our lives upon a set of 8 values
+To defend our nation's cause
+
+And when our country says she needs us
+We are always there by her side
+We will protect the lives of every Singaporean
+For Singapore we will give our lives!
+
+## BMT Roar
+
+*We are the warriors of the SAF*
+*Spirit of the bayonet in our blood*
+*Brothers in arms, comrades for life*
+*Against all odds, we will strive.* 
+*BMT will thrash you AR, crush you AR*
+*BMT will beat you AR, toughen you AR*
+
+**Roar!**
+
+*Excel! Through basics!*
+*Excel! Through basics!*

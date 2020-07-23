@@ -1,10 +1,8 @@
 <template>
   <header>
-    <div class="logo link-hover">
-      <nuxt-link to="/">
-        <img src="@/assets/svg/sar21.svg" alt="Logo" height="20">
-      </nuxt-link>
-    </div>
+    <nuxt-link class="logo link-hover" to="/">
+      <img src="@/assets/svg/sar21.svg" alt="Logo" height="20">
+    </nuxt-link>
     <nav>
       <ul>
         <li>
@@ -24,6 +22,10 @@ header {
 
   display: flex;
   justify-content: space-between;
+
+  .logo {
+    display: block;
+  }
 
   ul {
     list-style: none;

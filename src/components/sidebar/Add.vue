@@ -2,7 +2,7 @@
 export default {
   methods: {
     add() {
-      this.$router.push('/contribute')
+      this.$router.push('/add')
     }
   },
 }

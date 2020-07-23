@@ -10,22 +10,22 @@ tags:
     title: BMT
     slug: bmt
     color:
-      background: "bbffbc"
+      background: "ff0000"
       text: "003300"
 
   vocation:
     title: Vocation
     slug: vocation
     color:
-      background: "bbffbc"
-      text: "003300"
+      background: "ffeeaa"
+      text: "ee3a00"
 
   unit:
     title: Unit
     slug: unit
     color:
-      background: "bbffbc"
-      text: "003300"
+      background: "0000ff"
+      text: "eeeeee"
   
   financial:
     title: Financial

@@ -1,4 +1,5 @@
 <script>
+
 export default {
   async asyncData({$content, params}) {
     const slug = params.slug
