@@ -38,11 +38,12 @@ export default {
       </div>
 
       <div class="sidebar">
+        <Toc v-if="toc" :list="toc"></Toc>
+        
         <Add v-if="showAddButton"></Add>
 
         <Edit v-if="showEditButton"></Edit>
 
-        <Toc v-if="toc" :list="toc"></Toc>
 
         <Links></Links>
       </div>

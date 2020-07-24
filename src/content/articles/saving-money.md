@@ -5,7 +5,7 @@ description: Saving money in NS
 featured: true
 
 authors:
-  - name: u/OxySempra
+  - name: OxySempra
     link: https://reddit.com/u/OxySempra
     origin:
       title: r/NationalServiceSG
