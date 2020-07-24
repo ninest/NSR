@@ -58,7 +58,7 @@ main {
 
   display: grid;
   grid-template-columns: 1fr 250px;
-  grid-gap: 2rem;
+  grid-gap: 5rem;
 
   @include mobile-screen {
     grid-template-columns: 1fr;
