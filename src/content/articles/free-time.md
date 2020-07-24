@@ -1,6 +1,7 @@
 ---
 title: Free time
 description: Things to do in your free time
+created: 2020-07-15
 tags:
   - general
   - unit

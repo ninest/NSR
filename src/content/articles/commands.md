@@ -1,6 +1,7 @@
 ---
 title: Commands
 description: Essential commands (marching and parade commands)
+created: 2020-04-29
 tags:
   - general
   - bmt

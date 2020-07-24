@@ -1,6 +1,7 @@
 ---
 title: Basic military training
 description: Information relating to BMT
+created: 2020-04-29
 
 tags:
   - bmt

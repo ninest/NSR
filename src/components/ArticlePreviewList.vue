@@ -30,7 +30,7 @@ export default {
       v-for="article in articles" v-bind:key="article.slug"
       :title="article.title"
       :slug="article.slug"
-      :date="article.createdAt"
+      :date="article.created"
       :tags="article.tags"
       :colors="colors"
     ></ArticlePreview>

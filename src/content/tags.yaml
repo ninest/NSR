@@ -2,34 +2,24 @@ tags:
   general:
     title: General
     slug: general
-    color: 
-      background: "000001"
-      text: eeeeee
+    color: 0, 0, 01
   
   bmt:
     title: BMT
     slug: bmt
-    color:
-      background: "ff0000"
-      text: "003300"
+    color: 255, 0, 0
 
   vocation:
     title: Vocation
     slug: vocation
-    color:
-      background: "ffeeaa"
-      text: "ee3a00"
+    color: 80, 10, 80
 
   unit:
     title: Unit
     slug: unit
-    color:
-      background: "0000ff"
-      text: "eeeeee"
+    color: 0, 0, 255
   
   financial:
     title: Financial
     slug: financial
-    color:
-      background: "bbffbc"
-      text: "003300"
+    color: 0, 200, 0

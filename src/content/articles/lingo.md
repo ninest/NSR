@@ -1,6 +1,7 @@
 ---
 title: Army lingo
 description: Essential army lingo to get a head start
+created: 2020-05-15
 tags:
   - general
   - bmt

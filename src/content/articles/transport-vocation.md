@@ -1,6 +1,7 @@
 ---
 title: Transport vocation
 description: Information on the Transport vocation
+created: 2020-05-15
 tags:
   - vocation
 ---
