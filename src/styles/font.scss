@@ -44,7 +44,7 @@ h2 {
 
 article {
   a {
-    :not(.button) {
+    &:not(.button) {
       @include link
     }
   }
