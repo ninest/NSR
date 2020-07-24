@@ -11,6 +11,7 @@ export default {
       .only(['title', 'slug', 'tags', 'createdAt', 'author'])
       .fetch()
     
+    console.log(latestArticles)
 
     return {
       latestArticles,
