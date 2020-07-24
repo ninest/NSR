@@ -71,6 +71,7 @@ export default {
       </div>
     </div>
     <article :class="`page-${article.slug}`">
+  
       <nuxt-content :document="article"></nuxt-content>
     </article>
 

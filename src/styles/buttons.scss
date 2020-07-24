@@ -1,4 +1,4 @@
-button {
+@mixin button {
   border-radius: var(--b-r);
   padding: 0.8rem 1.6rem;
   border: none;
@@ -33,5 +33,16 @@ button {
   &:focus, &:hover {
     background-color: var(--button-hover);
     outline: none;
+  }
+}
+
+button {
+  @include button
+}
+
+a {
+  &.button {
+    text-align: center;
+    @include button;
   }
 }

@@ -23,3 +23,8 @@ tags:
     title: Financial
     slug: financial
     color: 0, 200, 0
+  
+  fun:
+    title: Fun
+    slug: fun
+    color: 10, 10, 10

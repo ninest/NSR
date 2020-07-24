@@ -7,6 +7,7 @@ tags:
   - bmt
 ---
 
+
 ## Enlistment tips
 - Get a haircut prior to enlistment: you won't get much time to shower after the haircut in Tekong
 

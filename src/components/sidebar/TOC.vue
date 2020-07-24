@@ -11,7 +11,7 @@ export default {
 
 <template>
   <div class="toc">
-    <div class="title">Contents</div>
+    <div class="title">On this page</div>
     <div class="list">
       <nuxt-link v-for="item in list"  v-bind:key="item.id"
         :class="`link-hover-block indent-${item.depth}`"

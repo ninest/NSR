@@ -62,6 +62,7 @@ main {
 
   @include mobile-screen {
     grid-template-columns: 1fr;
+    grid-gap: 2rem;
   }
 
   .content{
