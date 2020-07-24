@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/ninest/nsr?style=flat-square" alt="MIT" />
+  <img src="https://img.shields.io/github/license/ninest/NSR?style=flat-square" alt="MIT" />
 
   <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="Make a PR">
