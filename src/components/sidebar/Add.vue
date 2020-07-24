@@ -11,7 +11,7 @@ export default {
   <div class="add">
     <button @click="add" class="light icon-l">
       <fa-icon :icon="['fas', 'plus']" />
-      Add content
+      Add article
     </button>
   </div>
 </template>

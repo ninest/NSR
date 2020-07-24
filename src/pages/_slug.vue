@@ -52,6 +52,7 @@ export default {
   <Default
     :title="article.title"
     :showEditButton="true"
+    :showAddButton="true"
     :toc="article.toc"
   > 
     <div 

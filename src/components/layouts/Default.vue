@@ -38,13 +38,9 @@ export default {
       </div>
 
       <div class="sidebar">
-        <Toc v-if="toc" :list="toc"></Toc>
-        
-        <Add v-if="showAddButton"></Add>
-
+        <Toc v-if="toc" :list="toc"></Toc>        
         <Edit v-if="showEditButton"></Edit>
-
-
+        <Add v-if="showAddButton"></Add>
         <Links></Links>
       </div>
 
@@ -76,7 +72,7 @@ main {
     margin-top: 1rem;
 
     div + div {
-      margin-top: 2rem;
+      margin-top: 1.5rem;
     }
   }
 

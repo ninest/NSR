@@ -32,7 +32,10 @@ export default {
     :showAddButton="true"
   >
 
-  <h1>NSR</h1>
+  <h1>
+    <div class="title">NSR</div>
+    <div class="long-title">National Service Resources</div>
+  </h1>
   
   <section>
     <h2>Featured</h2>
@@ -50,6 +53,24 @@ export default {
 <style lang="scss" scoped>
 h1 {
   margin-top: 0;
-  font-style: italic;
+  font-weight: 900;
+
+  .title {
+    font-style: italic;
+  }
+
+  .long-title {
+    display: none;
+  }
+
+  &:hover {
+    .title {
+      display: none;
+    }
+    .long-title {
+      display: block;
+      font-style: none;
+    }
+  }
 }
 </style>

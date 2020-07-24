@@ -12,7 +12,7 @@ export default {
   <div class="edit">
     <button @click="edit" class="light icon-l">
       <fa-icon :icon="['fas', 'pen']" />
-      Edit content
+      Edit article
     </button>
   </div>
 </template>
