@@ -4,9 +4,12 @@ description: Saving money in NS
 
 featured: true
 
-author:
-  name: u/OxySempra
-  link: https://reddit.com/u/OxySempra
+authors:
+  - name: u/OxySempra
+    link: https://reddit.com/u/OxySempra
+    origin:
+      title: r/NationalServiceSG
+      link: https://www.reddit.com/r/NationalServiceSG/comments/hof2v9/guide_on_how_to_save_money_during_ns_by_uoxysempra/
 
 tags:
   - financial

@@ -53,9 +53,22 @@ export default {
     :title="article.title"
     :showEditButton="true"
     :toc="article.toc"
-  >
-    <div v-if="article.author" class="author">
-      <a :href="article.author.link" target=_blank>{{ article.author.name }}</a>
+  > 
+    <div 
+      v-for="author in article.authors"
+      class="authors"
+    >
+      <div v-if="author" class="author">
+        <div class="name">
+          <a :href="author.link" target=_blank>{{ author.name }}</a>
+        </div>
+
+        <div class="via">via</div>
+
+        <div class="origin">
+          <a :href="author.origin.link" target=_blank>{{ author.origin.title }}</a>
+        </div>
+      </div>
     </div>
     <article :class="`page-${article.slug}`">
       <nuxt-content :document="article"></nuxt-content>
@@ -75,11 +88,26 @@ export default {
 <style lang="scss" scoped>
 
 .author {
-  @include link;
-  font-size: 1.1em;
-  font-weight: 600;
   color: var(--text);
   opacity: 0.8;
+  font-size: 0.9em;
+
+  display: flex;
+
+  & div + div {
+    margin-left: 0.3em;
+  }
+
+
+  .name {
+    @include link;
+    color: var(--text);
+    font-weight: 600;
+  }
+
+  .origin {
+    font-weight: 400;
+  }
 }
 hr {
   margin: 2.5em 0;
