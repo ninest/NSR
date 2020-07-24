@@ -77,6 +77,9 @@ module.exports = {
         'faPlus',
         'faPen'
       ],
+      brands: [
+        'faDiscord'
+      ]
     }
   },
   build: {

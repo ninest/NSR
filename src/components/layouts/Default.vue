@@ -41,7 +41,11 @@ export default {
         <Toc v-if="toc" :list="toc"></Toc>        
         <Edit v-if="showEditButton"></Edit>
         <Add v-if="showAddButton"></Add>
+        
+        <DiscordWidget></DiscordWidget>
+
         <Links></Links>
+
       </div>
 
     </main>
