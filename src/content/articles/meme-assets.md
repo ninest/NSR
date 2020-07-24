@@ -1,6 +1,8 @@
 ---
 title: Meme assets
+description: Easily create SAF-related memes
 created: 2020-07-25
+featured: true
 tags:
   - fun
 
