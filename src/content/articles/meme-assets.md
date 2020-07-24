@@ -1,6 +1,6 @@
 ---
 title: Meme assets
-description: Easily create SAF-related memes
+description: Commonly used images in memes relating to the SAF
 created: 2020-07-25
 featured: true
 tags:
