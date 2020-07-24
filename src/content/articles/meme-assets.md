@@ -31,6 +31,10 @@ misc:
       path: camo.png
 ---
 
+<alert>
+All images are from the Google Search results, so they may be from various sources including but not limited to Wikipedia, Facebook, and Reddit.
+</alert>
+
 ## Weapons
 <meme-asset-group :group="weapons"> </meme-asset-group>
 
