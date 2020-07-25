@@ -22,6 +22,7 @@ title: Links
 - [Making use of free time (2)](https://www.reddit.com/r/singapore/comments/ds06fe/what_can_i_do_to_make_best_use_of_free_time_in/)
 
 ### Experiences
+- [Dating advice](https://www.reddit.com/r/singapore/comments/hnjymx/any_advice_on_dating_guys_who_are_still_serving_ns/)
 - [NS experiences](https://www.reddit.com/r/singapore/comments/9nwu7c/nervous_for_ns_anyone_care_to_share_their/)
 
 ### Medical
@@ -36,6 +37,7 @@ These websites are usually under maintenance on weekends.
 
 
 ## Vocations
+- [Vocation memories](https://www.reddit.com/r/singapore/comments/h0rlkb/ns_vocation_memories/)
 - [Prons and cons of vocations](https://www.reddit.com/r/singapore/comments/7nz5vf/ns_vocation_pros_and_cons/)
 - [What is mono-intake](https://www.reddit.com/r/singapore/comments/9ncd35/how_do_i_know_if_i_am_in_a_monointake/)
 
@@ -114,9 +116,12 @@ From 2020 onwards, all posting orders will be in [r/NationalServiceSG](https://r
 ## Intersting discussion
 Just some content to binge read.
 
+- [The toxic contractions of single-gender NS](https://www.reddit.com/r/singapore/comments/h9rvof/essay_the_toxic_contradictions_of_singlegender_ns/)
 - [Is NS a waste of time?](https://www.reddit.com/r/NationalServiceSG/comments/f68l6y/national_service_is_a_waste_of_time/)
 - [NS culuture is ridiculous](https://www.reddit.com/r/singapore/comments/8w0q09/ns_culture_is_ridiculous/)
 - [NS and the future](https://www.reddit.com/r/singapore/comments/ffaoby/does_ns_really_prepare_you_for_your_future_or_is/)
 
 ## After NS
+- [Overseas experience and military discounts](https://www.reddit.com/r/singapore/comments/gplj4p/has_anyone_talked_about_ns_experience_with/)
+- [Adding NS to resume](https://www.reddit.com/r/singapore/comments/gpgpg6/relevance_of_adding_ns_history_in_linkedinresume/)
 - [IPPT and ICT](https://www.reddit.com/r/singapore/comments/edj9vf/question_about_ippts_and_ict_after_ns/)

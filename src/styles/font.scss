@@ -65,9 +65,19 @@ article.page-links {
       display: block;
       width: 100%;
 
-      @extend .link-hover;
+      // margin-left: 1em;
+      // padding: 0.5em;
+      margin: 0.3em;
+      padding: 0.8em;
 
       font-size: 1.1rem;
+      font-weight: 500;
+
+      &:hover {
+        margin: 0.3em;
+        padding: 0.8em;
+        // background-color: var(--link-hover);
+      }
     }
   }
 }
