@@ -1,6 +1,7 @@
 <template>
   <Default
     title="Add content"
+    :showContributionTips="true"
   >
     <p>Please fill out this form to add content. All submissions are reviewed before being published. Thank you for your contribution!</p>
 
@@ -9,6 +10,7 @@
         <label for="title">Title</label>
         <input 
           name="entry.1493795530" type="text" required 
+          id="title"
         >
       </section>
 
@@ -17,6 +19,7 @@
         <label for="content">Content</label>
         <textarea 
           name="entry.727214883" rows="10" required
+          id="content"
         ></textarea>
       </section>
 
@@ -24,6 +27,7 @@
         <label for="credit">Credit</label>
         <textarea 
           name="entry.475604388" rows="2" placeholder="u/"
+          id="credit"
         ></textarea>
         <div class="bottom">Provide information such as your Reddit username, original Reddit posts, links to websites ...</div>
       </section>

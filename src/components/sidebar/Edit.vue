@@ -2,7 +2,20 @@
 export default {
   methods: {
     edit() {
-      this.$router.push('/contribute')
+      let currentRoute = this.$router.currentRoute.fullPath.split('/')[1];
+
+      if (currentRoute.includes('#')) {
+        currentRoute = currentRoute.split('#')[0]
+      }
+
+      console.log(currentRoute)
+      this.$router.push({
+        name: 'edit',
+        path: '/edit',
+        params: {
+          pageId: currentRoute
+        }
+      })
     }
   },
 }

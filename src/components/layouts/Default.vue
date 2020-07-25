@@ -19,6 +19,11 @@ export default {
       type: Array,
       required: false,
     },
+    showContributionTips: {
+      type: Boolean,
+      required: false,
+      default: false,
+    }
   },
 }
 </script>
@@ -41,6 +46,8 @@ export default {
         <Toc v-if="toc" :list="toc"></Toc>        
         <Edit v-if="showEditButton"></Edit>
         <Add v-if="showAddButton"></Add>
+
+        <ContributionTips v-if="showContributionTips"></ContributionTips>
         
         <DiscordWidget></DiscordWidget>
 

@@ -34,7 +34,7 @@ form {
     textarea {
       @include forminput;
       line-height: 1.7;
-      resize: horizontal;
+      resize: vertical;
     }
 
     .bottom {
