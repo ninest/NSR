@@ -21,7 +21,7 @@ export default {
 
       <a 
         :href="require(`~/assets/articles/meme-assets/${image.path}`)" 
-        download
+        :download="image.path"
         class="button"
       >
         Download

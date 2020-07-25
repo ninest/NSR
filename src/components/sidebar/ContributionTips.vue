@@ -6,7 +6,7 @@ export default {
     }
   },
   async fetch() {
-    const article = await this.$content('contribution-tips').fetch()
+    const article = await this.$content('other/contribution-tips').fetch()
 
     this.article = article
   }

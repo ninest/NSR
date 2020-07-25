@@ -19,6 +19,8 @@ weapons:
 uniforms:
   title: Uniforms
   images:
+    - title: Jockey Cap South-West
+      path: cap_sw.png
     - title: Infantry Beret
       path: infantry_beret.png
     - title: Commando Beret
@@ -29,6 +31,8 @@ misc:
   images:
     - title: Camo pattern
       path: camo.png
+    - title: Pink IC Doge
+      path: pink_ic_doge.png
 ---
 
 <alert>

@@ -31,35 +31,31 @@ tags:
 - Black watch: Only bring your watch if it's a dark color. No white watches.
 
 ## BMT tips
-### Lectures
-- Drink water every few minutes so you don't fall off asleep
-
 ### Admin time
 
 - Go for a shower either first, or last so you won't have to wait in line: If the line's already long, it *might* just be better to wait until your entire section is done. Until then, brush your teeth, defecate, fold your smart 4, and kiwi your boots.
-- Take short showers: No more than 5 minutes unless you want your section mates to hate you.
-- Properly hook you tower and underwear inside the shower cubicle: You don't want them to fall in a puddle of soapy water.
-- Don't wear clothes other than underwear inside the cubicle: Again, your section mates will hate your for this.
-- Alway defecate before showering
-- Always keep at least one shirt in smart 4
+- Take short showers and don't wear clothes in the cubicle: No more than 5 minutes unless you want your section mates to hate you.
+- Don't shit in the shower
+- Always keep at least one uniform in smart 4
 - Enter the first 2 numbers on your lock before leaving your bunk: This way, you can open your lock the fastest and be the first one to take a shower.
-- Do some light stretching in once you're in bed
 - Bring extra food to share: Make friends faster!
 
 ### Area cleaning
 - Use wet wipes
-- Line up all your boots and shoes
 - Know that there is no way to "win": Even if you've cleaned every corner, your sergeants will find dust.
 - Area cleaning on a day other than bookout day is usually admin time in disguise
 
 ### Other tips
+- Check out the page on [commands](/commands) if you're having trouble remembering them.
 - Your sergeants are real people too: If they're shouting at you, remember that they've been trained to do so. They are most likely NSFs waiting to ORD too.
 - DO NOT SIGN ON THE LINES
 
 ## Hand Grenade
 Hand Granade lasts around a day (half a day if you're lucky).
-
 <youtube-video id="CgT7Thc0_Ws"></youtube-video>
+
+## BTP
+<youtube-video id="WzJeagTweYk"></youtube-video>
 
 ## Close Quarter Battle
 CQB is a 2-day, 1-night outfield.
@@ -77,6 +73,8 @@ CQB is a 2-day, 1-night outfield.
 
 ## Battle Innoculation Course
 BIC is a short event that usually takes up less than half a day.
+
+<youtube-video id="zXE0k7AfwS4"></youtube-video>
 
 ## Passing-Out Parade
 Learn the [Infantry Song](/songs#infantry-song) and [BMT Roar](/songs#bmt-roar).

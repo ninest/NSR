@@ -15,6 +15,9 @@ Just normal medical check-up stuff such as height, weight, urine and a blood dra
 ## I'm enlisting at this time and this date. Is this a mono-intake?
 Unfortunately, no one really knows. If you really want to ask, search for the "Enlistment" thread on the NS Subreddit. Do not create a new post, just look for the pinned post with the flair "Enlistment".
 
+## Where can I see the packing guide?
+You should receive the packing list from the MINDEF. Also check out the [BMT page](/basic-military-training), or as a question on [Reddit](https://www.reddit.com/r/NationalServiceSG) if you have any doubts.
+
 ## I have this condition. Will I get a down PES?
 Unfortunately, no one but an MO can give you a definite answer. All you can do is bring a specialist letter from an outside doctor. If you are in pain and want to down PES, tell your specialist.
 
@@ -25,6 +28,9 @@ Typically, lower PESes lie C to E get admin jobs (ASA/SA) or transport.
 
 ## Are PES Es and Fs second-class citizens?
 **No**. People do not care about your PES unless you want to sign on and become a regular.
+
+## Why can't access NS.SG or the CMPB websites?
+They go through scheduled maintenance every weekend.
 
 ## More
 See more on [CMPB's website](https://www.google.com/search?q=national+service+singapore+faq&oq=national+service+singapore+faq&aqs=chrome..69i57j0l2.4066j0j1&sourceid=chrome&ie=UTF-8).
