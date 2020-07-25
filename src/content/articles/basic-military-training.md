@@ -9,20 +9,24 @@ tags:
 
 
 ## Enlistment tips
-- Get a haircut prior to enlistment: you won't get much time to shower after the haircut in Tekong
+
+### Before enlistment
+- Get a haircut prior to enlistment: you likely won't get much time to shower after the haircut in Tekong. Ask your barber for the "zero" cut, and remember to get it done not more than a day or two before enlistment. If your commanders think your hair is too long, you'll waste $2. Protip: make sure you are unable to pinch and pull your hair after the haircut. If you can, it's not short enough.
+- Try to learn the difference between a *sergeant* and an *officier* (sir). If you see arrows on their rank (on their chest), it's most likely a *sergeant* or an *encik*.
+- StarHub is usually the fastest service provider (for Tekong), followed by Singtel
 
 ### Packing guide
-- Washing powder/liquid detergent: in BMT, no washing machines provided.
-- Febreeze: useful as there is very little time to wash.
+- Washing powder/liquid detergent
+- Febreeze: note that febreeze is not a replacement to washing clothes. Please wash your clothes too
 - Battery pack (around 40,000 mAh)
 - Clothes hangers (at least 4-6)
-- Underwears: bring around 3 more than you think you'll need. The darker the color, the better.
-- Toilet roles: 2 should be enough for the confinement period.
+- Underwears: bring around 2 more than you think you'll need. The darker the color, the better.
+- Toilet roles: around 2 for the confinement period
 - Wipeable marker: This makes it easier to clean the RAC card.
 - 2 in 1 shower gel (the Nivea one is great)
 - Coins (if they let you use the vending machines)
-- Wet wipes/wet tissues (for area cleaning and boots polishing)
-- Nail cutter
+- Wet wipes/wet tissues (for area cleaning and boots polishing). Don't spend too much money on the expensive ones
+- Nail clipper
 - Dark colored spectacles
 - Black watch: Only bring your watch if it's a dark color. No white watches.
 

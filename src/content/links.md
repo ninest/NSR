@@ -4,6 +4,7 @@ title: Links
 
 ## BMT
 - [SteamedChickenRice guide](https://www.reddit.com/r/singapore/comments/acp8bz/steamedchickenrice_guide_on_bmt/)
+- [Unofficial Guide To Surviving BMT](https://www.wonderwall.sg/people/a-word-with-the-authors-of-unofficial-BMT-survival-guide-Fall-In/)
 - [Key tips](https://www.reddit.com/r/singapore/comments/2x9ecv/gold_key_tips_for_those_who_are_just_about_to/)
 - [Tips and tricks](https://www.reddit.com/r/NationalServiceSG/comments/eik1iy/tips_and_tricks_for_those_enlisting_to_saf/)
 - [Important items to bring](https://www.reddit.com/r/singapore/comments/8a8isp/important_items_to_bring_for_bmt/)
@@ -35,6 +36,8 @@ These websites are usually under maintenance on weekends.
 - [Vocations](https://www.cmpb.gov.sg/web/portal/cmpb/home/ns-vocations/#explore-ns-vocations)
 - [Vocations guide (PDF)](https://www.cmpb.gov.sg/web/wcm/connect/cmpb/226de7de-4248-498d-a595-fabee56c4b73/ns-vocations-handbook.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_1QK41482L8MQ70QO51TJLK00Q6-226de7de-4248-498d-a595-fabee56c4b73-mNB41uf)
 
+### Parents
+- [Parents guide to NS liability](https://singaporelegaladvice.com/law-articles/national-service-singapore-citizen-permanent-residents)
 
 ## Vocations
 - [Vocation memories](https://www.reddit.com/r/singapore/comments/h0rlkb/ns_vocation_memories/)
