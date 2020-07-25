@@ -25,6 +25,10 @@ export default {
       type: Object,
       required: true,
     },
+    tagsObject: {
+      type: Object,
+      required: true,
+    }
   },
   computed: {
     formattedDate() {
@@ -45,7 +49,7 @@ export default {
         v-for="tag in this.tags" v-bind:key="tag"
         v-bind:style="{ backgroundColor: 'rgba(' + colors[tag] + ', 0.2)', color: 'rgb(' + colors[tag]+ ')' }"
         class="each-tag"
-      >{{ tag }}</div>
+      >{{ tagsObject[tag].title }}</div>
     </div>
   </nuxt-link>
 </template>

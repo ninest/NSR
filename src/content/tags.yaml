@@ -28,3 +28,13 @@ tags:
     title: Fun
     slug: fun
     color: 255, 100, 0
+
+  utility:
+    title: Utility
+    slug: utility
+    color: 50, 50, 50
+  
+  opensource:
+    title: Open source
+    slug: opensource
+    color: 255, 223, 0
