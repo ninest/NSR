@@ -7,7 +7,7 @@ tags:
   - unit
 ---
 
-Many non-combat vocations such as transpot and ASA have office hours from around 8 AM to 5:30 AM. Here are some things to do after the last parade.
+Many non-combat vocations such as transort have office hours from around 8 AM to 5:30 PM. Here are some things to do after the last parade.
 
 ## Online courses
 Here are some sites which have free online courses:
@@ -22,6 +22,8 @@ To learn web development and programming, here are some great YouTube channels t
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb), for everything 
 
 If you want to learn mobile app development, do take a look at [Flutter](https://flutter.dev/).
+
+Learn Excel.
 
 ## Catch up on reading
 
