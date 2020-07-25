@@ -68,10 +68,26 @@ h1 {
     .title {
       display: none;
     }
+
     .long-title {
       display: block;
       font-style: none;
+
+      color: #0E4500;
+
+      animation: color-changer 3s infinite;
+
     }
   }
+}
+
+@keyframes color-changer {
+  0% { color: #0E4500 }
+
+  25% { color: #12115F }
+
+  75% { color: #006F68 }
+
+  0% { color: #0E4500 }
 }
 </style>
