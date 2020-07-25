@@ -111,7 +111,7 @@ From 2020 onwards, all posting orders will be in [r/NationalServiceSG](https://r
 ### Meme pages
 - [memedefsg](https://www.instagram.com/memedefsg/?hl=en)
 - [mengonewildmagazine](https://www.instagram.com/mengonewildmagazine/?hl=en)
-- [childrenholdingguns]([childrenholdingguns](https://www.instagram.com/childrenholdingguns/?hl=en))
+- [childrenholdingguns](https://www.instagram.com/childrenholdingguns/?hl=en)
 
 ## Intersting discussion
 Just some content to binge read.
