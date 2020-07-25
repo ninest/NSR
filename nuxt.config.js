@@ -52,6 +52,7 @@ module.exports = {
   modules: [
     "@nuxt/content",
     "@nuxtjs/style-resources",
+    '@nuxtjs/sitemap'
   ],
   // import screen size mixin in all components
   styleResources: {
@@ -64,6 +65,20 @@ module.exports = {
   content: {
     markdown: {
       remarkPlugins: ['remark-breaks']
+    }
+  },
+
+  sitemap: {
+    hostname: 'https://national-service.now.sh/',
+    routes: async () => {
+      const { $content } = require('@nuxt/content')
+      const articles = await $content('articles').fetch()
+      
+      let feed = ['/', '/add/']
+      articles.forEach((art) => {
+        feed.push(`/${art.slug}/`)
+      })
+      return feed
     }
   },
 

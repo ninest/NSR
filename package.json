@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@nuxtjs/google-analytics": "^2.3.0",
+    "@nuxtjs/sitemap": "^2.4.0",
     "nuxt": "^2.13.0",
     "prism-themes": "^1.4.0",
     "remark-breaks": "^1.0.5",
