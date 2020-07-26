@@ -7,7 +7,7 @@ tags:
   bmt:
     title: BMT
     slug: bmt
-    color: 255, 0, 0
+    color: 199, 30, 30
 
   vocation:
     title: Vocation
@@ -38,3 +38,8 @@ tags:
     title: Open source
     slug: opensource
     color: 255, 223, 0
+
+  medical:
+    title: Medical
+    slug: medical
+    color: 255, 0, 0
