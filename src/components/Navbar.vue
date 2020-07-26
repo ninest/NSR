@@ -28,28 +28,30 @@ header {
     position: relative;
     display: block;
 
+    --animation-duration: 0.8s;
+
     &:hover {
       img { 
         z-index: 100;
-        animation: shoot 1s infinite; 
+        animation: shoot var(--animation-duration) infinite; 
       }
 
       .bullet { 
         z-index: 90;
-        animation: bullet 1s infinite; 
+        animation: bullet var(--animation-duration) infinite; 
       }
     }
 
     .bullet {
 
       position: absolute;
-      top: 0.60em;
-      left: 4em;
+      top: 0.52em;
+      left: 3.4em;
 
       height: 5px;
       width: 7px;
       background: transparent;
-      border-radius: 5px;
+      border-radius: 0 5px 5px 0;
     }
   }
 
@@ -86,8 +88,8 @@ header {
   20% {}
   25% {}
   50% { 
-    left: 17rem;
-    top: 0.50rem;
+    left: 25rem;
+    top: 0.47rem;
   }
   100% { background: transparent }
 }
