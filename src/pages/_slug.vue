@@ -5,21 +5,45 @@ export default {
     const slug = params.slug
 
     let article
-    let similarArticles
+    var similarArticles = []
 
     try {
       article = await $content(`articles/${slug}`)
         .fetch()
+
       // get similar articles
-      similarArticles = await $content(`articles`)
-        .where({'tags': {$contains: article.tags}})
-        .fetch()
+      const tags = article.tags
+      for (const tag of tags) {
+        const articles = await $content('articles')
+          .where({'tags': {$contains: tag}})
+          .only(['slug','title', 'created', 'tags'])
+          .fetch()
+        
+        similarArticles = similarArticles.concat(articles)
+      }
+
+      // remove current article
+      similarArticles = similarArticles
+        .filter((ea) => ea.slug != article.slug)
+
     } catch (e) {
+
+      console.log("NOT ARTICLE")
       article = await $content(slug)
         .fetch()
+        
     }   
 
-    
+    // remove duplicates from similarArticles
+    let removedDuplicates = []
+    let slugs = []
+    for (let article of similarArticles) {
+      if (!slugs.includes(article.slug)) {
+        removedDuplicates.push(article)
+        slugs.push(article.slug)
+      }
+    }
+    similarArticles = removedDuplicates
     
     return {
       article,
@@ -42,7 +66,13 @@ export default {
   },
   computed: {
     showRelated() {
-      return this.similarArticles != null
+      return this.similarArticles.length > 0
+    },
+
+    sortedSimilar() {
+      return this.similarArticles.sort((first, second) => {
+        return new Date(first.created) < new Date(second.created)
+      })
     }
   },
 }
@@ -81,7 +111,7 @@ export default {
     <div v-if="this.showRelated" class="similar-articles">
       <section>
         <h3>Related</h3>
-        <ArticlePreviewList :articles="similarArticles"></ArticlePreviewList>
+        <ArticlePreviewList :articles="sortedSimilar"></ArticlePreviewList>
       </section>
     </div>
   </Default>
