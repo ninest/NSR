@@ -37,7 +37,7 @@ These are the commands you'll likely hear every day (in BMT at least).
 
 ## Arms and parade commands
 
-You'll hear these commands in your POP.
+You'll hear these commands in your [POP](http://localhost:3000/lingo).
 
 | Command | Translation |
 | -- | -- |

@@ -5,10 +5,29 @@ export default {
       type: String,
       required: true
     },
+    reset: {
+      type: Boolean,
+      default: false,
+    },
     fullwidth: {
       type: Boolean,
       required: false,
       default: true
+    },
+    rank: {
+      type: Boolean,
+      required: false,
+      default: false
+    }
+  },
+  data() {
+    return {
+      expanded: false
+    }
+  },
+  methods: {
+    expand() {
+      this.expanded = !this.expanded
     }
   },
 }
@@ -17,7 +36,11 @@ export default {
 
 <template>
   <div>
-    <img :src="require(`~/assets/articles/${path}`)" :class="{ fullwidth: fullwidth }" ></img>
+    <img 
+      :src="require(`~/assets/articles/${path}`)" 
+      :class="{ fullwidth: fullwidth, reset: reset, rank: rank, expanded: expanded }" 
+      @click="rank ? expand() : null"
+    ></img>
   </div>
 
 </template>
@@ -25,11 +48,22 @@ export default {
 <style lang="scss" scoped>
 div {
   img {
-    display: block;
-    margin: 1em auto;
-    max-width: 75%;
-    &.fullwidth {
-      max-width: 100%;
+    &:not(.reset){
+      display: block;
+      margin: 1em auto;
+      max-width: 75%;
+      &.fullwidth {
+        max-width: 100%;
+      }
+    }
+
+    &.rank {
+      height: 100px;
+      transition: 0.1s all;
+
+      &.expanded {
+        height: 350px;
+      }
     }
   }
 }

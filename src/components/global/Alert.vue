@@ -10,13 +10,13 @@ export default {
 </script>
 
 <template>
-  <div :class="type">
+  <div class="alert" :class="type">
     <slot></slot>
   </div>
 </template>
 
 <style lang="scss" scoped>
-div {
+.alert {
   padding: 1em;
   border-radius: var(--b-r);
 

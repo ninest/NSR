@@ -67,12 +67,15 @@ main {
   grid-template-columns: 1fr 250px;
   grid-gap: 5rem;
 
+  // Issue: table causes sidebar to go out of screen on tablet screens
+
   @include mobile-screen {
-    grid-template-columns: 1fr;
-    grid-gap: 2rem;
+    display: block;
+    .content { margin-bottom: 2em; }
   }
 
   .content{
+    max-width: 1fr;
     .page-title {
       margin-top: 0;
       margin-bottom: 0.7rem;
@@ -89,4 +92,6 @@ main {
 
   margin-bottom: 5em;
 }
+
+
 </style>
