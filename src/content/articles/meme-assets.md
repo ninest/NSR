@@ -21,6 +21,10 @@ uniforms:
   images:
     - title: Jockey Cap South-West
       path: cap_sw.png
+    - title: Jockey Cap East
+      path: cap_e.png
+    - title: Jockey Cap Center
+      path: cap_c.png
     - title: Infantry Beret
       path: infantry_beret.png
     - title: Commando Beret
