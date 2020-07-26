@@ -12,7 +12,7 @@ tags:
 
 ### Before enlistment
 - Get a haircut prior to enlistment: you likely won't get much time to shower after the haircut in Tekong. Ask your barber for the "zero" cut, and remember to get it done not more than a day or two before enlistment. If your commanders think your hair is too long, you'll waste $2. Protip: make sure you are unable to pinch and pull your hair after the haircut. If you can, it's not short enough.
-- Try to learn the difference between a *sergeant* and an *officier* (sir). If you see arrows on their rank (on their chest), it's most likely a *sergeant* or an *encik*.
+- Try to learn the difference between a *sergeant* and an *officer* (sir). If you see arrows on their rank (on their chest), it's most likely a *sergeant* or an *encik*.
 - StarHub is usually the fastest service provider (for Tekong), followed by Singtel
 
 ### Packing guide
