@@ -24,7 +24,10 @@ export default {
       class="meme"
     >
       <h3>{{ image.title }}</h3>
-      <img :src="require(`~/assets/articles/meme-assets/${image.path}`)" :alt="image.title" />
+      <img 
+        :src="require(`~/assets/articles/meme-assets/${image.path}`)" :alt="image.title" 
+        :class="{ 'less-dense': lessdense }"
+      />
 
       <a 
         :href="require(`~/assets/articles/meme-assets/${image.path}`)" 
@@ -61,8 +64,13 @@ export default {
     }
 
     img {
-      margin: 3em;
-      width: calc(100% - 2 * 3em);
+      margin: 2em;
+      width: calc(100% - 2 * 2em);
+      // smaller margin for less dense
+      &.less-dense {
+        margin: 1em;
+        width: calc(100% - 2 * 1em);
+      }
     }
 
     a {
