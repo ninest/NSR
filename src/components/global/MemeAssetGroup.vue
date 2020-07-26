@@ -5,12 +5,19 @@ export default {
       type: Object,
       required: true
     },
+    lessdense: {
+      type: Boolean,
+      default: false
+    }
   },
 }
 </script>
 
 <template>
-  <div class="meme-asset-group">
+  <div 
+    class="meme-asset-group"
+    :class="{ 'less-dense': lessdense }"
+  >
     <div
       v-for="image in group.images"
       v-bind:key="image.path"
@@ -34,10 +41,14 @@ export default {
 <style lang="scss" scoped>
 .meme-asset-group {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  @include mobile-screen {
-    grid-template-columns: 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+
+  &.less-dense {
+    grid-template-columns: 1fr 1fr;
   }
+
+  @include mobile-screen {grid-template-columns: 1fr !important;}
+
   grid-gap: 1em;
 
   .meme {

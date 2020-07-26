@@ -29,10 +29,18 @@ uniforms:
 misc:
   title: Misc
   images:
-    - title: Camo pattern
+    - title: Army camo pattern
       path: camo.png
     - title: Pink IC Doge
       path: pink_ic_doge.png
+
+people:
+  title: People
+  images:
+    - title: Sian recruit
+      path: sian.png
+    - title: Rifle presentation
+      path: presentation.png
 ---
 
 <alert>
@@ -47,3 +55,6 @@ All images are from the Google Search results, so they may be from various sourc
 
 ## Misc
 <meme-asset-group :group="misc"> </meme-asset-group>
+
+## People
+<meme-asset-group :group="people" :lessdense="true"> </meme-asset-group>
