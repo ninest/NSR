@@ -23,6 +23,7 @@ title: Links
 - [Making use of free time (2)](https://www.reddit.com/r/singapore/comments/ds06fe/what_can_i_do_to_make_best_use_of_free_time_in/)
 
 ### Experiences
+- [How NSFs are viewed by others](https://www.reddit.com/r/singapore/comments/b7xysj/questions_to_men_who_are_serving_or_served/)
 - [Dating advice](https://www.reddit.com/r/singapore/comments/hnjymx/any_advice_on_dating_guys_who_are_still_serving_ns/)
 - [NS experiences](https://www.reddit.com/r/singapore/comments/9nwu7c/nervous_for_ns_anyone_care_to_share_their/)
 
