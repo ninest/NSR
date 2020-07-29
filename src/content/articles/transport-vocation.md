@@ -6,32 +6,26 @@ tags:
   - vocation
 ---
 
+## Licence
+The best thing about being a driver is that you get a [driving licence](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2018/january/02jan18-mq-001/!ut/p/z0/fY25DsIwEES_hcKltZuIqw1QAOIqAjJu0AoWMCQbkpjr7zGIioJuZjQzDywYsEI3dyDvCqEs-LVtbzrzQX-IzXg2b6URJqs0nbR6s9Gy04Yx2P-F8BBX0_70APZC_qid7AswMUZdMCeSK1VPMBgHGXV1XmrE6L1xp7K0CdhtIZ4fHkzuZMd7_fHiFR6LnBUK32tNstN8C2mtMCPPtdcVZ0w1h-BNUvglKfwhXc52vZgkjReZvMqZ/) at the end of the 2 years, that is, if you clock 4000 km.
+
 ## Transport Operator
 
 All NSFs who get posted to transport will first attend the 3-week **UIP**, after which they will get posted to a **transport node**, where they will spend the rest of their NS life.
 
 
 ### UIP
+Marching required, stay-in, and PT around twice a week. It ends with an IPPT.
 
-Certain training is done (removed to ensure no confidential information is leaked).
-
-There's PT thrice a week, and an IPPT on the last week.
-
-The UIP is **stay-in**, without nights out. Marching is required.
-
-#### Tips
-- **Bring an extra battery pack**: You will get much more admin time than you do in BMT.
+**Bring an extra battery pack** as you will get much more admin time than you did in BMT.
 
 ### Unit
 
 NSFs get posted to a unit (**transport node**) after the UIP. Transport units give **nights out** every Tuesday and Thursday. Once in unit, they will be put on the waitlist for the driving course.
 
-#### Tips
-- **Sound off if you're tired or sleepy before driving**
+Note that it can take anywhere from 2 weeks to 6 to enter the driving course. Try not to waste this [free time](/free-time).
 
 ### Driving course
-<!-- The driving course works on a slot-by-slot basis. If there are slots open, you will be sent for the driving course. There is always time between when you get posted to your unit and when you get a slot for your driving course. If you're lucky, you'll get the driving course within a month of your being posted, but be prepared to wait. Note that having pending medical issues, medical appointments, temporary down PES may delay your entry to the driving course. -->
-
 The driving course is now **stay-in**, with nights out on Wednesdays (needs confirmation).
 
 ### Admin time
@@ -40,34 +34,7 @@ Transport operators get a good amount of admin time. On Mondays and Wednesdays, 
 
 Transport apprentices (those who haven't gone for the dirivng course) pretty much have nothing to do, so they will be free the entire time.
 
-## Transport Supervisor
-
-Before becoming a transport supervisor, there's more training for around 9 months.
-
-### Unit
-
-TSs don't drive much; they mostly manage details and logistics.
-
 <!--
-## Pledge and rights
-### TO pledge
-*I, as a Transport Operator of the Singapore Armed Forces*\
-*Pledge to comply with all traffic rules and regulations*\
-*To be courteous and considerate to all road users*\
-*To drive safely and defensively*\
-*And To maintain my vehicle*
-
-No move timing:\
-*0730 to 0930*\
-*1730 to 1930*
-
-Four cardinal sins:
-1. Speeding
-2. Dozing off
-3. Unauthorized driving
-4. Reversing without care
-
-
 ### TO rights
 - Do not move vehicle if you are tired or unwell.
 - Turn down in between details not in accordance to the authorised indent.
