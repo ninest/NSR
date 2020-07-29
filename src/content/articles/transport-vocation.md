@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Licence
-The best thing about being a driver is that you get a [driving licence](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2018/january/02jan18-mq-001/!ut/p/z0/fY25DsIwEES_hcKltZuIqw1QAOIqAjJu0AoWMCQbkpjr7zGIioJuZjQzDywYsEI3dyDvCqEs-LVtbzrzQX-IzXg2b6URJqs0nbR6s9Gy04Yx2P-F8BBX0_70APZC_qid7AswMUZdMCeSK1VPMBgHGXV1XmrE6L1xp7K0CdhtIZ4fHkzuZMd7_fHiFR6LnBUK32tNstN8C2mtMCPPtdcVZ0w1h-BNUvglKfwhXc52vZgkjReZvMqZ/) at the end of the 2 years, that is, if you clock 4000 km.
+The best thing about being a driver is that you get a [driving licence](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2018/january/02jan18-mq-001/) at the end of the 2 years, that is, if you clock 4000 km.
 
 ## Transport Operator
 
