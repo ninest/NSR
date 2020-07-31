@@ -89,7 +89,7 @@ Viper Coy, best companions
 With my rifle and my buddy and me
 
 SOC, si bei jia lat
-IPPT, lagi worse
+[IPPT](/ippt), lagi worse
 Every day, doing PT
 With my rifle and my buddy and me
 

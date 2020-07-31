@@ -50,7 +50,7 @@ Call up the medical centre to ask them to help you check on your application sta
 #### 5. Inform your superiors
 Remember not to jump the chain of command. If you have already finished BMT (4 + 5 weeks) in Kranji Ccamp II and you are looking to recourse a combat BMT, do ask your superiors to talk to your unit S1/manpower about letting you recourse. Tell your superior to specifically to ask only the unit S1/manpower, as some of them dont know what to do and it would result in a longer waiting time. DISCLAIMER: I am not sure what happens if you successfully up pes during BMT.
 
-*If you however want to remain at your old unit, you can just tell them and take take your yearly IPPT.*
+*If you however want to remain at your old unit, you can just tell them and take take your yearly [IPPT](/ippt).*
 
 For those who want to do a combat BMT and havent yet been enlisted, do call up CMPB to ask them for a medical review, its definitely much faster than you doing it after you enlisted already. Hopefully this guide is helpful and answers most of the questions you guys have about up PES!
 

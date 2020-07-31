@@ -15,7 +15,7 @@ All NSFs who get posted to transport will first attend the 3-week **UIP**, after
 
 
 ### UIP
-Marching required, stay-in, and PT around twice a week. It ends with an IPPT.
+Marching required, stay-in, and PT around twice a week. It ends with an [IPPT](/ippt).
 
 **Bring an extra battery pack** as you will get much more admin time than you did in BMT.
 

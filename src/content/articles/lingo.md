@@ -14,7 +14,7 @@ Basic Military Training (Center).
 **PTP**
 Physical training phase: the 2 extra months of BMT done by those who failed or did no attempt their IPPT.
 
-**IPPT**
+[**IPPT**](/ippt)
 [Individual physical proficiency test](https://en.m.wikipedia.org/wiki/Individual_physical_proficiency_test). The SAF's physical fitness test. If you pass the IPPT before enlistmen (pre-enlistee IPPT), you get a 2-month reduction in your service (24 to 22 months).
 
 **SBA**
