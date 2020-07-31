@@ -22,12 +22,12 @@ export default {
 .calc  {
   border-radius: var(--b-r); 
   width: 100%;
-  height: 480px;
+  height: 450px;
   overflow: scroll;
 
   iframe {
     width: 100%;
-    height: 570px;
+    height: 540px;
     margin-top: -90px;
   }
 }
