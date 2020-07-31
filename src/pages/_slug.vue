@@ -145,6 +145,8 @@ hr {
   margin: 2.5em 0;
 }
 
-
+iframe {
+  width: 100%;
+}
 
 </style>
