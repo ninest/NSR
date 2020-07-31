@@ -1,6 +1,7 @@
 import Vue from 'vue';
 
 const monthNames = ["January", "February", "March", "April", "May", "June","July", "August", "September", "October", "November", "December"];
+const weekdays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 
 const formatDate = (unformattedDate) => {
   const date = new Date(unformattedDate)
@@ -10,5 +11,10 @@ const formatDate = (unformattedDate) => {
   return `${month} ${day}, ${year}`
 }
 
+const getDay = (date) => {
+  return weekdays[date.getDay()];
+}
+
 // inject for components
 Vue.prototype.formatDate = formatDate;
+Vue.prototype.getDay = getDay;
