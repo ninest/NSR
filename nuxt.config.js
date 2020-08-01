@@ -53,8 +53,15 @@ module.exports = {
   modules: [
     "@nuxt/content",
     "@nuxtjs/style-resources",
-    '@nuxtjs/sitemap'
+    '@nuxtjs/sitemap',
+    '@nuxtjs/redirect-module'
   ],
+  // rewrites
+  redirect: [
+    { from: '/general/(.*)$', to: '/$1' },
+    { from: '/bmt/(.*)$', to: '/basic-military-training' },
+  ],
+
   // import screen size mixin in all components
   styleResources: {
     scss: [
