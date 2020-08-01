@@ -9,6 +9,10 @@ tags:
 ## Licence
 The best thing about being a driver is that you get a [driving licence](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2018/january/02jan18-mq-001/) at the end of the 2 years, that is, if you clock 4000 km.
 
+## Transport OOCs
+
+There is a chance of being posted as a supply assistant (storeman) or ASA if you OOC from the driving course due to medical reasons. You will become a Saikang warrior, literally. If you do OOC and get posted to an admin vocation (storeman or ASA), you're NS live will be chill, but tons of Saikang. Basically doing stuff that no one else wants to, like throwing away trash, and putting soap in bottles.
+
 ## Transport Operator
 
 All NSFs who get posted to transport will first attend the 3-week **UIP**, after which they will get posted to a **transport node**, where they will spend the rest of their NS life.
