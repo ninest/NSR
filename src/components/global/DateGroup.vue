@@ -45,11 +45,10 @@ export default {
 
     <div 
       v-for="event in events" v-bind:key="event.start + event.title"
-      class="event"
+      :class="`event ${slugify(event.title)}`"
     >
-      <h3>{{ event.title }}</h3>
-      <!-- <div class="cat">{{ event.cat }}</div> -->
       <div class="date">{{ formatDate(event.start) }}</div>
+      <h3>{{ event.title }}</h3>
       <div class="day">{{ getDay(event.start) }}</div>
     </div>
     
@@ -72,6 +71,23 @@ export default {
     h3 {
       margin: 0
     }
+  }
+}
+
+// colors
+.light {
+  .national-day {
+    background-color: var(--red-700);
+    color: white;
+  }
+
+  .national-day-observed {
+    background-color: var(--red-900);
+    color: white;
+  }
+
+  .deepavali {
+    background-color: var(--orange-500)
   }
 }
 </style>

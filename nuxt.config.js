@@ -40,6 +40,7 @@ module.exports = {
   plugins: [
     "~/plugins/siteConfig.js",
     "~/plugins/formatDate.js",
+    "~/plugins/slug.js",
   ],
   buildModules: [
     "@nuxt/components",
