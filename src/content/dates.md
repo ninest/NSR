@@ -1,5 +1,6 @@
 ---
 title: Dates
+description: Public holidays and enlistment dates
 ---
 
 <alert type="warning">
