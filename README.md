@@ -23,5 +23,9 @@ Check out [nsr.now.sh/contribute](https://national-service.now.sh/contribute) fo
 - To add a new article, visit [nsr.now.sh/add](https://national-service.now.sh/add)
 - To edit or add more information to an exisitng article, go to the specified article then click on the **Edit** button
 
+## 🌴 Related
+
+- ninest/enlist: An API to get Singapore's public holidays and enlistment dates
+
 ## 📜 License
 MIT
