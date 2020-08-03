@@ -22,6 +22,7 @@ Everything you read here is advice only, and I am not a licensed financial advis
 
 </alert>
 
+
 If you find this post helpful at all, please leave an [upvote](https://www.reddit.com/r/NationalServiceSG/comments/grmlpq/financial_advice_for_nsf/) and share it among your friends so that they may benefit from this as well.
 
 

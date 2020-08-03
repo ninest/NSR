@@ -80,6 +80,10 @@ main {
       margin-top: 0;
       margin-bottom: 0.7rem;
     }
+
+    // required to prevent overscrolling page
+    min-height: 0;
+    min-width: 0;
   }
 
   .sidebar {
