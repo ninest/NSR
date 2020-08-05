@@ -27,7 +27,7 @@ tags:
 | <image-comp path="ranks/saf/light/ssg.png" :reset="true" :rank="true"></image-comp>  | Staff Sergeant | SSG |
 | <image-comp path="ranks/saf/light/msg.png" :reset="true" :rank="true"></image-comp>  | Master Sergeant | MMG |
 
-Address all sergeants as as *Sergeant*, with the exception of SSGs as *Staff Sergeant* and MSGs as *Master Sergeant*.
+Address all sergeants as as *Sergeant*, with the exception of SSGs as *Staff* and MSGs as *Master*.
 
 ## Warrant Officers
 
@@ -43,6 +43,8 @@ Address all sergeants as as *Sergeant*, with the exception of SSGs as *Staff Ser
 Refer to all warran officers as *Encik*.
 
 ## Junior Officers
+
+Refer to all Officers and Generals as *Sir*.
 
 | Symbol | Rank | Abbr. | Min. Allowance (S$) |
 | -- | -- | -- | -- |
