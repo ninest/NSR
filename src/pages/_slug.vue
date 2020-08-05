@@ -1,7 +1,7 @@
 <script>
 
 export default {
-  async asyncData({$content, params}) {
+  async asyncData({$content, params, redirect, app}) {
     const slug = params.slug
 
     let article
@@ -28,9 +28,21 @@ export default {
 
     } catch (e) {
 
-      console.log("NOT ARTICLE")
-      article = await $content(slug)
+      try {
+        article = await $content(slug)
         .fetch()
+      } catch {
+        // need to do some redirects
+        console.log('do some redirect')
+
+        for (const link of app.siteConfig.redirects) {
+          if (link.from.includes(slug)) {
+            return redirect(link.to)
+          }
+        }
+
+        return redirect('/')
+      }
         
     }   
 

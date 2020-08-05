@@ -26,13 +26,13 @@ export default {
 
 <template>
   <div class="discord-widget">
-    <a
-      href="https://discord.com/channels/692230983650377731/692355610234322945" target="_blank" 
+    <nuxt-link
+      to="/discord" target="_blank" 
       class="button custom-bg dark icon-l icon-larger"
     >
       <fa-icon :icon="['fab', 'discord']" />
       {{ online }} online
-    </a>
+    </nuxt-link>
   </div>
 </template>
 
