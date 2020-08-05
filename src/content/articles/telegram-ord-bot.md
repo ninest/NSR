@@ -2,7 +2,7 @@
 title: Telegram ORD bot
 created: 2020-07-25
 description: A Telegram bot to count down the days to your pink IC
-featured: true
+
 authors:
   - name: Corbuse
     link: https://www.reddit.com/user/corbuse/
