@@ -21,6 +21,8 @@ footerLinks:
     url: /reddit
   - title: r/SG
     url: https://www.reddit.com/r/Singapore
+  - title: CMPB
+    url: https://www.cmpb.gov.sg/web/portal/cmpb/home/
   - title: GitHub
     url: https://github.com/ninest/nsr
 
