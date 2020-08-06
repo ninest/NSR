@@ -60,6 +60,9 @@ These websites are usually under maintenance on weekends.
 ### Commando
 - [Training](https://www.quora.com/What-SSG-commandos-training-include)
 
+### Signals
+- [Signals training](https://www.reddit.com/r/NationalServiceSG/comments/hpfipn/signals_stagmont_camp_pes_b4/)
+
 ### Navy
 - [Warfare system operator](https://www.reddit.com/r/singapore/comments/9fq9m6/ns_life_after_bmt/)
 
@@ -124,6 +127,8 @@ Just some content to binge read.
 - [Is NS a waste of time?](https://www.reddit.com/r/NationalServiceSG/comments/f68l6y/national_service_is_a_waste_of_time/)
 - [NS culuture is ridiculous](https://www.reddit.com/r/singapore/comments/8w0q09/ns_culture_is_ridiculous/)
 - [NS and the future](https://www.reddit.com/r/singapore/comments/ffaoby/does_ns_really_prepare_you_for_your_future_or_is/)
+- [Are NSFs/NSmen respected?](https://www.reddit.com/r/singapore/comments/86j2b7/do_you_think_nsfsnsmen_are_respected_in_singapore/)
+- [Discrimination against those in uniform](https://www.reddit.com/r/singapore/comments/7dbq5a/discrimination_against_uniform_personnel/)
 
 ## After NS
 - [Overseas experience and military discounts](https://www.reddit.com/r/singapore/comments/gplj4p/has_anyone_talked_about_ns_experience_with/)
