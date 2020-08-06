@@ -40,7 +40,7 @@ Address all sergeants as as *Sergeant*, with the exception of SSGs as *Staff* an
 | <image-comp path="ranks/saf/light/swo.png" :reset="true" :rank="true"></image-comp>| Senior Warrant Officer | SWO
 | <image-comp path="ranks/saf/light/cwo.png" :reset="true" :rank="true"></image-comp> | Chief Warrant Officer | CWO 
 
-Refer to all warran officers as *Encik*.
+Refer to all warrant officers as *Encik*. CWOs may be addressed as *Sir* too.
 
 ## Junior Officers
 
