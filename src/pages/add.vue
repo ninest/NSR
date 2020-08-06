@@ -1,3 +1,20 @@
+<script>
+export default {
+  head() {
+    return {
+      title: `Add content`,
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: `Add content to NSR`,
+        },
+      ]
+    }
+  },
+}
+</script>
+
 <template>
   <Default
     title="Add content"

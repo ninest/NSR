@@ -6,11 +6,16 @@ export default {
       required: true,
     },
   },
+  computed: {
+    tocEmpty() {
+      return this.list.length === 0 
+    }
+  },
 }
 </script>
 
 <template>
-  <div class="toc">
+  <div v-if="!tocEmpty" class="toc">
     <div class="title">On this page</div>
     <div class="list">
       <nuxt-link v-for="item in list"  v-bind:key="item.id"

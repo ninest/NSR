@@ -5,6 +5,18 @@ export default {
       pageId: this.$route.params.pageId?? null
     }
   },
+  head() {
+    return {
+      title: `Edit content`,
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: `Edit existing content on NSR`,
+        },
+      ]
+    }
+  },
 }
 </script>
 <template>

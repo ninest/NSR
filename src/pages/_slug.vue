@@ -7,9 +7,10 @@ export default {
     let article
     var similarArticles = []
 
-    try {
-      article = await $content(`articles/${slug}`)
-        .fetch()
+    console.log(app.siteConfig.pages)
+
+    if (!app.siteConfig.pages.includes(slug)) {
+      article = await $content(`articles/${slug}`).fetch()
 
       // get similar articles
       const tags = article.tags
@@ -18,7 +19,6 @@ export default {
           .where({'tags': {$contains: tag}})
           .only(['slug','title', 'created', 'tags'])
           .fetch()
-        
         similarArticles = similarArticles.concat(articles)
       }
 
@@ -26,21 +26,17 @@ export default {
       similarArticles = similarArticles
         .filter((ea) => ea.slug != article.slug)
 
-    } catch (e) {
-
+    } else {
       try {
         article = await $content(slug)
         .fetch()
       } catch {
         // need to do some redirects
-        console.log('do some redirect')
-
         for (const link of app.siteConfig.redirects) {
           if (link.from.includes(slug)) {
             return redirect(link.to)
           }
         }
-
         return redirect('/')
       }
         
@@ -56,7 +52,7 @@ export default {
       }
     }
     similarArticles = removedDuplicates
-    
+
     return {
       article,
       similarArticles

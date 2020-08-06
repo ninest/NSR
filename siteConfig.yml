@@ -2,7 +2,19 @@ name: NS Resources
 shortName: NSR
 description: A site for sharing articles and resources related to Natinal Service in Singapore
 
+pages:
+  - links
+  - about
+  - dates
+  - ippt
+
 footerLinks:
+  - title: Dates
+    url: /dates
+    external: false
+  - title: IPPT
+    url: /ippt
+    external: false
   - title: Discord
     url: /discord
   - title: r/NSSG

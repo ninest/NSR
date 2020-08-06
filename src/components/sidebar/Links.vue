@@ -3,7 +3,8 @@
     <!-- {{ this.siteConfig.footerLinks }} -->
     <ul>
       <li v-for="link in this.siteConfig.footerLinks">
-        <a :href="link.url" target="_blank">{{ link.title }}</a>
+        <a v-if="link.external != false" :href="link.url" target="_blank">{{ link.title }}</a>
+        <nuxt-link v-else :to="link.url">{{ link.title }}</nuxt-link>
       </li>
     </ul>
   </div>
