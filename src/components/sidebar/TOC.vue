@@ -15,6 +15,7 @@ export default {
 </script>
 
 <template>
+  <!-- Only show if there are headings in the TOC -->
   <div v-if="!tocEmpty" class="toc">
     <div class="title">On this page</div>
     <div class="list">
