@@ -7,7 +7,7 @@ tags:
   bmt:
     title: BMT
     slug: bmt
-    color: 199, 30, 30
+    color: 160, 30, 30
 
   vocation:
     title: Vocation
@@ -27,7 +27,7 @@ tags:
   fun:
     title: Fun
     slug: fun
-    color: 255, 100, 0
+    color: 200, 50, 0
 
   utility:
     title: Utility
@@ -42,4 +42,4 @@ tags:
   medical:
     title: Medical
     slug: medical
-    color: 255, 0, 0
+    color: 200, 25, 25

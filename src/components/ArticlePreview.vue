@@ -47,7 +47,7 @@ export default {
     <div class="tags">
       <div
         v-for="tag in this.tags" v-bind:key="tag"
-        v-bind:style="{ backgroundColor: 'rgba(' + colors[tag] + ', 0.2)', color: 'rgb(' + colors[tag]+ ')' }"
+        v-bind:style="{ backgroundColor: 'rgba(' + colors[tag] + ', 0.089)', color: 'rgb(' + colors[tag]+ ')' }"
         class="each-tag"
       >{{ tagsObject[tag].title }}</div>
     </div>
