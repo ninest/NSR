@@ -7,9 +7,19 @@ export default {
     let article
     var similarArticles = []
 
-    console.log(app.siteConfig.pages)
+    let otherPages = [
+      ...app.siteConfig.pages
+    ]
+    app.siteConfig.redirects.forEach((red) => {
+      otherPages = [
+        ...otherPages,
+        ...red.from
+      ]
+    })
 
-    if (!app.siteConfig.pages.includes(slug)) {
+    console.log(otherPages)
+
+    if (!otherPages.includes(slug)) {
       article = await $content(`articles/${slug}`).fetch()
 
       // get similar articles
