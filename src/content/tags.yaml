@@ -2,7 +2,7 @@ tags:
   general:
     title: General
     slug: general
-    color: 0, 0, 01
+    color: 0, 0, 1
   
   bmt:
     title: BMT
