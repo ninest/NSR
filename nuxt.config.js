@@ -54,13 +54,21 @@ module.exports = {
     "@nuxt/content",
     "@nuxtjs/style-resources",
     '@nuxtjs/sitemap',
-    '@nuxtjs/redirect-module'
+    '@nuxtjs/redirect-module',
+    // '@nuxtjs/robots'
   ],
   // rewrites
   redirect: [
     { from: '/general/(.*)$', to: '/$1' },
     { from: '/bmt/(.*)$', to: '/basic-military-training' },
   ],
+
+  // robots
+  // robots: {
+    // UserAgent: '*',
+    // Allow: '/',
+    // Sitemap: 'https://national-service.now.sh/sitemap.xml'
+  // },
 
   // import screen size mixin in all components
   styleResources: {
