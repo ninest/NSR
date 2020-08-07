@@ -26,8 +26,15 @@ ul {
   li {
     display: inline-block;
     margin-right: 0.5rem;
+
   }
-  li + li {
+  
+  @include mobile-screen {
+    font-size: 1rem;
+
+    li {
+      margin-right: 1rem;
+    }
   }
 }
 </style>

@@ -9,8 +9,8 @@ module.exports = {
   target: "static",
   head: {
     htmlAttrs: {
-      lang: 'en'
-    }
+      lang: 'en',
+    },
     title: `${siteConfig.name}`,
     titleTemplate: `%s - ${siteConfig.name}`,
     meta: [
