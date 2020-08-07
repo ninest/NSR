@@ -25,7 +25,9 @@ ul {
 
   li {
     display: inline-block;
-    margin-right: 0.83rem;
+    margin-right: 0.9rem;
+    
+    margin-bottom: 0.5rem;
 
   }
   
@@ -34,6 +36,7 @@ ul {
 
     li {
       margin-right: 1.5rem;
+      margin-bottom: 0.75rem;
     }
   }
 }
