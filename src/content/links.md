@@ -16,6 +16,7 @@ title: Links
 - [Dealing with SOL](https://www.reddit.com/r/singapore/comments/8krall/how_to_deal_with_sol_in_ns/)
 - [Fieldcamp](https://www.reddit.com/r/singapore/comments/6uesq4/fieldcamp_in_ns/)
 - [BIC](https://www.reddit.com/r/NationalServiceSG/comments/drycrg/questions_about_bic/)
+- [Ranks and allowance](/ranks)
 
 ## General
 ### Free time
@@ -129,6 +130,10 @@ Just some content to binge read.
 - [NS and the future](https://www.reddit.com/r/singapore/comments/ffaoby/does_ns_really_prepare_you_for_your_future_or_is/)
 - [Are NSFs/NSmen respected?](https://www.reddit.com/r/singapore/comments/86j2b7/do_you_think_nsfsnsmen_are_respected_in_singapore/)
 - [Discrimination against those in uniform](https://www.reddit.com/r/singapore/comments/7dbq5a/discrimination_against_uniform_personnel/)
+- [What was your NS like?](https://www.reddit.com/r/singapore/comments/68g88s/what_was_your_national_service_like/)
+
+## ORD
+- [SteamedChickenRice guide](https://www.reddit.com/r/NationalServiceSG/comments/i1uqze/owadio_a_final_psa_for_those_who_are_going_to_ord/)
 
 ## After NS
 - [Overseas experience and military discounts](https://www.reddit.com/r/singapore/comments/gplj4p/has_anyone_talked_about_ns_experience_with/)
