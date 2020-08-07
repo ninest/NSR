@@ -25,15 +25,15 @@ ul {
 
   li {
     display: inline-block;
-    margin-right: 0.5rem;
+    margin-right: 0.83rem;
 
   }
   
   @include mobile-screen {
-    font-size: 1rem;
+    font-size: 1.1rem;
 
     li {
-      margin-right: 1rem;
+      margin-right: 1.5rem;
     }
   }
 }

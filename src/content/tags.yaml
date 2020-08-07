@@ -22,7 +22,7 @@ tags:
   financial:
     title: Financial
     slug: financial
-    color: 0, 200, 0
+    color: 0, 80, 0
   
   fun:
     title: Fun

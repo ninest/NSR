@@ -40,6 +40,6 @@ export default {
 a {
   display: block;
   // discord blue
-  background-color: #7680dc;
+  background-color: #5A62A9;
 }
 </style>
