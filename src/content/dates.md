@@ -17,7 +17,4 @@ Here is a list of all the remaining public holidays for the year:
 
 To find people enlisting on the same day as you, visit the [enlist channel on the Discord server](https://discord.com/channels/692230983650377731/729654637677903926).
 
-<!-- <date-group group="BMT"></date-group> -->
-
-<!-- ## Enlistment -->
-<!-- Coming soon -->
+<date-group group="BMT"></date-group>
