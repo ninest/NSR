@@ -23,11 +23,19 @@ tags:
 | <image-comp path="ranks/saf/light/sct.png" :reset="true" :rank="true"></image-comp> | Specialist Cadet | SCT | 720 |
 | <image-comp path="ranks/saf/light/3sg.png" :reset="true" :rank="true"></image-comp> | Third Sergeant | 3SG  | 950 |
 | <image-comp path="ranks/saf/light/2sg.png" :reset="true" :rank="true"></image-comp> | Second Sergeant | 2SG  | 1050 |
-| <image-comp path="ranks/saf/light/1sg.png" :reset="true" :rank="true"></image-comp> | First Sergeant | 1SG  |
+| <image-comp path="ranks/saf/light/1sg.png" :reset="true" :rank="true"></image-comp> | First Sergeant | 1SG  | 1120 |
 | <image-comp path="ranks/saf/light/ssg.png" :reset="true" :rank="true"></image-comp>  | Staff Sergeant | SSG |
 | <image-comp path="ranks/saf/light/msg.png" :reset="true" :rank="true"></image-comp>  | Master Sergeant | MMG |
 
 Address all sergeants as as *Sergeant*, with the exception of SSGs as *Staff* and MSGs as *Master*.
+
+### Sir, Sergeant, or Encik?
+This is a question most BMT recruits have:
+- arrows pointing down: sergeant (see [3SG](#specialists))
+- horizontal lines: sir (see [2LT](#junior-officers))
+- arrows pointing up: encik (see [3WO](#warrant-officers))
+
+This isn't a "one rule fits all", but in BMT the ranks you usually see are 3SG/2SG (sergeant), WOs (encik), 2LT/CPT (sir).
 
 ## Warrant Officers
 
@@ -75,8 +83,8 @@ Refer to all Officers and Generals as *Sir*.
 <!-- ## Military Domain Experts -->
 ## MDEs
 
-<alert type="warning">
-Information on the equivalent rank may be not be accurate.
+<alert type="error">
+Information on the equivalent rank may be not be accurate, and may differ between units.
 </alert>
 
 
