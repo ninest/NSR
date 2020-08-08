@@ -84,7 +84,9 @@ Refer to all Officers and Generals as *Sir*.
 ## MDEs
 
 <alert type="error">
-Information on the equivalent rank may be not be accurate, and may differ between units.
+
+Information on the equivalent rank may not be accurate, and may differ between units[^1].
+
 </alert>
 
 
@@ -112,3 +114,15 @@ Information on the equivalent rank may be not be accurate, and may differ betwee
 | <image-comp path="ranks/saf/light/sv2.png" :reset="true" :rank="true"></image-comp> | SAF Voluneteer 2 | SV2 |
 | <image-comp path="ranks/saf/light/sv3.png" :reset="true" :rank="true"></image-comp> | SAF Voluneteer 3 | SV3 |
 | <image-comp path="ranks/saf/light/sv4.png" :reset="true" :rank="true"></image-comp> | SAF Voluneteer 4 | SV4 |
+
+## Vocation allowance
+
+| Vocations | Allowance (S$) |
+| -- | -- |
+| Service and Technical vocations[^2] | 50 |
+| Combat vocations | 175 |
+| Armor, Guards, Infantry, Combat Medics, Commanders in Medical Response Force / SCDF, Seagoing, Aircrew | 225 |
+| Commando, Naval diver, Chemical / biological / radiological defense | 400 |
+
+[^1]: See [this](https://reddit.com/comments/5e7ewx/c/daddq8f) comment for more information
+[^2]: This $50 has already been added to the allowance of all the listed ranks in the tables above

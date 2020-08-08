@@ -48,6 +48,21 @@ article {
       @include link
     }
   }
+
+  // footnotes
+  .footnotes {
+    margin-top: 2em;
+    font-size: 0.89rem;
+    color: var(--toc-item);
+    
+    // hide the line
+    hr { display: none; }
+  }
+
+  .footnotes:before {
+    font-weight: 600;
+    content: 'Footnotes'
+  }
 }
 
 
