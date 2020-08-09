@@ -12,4 +12,5 @@ jobs:
             https://national-service.now.sh/
           #budgetPath: ./budget.json # test performance budgets
           uploadArtifacts: true # save results as an action artifacts
+          configPath: './.lighthouserc.json'
           #temporaryPublicStorage: true # upload lighthouse report to the temporary storage
