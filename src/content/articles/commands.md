@@ -42,6 +42,8 @@ These are the commands you'll likely hear every day (in BMT at least).
 | *Berhenti* | Halt (stop) |
 | *Hentak Kaki Cepat Hentak* | March on the spot |
 
+Check out the [tips for shouting commands](/basic-military-training#tips-for-shouting-commands).
+
 ## Arms and parade commands
 
 You'll hear these commands in your [POP](/lingo).

@@ -50,6 +50,107 @@ tags:
 - Your sergeants are real people too: If they're shouting at you, remember that they've been trained to do so. They are most likely NSFs waiting to ORD too.
 - DO NOT SIGN ON THE LINES
 
+### How to be a good Platoon IC (for Blur Sotongs)
+
+1. The different types of reporting strengths are
+
+   - **Total Strength** (TS): Total number of chao recruits in your platoon no matter what happen to them (if if they've RSI, or on status).
+   - **Current Strength** (CS): Strength of those people in your platoon that is currently in the platoon. You basically exclude those who go RSI or doing something else i.e. recce group for IFC.
+   - **Participating Strength** (PS): Strength of those unlucky recruits who will participate in thenext activity (excluse all personnel on status unless it's something everyone can do, i.e. lecture).
+
+2. Either be good at quick maths or ensure you know the strength even before they fall in. ie. number of rows, blank files and numbers behind that you should have. Better just fall the platoon in early then count yourself; easier.
+
+3. Platoon includes IC also; don't forget yourself.
+
+4. You better go regularly check strength, don't later your strength don't tally with what OIC get ah, then tio kan lanjiao liao.
+
+5. Keep record of those CKKs (Chao Keng Kias) of those who are in status (Attn. B/C, excuses) + include duration (from date to date) Make sure list tally with OIC.
+
+6. Unless your memory is great, carry a notebook and jot it down.
+
+7. *Berhenti* is easy. When you wan berhenti your platoon, march faster (until you're basically part of front row), *berhenti* yourself and then quickly *berhenti* them. You do it correctly, you will be in middle of platoon when you finish.
+
+8. As platoon IC, you are still part of the platoon. So, drills you also need shout the timing and shit. 
+
+9. When you give command. Always remember to shout and make blardy sure everyone can hear clearly. But when you shout, dun shout when you damn close to your platoon. Don't make them go deaf.
+
+10. Yes, commands are in Malay. Yes, damn difficult to say but no choice. Singapore was a Malay country then everyone else go colonise. Then they buay song so we say Malay is the language of army drills and official language of Singapore to sayang them a bit. Just practice la, is not that hard.
+
+If you're having trouble remembering the commands, head over to [the guide](/commands).
+
+### Tips for shouting commands
+
+1. Drink a lot of water. 
+
+  Shouting will strain your throat especially if you did not breathe correctly. Better lubricate your throat by drinking a lot. That’s why as platoon IC, when they say “HALF WATER BOTTLE DRINK UP!” you drink more than half at least. Full if you can drink damn fast.
+
+2. Breathe correctly.
+
+  When you breathe. Breathe from your diaphragm. How to breathe from your diaphragm is you imagine your air going down your stomach. If you cannot visualise, lie down and breathe. You will automatically breathe from your diaphragm. Don’t forget that feeling. 
+
+  Your shoulders should not raise also. If they raise when you try to take a deep breath, that means you wrong liao.
+
+3. Pauses.
+
+  When you shout commands, a pause between the Climb and Finale ( say “1000” in your mind is long enough) will help drive the command into your platoon so that they dun blur and then you dun cock up and paiseh in front of your Sergeant. Helps with clarity also.
+
+4. Practice.
+
+  Practice, practice, practice the commands. When you shout command, do not garble your words. It must be loud and clear. If you not confident about shouting the command correctly, make blardy sure you practice until you know how each and every syllable should sound like.
+
+5. Get your intonation right.
+
+  When you say the command always remember Start, Climb and Finale: `_/\`.
+
+  Don't say it weirdly, your platoon will fuck up. 
+
+  You think about it, you ride one rollercoaster then right out the gate it goes downhill already, everybody will kenna heart attack. Same principle here.
+
+
+#### Examples
+
+Your typical command got 3 stages.
+
+1. Start (`_`)
+2. Climb (`/`)
+3. Finale (`\`)
+
+The Start (`_`) is to tell your platoon what command is going to happen. That one, just say normally.
+
+The Climb (`/`)is to let your platoon mentally prepare themselves and to let those blur sotongs know what they need to do. This is the part where you have to drag the command a bit to make sure everyone knows what the fuck they need to do.
+
+The Finale (`\`) is where you say finish, the platoon will carry out the command. This is where you end the command and everybody do so you must bring it down sharp.
+
+Typically, the first few words in the command will be the Start. The second last word in the command (the word before the final word) is your Climb. The final word will be your Finale.
+
+So for example...
+
+```
+SQUAD! SEDI-A!
+_      /    \
+```
+
+Your SQUAD, can say normally, dunnid do anything special just say normally. A
+
+Your SEDI, have to be dragged for about 1 second, not too short that your platoon will miss but not too long that your Sergeant will fuck you for dragging. Just drag it for a moment (say “one thousand” in your head) can liao.
+
+Your A, must be sharp. Bring it down sharp. What I mean is when you say “A”, say as if you brought the hammer down.
+
+```
+[BEGARAK KE-KIRI, KE-KIRI] PU SING!
+         _                 /  \
+```
+
+For long commands, your Start can say fast as for most long commands, the starting part is just to give context and nuance. You see those NDP parade commander shout command damn long one is because longer the command, the nicer it sounds and the more wayang you can be for specifically stating what you should do but ultimately, the last few words are always standard. 
+
+So. For *BEGARAK KE-KIRI, KE-KIRI*, this is to basically let your platoon know what you want them to do so say normally and by normally, because you dunwan waste so much time say one command but no choice, your Sergeant say one, just say it a bit faster and get it over with. 
+
+By fast, I do not mean say to the point you trying to step Eminem.
+
+For *PU*, drag. Again, mentally say “one thousand” in your head then continue with
+
+SING, where you again, bring it down sharp like you whack that mosquito who try to suck your lanjiao for blood.
+
 ## Hand Grenade
 Hand Granade lasts around a day (half a day if you're lucky).
 <youtube-video id="CgT7Thc0_Ws"></youtube-video>
