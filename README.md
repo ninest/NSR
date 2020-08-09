@@ -8,6 +8,11 @@
 
 
 <p align="center">
+
+  <a href="https://github.com/ninest/NSR/actions?query=workflow%3A%22Lighthouse+CI%22">
+    <img alt="GitHub Workflow Status (branch)" src="https://img.shields.io/github/workflow/status/ninest/nsr/Lighthouse%20CI/master?label=Lighthouse&style=flat-square">
+  </a>
+
   <img src="https://img.shields.io/github/license/ninest/NSR?style=flat-square" alt="MIT" />
 
   <a href="http://makeapullrequest.com">
