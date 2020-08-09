@@ -12,6 +12,7 @@ tags:
 
 ### Before enlistment
 - Get a haircut prior to enlistment: you likely won't get much time to shower after the haircut in Tekong. Ask your barber for the "zero" cut, and remember to get it done not more than a day or two before enlistment. If your commanders think your hair is too long, you'll waste $2. Protip: make sure you are unable to pinch and pull your hair after the haircut. If you can, it's not short enough.
+- If you still want to get your first haircut in Tekong, bring $2.
 - Try to learn the difference between a *sergeant* and an *officer* (sir). If you see arrows on their rank (on their chest), it's most likely a *sergeant* or an *encik*.
 - StarHub is usually the fastest service provider (for Tekong), followed by Singtel
 
@@ -19,7 +20,7 @@ tags:
 - Washing powder/liquid detergent
 - Febreeze: note that febreeze is not a replacement to washing clothes. Please wash your clothes too
 - Battery pack (around 40,000 mAh)
-- Clothes hangers (at least 4-6)
+- Clothes hangers (at least 6-8)
 - Underwears: bring around 2 more than you think you'll need. The darker the color, the better.
 - Toilet roles: around 2 for the confinement period
 - Wipeable marker: This makes it easier to clean the RAC card.
@@ -29,6 +30,7 @@ tags:
 - Nail clipper
 - Dark colored spectacles
 - Black watch: Only bring your watch if it's a dark color. No white watches.
+- Extra snacks (no junk food): dinner is usually at 5 PM, so you'll get hungry by 9.
 
 ## BMT tips
 ### Admin time
@@ -36,9 +38,16 @@ tags:
 - Go for a shower either first, or last so you won't have to wait in line: If the line's already long, it *might* just be better to wait until your entire section is done. Until then, brush your teeth, defecate, fold your smart 4, and kiwi your boots.
 - Take short showers and don't wear clothes in the cubicle: No more than 5 minutes unless you want your section mates to hate you.
 - Don't shit in the shower
-- Always keep at least one uniform in smart 4
+- Always keep at least one uniform in smart 4, this way you won't be too late if they call you down in smart 4
 - Enter the first 2 numbers on your lock before leaving your bunk: This way, you can open your lock the fastest and be the first one to take a shower.
+  - But never **keep your locker unlocked**. You never know when you're PS (platoon seargeant) will check.
 - Bring extra food to share: Make friends faster!
+
+When you have time, remember to **black tape** everything including:
+- equipment straps (especially your assault bag and LBS)
+- rifle sling in case it breaks
+
+Always keep extra black tape handy, and share with your buddies. They'll love you for this.
 
 ### Area cleaning
 - Use wet wipes
@@ -151,6 +160,41 @@ For *PU*, drag. Again, mentally say “one thousand” in your head then continu
 
 SING, where you again, bring it down sharp like you whack that mosquito who try to suck your lanjiao for blood.
 
+
+
+## Fieldcamp
+### Tips
+#### Field discipline
+- Don't leave the trash around. Keep it in a plastic bag inside one of your LBS pouches. Don't be that one guy that gets the entire section in trouble for not cleaning up after eating. **Pack extra black tape for this**: you'll use it to securely tape your trash bags so don't leak in your bags/pouches.
+- **Always guard your weapon**. At night, clip the sling to your uniform's belt holes.
+- Maintain noise discipline. Don't anyhow shout.
+
+#### Body maintenance
+- Scrub your back with the soap sponge or you'll get heat rashes. Help your buddies too if they ask.
+- Remove your socks and powder your feet at night, but put on your boots (or at least your socks) before sleeping. Don't let the insects reach your feet!
+
+#### MREs and water
+- Spicy MREs are usually better and more tasty than non-spicy MREs.
+- The cake/chocolate biscuits are known to cause you to have to defecate, so eat with caution.
+- Fill your canteen at the end of the day before sleeping. May not be enough time to do this the next morning.
+
+#### Shellscrape
+Day 2 is shellscrape-digging day. It's gonna be tough, but don't slack or give up, or they'll make you redig.
+
+- Use your feet to push the ET blade deeper into the group, then pull our more dirt to dig faster.
+- Lay out your gortex if you don't want to sleep on the muddy ground.
+
+### Videos
+#### IFC (field discipline)
+<youtube-video id="Qgbe0xbswGU"></youtube-video>
+
+#### FCO (fire movement)
+<youtube-video id="pDjsXkKSGbo"></youtube-video>
+
+#### Tekan session
+<youtube-video id="6rNTgRiNN3Q"></youtube-video>
+
+
 ## Hand Grenade
 Hand Granade lasts around a day (half a day if you're lucky).
 <youtube-video id="CgT7Thc0_Ws"></youtube-video>
@@ -160,17 +204,6 @@ Hand Granade lasts around a day (half a day if you're lucky).
 
 ## Close Quarter Battle
 CQB is a 2-day, 1-night outfield.
-
-## Fieldcamp
-
-### IFC (field discipline)
-<youtube-video id="Qgbe0xbswGU"></youtube-video>
-
-### FCO (fire movement)
-<youtube-video id="pDjsXkKSGbo"></youtube-video>
-
-### Tekan session
-<youtube-video id="6rNTgRiNN3Q"></youtube-video>
 
 ## Battle Innoculation Course
 BIC is a short event that usually takes up less than half a day.
