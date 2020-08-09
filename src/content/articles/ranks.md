@@ -1,6 +1,6 @@
 ---
 title: Ranks
-description: Learn about all the ranks in the SAF
+description: Learn about all the ranks in the SAF, from sergeant to encik, and officers
 created: 2020-07-27
 tags:
   - general
