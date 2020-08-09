@@ -103,31 +103,28 @@ export default {
     :showAddButton="true"
     :toc="article.toc"
   > 
-    <div 
-      v-for="author in article.authors"
-      class="authors"
-    >
-      <div v-if="author" class="author">
-        <div class="name">
-          <a :href="author.link" target=_blank>{{ author.name }}</a>
-        </div>
 
-        <div class="via">via</div>
+    <Authors
+      v-if="article.authors"
+      :authors="article.authors"
+    ></Authors>
 
-        <div class="origin">
-          <a :href="author.origin.link" target=_blank>{{ author.origin.title }}</a>
-        </div>
-      </div>
-    </div>
+    
     <article :class="`page-${article.slug}`">
-  
       <nuxt-content :document="article"></nuxt-content>
     </article>
+
+    <hr v-if="article.contributors" />
+
+    <Authors 
+      v-if="article.contributors" 
+      title="Contributors" :authors="article.contributors"
+    ></Authors>
 
     <hr v-if="this.showRelated" />
 
     <div v-if="this.showRelated" class="similar-articles">
-      <section>
+      <section class="related">
         <h3>Related</h3>
         <ArticlePreviewList :articles="sortedSimilar"></ArticlePreviewList>
       </section>
@@ -137,34 +134,17 @@ export default {
 
 <style lang="scss" scoped>
 
-.author {
-  color: var(--text);
-  opacity: 0.8;
-  font-size: 0.9em;
 
-  display: flex;
-
-  & div + div {
-    margin-left: 0.3em;
-  }
-
-
-  .name {
-    @include link;
-    color: var(--text);
-    font-weight: 600;
-  }
-
-  .origin {
-    font-weight: 400;
-  }
-}
 hr {
   margin: 2.5em 0;
 }
 
 iframe {
   width: 100%;
+}
+
+.related {
+  font-size: 1.1rem;
 }
 
 </style>

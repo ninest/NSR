@@ -5,6 +5,13 @@ created: 2020-04-29
 tags:
   - general
   - bmt
+
+contributors:
+  - name: CastThatAccountAway
+    link: https://reddit.com/u/CastThatAccountAway
+    origin:
+      title: Discord
+      link: https://github.com/XenonShawn
 ---
 
 Note that "*Kiri*" means **left**, and "*Kanan*" means **right**.

@@ -52,16 +52,20 @@ article {
   // footnotes
   .footnotes {
     margin-top: 2em;
-    font-size: 0.89rem;
     color: var(--toc-item);
     
     // hide the line
     hr { display: none; }
+
+    //
+    ol {
+      margin-top: 0;
+    }
   }
 
   .footnotes:before {
-    font-weight: 600;
-    content: 'Footnotes'
+    font-weight: bold;
+    content: 'Footnotes';
   }
 }
 

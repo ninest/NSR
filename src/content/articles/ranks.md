@@ -4,6 +4,18 @@ description: Learn about all the ranks in the SAF
 created: 2020-07-27
 tags:
   - general
+
+contributors:
+  - name: XenonShawn
+    link: https://reddit.com/u/XenonShawn
+    origin:
+      title: GitHub
+      link: https://github.com/XenonShawn
+  - name: themindstorm
+    link: https://reddit.com/u/themindstorm
+    origin:
+      title: GitHub
+      link: https://github.com/ninest
 ---
 
 ## Enlistees
