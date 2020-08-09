@@ -1,6 +1,6 @@
 ---
 title: Dates
-description: Public holidays and enlistment dates
+description: Public holidays and enlistment dates for NSFs
 ---
 
 <alert type="warning">

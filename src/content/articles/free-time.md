@@ -1,6 +1,6 @@
 ---
 title: Free time
-description: Things to do in your free time
+description: Things to do in your free time in NS in Singapore
 created: 2020-07-15
 tags:
   - general

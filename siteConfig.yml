@@ -1,6 +1,7 @@
 name: NS Resources
 shortName: NSR
 description: Articles, resources, and tools related to National Service in Singapore
+sitemap: https://national-service.now.sh/sitemap.xml
 
 pages:
   - links

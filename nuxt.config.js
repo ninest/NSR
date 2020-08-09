@@ -4,6 +4,16 @@ import YAML from "yaml";
 const file = fs.readFileSync("./siteConfig.yml", "utf8");
 const siteConfig = YAML.parse(file);
 
+// for robots.txt
+let redirects = []
+siteConfig.redirects.forEach((red) => {
+  red.from.forEach((link) => {
+    redirects.push(`/${link}`)
+  })
+})
+
+console.log(redirects)
+
 module.exports = {
   mode: "universal",
   target: "static",
@@ -58,7 +68,7 @@ module.exports = {
     "@nuxtjs/style-resources",
     '@nuxtjs/sitemap',
     '@nuxtjs/redirect-module',
-    // '@nuxtjs/robots'
+    '@nuxtjs/robots'
   ],
   // rewrites
   redirect: [
@@ -66,11 +76,11 @@ module.exports = {
     { from: '/bmt/(.*)$', to: '/basic-military-training' },
   ],
 
-  // robots
   // robots: {
+    // Sitemap: siteConfig.sitemap
     // UserAgent: '*',
-    // Allow: '/',
-    // Sitemap: 'https://national-service.now.sh/sitemap.xml'
+    // Disallow: redirects
+    
   // },
 
   // import screen size mixin in all components

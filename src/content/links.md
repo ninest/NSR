@@ -1,5 +1,6 @@
 ---
 title: Links
+description: Useful links to various resources relating to National Service in Singapore
 ---
 
 ## BMT

@@ -1,5 +1,6 @@
 ---
 title: About
+description: About the site NSR
 ---
 
 ## What is this?
