@@ -63,8 +63,8 @@ Always keep extra black tape handy, and share with your buddies. They'll love yo
 
 1. The different types of reporting strengths are
 
-   - **Total Strength** (TS): Total number of chao recruits in your platoon no matter what happen to them (if if they've RSI, or on status).
-   - **Current Strength** (CS): Strength of those people in your platoon that is currently in the platoon. You basically exclude those who go RSI or doing something else i.e. recce group for IFC.
+   - **Total Strength** (TS): Total number of chao recruits in your platoon no matter what happen to them (if they've RSI, or on status).
+   - **Current Strength** (CS): Strength of those people in your platoon that is currently in the platoon. You basically exclude those who go RSI or doing something else e.g. recce group for IFC.
    - **Participating Strength** (PS): Strength of those unlucky recruits who will participate in thenext activity (excluse all personnel on status unless it's something everyone can do, i.e. lecture).
 
 2. Either be good at quick maths or ensure you know the strength even before they fall in. ie. number of rows, blank files and numbers behind that you should have. Better just fall the platoon in early then count yourself; easier.
@@ -139,7 +139,7 @@ SQUAD! SEDI-A!
 _      /    \
 ```
 
-Your SQUAD, can say normally, dunnid do anything special just say normally. A
+Your SQUAD, can say normally, dunnid do anything special just say normally.
 
 Your SEDI, have to be dragged for about 1 second, not too short that your platoon will miss but not too long that your Sergeant will fuck you for dragging. Just drag it for a moment (say “one thousand” in your head) can liao.
 
@@ -163,6 +163,7 @@ SING, where you again, bring it down sharp like you whack that mosquito who try 
 
 
 ## Fieldcamp
+
 ### Tips
 #### Field discipline
 - Don't leave the trash around. Keep it in a plastic bag inside one of your LBS pouches. Don't be that one guy that gets the entire section in trouble for not cleaning up after eating. **Pack extra black tape for this**: you'll use it to securely tape your trash bags so don't leak in your bags/pouches.
