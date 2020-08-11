@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<p align="center">Links and resources to help people serving National Service in Singapore</p>
+<p align="center">Links and resources to help people serving NS in Singapore</p>
 
 ## ✏️ Contributing
 
