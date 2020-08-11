@@ -9,6 +9,12 @@ tags:
   - bmt
 ---
 
+## Should I get a haircut before enlisting?
+Yes, you likely won't get much time to shower after the haircut in Tekong. Ask your barber for the "zero" cut, and remember to get it done not more than a day or two before enlistment. If your commanders think your hair is too long, you'll waste $2. 
+
+Protip: make sure you are unable to pinch and pull your hair after the haircut. If you can, it's not short enough.
+
+
 ## What happens during the CMPB screening?
 Just normal medical check-up stuff such as height, weight, urine and a blood draw. Bring any medical documents that you may thing is relevant such as those for pre-existing conditions. Also eat a meal before going so you don't feel dizzy after drawing blood. Try to style your hair a bit as your picture for your 11B will also be taken then.
 
@@ -16,7 +22,7 @@ Just normal medical check-up stuff such as height, weight, urine and a blood dra
 Unfortunately, no one really knows. If you really want to ask, search for the "Enlistment" thread on the NS Subreddit. Do not create a new post, just look for the pinned post with the flair "Enlistment".
 
 ## Where can I see the packing guide?
-You should receive the packing list from the MINDEF. Also check out the [BMT page](/basic-military-training), or as a question on [Reddit](https://www.reddit.com/r/NationalServiceSG) if you have any doubts.
+You should receive the packing list from the MINDEF. Also check out the [BMT page](/basic-military-training), or ask a question on [Reddit](https://www.reddit.com/r/NationalServiceSG) if you have any doubts.
 
 ## I have this condition. Will I get a down PES?
 Unfortunately, no one but an MO can give you a definite answer. All you can do is bring a specialist letter from an outside doctor. If you are in pain and want to down PES, tell your specialist.
