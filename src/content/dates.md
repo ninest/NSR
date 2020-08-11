@@ -4,7 +4,7 @@ description: Public holidays and enlistment dates for NSFs
 ---
 
 <alert type="warning">
-This page is not yet complete.
+This page is not yet complete. Please reload if nothing appears.
 </alert>
 
 ## Public holidays

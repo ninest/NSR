@@ -2,7 +2,7 @@
 title: Basic military training
 description: Information on BMT, CQB, field camp, BTP, enlistent for NS
 created: 2020-04-29
-
+featured: True
 tags:
   - bmt
 ---
