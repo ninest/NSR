@@ -18,19 +18,40 @@ tags:
 
 ### Packing guide
 - Washing powder/liquid detergent
-- Febreeze: note that febreeze is not a replacement to washing clothes. Please wash your clothes too
-- Battery pack (around 40,000 mAh)
-- Clothes hangers (at least 6-8)
-- Underwears: bring around 2 more than you think you'll need. The darker the color, the better.
-- Toilet roles: around 2 for the confinement period
-- Wipeable marker: This makes it easier to clean the RAC card.
-- 2 in 1 shower gel (the Nivea one is great)
+- Febreeze: note that febreeze is not a replacement to washing clothes.
+- Battery packs (around 40,000 mAh)
+- Clothes hangers (at least 6-8) and clips
+- Underwears (9 briefs, not boxers): bring extra if you don't like to wash The darker the color, the better.
+- Toilet rolls: around 2 for the confinement period
+- Slippers
+- Toothbrush and toothpaste
+- Facewash
+- 2 in 1 soap (Adidas recommended)
+- Deadorant
+- Stationery items
+  - Wipeable marker: makes it easier to clean the RAC card.
+  - 2 extra black tape roles
+  - Notebook (1 is provided)
+- Prickly head powder
 - Coins (if they let you use the vending machines)
 - Wet wipes/wet tissues (for area cleaning and boots polishing). Don't spend too much money on the expensive ones
+- Shaver
+- Instant kiwi (optional)
 - Nail clipper
-- Dark colored spectacles
-- Black watch: Only bring your watch if it's a dark color. No white watches.
+- Dark colored spectacles (and 1 spare if required)
+- Black watch: Only bring your watch if it's a dark color. No white watches. The cheaper, the better.
+- Two-dollar notes (if you want a haircuts)
+- One-dollar coins (if they let you use the vending machine)
 - Extra snacks (no junk food): dinner is usually at 5 PM, so you'll get hungry by 9.
+- Ziploc bags (around 10 small, medium, and large)
+
+Other items include
+- Education certificates
+- Health booklet
+- Face masks
+- Marker pens
+- Wallet with Pink IC
+- Smartphone and earphones
 
 ## BMT tips
 ### Admin time
@@ -40,7 +61,7 @@ tags:
 - Don't shit in the shower
 - Always keep at least one uniform in smart 4, this way you won't be too late if they call you down in smart 4
 - Enter the first 2 numbers on your lock before leaving your bunk: This way, you can open your lock the fastest and be the first one to take a shower.
-  - But never **keep your locker unlocked**. You never know when you're PS (platoon seargeant) will check.
+  - But never **keep your locker unlocked**. You never know when your PS (platoon seargeant) will check.
 - Bring extra food to share: Make friends faster!
 
 When you have time, remember to **black tape** everything including:
