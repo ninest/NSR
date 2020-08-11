@@ -136,7 +136,7 @@ So for example...
 
 ```
 SQUAD! SEDI-A!
-_      /    \
+  _     /   \
 ```
 
 Your SQUAD, can say normally, dunnid do anything special just say normally.
