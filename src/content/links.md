@@ -122,7 +122,7 @@ From 2020 onwards, all posting orders will be in [r/NationalServiceSG](https://r
 - [mengonewildmagazine](https://www.instagram.com/mengonewildmagazine/?hl=en)
 - [childrenholdingguns](https://www.instagram.com/childrenholdingguns/?hl=en)
 
-## Intersting discussion
+## Interesting discussion
 Just some content to binge read.
 
 - [The toxic contractions of single-gender NS](https://www.reddit.com/r/singapore/comments/h9rvof/essay_the_toxic_contradictions_of_singlegender_ns/)
