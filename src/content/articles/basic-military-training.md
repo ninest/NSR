@@ -215,7 +215,32 @@ Day 2 is shellscrape-digging day. It's gonna be tough, but don't slack or give u
 ### After fieldcamp
 2-3 (or more) of rifle cleaning, field pack cleaning, boots cleaning, washing of stores.
 
-### Videos
+
+## Hand Grenade
+Hand Granade lasts around a day (half a day if you're lucky).
+
+
+## Close Quarter Battle
+CQB is a 2-day, 1-night outfield.
+
+## Battle Innoculation Course
+BIC is a short event that usually takes up less than half a day.
+
+## Passing-Out Parade
+Learn the [Infantry Song](/songs#infantry-song) and [BMT Roar](/songs#bmt-roar).
+
+## Videos
+
+### Hand Grenade
+<youtube-video id="CgT7Thc0_Ws"></youtube-video>
+
+### BTP
+<youtube-video id="WzJeagTweYk"></youtube-video>
+
+### CQB
+<youtube-video id="zXE0k7AfwS4"></youtube-video>
+
+### Fieldcamp
 #### IFC (field discipline)
 <youtube-video id="Qgbe0xbswGU"></youtube-video>
 
@@ -224,22 +249,3 @@ Day 2 is shellscrape-digging day. It's gonna be tough, but don't slack or give u
 
 #### Tekan session
 <youtube-video id="6rNTgRiNN3Q"></youtube-video>
-
-
-## Hand Grenade
-Hand Granade lasts around a day (half a day if you're lucky).
-<youtube-video id="CgT7Thc0_Ws"></youtube-video>
-
-## BTP
-<youtube-video id="WzJeagTweYk"></youtube-video>
-
-## Close Quarter Battle
-CQB is a 2-day, 1-night outfield.
-
-## Battle Innoculation Course
-BIC is a short event that usually takes up less than half a day.
-
-<youtube-video id="zXE0k7AfwS4"></youtube-video>
-
-## Passing-Out Parade
-Learn the [Infantry Song](/songs#infantry-song) and [BMT Roar](/songs#bmt-roar).
