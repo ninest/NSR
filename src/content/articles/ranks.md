@@ -133,8 +133,11 @@ Information on the equivalent rank may not be accurate, and may differ between u
 | -- | -- |
 | Service and Technical vocations[^2] | 50 |
 | Combat vocations | 175 |
-| Armor, Guards, Infantry, Combat Medics, Commanders in Medical Response Force / SCDF, Seagoing, Aircrew | 225 |
-| Commando, Naval diver, Chemical / biological / radiological defense | 400 |
+
+Example: A combat vocation PTE gets (580 + 50) + 175
+
+<!-- | Armor, Guards, Infantry, Combat Medics, Commanders in Medical Response Force / SCDF, Seagoing, Aircrew | 225 | -->
+<!-- | Commando, Naval diver, Chemical / biological / radiological defense | 400 | -->
 
 [^1]: See [this](https://reddit.com/comments/5e7ewx/c/daddq8f) comment for more information
 [^2]: This $50 has already been added to the allowance of all the listed ranks in the tables above
