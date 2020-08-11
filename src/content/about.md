@@ -12,3 +12,11 @@ The source for this website can be found on [GitHub](https://github.com/ninest/n
 ## Contribution
 
 Adding a page is easy, click the [**Add article**](/add) button. To edit a page (add content to an exisitng page), click on the **Edit article** button.
+
+Here's a list of contributors 👨‍💻:
+- OxySempra
+- [XenonShawn](https://github.com/XenonShawn)
+- kena_tekan
+- loltroller16
+- CastThatAccountAway
+- themindstorm
