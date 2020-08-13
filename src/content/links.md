@@ -95,6 +95,7 @@ From 2020 onwards, all posting orders will be in [r/NationalServiceSG](https://r
 - [NS stories (8)](https://www.reddit.com/r/singapore/comments/5cbx7l/more_ns_stories/)
 - [NS stories (9)](https://www.reddit.com/r/singapore/comments/501ykr/excurrent_ns_men_of_rsingapore_what_are_some_of/)
 - [NS stories (10)](https://www.reddit.com/r/singapore/comments/9bsl3w/just_for_fun_and_nostalgia_what_are_some_of_your/)
+- [Infantry men claiming to be straight](https://www.reddit.com/r/MilitaryStories/comments/b26jum/and_infantrymen_still_claim_to_be_straight/)
 
 ### Scary
 - [Tekong ghost stories](https://www.reddit.com/r/singapore/comments/c9q902/any_bmttekong_ghost_stories_to_share/)
