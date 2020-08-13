@@ -1,6 +1,6 @@
 ---
 title: Basic military training
-description: Information on BMT, CQB, field camp, BTP, enlistent for NS
+description: Information on BMT, CQB, field camp, BTP, enlistment for NS
 created: 2020-04-29
 featured: True
 tags:
@@ -13,7 +13,7 @@ tags:
 ### Before enlistment
 - Get a haircut prior to enlistment: you likely won't get much time to shower after the haircut in Tekong. Ask your barber for the "zero" cut, and remember to get it done not more than a day or two before enlistment. If your commanders think your hair is too long, you'll waste $2. Protip: make sure you are unable to pinch and pull your hair after the haircut. If you can, it's not short enough.
 - If you still want to get your first haircut in Tekong, bring $2.
-- Try to learn the difference between a *sergeant* and an *officer* (sir). If you see arrows on their rank (on their chest), it's most likely a *sergeant* or an *encik*.
+- Try to learn the difference between a [*sergeant* and an *officer*](/ranks#sir-sergeant-or-encik). 
 - StarHub is usually the fastest service provider (for Tekong), followed by Singtel
 
 ### Packing guide
@@ -21,7 +21,7 @@ tags:
 - Febreeze: note that febreeze is not a replacement to washing clothes.
 - Battery packs (around 40,000 mAh)
 - Clothes hangers (at least 6-8) and clips
-- Underwears (9 briefs, not boxers): bring extra if you don't like to wash The darker the color, the better.
+- Underwears (9 briefs, not boxers): bring extra if you don't like to wash. The darker the color, the better.
 - Toilet rolls: around 2 for the confinement period
 - Slippers
 - Toothbrush and toothpaste
@@ -32,7 +32,7 @@ tags:
   - Wipeable marker: makes it easier to clean the RAC card.
   - 2 extra black tape roles
   - Notebook (1 is provided)
-- Prickly head powder
+- Prickly heat powder
 - Coins (if they let you use the vending machines)
 - Wet wipes/wet tissues (for area cleaning and boots polishing). Don't spend too much money on the expensive ones
 - Shaver
@@ -56,7 +56,7 @@ Other items include
 ## BMT tips
 ### Admin time
 
-- Go for a shower either first, or last so you won't have to wait in line: If the line's already long, it *might* just be better to wait until your entire section is done. Until then, brush your teeth, defecate, fold your smart 4, and kiwi your boots.
+- Go for a shower either first, or last so you won't have to wait in line: If the line's already long, it *might* just be better to wait until your entire section is done. Until then, do other admin stuff: brush your teeth, defecate, fold your smart 4, and kiwi your boots.
 - Take short showers and don't wear clothes in the cubicle: No more than 5 minutes unless you want your section mates to hate you.
 - Don't shit in the shower
 - Always keep at least one uniform in smart 4, this way you won't be too late if they call you down in smart 4
