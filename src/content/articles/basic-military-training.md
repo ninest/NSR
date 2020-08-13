@@ -184,29 +184,27 @@ SING, where you again, bring it down sharp like you whack that mosquito who try 
 
 
 ## Fieldcamp
-
-### Tips
-#### Field discipline
+### Field discipline
 - Don't leave the trash around. Keep it in a plastic bag inside one of your LBS pouches. Don't be that one guy that gets the entire section in trouble for not cleaning up after eating. **Pack extra black tape for this**: you'll use it to securely tape your trash bags so don't leak in your bags/pouches.
 - Maintain noise discipline. Don't anyhow shout.
 
-#### Guarding your rifle
+### Guarding your rifle
 - At night, clip the sling to your uniform's belt holes. That way, if anyone tries to lift it, it won't come off because it's connected to you.
 - Make sure it's never more than a meter away from you.
 
-#### Body maintenance
+### Body maintenance
 There's enough time before sleeping for body maintenance. It may be around 2 hours.
 
 - Scrub your back with the soap sponge or you'll get heat rashes. Help your buddies too if they ask.
 - Remove your socks and powder your feet at night, but put on your boots (or at least your socks) before sleeping. Don't let the insects reach your feet!
 
-#### MREs and water
+### MREs and water
 - Spicy MREs are usually better and more tasty than non-spicy MREs.
-- The cake/chocolate biscuits are known to cause you to have to defecate, so eat with caution.
+- The fruitcakes/biscuits are known to cause you to have to defecate, so eat with caution. There's also a rumor that the MREs cause slight constipation, and this isn't a bad thing.
 - Fill your canteen at the end of the day before sleeping. May not be enough time to do this the next morning.
 - Refill your canteen whenever you have the chance.
 
-#### Shellscrape
+### Shellscrape
 Day 2 is shellscrape-digging day. It's gonna be tough, but don't slack or give up, or they'll make you redig.
 
 - Use your feet to push the ET blade deeper into the group, then pull our more dirt to dig faster.
@@ -226,11 +224,13 @@ CQB is a 2-day, 1-night outfield.
 ## Battle Innoculation Course
 BIC is a short event that usually takes up less than half a day.
 
+## Route March
+- Try to be in front of the platoon. You'll never have to run to catch up, and you'll get a better view of Singapore.
+
 ## Passing-Out Parade
 Learn the [Infantry Song](/songs#infantry-song) and [BMT Roar](/songs#bmt-roar).
 
 ## Videos
-
 ### Hand Grenade
 <youtube-video id="CgT7Thc0_Ws"></youtube-video>
 
