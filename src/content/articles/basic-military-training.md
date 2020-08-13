@@ -1,6 +1,6 @@
 ---
 title: Basic military training
-description: Information on BMT, CQB, field camp, BTP, enlistment for NS
+description: Information on BMT, CQB, field camp, BTP, POP, IPPT, enlistment for NS
 created: 2020-04-29
 featured: True
 tags:
@@ -21,13 +21,12 @@ tags:
 - Febreeze: note that febreeze is not a replacement to washing clothes.
 - Battery packs (around 40,000 mAh)
 - Clothes hangers (at least 6-8) and clips
-- Underwears (9 briefs, not boxers): bring extra if you don't like to wash. The darker the color, the better.
+- Underwear (9 briefs, not boxers): bring extra if you don't like to wash. The darker the color, the better.
 - Toilet rolls: around 2 for the confinement period
 - Slippers
 - Toothbrush and toothpaste
-- Facewash
-- 2 in 1 soap (Adidas recommended)
-- Deadorant
+- 2 in 1 soap (Adidas recommended) with face wash
+- Deodorant
 - Stationery items
   - Wipeable marker: makes it easier to clean the RAC card.
   - 2 extra black tape roles
@@ -40,7 +39,7 @@ tags:
 - Nail clipper
 - Dark colored spectacles (and 1 spare if required)
 - Black watch: Only bring your watch if it's a dark color. No white watches. The cheaper, the better.
-- Two-dollar notes (if you want a haircuts)
+- Two-dollar notes (if you want a haircut)
 - One-dollar coins (if they let you use the vending machine)
 - Extra snacks (no junk food): dinner is usually at 5 PM, so you'll get hungry by 9.
 - Ziploc bags (around 10 small, medium, and large)
@@ -86,7 +85,7 @@ Always keep extra black tape handy, and share with your buddies. They'll love yo
 
    - **Total Strength** (TS): Total number of chao recruits in your platoon no matter what happen to them (if they've RSI, or on status).
    - **Current Strength** (CS): Strength of those people in your platoon that is currently in the platoon. You basically exclude those who go RSI or doing something else e.g. recce group for IFC.
-   - **Participating Strength** (PS): Strength of those unlucky recruits who will participate in thenext activity (excluse all personnel on status unless it's something everyone can do, i.e. lecture).
+   - **Participating Strength** (PS): Strength of those unlucky recruits who will participate in the next activity (excluse all personnel on status unless it's something everyone can do, i.e. lecture).
 
 2. Either be good at quick maths or ensure you know the strength even before they fall in. ie. number of rows, blank files and numbers behind that you should have. Better just fall the platoon in early then count yourself; easier.
 
@@ -102,7 +101,7 @@ Always keep extra black tape handy, and share with your buddies. They'll love yo
 
 8. As platoon IC, you are still part of the platoon. So, drills you also need shout the timing and shit. 
 
-9. When you give command. Always remember to shout and make blardy sure everyone can hear clearly. But when you shout, dun shout when you damn close to your platoon. Don't make them go deaf.
+9. When you give command, always remember to shout and make blardy sure everyone can hear clearly. But when you shout, don't shout when you damn close to your platoon. Don't make them go deaf.
 
 10. Yes, commands are in Malay. Yes, damn difficult to say but no choice. Singapore was a Malay country then everyone else go colonise. Then they buay song so we say Malay is the language of army drills and official language of Singapore to sayang them a bit. Just practice la, is not that hard.
 
@@ -116,13 +115,13 @@ If you're having trouble remembering the commands, head over to [the guide](/com
 
 2. Breathe correctly.
 
-  When you breathe. Breathe from your diaphragm. How to breathe from your diaphragm is you imagine your air going down your stomach. If you cannot visualise, lie down and breathe. You will automatically breathe from your diaphragm. Don’t forget that feeling. 
+  When you breathe. Breathe from your diaphragm. How to breathe from your diaphragm is you imagine your air going down your stomach. If you cannot visualize, lie down and breathe. You will automatically breathe from your diaphragm. Don’t forget that feeling. 
 
   Your shoulders should not raise also. If they raise when you try to take a deep breath, that means you wrong liao.
 
 3. Pauses.
 
-  When you shout commands, a pause between the Climb and Finale ( say “1000” in your mind is long enough) will help drive the command into your platoon so that they dun blur and then you dun cock up and paiseh in front of your Sergeant. Helps with clarity also.
+  When you shout commands, a pause between the Climb and Finale ( say “1000” in your mind is long enough) will help drive the command into your platoon so that they dun blur and then you dun cock up and paiseh in front of your Sergeant. Helps with clarity as well.
 
 4. Practice.
 
@@ -134,7 +133,7 @@ If you're having trouble remembering the commands, head over to [the guide](/com
 
   Don't say it weirdly, your platoon will fuck up. 
 
-  You think about it, you ride one rollercoaster then right out the gate it goes downhill already, everybody will kenna heart attack. Same principle here.
+  You think about it, you ride one roller coaster then right out the gate it goes downhill already, everybody will kenna heart attack. Same principle here.
 
 
 #### Examples
@@ -183,7 +182,7 @@ SING, where you again, bring it down sharp like you whack that mosquito who try 
 
 
 
-## Fieldcamp
+## Field Camp
 ### Field discipline
 - Don't leave the trash around. Keep it in a plastic bag inside one of your LBS pouches. Don't be that one guy that gets the entire section in trouble for not cleaning up after eating. **Pack extra black tape for this**: you'll use it to securely tape your trash bags so don't leak in your bags/pouches.
 - Maintain noise discipline. Don't anyhow shout.
@@ -205,7 +204,7 @@ There's enough time before sleeping for body maintenance. It may be around 2 hou
 - Refill your canteen whenever you have the chance.
 
 ### Shellscrape
-Day 2 is shellscrape-digging day. It's gonna be tough, but don't slack or give up, or they'll make you redig.
+Day 2 is shellscrape-digging day. It's gonna be tough, but don't slack or give up, or they'll make you re-dig.
 
 - Use your feet to push the ET blade deeper into the group, then pull our more dirt to dig faster.
 - Lay out your gortex if you don't want to sleep on the muddy ground.
@@ -215,13 +214,13 @@ Day 2 is shellscrape-digging day. It's gonna be tough, but don't slack or give u
 
 
 ## Hand Grenade
-Hand Granade lasts around a day (half a day if you're lucky).
+Hand grenade lasts around a day (half a day if you're lucky).
 
 
 ## Close Quarter Battle
 CQB is a 2-day, 1-night outfield.
 
-## Battle Innoculation Course
+## Battle Inoculation Course
 BIC is a short event that usually takes up less than half a day.
 
 ## Route March
@@ -229,6 +228,15 @@ BIC is a short event that usually takes up less than half a day.
 
 ## Passing-Out Parade
 Learn the [Infantry Song](/songs#infantry-song) and [BMT Roar](/songs#bmt-roar).
+
+To successfully pass out of BMT, the following are required:
+- Pass 2 out of 3 of
+  - IPPT (over 61 points)
+  - BTP
+  - Field camp
+- 75% attendance
+
+After POP, you get 5 days off (+4 counting weekends, so 9 days totally). These 5 days are deducted from your annual leave of 14 days. Posting orders will be available on the Friday after POP.
 
 ## Videos
 ### Hand Grenade
