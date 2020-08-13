@@ -79,6 +79,9 @@ Always keep extra black tape handy, and share with your buddies. They'll love yo
 - Your sergeants are real people too: If they're shouting at you, remember that they've been trained to do so. They are most likely NSFs waiting to ORD too.
 - DO NOT SIGN ON THE LINES
 
+#### Garters and boots
+Check [this video from NCC](https://www.youtube.com/watch?v=DaIvfD0eUJA) to learn how to tie your boot laces. I only recommend tying them this way if you're doing physical activity, route marching, or going outfiel. Otherwise stuffing them behind your garters is enough.
+
 ### How to be a good Platoon IC (for Blur Sotongs)
 
 1. The different types of reporting strengths are
