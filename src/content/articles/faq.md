@@ -40,7 +40,7 @@ Typically, lower PESes lie C to E get admin jobs (ASA/SA) or transport.
 ### Are PES Es and Fs second-class citizens?
 **No**. People do not care about your PES unless you want to sign on and become a regular.
 
-### Why can't access NS.SG or the CMPB websites?
+### Why can't I access NS.SG or the CMPB websites?
 They go through scheduled maintenance every weekend.
 
 ## More

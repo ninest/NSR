@@ -123,6 +123,11 @@ From 2020 onwards, all posting orders will be in [r/NationalServiceSG](https://r
 - [mengonewildmagazine](https://www.instagram.com/mengonewildmagazine/?hl=en)
 - [childrenholdingguns](https://www.instagram.com/childrenholdingguns/?hl=en)
 
+## AMAs
+- [NDP 2019, CO 48 SAR](https://www.reddit.com/r/singapore/comments/cenfcz/im_chairman_mobile_column_for_ndp_2019_and_co_48/)
+- [Ex-regular (1)](https://www.reddit.com/r/singapore/comments/asxaus/ama_im_an_exsaf_regular_ask_me_anything/)
+- [Ex-regular (2)](https://www.reddit.com/r/singapore/comments/grxat2/exsaf_regular_ask_me_anything_edt_2/)
+
 ## Interesting discussion
 Just some content to binge read.
 
