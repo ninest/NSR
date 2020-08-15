@@ -7,6 +7,9 @@
     <nav>
       <ul>
         <li>
+          <nuxt-link to="/faq" class="link-hover">BMT</nuxt-link>
+        </li>
+        <li>
           <nuxt-link to="/links" class="link-hover">Links</nuxt-link>
         </li>
         <li>
@@ -23,9 +26,12 @@ header {
   top: 0;
 
   z-index: 1;
-  background: var(--bg-opacity);
+  background: rgba(var(--bg-opacity), 0.5);
 
-  padding: 1.5em var(--side-p);
+  padding: 1rem var(--side-p);
+  padding-bottom: 0.5rem;
+
+  margin: .5rem 0;
 
   display: flex;
   justify-content: space-between;
@@ -74,7 +80,7 @@ header {
     li + li {
       margin-left: 2em;
       @include mobile-screen {
-        margin-left: 1.5em;
+        margin-left: 1.4em;
       }
     }
   }

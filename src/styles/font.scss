@@ -9,8 +9,9 @@ a {
   margin: -0.25em -0.6em;
   padding: 0.25em 0.6em;
 
-  &:hover {
+  transition: 0.15s all;
 
+  &:hover {
     background-color: var(--link-hover);
   }
 

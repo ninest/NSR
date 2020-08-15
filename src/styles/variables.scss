@@ -12,9 +12,9 @@
 
 
   // colors
-  --white-1: #fefefe;   --white-1-opacity: #fefefe96;
+  --white-1: #fefefe;  
   --white-2: #eeeeee;
-  --white-3: #e5e7eb; // border
+  --white-3: #e5e7eb; --white-3-rgb: rgba(229, 231, 235, 0.5);
   --white-4: #cdcdcd;
   --white-5: #bcbcbc;
   --white-6: #aaaaaa;
@@ -31,7 +31,7 @@
 
 .light {
   --bg: var(--white-1);
-  --bg-opacity: #fefefe96;
+  --bg-opacity: 254, 254, 254;
   --hr: var(--white-5);
 
   --text: var(--black-5);
@@ -44,7 +44,8 @@
   --button-dark: var(--white-3);
   --button-light: var(--black-4);
 
-  --link-hover: var(--white-3);
+  // --link-hover: var(--white-3);
+  --link-hover: var(--white-3-rgb);
   --nav-link: var(--black-7);
 
   // used in forms
