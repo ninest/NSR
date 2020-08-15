@@ -25,6 +25,9 @@ a {
 .link-hover-block {
   border-radius: var(--b-r);
   padding: 0.25em 0.6em;
+
+  transition: 0.15s all;
+
   &:hover {
     background-color: var(--link-hover);
   }

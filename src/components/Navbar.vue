@@ -7,7 +7,7 @@
     <nav>
       <ul>
         <li>
-          <nuxt-link to="/faq" class="link-hover">BMT</nuxt-link>
+          <nuxt-link to="/basic-military-training" class="link-hover">BMT</nuxt-link>
         </li>
         <li>
           <nuxt-link to="/links" class="link-hover">Links</nuxt-link>

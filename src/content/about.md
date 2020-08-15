@@ -1,11 +1,11 @@
 ---
 title: About
-description: About the site NSR
+description: All about the site National Service Resources
 ---
 
 ## What is this?
 
-NSR (National Service Resources) is a site created with the aim of saving and archiving important information relating to NS.
+NSR (National Service Resources) is a site created with the aim of saving and archiving important information relating to NS. All information here is publicly available on various sources over the internet. The role of this website is to put it all in one place.
 
 The source for this website can be found on [GitHub](https://github.com/ninest/nsr).
 
@@ -20,3 +20,5 @@ Here's a list of contributors 👨‍💻:
 - loltroller16
 - CastThatAccountAway
 - themindstorm
+
+You can also make a pull request on [GitHub](https://github.com/ninest/nsr).
