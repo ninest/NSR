@@ -12,7 +12,7 @@
 
 
   // colors
-  --white-1: #fefefe;
+  --white-1: #fefefe;   --white-1-opacity: #fefefe96;
   --white-2: #eeeeee;
   --white-3: #e5e7eb; // border
   --white-4: #cdcdcd;
@@ -31,6 +31,7 @@
 
 .light {
   --bg: var(--white-1);
+  --bg-opacity: #fefefe96;
   --hr: var(--white-5);
 
   --text: var(--black-5);

@@ -19,6 +19,12 @@
 
 <style lang="scss" scoped>
 header {
+  position: sticky;
+  top: 0;
+
+  z-index: 1;
+  background: var(--bg-opacity);
+
   padding: 1.5em var(--side-p);
 
   display: flex;
