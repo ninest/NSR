@@ -100,7 +100,7 @@ header {
   20% {}
   25% {}
   50% { 
-    left: 25rem;
+    left: 23rem;
     top: 0.47rem;
   }
   100% { background: transparent }
