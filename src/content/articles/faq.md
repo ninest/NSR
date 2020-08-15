@@ -9,6 +9,11 @@ tags:
   - bmt
 ---
 
+
+<alert>
+Note that all information on this page (and all other pages) is publicly available on the internet on a variety of sources including CMPB, Reddit, Mothership, and other blogs.
+</alert>
+
 ## Questions
 ### Should I get a haircut before enlisting?
 Yes, you likely won't get much time to shower after the haircut in Tekong. Ask your barber for the "zero" cut, and remember to get it done not more than a day or two before enlistment. If your commanders think your hair is too long, you'll waste $2. 
