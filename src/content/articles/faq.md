@@ -1,7 +1,7 @@
 ---
 title: Frequently asked questions
 description: Very frequently asked questions
-
+featured: true
 created: 2020-03-10
 
 tags:
