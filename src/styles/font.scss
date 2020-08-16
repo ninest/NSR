@@ -53,6 +53,16 @@ article {
     }
   }
 
+  // anchors offset so it isn't covered by navbar
+  h2:before, h3:before, h4:before {
+    display: block;
+    content: " ";
+    margin-top: -85px;
+    height: 85px;
+    visibility: hidden;
+    pointer-events: none;
+  }
+
   // footnotes
   .footnotes {
     margin-top: 2em;
