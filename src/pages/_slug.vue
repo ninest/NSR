@@ -17,7 +17,6 @@ export default {
       ]
     })
 
-    console.log(otherPages)
 
     if (!otherPages.includes(slug)) {
       article = await $content(`articles/${slug}`).fetch()

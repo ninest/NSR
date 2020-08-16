@@ -12,7 +12,6 @@ siteConfig.redirects.forEach((red) => {
   })
 })
 
-console.log(redirects)
 
 module.exports = {
   mode: "universal",

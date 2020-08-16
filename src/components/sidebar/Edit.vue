@@ -8,7 +8,6 @@ export default {
         currentRoute = currentRoute.split('#')[0]
       }
 
-      console.log(currentRoute)
       this.$router.push({
         name: 'edit',
         path: '/edit',
