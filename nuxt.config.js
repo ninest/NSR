@@ -67,7 +67,7 @@ module.exports = {
     "@nuxtjs/style-resources",
     '@nuxtjs/sitemap',
     '@nuxtjs/redirect-module',
-    '@nuxtjs/robots'
+    '@nuxtjs/robots',
   ],
   // rewrites
   redirect: [
@@ -124,6 +124,9 @@ module.exports = {
         'faDiscord'
       ]
     }
+  },
+  router: {
+    middleware: 'maintenance'
   },
   build: {
     extend (config, ctx) {
