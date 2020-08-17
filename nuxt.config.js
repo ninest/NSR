@@ -126,7 +126,7 @@ module.exports = {
     }
   },
   router: {
-    middleware: 'maintenance'
+    // middleware: 'maintenance'
   },
   build: {
     extend (config, ctx) {
