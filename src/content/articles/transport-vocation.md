@@ -11,7 +11,7 @@ The best thing about being a driver is that you get a [driving licence](https://
 
 ## Transport OOCs
 
-There is a chance of being posted as a supply assistant (storeman) or ASA if you OOC from the driving course due to medical reasons. You will become a Saikang warrior, literally. If you do OOC and get posted to an admin vocation (storeman or ASA), you're NS live will be chill, but tons of Saikang. Basically doing stuff that no one else wants to, like throwing away trash, and putting soap in bottles.
+There is a chance of being posted as a supply assistant (storeman) or ASA if you OOC from the driving course due to medical reasons. You will become a Saikang warrior, literally. If you do OOC and get posted to an admin vocation (storeman or ASA), your NS life will be chill, but tons of Saikang. Basically doing stuff that no one else wants to, like throwing away trash, and putting soap in bottles.
 
 ## Transport Operator
 
