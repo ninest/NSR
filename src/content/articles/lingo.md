@@ -5,6 +5,13 @@ created: 2020-05-15
 tags:
   - general
   - bmt
+
+contributors:
+  - name: lolficerthrow
+    link: https://reddit.com/u/lolficerthrow
+    origin:
+      title: r/NationalServiceSG
+      link: https://www.reddit.com/r/NationalServiceSG/comments/ibauda/unit_vs_company_vs_battalion_vs_division_vs/
 ---
 
 ## Abbreviations
@@ -113,3 +120,18 @@ When you have a condition that prevents you from participating in any activity
 
 **Attend C / MC**
 When you have a condition requires you to stay at home and rest
+
+## Order
+- Man
+- Section: 6 to 16 men
+- Platoon: 2 to 6 sections
+- Company: 2 to 4 platoons
+- Battalion: more than one company
+- Brigade: more than one Battalion
+- Division: more than one Brigade
+- Army
+
+In BMT, there are
+- 16 men in a section
+- 4 sections in a platoon
+- 4 platoons in a company

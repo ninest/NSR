@@ -11,10 +11,11 @@ tags:
 ## Enlistment tips
 
 ### Before enlistment
-- Get a haircut prior to enlistment: you likely won't get much time to shower after the haircut in Tekong. Ask your barber for the "zero" cut, and remember to get it done not more than a day or two before enlistment. If your commanders think your hair is too long, you'll waste $2. Protip: make sure you are unable to pinch and pull your hair after the haircut. If you can, it's not short enough.
+- Get a haircut prior to enlistment: you likely won't get much time to shower after the haircut in Tekong. Ask your barber for the "zero" cut, and remember to get it done not more than a day or two before enlistment. If your commanders think your hair is too long, you'll waste $2. While others are getting their hair cut, you can do whatever you want like use the toilet or start unpacking. Protip: make sure you are unable to pinch and pull your hair after the haircut. If you can, it's not short enough.
 - If you still want to get your first haircut in Tekong, bring $2.
 - Try to learn the difference between a [*sergeant* and an *officer*](/ranks#sir-sergeant-or-encik). 
 - StarHub is usually the fastest service provider (for Tekong), followed by Singtel
+- Your first book out will be with the bag you bring on Day 1 and the assault bag. A medium-sized backpack or duffel bag is enough.
 
 ### Packing guide
 - Washing powder/liquid detergent
