@@ -45,6 +45,12 @@ h2 {
   border-bottom: 2px solid var(--title-border);
 }
 
+h3 {}
+
+h4 {
+  margin-bottom: 0;
+}
+
 
 article {
   a {
@@ -54,7 +60,7 @@ article {
   }
 
   // anchors offset so it isn't covered by navbar
-  h2:before, h3:before, h4:before {
+  h2:before, h3:before {
     display: block;
     content: " ";
     margin-top: -85px;
