@@ -238,7 +238,7 @@ To successfully pass out of BMT, the following are required:
   - IPPT (over 61 points)
   - BTP
   - Field camp
-- 75% attendance
+- 75% attendance (needs confirmation)
 
 After POP, you get 5 days off (+4 counting weekends, so 9 days totally). These 5 days are deducted from your annual leave of 14 days. Posting orders will be available on the Friday after POP.
 

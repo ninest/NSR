@@ -37,6 +37,15 @@ Unfortunately, no one but an MO can give you a definite answer. All you can do i
 ### Going for field camp soon, what is it like? Anyone have any tips?
 Yes, you're in luck. See the Field camp section of [BMT guide](/basic-military-training#field-camp).
 
+### I failed my IPPT. Can I still pass out of BMT?
+To successfully pass out of BMT, the following are required:
+- Pass 2 out of 3 of
+  - IPPT (over 61 points)
+  - BTP
+  - Field camp
+
+So if you fail your IPPT but pass field camp and BTP, you'll still POP. Note that in BMT, you will have 3 IPPT attempts (for enhanced PES A/B).
+
 ### Which vocation can will I get if I am PES A/B/C/E?
 Again, no one can be completely sure. If you are combat-fit (PES A/B), expect a combat vocation like infantry. But combat-fit enlistees can also become transport operators, clerks, or storemen, so no one can be 100% sure.
 
