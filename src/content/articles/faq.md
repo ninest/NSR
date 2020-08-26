@@ -37,6 +37,10 @@ Unfortunately, no one but an MO can give you a definite answer. All you can do i
 ### Going for field camp soon, what is it like? Anyone have any tips?
 Yes, you're in luck. See the Field camp section of [BMT guide](/basic-military-training#field-camp).
 
+### How to I guard my rifle in field camp?
+- At night, clip the sling to your uniform's belt holes. That way, if anyone tries to lift it, it won't come off because it's connected to you. Also hug it when you sleep.
+- Make sure it's never more than a meter away from you.
+
 ### I failed my IPPT. Can I still pass out of BMT?
 To successfully pass out of BMT, the following are required:
 - Pass 2 out of 3 of
