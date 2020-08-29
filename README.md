@@ -33,6 +33,7 @@ Check out [nsr.now.sh/contribute](https://national-service.now.sh/contribute) fo
 - [ninest/enlist](https://github.com/ninest/enlist): An API to get Singapore's public holidays and enlistment dates
 
 ## 👨‍💻 Contributors
+- StoremandoHQ
 - OxySempra
 - [XenonShawn](https://github.com/XenonShawn)
 - kena_tekan

@@ -14,6 +14,7 @@ The source for this website can be found on [GitHub](https://github.com/ninest/n
 Adding a page is easy, click the [**Add article**](/add) button. To edit a page (add content to an exisitng page), click on the **Edit article** button.
 
 Here's a list of contributors 👨‍💻:
+- StoremandoHQ
 - OxySempra
 - [XenonShawn](https://github.com/XenonShawn)
 - kena_tekan

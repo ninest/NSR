@@ -70,10 +70,10 @@ module.exports = {
     '@nuxtjs/robots',
   ],
   // rewrites
-  redirect: [
-    { from: '/general/(.*)$', to: '/$1' },
-    { from: '/bmt/(.*)$', to: '/basic-military-training' },
-  ],
+  // redirect: [
+  //   { from: '/general/(.*)$', to: '/$1' },
+  //   { from: '/bmt/(.*)$', to: '/basic-military-training' },
+  // ],
 
   // robots: {
     // Sitemap: siteConfig.sitemap

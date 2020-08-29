@@ -33,3 +33,7 @@ redirects:
     to: https://discord.com/invite/jZzsPGS
   - from: [reddit, r]
     to: https://www.reddit.com/r/NationalServiceSG/
+  - from: [bmt, bmt/cqb]
+    to: /basic-military-training
+  - from: [telegram-ord-bot]
+    to: /telegram-bots

@@ -1,6 +1,11 @@
 <script>
 export default {
   props: ['error'],
+  mounted () {
+    if (this.$route.path.includes('bmt/cqb')) {
+      this.$router.push('/basic-military-training')
+    }
+  }
 }
 </script>
 
