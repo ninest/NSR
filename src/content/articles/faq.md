@@ -31,6 +31,11 @@ Unfortunately, no one really knows. If you really want to ask, search for the "E
 ### Where can I see the packing guide?
 You should receive the packing list from the MINDEF. Also check out the [BMT page](/basic-military-training), or ask a question on [Reddit](https://www.reddit.com/r/NationalServiceSG) if you have any doubts.
 
+### What kind of spectacles are allowed?
+Black plastic spectacles. Cannot be half-frame. 
+
+If you need to buy a new pair, make sure the receipt is dated after your enlistment, and you can claim $40.
+
 ### I have this condition. Will I get a down PES?
 Unfortunately, no one but an MO can give you a definite answer. All you can do is bring a specialist letter from an outside doctor. If you are in pain and want to down PES, tell your specialist.
 
@@ -49,6 +54,9 @@ To successfully pass out of BMT, the following are required:
   - Field camp
 
 So if you fail your IPPT but pass field camp and BTP, you'll still POP. Note that in BMT, you will have 3 IPPT attempts (for enhanced PES A/B).
+
+### What are the requirements for command school
+Check out the page for [command school](/command-school).
 
 ### Which vocation can will I get if I am PES A/B/C/E?
 Again, no one can be completely sure. If you are combat-fit (PES A/B), expect a combat vocation like infantry. But combat-fit enlistees can also become transport operators, clerks, or storemen, so no one can be 100% sure.
