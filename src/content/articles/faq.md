@@ -53,7 +53,7 @@ To successfully pass out of BMT, the following are required:
   - BTP
   - Field camp
 
-So if you fail your IPPT but pass field camp and BTP, you'll still POP. Note that in BMT, you will have 3 IPPT attempts (for enhanced PES A/B).
+So if you fail your IPPT but pass field camp and BTP, you'll still POP. Note that in BMT, you will have 3 IPPT attempts (for enhanced PES A/B). Hand grenade and BIC are not requirements to POP.
 
 ### What are the requirements for command school
 Check out the page for [command school](/command-school).
