@@ -23,6 +23,7 @@ description: Useful links to various resources relating to National Service in S
 ### Free time
 - [Making use of free time (1)](https://www.reddit.com/r/singapore/comments/9lwo39/how_much_free_time_are_u_given_during_ns_and_how/)
 - [Making use of free time (2)](https://www.reddit.com/r/singapore/comments/ds06fe/what_can_i_do_to_make_best_use_of_free_time_in/)
+- [On duty](https://www.reddit.com/r/NationalServiceSG/comments/ifmgnf/sergeants_duties_what_do_you_do_on_your_free_time/)
 
 ### Experiences
 - [How NSFs are viewed by others](https://www.reddit.com/r/singapore/comments/b7xysj/questions_to_men_who_are_serving_or_served/)
@@ -39,6 +40,11 @@ These websites are usually under maintenance on weekends.
 - [Vocations](https://www.cmpb.gov.sg/web/portal/cmpb/home/ns-vocations/#explore-ns-vocations)
 - [Vocations guide (PDF)](https://www.cmpb.gov.sg/web/wcm/connect/cmpb/226de7de-4248-498d-a595-fabee56c4b73/ns-vocations-handbook.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_1QK41482L8MQ70QO51TJLK00Q6-226de7de-4248-498d-a595-fabee56c4b73-mNB41uf)
 
+### Money
+- [Saving money (1)](/saving-money)
+- [Saving money (2)](https://www.reddit.com/r/NationalServiceSG/comments/igv6jw/what_amount_of_money_should_i_have_saved_by_ord/)
+- [Financial advice](/financial-advice)
+
 ### Parents
 - [Parents guide to NS liability](https://singaporelegaladvice.com/law-articles/national-service-singapore-citizen-permanent-residents)
 
@@ -50,23 +56,48 @@ These websites are usually under maintenance on weekends.
 ### Infantry
 - [Life of an infanteer](https://www.reddit.com/r/singapore/comments/8v8svd/ns_whats_my_life_is_going_to_be_like_for_the_next/)
 - [Life in a combat vocation](https://www.reddit.com/r/singapore/comments/8h7rz6/what_is_life_like_in_a_combat_vocation/)
+- [SCS pro term (1)](https://www.reddit.com/r/NationalServiceSG/comments/iehgfe/scs_infantry_pro_term_questions/)
+- [SCS pro term (COVID-19)](https://www.reddit.com/r/NationalServiceSG/comments/gedu7i/current_scts_in_lynx_mohican_knights_how_is/)
+- [SCS pro term (3)](https://www.reddit.com/r/NationalServiceSG/comments/g0hjlz/infantry_specialist_postings/)
+- [Is infantry as bad as they say it is?](https://www.reddit.com/r/NationalServiceSG/comments/hpez7p/is_infantry_as_bad_as_people_say_it_is/)
+- [Sniper course](https://www.reddit.com/r/NationalServiceSG/comments/homxi5/saf_sniper_course_scs_infantry/)
+- [Life of a mono-intake](https://www.reddit.com/r/NationalServiceSG/comments/glmies/anyone_wanna_share_with_me_how_is_life_as_an/)
 
 ### Transport operator
 - [TO](https://www.reddit.com/r/singapore/comments/e9ysdq/ns_transport_operator_vocation/)
 - [TOs in ICT](https://www.reddit.com/r/singapore/comments/ajxswd/what_do_transport_operators_do_during_ict/)
 - ["1 foot in DB"](https://www.reddit.com/r/NationalServiceSG/comments/ebvd4q/is_the_1_foot_on_the_accelerator_1_foot_in_db/)
 
-### Supply
-- [Ammo](http://www.defense-aerospace.com/articles-view/release/3/69269/s%27pore-opens-integrated-ammo-command-(may-31).html)
-
 ### Commando
 - [Training](https://www.quora.com/What-SSG-commandos-training-include)
 
-### Signals
+### Signals and C4I
 - [Signals training](https://www.reddit.com/r/NationalServiceSG/comments/hpfipn/signals_stagmont_camp_pes_b4/)
+- [SCS pro term](https://www.reddit.com/r/NationalServiceSG/comments/ii48yy/questions_about_scs_signals_pro_term/)
+- [Signing on as C4I](https://www.reddit.com/r/NationalServiceSG/comments/idumlq/questions_about_signing_on_c4i/)
+
+### Military Police
+- [SCS Pro Term (1)](https://www.reddit.com/r/NationalServiceSG/comments/ij782m/scs_pro_term_military_police/)
+- [SCS Pro Term (2)](https://www.reddit.com/r/NationalServiceSG/comments/ii4b8w/mp_spec_professional_term/)
+
+### Combat Engineer
+- [Bridging engineer specialist pros and cons](https://www.reddit.com/r/NationalServiceSG/comments/iiq7im/proscons_of_bridging_engineer_spec/)
+- [Bridging engineer SCS pro term](https://www.reddit.com/r/NationalServiceSG/comments/ii645s/bridging_engineer_spec_for_scs_proterm/)
+
+### Artillery
+- [SCS pro term](https://www.reddit.com/r/NationalServiceSG/comments/ii4ef3/scs_artillery_pro_termkhatib_camp/)
+- [Signallers](https://www.reddit.com/r/NationalServiceSG/comments/ihy02i/23sa_what_to_expect_for_new_posting/)
+
+### Logistics
+- [Non-combat storeman](/storeman-non-combat)
+- [Ammo supply assistant](http://www.defense-aerospace.com/articles-view/release/3/69269/s%27pore-opens-integrated-ammo-command-(may-31).html)
 
 ### Navy
 - [Warfare system operator](https://www.reddit.com/r/singapore/comments/9fq9m6/ns_life_after_bmt/)
+
+### Air Force
+- [AFTC SCS pro term](https://www.reddit.com/r/NationalServiceSG/comments/ii4c3k/reporting_to_hq_aftc_for_scs_pro_term/)
+- [Maintenance engineer](https://www.reddit.com/r/NationalServiceSG/comments/iezr7p/question_for_those_who_signed_on_rsaf_as_airforce/)
 
 ## Past posting orders
 - [02/20](https://www.reddit.com/r/NationalServiceSG/comments/hjn8wi/posting_order_megathread_for_july_2020/)
@@ -78,7 +109,7 @@ These websites are usually under maintenance on weekends.
 - [01/19](https://www.reddit.com/r/singapore/comments/b18omm/ns_postings_0119/)
 - [04/18](https://www.reddit.com/r/singapore/comments/a5z4n7/ns_postings_0418/)
 
-From 2020 onwards, all posting orders will be in [r/NationalServiceSG](https://reddit.com/r/NationalServiceSG/)
+From 2020 onwards, all posting orders will be on [r/NationalServiceSG](https://reddit.com/r/NationalServiceSG/)
 
 ## Stories
 ### Stories
