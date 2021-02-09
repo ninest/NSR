@@ -33,6 +33,7 @@ description: Useful links to various resources relating to National Service in S
 - [How NSFs are viewed by others](https://www.reddit.com/r/singapore/comments/b7xysj/questions_to_men_who_are_serving_or_served/)
 - [Dating advice](https://www.reddit.com/r/singapore/comments/hnjymx/any_advice_on_dating_guys_who_are_still_serving_ns/)
 - [NS experiences](https://www.reddit.com/r/singapore/comments/9nwu7c/nervous_for_ns_anyone_care_to_share_their/)
+- [Best and worst experiences](https://www.reddit.com/r/singapore/comments/jv2ibv/share_with_everyone_your_bestworst_memories_in_ns/)
 
 ### Medical
 
@@ -221,7 +222,7 @@ Just some content to binge read.
 
 - [The toxic contractions of single-gender NS](https://www.reddit.com/r/singapore/comments/h9rvof/essay_the_toxic_contradictions_of_singlegender_ns/)
 - [Is NS a waste of time?](https://www.reddit.com/r/NationalServiceSG/comments/f68l6y/national_service_is_a_waste_of_time/)
-- [NS culuture is ridiculous](https://www.reddit.com/r/singapore/comments/8w0q09/ns_culture_is_ridiculous/)
+- [NS culture is ridiculous](https://www.reddit.com/r/singapore/comments/8w0q09/ns_culture_is_ridiculous/)
 - [NS and the future](https://www.reddit.com/r/singapore/comments/ffaoby/does_ns_really_prepare_you_for_your_future_or_is/)
 - [Are NSFs/NSmen respected?](https://www.reddit.com/r/singapore/comments/86j2b7/do_you_think_nsfsnsmen_are_respected_in_singapore/)
 - [Discrimination against those in uniform](https://www.reddit.com/r/singapore/comments/7dbq5a/discrimination_against_uniform_personnel/)
@@ -231,6 +232,7 @@ Just some content to binge read.
 - [What conscription says about Singapore](https://www.reddit.com/r/singapore/comments/e6pdx1/what_conscription_says_about_singapore/)
 - [Why does Singapore have a draft?](https://www.reddit.com/r/singapore/comments/7xl9g6/why_does_singapore_have_a_draft/)
 - [Why is NS belittled?](https://www.reddit.com/r/singapore/comments/4pa5kp/is_there_a_reason_ns_is_belittled/)
+- [How should NS be improved?](https://www.reddit.com/r/singapore/comments/jchioe/how_should_ns_be_improved/)
 
 ## ORD
 
