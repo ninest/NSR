@@ -233,6 +233,8 @@ Just some content to binge read.
 - [Why does Singapore have a draft?](https://www.reddit.com/r/singapore/comments/7xl9g6/why_does_singapore_have_a_draft/)
 - [Why is NS belittled?](https://www.reddit.com/r/singapore/comments/4pa5kp/is_there_a_reason_ns_is_belittled/)
 - [How should NS be improved?](https://www.reddit.com/r/singapore/comments/jchioe/how_should_ns_be_improved/)
+- [Injuries](https://www.reddit.com/r/singapore/comments/mlxda0/injuries_sustained_duringas_a_result_of_ns/)
+- [Rethinking NS](https://www.reddit.com/r/singapore/comments/mqisit/we_need_to_rethink_singapores_draconian/)
 
 ## ORD
 
