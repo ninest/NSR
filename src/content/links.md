@@ -68,6 +68,10 @@ These websites are usually under maintenance on weekends.
 - [Prons and cons of vocations](https://www.reddit.com/r/singapore/comments/7nz5vf/ns_vocation_pros_and_cons/)
 - [What is mono-intake](https://www.reddit.com/r/singapore/comments/9ncd35/how_do_i_know_if_i_am_in_a_monointake/)
 
+### Command School
+
+- [SCS FAQ](http://scsfaq.blogspot.com/)
+
 ### Infantry
 
 - [Life of an infanteer](https://www.reddit.com/r/singapore/comments/8v8svd/ns_whats_my_life_is_going_to_be_like_for_the_next/)
