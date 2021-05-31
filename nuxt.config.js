@@ -5,20 +5,19 @@ const file = fs.readFileSync("./siteConfig.yml", "utf8");
 const siteConfig = YAML.parse(file);
 
 // for robots.txt
-let redirects = []
+let redirects = [];
 siteConfig.redirects.forEach((red) => {
   red.from.forEach((link) => {
-    redirects.push(`/${link}`)
-  })
-})
-
+    redirects.push(`/${link}`);
+  });
+});
 
 module.exports = {
   mode: "universal",
   target: "static",
   head: {
     htmlAttrs: {
-      lang: 'en',
+      lang: "en",
     },
     title: `${siteConfig.name}`,
     titleTemplate: `%s - ${siteConfig.name}`,
@@ -32,13 +31,12 @@ module.exports = {
       },
     ],
     link: [
-      { rel: 'icon', type: 'image/png', href: '/favicon.png' },
+      { rel: "icon", type: "image/png", href: "/favicon.png" },
 
       // INTER UI font
       {
         rel: "stylesheet",
-        href:
-          "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap",
+        href: "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap",
       },
     ],
 
@@ -57,17 +55,26 @@ module.exports = {
   buildModules: [
     "@nuxt/components",
     "@nuxtjs/fontawesome",
-    ['@nuxtjs/google-analytics', {
-      id: 'UA-161514707-1'
-    }]
+    [
+      "@nuxtjs/google-analytics",
+      {
+        id: "UA-161514707-1",
+      },
+    ],
+    [
+      "@nuxtjs/google-adsense",
+      {
+        id: "ca-pub-3633803003049248",
+      },
+    ],
   ],
   components: true,
   modules: [
     "@nuxt/content",
     "@nuxtjs/style-resources",
-    '@nuxtjs/sitemap',
-    '@nuxtjs/redirect-module',
-    '@nuxtjs/robots',
+    "@nuxtjs/sitemap",
+    "@nuxtjs/redirect-module",
+    "@nuxtjs/robots",
   ],
   // rewrites
   // redirect: [
@@ -76,68 +83,58 @@ module.exports = {
   // ],
 
   // robots: {
-    // Sitemap: siteConfig.sitemap
-    // UserAgent: '*',
-    // Disallow: redirects
-    
+  // Sitemap: siteConfig.sitemap
+  // UserAgent: '*',
+  // Disallow: redirects
+
   // },
 
   // import screen size mixin in all components
   styleResources: {
-    scss: [
-      "styles/screen.scss",
-      "styles/mixins.scss",
-    ],
+    scss: ["styles/screen.scss", "styles/mixins.scss"],
   },
-  // nuxt content 
+  // nuxt content
   content: {
     markdown: {
-      remarkPlugins: ['remark-breaks']
-    }
+      remarkPlugins: ["remark-breaks"],
+    },
   },
 
   sitemap: {
-    hostname: 'https://national-service.now.sh/',
+    hostname: "https://national-service.now.sh/",
     routes: async () => {
-      const { $content } = require('@nuxt/content')
-      const articles = await $content('articles').fetch()
-      
-      let feed = ['/', '/add/']
+      const { $content } = require("@nuxt/content");
+      const articles = await $content("articles").fetch();
+
+      let feed = ["/", "/add/"];
       articles.forEach((art) => {
-        feed.push(`/${art.slug}/`)
-      })
-      return feed
-    }
+        feed.push(`/${art.slug}/`);
+      });
+      return feed;
+    },
   },
 
   fontawesome: {
-    component: 'fa',
+    component: "fa",
     suffix: true,
     icons: {
-      solid: [
-        'faArrowRight',
-        'faRandom',
-        'faPlus',
-        'faPen'
-      ],
-      brands: [
-        'faDiscord'
-      ]
-    }
+      solid: ["faArrowRight", "faRandom", "faPlus", "faPen"],
+      brands: ["faDiscord"],
+    },
   },
   router: {
     // middleware: 'maintenance'
   },
   build: {
-    extend (config, ctx) {
+    extend(config, ctx) {
       config.module.rules.push(
         // YAML loader
         {
           test: /\.ya?ml$/,
-          type: 'json',
-          use: 'yaml-loader'
+          type: "json",
+          use: "yaml-loader",
         }
-      )
-    }
+      );
+    },
   },
-}
+};
