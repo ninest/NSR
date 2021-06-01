@@ -41,7 +41,6 @@ module.exports = {
       },
     ],
 
-
     //light theme by default
     bodyAttrs: {
       class: "light",
@@ -69,7 +68,7 @@ module.exports = {
         id: "G-ZT5H56PKVC",
       },
     ],
-        /* <!-- Global site tag (gtag.js) - Google Analytics -->
+    /* <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZT5H56PKVC"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -92,7 +91,11 @@ module.exports = {
     "@nuxtjs/sitemap",
     "@nuxtjs/redirect-module",
     "@nuxtjs/robots",
+    "@nuxtjs/gtm",
   ],
+  gtm: {
+    id: "G-ZT5H56PKVC",
+  },
   // rewrites
   // redirect: [
   //   { from: '/general/(.*)$', to: '/$1' },

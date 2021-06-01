@@ -8,6 +8,7 @@ tags:
 ---
 
 ## Infantry Song
+
 We are the bedrock of our army
 One thing to keep our people free
 Committed to the independence of our nation
@@ -38,19 +39,20 @@ For Singapore we will give our lives!
 
 ## BMT Roar
 
-*We are the warriors of the SAF*
-*Spirit of the bayonet in our blood*
-*Brothers in arms, comrades for life*
-*Against all odds, we will strive.* 
-*BMT will thrash you AR, crush you AR*
-*BMT will beat you AR, toughen you AR*
+_We are the warriors of the SAF_
+_Spirit of the bayonet in our blood_
+_Brothers in arms, comrades for life_
+_Against all odds, we will strive._
+_BMT will thrash you AR, crush you AR_
+_BMT will beat you AR, toughen you AR_
 
 **Roar!**
 
-*Excel! Through basics!*
-*Excel! Through basics!*
+_Excel! Through basics!_
+_Excel! Through basics!_
 
 ## Training To Be Soldiers
+
 Training to be soldiers
 Fight for our land
 Once in our lives
@@ -74,6 +76,10 @@ Come on every soldier
 Soul and heart
 Do it for our nation
 Do it for our Singapore
+
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
 
 ## Left Toe Right Toe
 
@@ -100,6 +106,7 @@ No sweat, chicken feet ha ha
 All the way
 
 ## When The Whistle Blows
+
 When the whistle blows
 Silence everywhere
 And the flag goes up
@@ -126,6 +133,7 @@ A Viper Coy! warrior
 In the SAF
 
 ## Purple Light
+
 Purple light, in the valley
 That is where, I want to be
 Viper Coy, best companions
@@ -152,27 +160,29 @@ If i died, would you bury me?
 With my rifle and my buddy and me
 
 ## Army Life
+
 They say that in the army, the food is very nice
 You ask for curry chicken, they give you chao ta rice
-*I don't want to live an army life yah.*
-*I just want to live a simple life yah*
+_I don't want to live an army life yah._
+_I just want to live a simple life yah_
 
 They say that in the army, the sergeant very nice
 you ask for early book out, they tell you drop down 5
-*I don't want to live an army life yah.* 
-*I just want to live a simple life yah*
+_I don't want to live an army life yah._
+_I just want to live a simple life yah_
 
 They say that in the army, the rifles very nice
 But when you pull the trigger, the bullet fly behind
-*I don't want to live an army life yah.* 
-*I just want to live a simple life yah*
+_I don't want to live an army life yah._
+_I just want to live a simple life yah_
 
 They say that in the army, the grenades very nice
 But when you throw the grenade, your PC fly behind
-*I don't want to live an army life yah.* 
-*I just want to live a simple life yah*
+_I don't want to live an army life yah._
+_I just want to live a simple life yah_
 
 ## Airborne
+
 A is for Airborne
 I is for in the sky
 R is for rough and tough
@@ -196,7 +206,7 @@ Left them to drown
 We don't need no terrorist
 Hanging around
 
-## *Attend C*
+## _Attend C_
 
 A is for Attend C
 I is for Injury
@@ -217,6 +227,7 @@ Plead him (YAH!)
 Beg him, plead him (YAH YAH!)
 
 ## Cold Wind
+
 In the early morning march
 With a fieldback on my back
 And an aching in my heart
@@ -226,10 +237,10 @@ I'm a long long way from home
 And I miss my mama so
 
 In the early morning march
-*When the cold wind blows*
-*When the cold wind blows*
-*When the cold wind blows*
-*When the cold wind blows*
+_When the cold wind blows_
+_When the cold wind blows_
+_When the cold wind blows_
+_When the cold wind blows_
 
 I know I know
 You have to go
@@ -295,9 +306,10 @@ So we used torchlight
 Torchlight no light
 So we used star light
 Star light not bright
-*So we used Purple Light*
+_So we used Purple Light_
 
-## *Hentak Kaki*
+## _Hentak Kaki_
+
 Count by the count by the left foot count yah
 
 One! Can’t hear your ah!
@@ -321,6 +333,7 @@ We found ourselves a home
 A home, a home sweet home
 
 ## Book Out Day
+
 Today is my book out day, book out book out
 Today is my book out day, book out book out day
 
@@ -329,4 +342,3 @@ No IPPT
 
 No more sergeant tekan me
 Book out book out day
-

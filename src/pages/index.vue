@@ -1,53 +1,53 @@
 <script>
 export default {
-  async asyncData({$content}) {
-    const latestArticles = await $content('articles')
-      .sortBy('created', 'desc')
-      .only(['title', 'slug', 'tags', 'created', 'author'])
-      .fetch()
+  async asyncData({ $content }) {
+    const latestArticles = await $content("articles")
+      .sortBy("created", "desc")
+      .only(["title", "slug", "tags", "created", "author"])
+      .fetch();
 
-    const featuredArticles = await $content('articles')
-      .where({'featured': {$eq: true}})
-      .sortBy('created', 'desc')
-      .only(['title', 'slug', 'tags', 'created', 'author'])
-      .fetch()
-    
+    const featuredArticles = await $content("articles")
+      .where({ featured: { $eq: true } })
+      .sortBy("created", "desc")
+      .only(["title", "slug", "tags", "created", "author"])
+      .fetch();
 
     return {
       latestArticles,
-      featuredArticles
-    }
+      featuredArticles,
+    };
   },
   head() {
     return {
       title: "NSR",
-      titleTemplate: "%s"
-    }
-  }
-}
+      titleTemplate: "%s",
+    };
+  },
+};
 </script>
 
 <template>
-    <!-- title="NS Resources" -->
-  <Default
-    :showAddButton="true"
-  >
+  <!-- title="NS Resources" -->
+  <Default :showAddButton="true">
+    <h1>
+      <div class="title">NSR</div>
+      <div class="long-title">National Service Resources</div>
+    </h1>
 
-  <h1>
-    <div class="title">NSR</div>
-    <div class="long-title">National Service Resources</div>
-  </h1>
-  
-  <section>
-    <h2>Featured</h2>
-    <ArticlePreviewList :articles="featuredArticles"></ArticlePreviewList>
-  </section>
+    <section>
+      <h2>Featured</h2>
+      <ArticlePreviewList :articles="featuredArticles"></ArticlePreviewList>
+    </section>
 
-  <section>
-    <h2>Latest</h2>
-    <ArticlePreviewList :articles="latestArticles"></ArticlePreviewList>
-  </section>
-
+    <section>
+      <h2>Latest</h2>
+      <ArticlePreviewList :articles="latestArticles"></ArticlePreviewList>
+    </section>
+    
+    <div style="margin-top: 1rem">
+      <adsbygoogle />
+    </div>
+    
   </Default>
 </template>
 
@@ -73,21 +73,28 @@ h1 {
       display: block;
       font-style: none;
 
-      color: #0E4500;
+      color: #0e4500;
 
       animation: color-changer 3s infinite;
-
     }
   }
 }
 
 @keyframes color-changer {
-  0% { color: #0E4500 }
+  0% {
+    color: #0e4500;
+  }
 
-  25% { color: #12115F }
+  25% {
+    color: #12115f;
+  }
 
-  75% { color: #006F68 }
+  75% {
+    color: #006f68;
+  }
 
-  0% { color: #0E4500 }
+  0% {
+    color: #0e4500;
+  }
 }
 </style>

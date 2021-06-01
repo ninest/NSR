@@ -7,6 +7,9 @@
         <nuxt-link v-else :to="link.url">{{ link.title }}</nuxt-link>
       </li>
     </ul>
+    <div style="margin-top: 1rem;">
+      <adsbygoogle />
+    </div>
   </div>
 </template>
 
