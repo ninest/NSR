@@ -21,6 +21,8 @@
     "prism-themes": "^1.4.0",
     "remark-breaks": "^1.0.5",
     "sass-loader": "^8.0.2",
+    "vue-gtag": "^1.16.1",
+    "vue-tag": "^1.0.0",
     "yaml": "^1.10.0",
     "yaml-loader": "^0.6.0"
   },
