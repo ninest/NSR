@@ -107,6 +107,9 @@ When someone pretends they don't know anything and (help)
 **You think, I thought, who confirm?**
 The answer Enciks give when you say "I think ...".
 
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
 
 ## Medical
 **PES**
@@ -120,6 +123,7 @@ When you have a condition that prevents you from participating in any activity
 
 **Attend C / MC**
 When you have a condition requires you to stay at home and rest
+
 
 ## Order
 - Man

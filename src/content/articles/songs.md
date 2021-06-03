@@ -206,6 +206,10 @@ Left them to drown
 We don't need no terrorist
 Hanging around
 
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
+
 ## _Attend C_
 
 A is for Attend C

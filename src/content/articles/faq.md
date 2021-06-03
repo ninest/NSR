@@ -46,6 +46,10 @@ Yes, you're in luck. See the Field camp section of [BMT guide](/basic-military-t
 - At night, clip the sling to your uniform's belt holes. That way, if anyone tries to lift it, it won't come off because it's connected to you. Also hug it when you sleep.
 - Make sure it's never more than a meter away from you.
 
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
+
 ### I failed my IPPT. Can I still pass out of BMT?
 To successfully pass out of BMT, the following are required:
 - Pass 2 out of 3 of
@@ -54,6 +58,10 @@ To successfully pass out of BMT, the following are required:
   - Field camp
 
 So if you fail your IPPT but pass field camp and BTP, you'll still POP. Note that in BMT, you will have 3 IPPT attempts (for enhanced PES A/B). Hand grenade and BIC are not requirements to POP.
+
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
 
 ### What are the requirements for command school
 Check out the page for [command school](/command-school).
