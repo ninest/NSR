@@ -39,7 +39,6 @@ These shops **do not** accept emart credits.
 
 <a href="https://black-tactical.com/" class="button" target="_blank">Website</a>
 
-
 Opens **Monday to Saturday** (1200 to 2000 hours)
 Closed every Sunday
 
@@ -47,8 +46,6 @@ Direct bus: 51, 61, 63, 80, 124, 145, 166, 174, 174e, 197, 851, 851e, 961, and 9
 Nearest MRT: EW13/NS25 City Hall
 
 ### Golden Mile Food Centre aka Beach Road Army Market
-
-**Closed until 28 Feb 2021**
 
 Open daily (timing vary across different vendors)
 
@@ -64,7 +61,6 @@ Nearest MRT: CC5 Nicoll Highway CCL
 White Sands Mall opposite Pasir Ris MRT
 
 Open daily (1100 to 2100 hours)
-
 
 ### Ghim Huat Sports
 
@@ -85,5 +81,3 @@ Pasir Ris Bus Interchange Dropoff point
 Open Tuesday to Saturday (1200 to 1930 hours)
 Open on Sunday (1100 to 2030 hours)
 Closed on Monday
-
-

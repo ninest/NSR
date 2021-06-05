@@ -228,6 +228,9 @@ Day 2 is shellscrape-digging day. It's gonna be tough, but don't slack or give u
 ## Hand Grenade
 Hand grenade lasts around a day (half a day if you're lucky).
 
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
 
 ## Close Quarter Battle
 CQB is a 2-day, 1-night outfield.
@@ -251,6 +254,10 @@ To successfully pass out of BMT, the following are required:
 Hand grenade and BIC are not requirements to POP.
 
 After POP, you get 5 days off (+4 counting weekends, so 9 days totally). These 5 days are deducted from your annual leave of 14 days. Posting orders will be available on the Friday after POP.
+
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
 
 ## Videos
 ### Hand Grenade

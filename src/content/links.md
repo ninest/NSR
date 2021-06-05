@@ -54,6 +54,10 @@ These websites are usually under maintenance on weekends.
 - [Saving money (2)](https://www.reddit.com/r/NationalServiceSG/comments/igv6jw/what_amount_of_money_should_i_have_saved_by_ord/)
 - [Financial advice](/financial-advice)
 
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
+
 ### Parents
 
 - [Parents guide to NS liability](https://singaporelegaladvice.com/law-articles/national-service-singapore-citizen-permanent-residents)
@@ -97,6 +101,10 @@ These websites are usually under maintenance on weekends.
 - [TO](https://www.reddit.com/r/singapore/comments/e9ysdq/ns_transport_operator_vocation/)
 - [TOs in ICT](https://www.reddit.com/r/singapore/comments/ajxswd/what_do_transport_operators_do_during_ict/)
 - ["1 foot in DB"](https://www.reddit.com/r/NationalServiceSG/comments/ebvd4q/is_the_1_foot_on_the_accelerator_1_foot_in_db/)
+
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
 
 ### Security trooper
 
@@ -146,6 +154,10 @@ These websites are usually under maintenance on weekends.
 
 - [AFTC SCS pro term](https://www.reddit.com/r/NationalServiceSG/comments/ii4c3k/reporting_to_hq_aftc_for_scs_pro_term/)
 - [Maintenance engineer](https://www.reddit.com/r/NationalServiceSG/comments/iezr7p/question_for_those_who_signed_on_rsaf_as_airforce/)
+
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
 
 ## Past posting orders
 
@@ -214,6 +226,10 @@ From 2020 onwards, all posting orders will be on [r/NationalServiceSG](https://r
 - [mengonewildmagazine](https://www.instagram.com/mengonewildmagazine/?hl=en)
 - [childrenholdingguns](https://www.instagram.com/childrenholdingguns/?hl=en)
 
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
+
 ## AMAs
 
 - [NDP 2019, CO 48 SAR](https://www.reddit.com/r/singapore/comments/cenfcz/im_chairman_mobile_column_for_ndp_2019_and_co_48/)
@@ -243,6 +259,10 @@ Just some content to binge read.
 ## ORD
 
 - [SteamedChickenRice guide](https://www.reddit.com/r/NationalServiceSG/comments/i1uqze/owadio_a_final_psa_for_those_who_are_going_to_ord/)
+
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
 
 ## After NS
 
