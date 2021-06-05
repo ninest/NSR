@@ -14,6 +14,8 @@ contributors:
       link: https://www.reddit.com/r/NationalServiceSG/comments/ibauda/unit_vs_company_vs_battalion_vs_division_vs/
 ---
 
+You may also be looking for [ranks](/ranks) or [marching commands](/commands).
+
 ## Abbreviations
 **BMT(C)**
 Basic Military Training (Center).
@@ -57,6 +59,10 @@ Officer cadet school. Those who pass out of OCS become officiers (2LT rank). 2LT
 **SOL**
 Stoppage of leave. A punishment in which a serviceman is not allowed to leave the camp for a certain number of days.
 
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
+
 ## Words
 
 ### Non-English words
@@ -89,6 +95,10 @@ A smaller group (usually 60 in BMT). One platoon usually occupies one floor.
 
 **Section**
 The smallest group in a company (16 in BMT). One section usually occupies one bunk room.
+
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
 
 **Drop / Knock it down**
 Go in the pushup position.
@@ -134,6 +144,10 @@ When you have a condition requires you to stay at home and rest
 - Brigade: more than one Battalion
 - Division: more than one Brigade
 - Army
+
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
 
 In BMT, there are
 - 16 men in a section

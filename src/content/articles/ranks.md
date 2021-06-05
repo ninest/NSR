@@ -75,6 +75,10 @@ Refer to all Officers and Generals as *Sir*.
 | <image-comp path="ranks/saf/light/lta.png" :reset="true" :rank="true"></image-comp> | Lieutenant | LTA  | 1330 |
 | <image-comp path="ranks/saf/light/cpt.png" :reset="true" :rank="true"></image-comp> | Captain | CPT 
 
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
+
 ## Senior Officers
 
 | Symbol | Rank | Abbr. |
@@ -116,6 +120,9 @@ Information on the equivalent rank may not be accurate, and may differ between u
 | <image-comp path="ranks/saf/light/me7.png" :reset="true" :rank="true"></image-comp> | Military Expert 7 | ME7 | COL |
 | <image-comp path="ranks/saf/light/me8.png" :reset="true" :rank="true"></image-comp> | Military Expert 8 | ME8 | BG |
 
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
 
 ## SAFVC Voluneteers
 

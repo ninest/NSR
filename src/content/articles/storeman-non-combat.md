@@ -44,6 +44,10 @@ It's possible to be posted to a unit as an SA. You may see something like "SA(GE
 
 Those who get Supply assistant on their posting order after BMT will probably go through the Course (unsure of the exact name), which I believe is held in Sembawang camp, similar to the driving course. To see more about the course, refer to **page 39** of the [**NS Vocations Handbook**](https://www.cmpb.gov.sg/web/wcm/connect/cmpb/226de7de-4248-498d-a595-fabee56c4b73/ns-vocations-handbook.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_1QK41482L8MQ70QO51TJLK00Q6-226de7de-4248-498d-a595-fabee56c4b73-mNB41uf).
 
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
+
 
 ## What's a day in my life like?
 - before 0800: wake up/enter camp + (don't) eat breakfast
@@ -106,6 +110,10 @@ With that out of the way, let's talk about respect. Often, storemen are not well
 Sometimes you get punished as a "messenger". Imagine this. Encik tells you to get something from some guy. That guy tells you no because blah blah blah. You tell Encik this exact reason. Now Encik scolds you for not getting the "something" even though it is in no way your fault.
 
 And of course, sometimes you have to do everything yourself because your [upper-study](https://www.reddit.com/r/NationalServiceSG/comments/igww0n/please_actually_help_your_understudy/) won't help you. Sometimes the other storemen chao keng and make you do all their work. I may talk more about this in a rant later.
+
+<div style="margin-top: 1rem">
+  <adsbygoogle />
+</div>
 
 ### FAQs
 
