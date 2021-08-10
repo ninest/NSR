@@ -16,6 +16,15 @@ module.exports = {
   mode: "universal",
   target: "static",
   head: {
+    script: [
+      {
+        // <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3633803003049248"
+        // crossorigin="anonymous"></script>
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3633803003049248",
+        crossorigin: "anonymous",
+        async: true,
+      },
+    ],
     htmlAttrs: {
       lang: "en",
     },
@@ -30,14 +39,14 @@ module.exports = {
         content: `${siteConfig.description}`,
       },
     ],
+
     link: [
       { rel: "icon", type: "image/png", href: "/favicon.png" },
 
       // INTER UI font
       {
         rel: "stylesheet",
-        href:
-          "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap",
+        href: "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap",
       },
     ],
 
