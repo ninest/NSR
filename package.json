@@ -34,7 +34,7 @@
     "@nuxt/content": "^1.4.1",
     "@nuxtjs/fontawesome": "^1.1.2",
     "@nuxtjs/style-resources": "^1.0.0",
-    "node-sass": "^4.14.1"
+    "node-sass": "^7.0.0"
   },
   "keywords": [],
   "author": "",
