@@ -32,7 +32,7 @@ Let's go on ...
 
 Ignoring the transport part, not all is exactly true, because the SAF did not train me to be a supply assistant at all. I OOC-ed, and that's why I'm here, so my only training has been from my potato upper-study or Encik. The second part is very true. Often times if you weren't there, your unit will suffer because there's a lot more stuff they have to do themselves. More about this later
 
-> You will serve as the custodian of the SAF’s inventory, and manage and account for all our capabilities and equipment.
+> You will serve as the custodian of the SAF's inventory, and manage and account for all our capabilities and equipment.
 
 This is true. Note that "manage and account" can also mean "held liable".
 
@@ -45,7 +45,7 @@ It's possible to be posted to a unit as an SA. You may see something like "SA(GE
 Those who get Supply assistant on their posting order after BMT will probably go through the Course (unsure of the exact name), which I believe is held in Sembawang camp, similar to the driving course. To see more about the course, refer to **page 39** of the [**NS Vocations Handbook**](https://www.cmpb.gov.sg/web/wcm/connect/cmpb/226de7de-4248-498d-a595-fabee56c4b73/ns-vocations-handbook.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_1QK41482L8MQ70QO51TJLK00Q6-226de7de-4248-498d-a595-fabee56c4b73-mNB41uf).
 
 <div style="margin-top: 1rem">
-  <adsbygoogle />
+  <AdWrapper />
 </div>
 
 
@@ -112,7 +112,7 @@ Sometimes you get punished as a "messenger". Imagine this. Encik tells you to ge
 And of course, sometimes you have to do everything yourself because your [upper-study](https://www.reddit.com/r/NationalServiceSG/comments/igww0n/please_actually_help_your_understudy/) won't help you. Sometimes the other storemen chao keng and make you do all their work. I may talk more about this in a rant later.
 
 <div style="margin-top: 1rem">
-  <adsbygoogle />
+  <AdWrapper />
 </div>
 
 ### FAQs
@@ -124,7 +124,7 @@ And of course, sometimes you have to do everything yourself because your [upper-
 
 2. How much free time do you get?
 
-  On average, I'd say around 4. Some days, I spend the entire time in office. Other days (for example, when you need to set up for an IPPT), you won't have much free time (but you'll have enough)
+  On average, I'd say around 2 hrs. Some days, I spend the entire time in office. Other days (for example, when you need to set up for an IPPT), you won't have much free time (but you'll have enough)
 
 3. Do you ever go outfield?
 

@@ -1,7 +1,8 @@
-@import "variables.scss";
-@import "font.scss";
-@import "buttons.scss";
-@import "form.scss";
+@use 'variables' as *;
+@use 'mixins' as *;
+@use 'font' as *;
+@use 'buttons' as *;
+@use 'form' as *;
 
 * {
   box-sizing: border-box;

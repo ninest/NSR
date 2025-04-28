@@ -47,7 +47,7 @@ Yes, you're in luck. See the Field camp section of [BMT guide](/basic-military-t
 - Make sure it's never more than a meter away from you.
 
 <div style="margin-top: 1rem">
-  <adsbygoogle />
+  <AdWrapper />
 </div>
 
 ### I failed my IPPT. Can I still pass out of BMT?
@@ -60,7 +60,7 @@ To successfully pass out of BMT, the following are required:
 So if you fail your IPPT but pass field camp and BTP, you'll still POP. Note that in BMT, you will have 3 IPPT attempts (for enhanced PES A/B). Hand grenade and BIC are not requirements to POP.
 
 <div style="margin-top: 1rem">
-  <adsbygoogle />
+  <AdWrapper />
 </div>
 
 ### What are the requirements for command school

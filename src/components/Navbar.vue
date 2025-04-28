@@ -21,6 +21,8 @@
 </template>
 
 <style lang="scss" scoped>
+@import '~/styles/main';
+
 header {
   position: sticky;
   top: 0;
@@ -55,7 +57,6 @@ header {
     }
 
     .bullet {
-
       position: absolute;
       top: 0.52em;
       left: 3.4em;

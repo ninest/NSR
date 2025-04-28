@@ -81,7 +81,7 @@ Always keep extra black tape handy, and share with your buddies. They'll love yo
 - DO NOT SIGN ON THE LINES
 
 <div style="margin-top: 1rem">
-  <adsbygoogle />
+  <AdWrapper />
 </div>
 
 #### Garters and boots
@@ -119,17 +119,17 @@ If you're having trouble remembering the commands, head over to [the guide](/com
 
 1. Drink a lot of water. 
 
-  Shouting will strain your throat especially if you did not breathe correctly. Better lubricate your throat by drinking a lot. That’s why as platoon IC, when they say “HALF WATER BOTTLE DRINK UP!” you drink more than half at least. Full if you can drink damn fast.
+  Shouting will strain your throat especially if you did not breathe correctly. Better lubricate your throat by drinking a lot. That's why as platoon IC, when they say "HALF WATER BOTTLE DRINK UP!" you drink more than half at least. Full if you can drink damn fast.
 
 2. Breathe correctly.
 
-  When you breathe. Breathe from your diaphragm. How to breathe from your diaphragm is you imagine your air going down your stomach. If you cannot visualize, lie down and breathe. You will automatically breathe from your diaphragm. Don’t forget that feeling. 
+  When you breathe. Breathe from your diaphragm. How to breathe from your diaphragm is you imagine your air going down your stomach. If you cannot visualize, lie down and breathe. You will automatically breathe from your diaphragm. Don't forget that feeling. 
 
   Your shoulders should not raise also. If they raise when you try to take a deep breath, that means you wrong liao.
 
 3. Pauses.
 
-  When you shout commands, a pause between the Climb and Finale ( say “1000” in your mind is long enough) will help drive the command into your platoon so that they dun blur and then you dun cock up and paiseh in front of your Sergeant. Helps with clarity as well.
+  When you shout commands, a pause between the Climb and Finale ( say "1000" in your mind is long enough) will help drive the command into your platoon so that they dun blur and then you dun cock up and paiseh in front of your Sergeant. Helps with clarity as well.
 
 4. Practice.
 
@@ -169,9 +169,9 @@ SQUAD! SEDI-A!
 
 Your SQUAD, can say normally, dunnid do anything special just say normally.
 
-Your SEDI, have to be dragged for about 1 second, not too short that your platoon will miss but not too long that your Sergeant will fuck you for dragging. Just drag it for a moment (say “one thousand” in your head) can liao.
+Your SEDI, have to be dragged for about 1 second, not too short that your platoon will miss but not too long that your Sergeant will fuck you for dragging. Just drag it for a moment (say "one thousand" in your head) can liao.
 
-Your A, must be sharp. Bring it down sharp. What I mean is when you say “A”, say as if you brought the hammer down.
+Your A, must be sharp. Bring it down sharp. What I mean is when you say "A", say as if you brought the hammer down.
 
 ```
 [BEGARAK KE-KIRI, KE-KIRI] PU SING!
@@ -184,7 +184,7 @@ So. For *BEGARAK KE-KIRI, KE-KIRI*, this is to basically let your platoon know w
 
 By fast, I do not mean say to the point you trying to step Eminem.
 
-For *PU*, drag. Again, mentally say “one thousand” in your head then continue with
+For *PU*, drag. Again, mentally say "one thousand" in your head then continue with
 
 SING, where you again, bring it down sharp like you whack that mosquito who try to suck your lanjiao for blood.
 
@@ -233,7 +233,7 @@ Day 2 is shellscrape-digging day. It's gonna be tough, but don't slack or give u
 Hand grenade lasts around a day (half a day if you're lucky).
 
 <div style="margin-top: 1rem">
-  <adsbygoogle />
+  <AdWrapper />
 </div>
 
 ## Close Quarter Battle
@@ -260,7 +260,7 @@ Hand grenade and BIC are not requirements to POP.
 After POP, you get 5 days off (+4 counting weekends, so 9 days totally). These 5 days are deducted from your annual leave of 14 days. Posting orders will be available on the Friday after POP.
 
 <div style="margin-top: 1rem">
-  <adsbygoogle />
+  <AdWrapper />
 </div>
 
 ## Videos

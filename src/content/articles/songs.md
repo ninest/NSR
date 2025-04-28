@@ -3,6 +3,7 @@ title: Songs
 description: ECHO AFTER ME AHH! Learn the Infantry song and BMT roar for your POP
 created: 2020-05-15
 tags:
+  - songs
   - general
   - bmt
 ---
@@ -78,7 +79,7 @@ Do it for our nation
 Do it for our Singapore
 
 <div style="margin-top: 1rem">
-  <adsbygoogle />
+  <AdWrapper />
 </div>
 
 ## Left Toe Right Toe
@@ -89,7 +90,7 @@ Left toe right toe, way-loh way-loh ah
 Here we go again
 Same old march again
 Up and down this avenue
-X more days and we’ll be through
+X more days and we'll be through
 
 X more days to book out day
 Book out book out day
@@ -114,7 +115,7 @@ In the battalion square
 
 Soldiers all around
 Never let you down
-‘Cos we are the best
+'Cos we are the best
 In the SAF
 
 So echo echo out loud
@@ -129,7 +130,7 @@ Like flowers in the sky
 
 I wanna be
 A Viper Coy! warrior
-‘Cos we are the best
+'Cos we are the best
 In the SAF
 
 ## Purple Light
@@ -151,7 +152,7 @@ With my rifle and my buddy and me
 
 ORD, back to study
 Get degree, so happy
-Can’t forget, days in army
+Can't forget, days in army
 With my rifle and my buddy and me
 
 Purple light, at the warfront
@@ -207,7 +208,7 @@ We don't need no terrorist
 Hanging around
 
 <div style="margin-top: 1rem">
-  <adsbygoogle />
+  <AdWrapper />
 </div>
 
 ## _Attend C_
@@ -263,9 +264,9 @@ Left right eh ya
 Oh wa eh ya
 Viper eh ya
 
-If my shoot doesn’t open wide
+If my shoot doesn't open wide
 I got a spare one by my side
-If that one doesn’t open too
+If that one doesn't open too
 Oh hard ground I am coming for you
 
 If I land in the Russian Front
@@ -275,12 +276,12 @@ Send me back to Singapore
 
 If I land in Sentosa,
 Send me back by cable car
-If I land in the Old Folk’s Home
+If I land in the Old Folk's Home
 Pack me up and send me home
 
-Tell my mom I’ve done my best
+Tell my mom I've done my best
 Now its time for me to rest
-Tell my girl I’ve done my best
+Tell my girl I've done my best
 Silver wings upon my chest.
 
 ## I Ask My Girl
@@ -316,7 +317,7 @@ _So we used Purple Light_
 
 Count by the count by the left foot count yah
 
-One! Can’t hear your ah!
+One! Can't hear your ah!
 Two! Shout louder ah!
 Three! Much better ah!
 Four! All together now!

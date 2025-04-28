@@ -7,7 +7,18 @@
 </template>
 
 <style lang="scss">
-@import "@/assets/styles/normalize.css";
-@import "@/styles/main.scss";
-@import "@/styles/font.scss";
+@import '~/styles/main';
+@import '~/assets/styles/normalize.css';
+
+.base-layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  .wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+}
 </style>

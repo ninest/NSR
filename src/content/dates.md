@@ -3,18 +3,17 @@ title: Dates
 description: Public holidays and enlistment dates for NSFs
 ---
 
-<alert type="warning">
+<!-- <alert type="warning">
 This page is not yet complete. Please reload if nothing appears.
-</alert>
+</alert> -->
 
-## Public holidays
+## Important Dates
 
-Here is a list of all the remaining public holidays for the year:
+Here is a list of all the upcoming public holidays and enlistment dates:
 
-<date-group group="Public Holiday"></date-group>
-
-## BMT 
+<date-group></date-group>
 
 To find people enlisting on the same day as you, visit the [enlist channel on the Discord server](https://discord.com/channels/692230983650377731/729654637677903926).
 
-<date-group group="BMT"></date-group>
+
+If this calendar does not work, [check out CMPB](https://www.cmpb.gov.sg/before-ns/enlistment-dates).

@@ -1,5 +1,12 @@
 <script>
+import Default from '~/components/layouts/Default.vue'
+import AdWrapper from '~/components/global/AdWrapper.vue'
+
 export default {
+  components: {
+    Default,
+    AdWrapper
+  },
   async asyncData({ $content }) {
     const latestArticles = await $content("articles")
       .sortBy("created", "desc")
@@ -44,9 +51,7 @@ export default {
       <ArticlePreviewList :articles="latestArticles"></ArticlePreviewList>
     </section>
     
-    <div style="margin-top: 1rem">
-      <adsbygoogle />
-    </div>
+    <AdWrapper />
     
   </Default>
 </template>

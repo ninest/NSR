@@ -2,7 +2,6 @@
 title: Useful Apps
 description: Apps related to NS
 created: 2021-06-06
-featured: True
 tags:
   - general
   - utility

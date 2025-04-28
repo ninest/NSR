@@ -1,5 +1,12 @@
 <script>
+import Default from '~/components/layouts/Default.vue'
+import AdWrapper from '~/components/global/AdWrapper.vue'
+
 export default {
+  components: {
+    Default,
+    AdWrapper
+  },
   head() {
     return {
       title: `Add content`,
@@ -58,8 +65,6 @@ export default {
       <button type="submit">Submit</button>
     </form>
 
-    <div style="margin-top: 1rem">
-      <adsbygoogle />
-    </div>
+    <AdWrapper />
   </Default>
 </template>

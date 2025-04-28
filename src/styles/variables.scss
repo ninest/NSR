@@ -1,60 +1,46 @@
 :root {
   --side-p: 8%;
-  @include mobile-screen {
-    --side-p: 5%;
-  }
-
-  // main border radius
   --b-r: 0.4em;
-
-  // a tags
   --link: #0000be;
-
-
-  // colors
   --white-1: #fefefe;  
   --white-2: #eeeeee;
-  --white-3: #e5e7eb; --white-3-rgb: rgba(229, 231, 235, 0.5);
+  --white-3: #e5e7eb;
+  --white-3-rgb: rgba(229, 231, 235, 0.5);
   --white-4: #cdcdcd;
   --white-5: #bcbcbc;
   --white-6: #aaaaaa;
-
   --black-1: #000000;
   --black-2: #111111;
-  --black-3: #121212; // title
+  --black-3: #121212;
   --black-4: #222222;
-  --black-5: #232323; // paragraph
+  --black-5: #232323;
   --black-6: #333333;
   --black-7: #666666;
   --black-8: #999999;
+}
+
+@mixin mobile-screen {
+  @media screen and (max-width: 950px) {
+    --side-p: 5%;
+    @content;
+  }
 }
 
 .light {
   --bg: var(--white-1);
   --bg-opacity: 254, 254, 254;
   --hr: var(--white-5);
-
   --text: var(--black-5);
   --title-border: var(--white-4);
   --toc-item: var(--black-6);
   --alert: var(--black-7Ba);
-
   --button: var(--white-3);
-
   --button-dark: var(--white-3);
   --button-light: var(--black-4);
-
-  // --link-hover: var(--white-3);
   --link-hover: var(--white-3-rgb);
   --nav-link: var(--black-7);
-
-  // used in forms
-  --border: var(--black-8);  
+  --border: var(--black-8);
 }
-
-
-
-
 
 // all colors
 :root {

@@ -1,5 +1,12 @@
 <script>
+import Default from '~/components/layouts/Default.vue'
+import AdWrapper from '~/components/global/AdWrapper.vue'
+
 export default {
+  components: {
+    Default,
+    AdWrapper
+  },
   async asyncData({ $content, params, redirect, app }) {
     const slug = params.slug;
 
@@ -105,9 +112,7 @@ export default {
 
     <hr v-if="this.showRelated" />
 
-    <div style="margin-top: 1rem">
-      <adsbygoogle />
-    </div>
+    <AdWrapper />
 
     <div v-if="this.showRelated" class="similar-articles">
       <section class="related">

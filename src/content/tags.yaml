@@ -8,10 +8,20 @@ tags:
     title: BMT
     slug: bmt
     color: 160, 30, 30
+  
+  scs:
+    title: SCS
+    slug: scs
+    color: 160, 30, 30
 
   vocation:
     title: Vocation
     slug: vocation
+    color: 80, 10, 80
+
+  songs:
+    title: Songs
+    slug: songs
     color: 80, 10, 80
 
   unit:

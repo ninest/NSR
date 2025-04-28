@@ -55,19 +55,24 @@ export default {
 </template>
 
 <style lang="scss" scoped>
+@import '~/styles/main';
+
+.link-hover {
+  text-decoration: none;
+  color: inherit;
+}
+
 .article-preview {
   display: grid;
   grid-template-columns: auto auto;
   align-items: center;
+  padding-bottom: 0.5em;
 
   @include mobile-screen {
     grid-template-columns: 1fr;
     grid-template-rows: auto auto;
     grid-gap: 0.2em;
   }
-
-  padding-bottom: 0.5em;
-
 
   .left {
     .date {
@@ -88,17 +93,14 @@ export default {
 
     .each-tag {
       display: inline-block;
-      
       padding: 0.1rem 0.5rem;
       border-radius: var(--b-r);
-
       font-size: 0.85rem;
       font-weight: 600;
       
-    }
-    .each-tag + .each-tag {
-      margin-left: 0.5rem;
-      
+      & + .each-tag {
+        margin-left: 0.5rem;
+      }
     }
   }
 }

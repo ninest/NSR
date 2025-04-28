@@ -42,22 +42,24 @@ export default {
 </template>
 
 <style lang="scss" scoped>
+@import '~/styles/main';
+
 .meme-asset-group {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1em;
 
   &.less-dense {
     grid-template-columns: 1fr 1fr;
   }
 
-  @include mobile-screen {grid-template-columns: 1fr !important;}
-
-  grid-gap: 1em;
+  @include mobile-screen {
+    grid-template-columns: 1fr !important;
+  }
 
   .meme {
     display: flex;
     flex-direction: column;
-    // background-color: red;
 
     h3 {
       margin: 0;
@@ -66,7 +68,7 @@ export default {
     img {
       margin: 2em;
       width: calc(100% - 2 * 2em);
-      // smaller margin for less dense
+
       &.less-dense {
         margin: 1em;
         width: calc(100% - 2 * 1em);
@@ -74,7 +76,6 @@ export default {
     }
 
     a {
-      
       margin-top: auto;
     }
   }

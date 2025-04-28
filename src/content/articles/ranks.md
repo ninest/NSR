@@ -22,20 +22,20 @@ contributors:
 
 | Symbol | Rank | Abbr. | Min. Allowance (S$) | 
 | -- | -- | -- | -- | 
-| | Recruit | REC | 630 |
-| | Private | PTE | 630 |
-| <image-comp path="ranks/saf/light/lcp.png" :reset="true" :rank="true"></image-comp> | Lance Corporal | LCP | 650 |
-| <image-comp path="ranks/saf/light/cpl.png" :reset="true" :rank="true"></image-comp> | Corporal | CPL | 700 |
-| <image-comp path="ranks/saf/light/cfc.png" :reset="true" :rank="true"></image-comp> | Corporal First Class | CFC  | 740 |
+| | Recruit | REC | 680 |
+| | Private | PTE | 680 |
+| <image-comp path="ranks/saf/light/lcp.png" :reset="true" :rank="true"></image-comp> | Lance Corporal | LCP | 700 |
+| <image-comp path="ranks/saf/light/cpl.png" :reset="true" :rank="true"></image-comp> | Corporal | CPL | 750 |
+| <image-comp path="ranks/saf/light/cfc.png" :reset="true" :rank="true"></image-comp> | Corporal First Class | CFC  | 790 |
 
 ## Specialists
 
 | Symbol | Rank | Abbr. | Min. Allowance (S$) |
 | -- | -- | -- | -- | 
-| <image-comp path="ranks/saf/light/sct.png" :reset="true" :rank="true"></image-comp> | Specialist Cadet | SCT | 720 |
-| <image-comp path="ranks/saf/light/3sg.png" :reset="true" :rank="true"></image-comp> | Third Sergeant | 3SG  | 950 |
-| <image-comp path="ranks/saf/light/2sg.png" :reset="true" :rank="true"></image-comp> | Second Sergeant | 2SG  | 1050 |
-| <image-comp path="ranks/saf/light/1sg.png" :reset="true" :rank="true"></image-comp> | First Sergeant | 1SG  | 1120 |
+| <image-comp path="ranks/saf/light/sct.png" :reset="true" :rank="true"></image-comp> | Specialist Cadet | SCT | 770 |
+| <image-comp path="ranks/saf/light/3sg.png" :reset="true" :rank="true"></image-comp> | Third Sergeant | 3SG  | 1000 |
+| <image-comp path="ranks/saf/light/2sg.png" :reset="true" :rank="true"></image-comp> | Second Sergeant | 2SG  | 1100 |
+| <image-comp path="ranks/saf/light/1sg.png" :reset="true" :rank="true"></image-comp> | First Sergeant | 1SG  | 1170 |
 | <image-comp path="ranks/saf/light/ssg.png" :reset="true" :rank="true"></image-comp>  | Staff Sergeant | SSG |
 | <image-comp path="ranks/saf/light/msg.png" :reset="true" :rank="true"></image-comp>  | Master Sergeant | MMG |
 
@@ -68,15 +68,15 @@ Refer to all Officers and Generals as *Sir*.
 
 | Symbol | Rank | Abbr. | Min. Allowance (S$) |
 | -- | -- | -- | -- |
-| <image-comp path="ranks/saf/light/octl.png" :reset="true" :rank="true"></image-comp> | Officers Cadet, Common Leadership Term | OCT | 910 |
-| <image-comp path="ranks/saf/light/octs.png" :reset="true" :rank="true"></image-comp> | Officers Cadet, Service Term | OCT | 910 |
-| <image-comp path="ranks/saf/light/octp.png" :reset="true" :rank="true"></image-comp> | Officers Cadet, Professional Term | OCT | | 910 |
-| <image-comp path="ranks/saf/light/2lt.png" :reset="true" :rank="true"></image-comp> | Second Lieutenant | 2LT  | 1150 |
-| <image-comp path="ranks/saf/light/lta.png" :reset="true" :rank="true"></image-comp> | Lieutenant | LTA  | 1330 |
+| <image-comp path="ranks/saf/light/octl.png" :reset="true" :rank="true"></image-comp> | Officers Cadet, Common Leadership Term | OCT | 960 |
+| <image-comp path="ranks/saf/light/octs.png" :reset="true" :rank="true"></image-comp> | Officers Cadet, Service Term | OCT | 960 |
+| <image-comp path="ranks/saf/light/octp.png" :reset="true" :rank="true"></image-comp> | Officers Cadet, Professional Term | OCT | 960 |
+| <image-comp path="ranks/saf/light/2lt.png" :reset="true" :rank="true"></image-comp> | Second Lieutenant | 2LT  | 1200 |
+| <image-comp path="ranks/saf/light/lta.png" :reset="true" :rank="true"></image-comp> | Lieutenant | LTA  | 1380 |
 | <image-comp path="ranks/saf/light/cpt.png" :reset="true" :rank="true"></image-comp> | Captain | CPT 
 
 <div style="margin-top: 1rem">
-  <adsbygoogle />
+  <AdWrapper />
 </div>
 
 ## Senior Officers
@@ -121,7 +121,7 @@ Information on the equivalent rank may not be accurate, and may differ between u
 | <image-comp path="ranks/saf/light/me8.png" :reset="true" :rank="true"></image-comp> | Military Expert 8 | ME8 | BG |
 
 <div style="margin-top: 1rem">
-  <adsbygoogle />
+  <AdWrapper />
 </div>
 
 ## SAFVC Voluneteers
@@ -138,13 +138,13 @@ Information on the equivalent rank may not be accurate, and may differ between u
 
 | Vocations | Allowance (S$) |
 | -- | -- |
-| Service and Technical vocations[^2] | 50 |
-| Combat vocations | 175 |
+| Service and Technical vocations[^2] | 75 |
+| Combat vocations | 225 |
 
-Example: A combat vocation PTE gets (580 + 50) + 175
+Example: A combat vocation PTE gets (680 + 75) + 225
 
 <!-- | Armor, Guards, Infantry, Combat Medics, Commanders in Medical Response Force / SCDF, Seagoing, Aircrew | 225 | -->
 <!-- | Commando, Naval diver, Chemical / biological / radiological defense | 400 | -->
 
 [^1]: See [this](https://reddit.com/comments/5e7ewx/c/daddq8f) comment for more information
-[^2]: This $50 has already been added to the allowance of all the listed ranks in the tables above
+[^2]: This $75 has already been added to the allowance of all the listed ranks in the tables above

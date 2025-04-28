@@ -16,7 +16,7 @@ module.exports = {
   mode: "universal",
   target: "static",
   head: {
-    script: [
+    script: process.env.NODE_ENV === 'production' ? [
       {
         // <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3633803003049248"
         // crossorigin="anonymous"></script>
@@ -24,6 +24,25 @@ module.exports = {
         crossorigin: "anonymous",
         async: true,
       },
+      {
+        type: 'application/ld+json',
+        json: {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": `${siteConfig.name}`,
+          "url": "https://national-service.vercel.app/"
+        }
+      }
+    ] : [
+      {
+        type: 'application/ld+json',
+        json: {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": `${siteConfig.name}`,
+          "url": "https://national-service.vercel.app/"
+        }
+      }
     ],
     htmlAttrs: {
       lang: "en",
@@ -38,6 +57,9 @@ module.exports = {
         name: "description",
         content: `${siteConfig.description}`,
       },
+      { name: "application-name", content: `${siteConfig.name}` },
+      { property: "og:site_name", content: `${siteConfig.name}` },
+      { name: "twitter:title", content: `${siteConfig.name}` },
     ],
 
     link: [
@@ -113,7 +135,7 @@ module.exports = {
 
   // import screen size mixin in all components
   styleResources: {
-    scss: ["styles/screen.scss", "styles/mixins.scss"],
+    scss: ["~/styles/screen.scss", "~/styles/mixins.scss", "~/styles/variables.scss"],
   },
   // nuxt content
   content: {
@@ -129,6 +151,13 @@ module.exports = {
       const articles = await $content("articles").fetch();
 
       let feed = ["/", "/add/"];
+      
+      // Add static pages from siteConfig
+      siteConfig.pages.forEach(page => {
+        feed.push(`/${page}/`);
+      });
+
+      // Add article pages
       articles.forEach((art) => {
         feed.push(`/${art.slug}/`);
       });

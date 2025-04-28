@@ -7,11 +7,19 @@
         <nuxt-link v-else :to="link.url">{{ link.title }}</nuxt-link>
       </li>
     </ul>
-    <div style="margin-top: 1rem;">
-      <adsbygoogle />
-    </div>
+    <AdWrapper />
   </div>
 </template>
+
+<script>
+import AdWrapper from '~/components/global/AdWrapper.vue'
+
+export default {
+  components: {
+    AdWrapper
+  }
+}
+</script>
 
 <style lang="scss" scoped>
 ul {
