@@ -1,6 +1,7 @@
 <script>
 import Default from '~/components/layouts/Default.vue'
 import AdWrapper from '~/components/global/AdWrapper.vue'
+import { createSeoHead } from '~/utils/seo'
 
 export default {
   components: {
@@ -8,16 +9,12 @@ export default {
     AdWrapper
   },
   head() {
-    return {
+    return createSeoHead({
+      siteConfig: this.siteConfig,
+      route: this.$route,
       title: `Add content`,
-      meta: [
-        {
-          hid: "description",
-          name: "description",
-          content: `Add content to NSR`,
-        },
-      ],
-    };
+      description: `Add content to NSR`,
+    });
   },
 };
 </script>

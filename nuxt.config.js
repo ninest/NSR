@@ -3,6 +3,14 @@ import YAML from "yaml";
 
 const file = fs.readFileSync("./siteConfig.yml", "utf8");
 const siteConfig = YAML.parse(file);
+const siteUrl = siteConfig.url.replace(/\/$/, "");
+const websiteJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": siteConfig.name,
+  "alternateName": [siteConfig.shortName, "NS Resources"],
+  "url": `${siteUrl}/`
+};
 
 // for robots.txt
 let redirects = [];
@@ -26,22 +34,12 @@ module.exports = {
       },
       {
         type: 'application/ld+json',
-        json: {
-          "@context": "https://schema.org",
-          "@type": "WebSite",
-          "name": `${siteConfig.name}`,
-          "url": "https://national-service.vercel.app/"
-        }
+        json: websiteJsonLd
       }
     ] : [
       {
         type: 'application/ld+json',
-        json: {
-          "@context": "https://schema.org",
-          "@type": "WebSite",
-          "name": `${siteConfig.name}`,
-          "url": "https://national-service.vercel.app/"
-        }
+        json: websiteJsonLd
       }
     ],
     htmlAttrs: {
@@ -58,8 +56,12 @@ module.exports = {
         content: `${siteConfig.description}`,
       },
       { name: "application-name", content: `${siteConfig.name}` },
-      { property: "og:site_name", content: `${siteConfig.name}` },
-      { name: "twitter:title", content: `${siteConfig.name}` },
+      { name: "apple-mobile-web-app-title", content: `${siteConfig.shortName}` },
+      { hid: "og:site_name", property: "og:site_name", content: `${siteConfig.name}` },
+      { hid: "og:title", property: "og:title", content: `${siteConfig.name}` },
+      { hid: "og:type", property: "og:type", content: "website" },
+      { hid: "og:url", property: "og:url", content: `${siteUrl}/` },
+      { hid: "twitter:title", name: "twitter:title", content: `${siteConfig.name}` },
     ],
 
     link: [
@@ -126,12 +128,11 @@ module.exports = {
   //   { from: '/bmt/(.*)$', to: '/basic-military-training' },
   // ],
 
-  // robots: {
-  // Sitemap: siteConfig.sitemap
-  // UserAgent: '*',
-  // Disallow: redirects
-
-  // },
+  robots: {
+    UserAgent: "*",
+    Disallow: "",
+    Sitemap: siteConfig.sitemap,
+  },
 
   // import screen size mixin in all components
   styleResources: {
@@ -145,7 +146,7 @@ module.exports = {
   },
 
   sitemap: {
-    hostname: "https://national-service.now.sh/",
+    hostname: `${siteUrl}/`,
     routes: async () => {
       const { $content } = require("@nuxt/content");
       const articles = await $content("articles").fetch();

@@ -1,6 +1,7 @@
 <script>
 import Default from '~/components/layouts/Default.vue'
 import AdWrapper from '~/components/global/AdWrapper.vue'
+import { createSeoHead } from '~/utils/seo'
 
 export default {
   components: {
@@ -64,16 +65,12 @@ export default {
     };
   },
   head() {
-    return {
+    return createSeoHead({
+      siteConfig: this.siteConfig,
+      route: this.$route,
       title: `${this.article.title}`,
-      meta: [
-        {
-          hid: "description",
-          name: "description",
-          content: `${this.article.description}`,
-        },
-      ],
-    };
+      description: this.article.description,
+    });
   },
   computed: {
     showRelated() {

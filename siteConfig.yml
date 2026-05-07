@@ -1,7 +1,8 @@
-name: NS Resources
+name: National Service Resources
 shortName: NSR
 description: Articles, resources, tools, information, and guides related to National Service in Singapore. For NSFs from NSFs
-sitemap: https://national-service.now.sh/sitemap.xml
+url: https://national-service.vercel.app
+sitemap: https://national-service.vercel.app/sitemap.xml
 
 pages:
   - links

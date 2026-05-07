@@ -1,6 +1,7 @@
 <script>
 import Default from '~/components/layouts/Default.vue'
 import AdWrapper from '~/components/global/AdWrapper.vue'
+import { createSeoHead } from '~/utils/seo'
 
 export default {
   components: {
@@ -25,16 +26,17 @@ export default {
     };
   },
   head() {
-    return {
-      title: "NSR",
+    return createSeoHead({
+      siteConfig: this.siteConfig,
+      route: this.$route,
+      title: this.siteConfig.name,
       titleTemplate: "%s",
-    };
+    });
   },
 };
 </script>
 
 <template>
-  <!-- title="NS Resources" -->
   <Default :showAddButton="true">
     <h1>
       <div class="title">NSR</div>

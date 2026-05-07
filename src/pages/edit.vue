@@ -1,4 +1,6 @@
 <script>
+import { createSeoHead } from '~/utils/seo'
+
 export default {
   data() {
     return {
@@ -6,16 +8,12 @@ export default {
     }
   },
   head() {
-    return {
+    return createSeoHead({
+      siteConfig: this.siteConfig,
+      route: this.$route,
       title: `Edit content`,
-      meta: [
-        {
-          hid: "description",
-          name: "description",
-          content: `Edit existing content on NSR`,
-        },
-      ]
-    }
+      description: `Edit existing content on NSR`,
+    })
   },
 }
 </script>
@@ -40,7 +38,7 @@ export default {
           :value="pageId"
           id="pageid"
         >
-        <div class="bottom">The page ID is the text you see in the URL (example: https://national-service.now.sh/<b>page-id</b>/)</div>
+        <div class="bottom">The page ID is the text you see in the URL (example: {{ siteConfig.url }}/<b>page-id</b>/)</div>
       </section>
 
       <section>
