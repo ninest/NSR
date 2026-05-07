@@ -49,7 +49,7 @@ export default {
 .article-list {
   // spacing between articles above/below each other
   a + a {
-    margin-top: 1.2rem;
+    margin-top: 0.4rem;
   }
 }
 </style>

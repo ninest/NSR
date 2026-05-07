@@ -42,7 +42,10 @@ h1 {
 
 h2 {
   font-weight: 700;
-  font-size: 2em;
+  font-size: 1.6em;
+  line-height: 1.25;
+  margin: 0.95em 0 0.55em;
+  padding-bottom: 0.2em;
 
   border-bottom: 2px solid var(--title-border);
 }
@@ -75,7 +78,7 @@ article {
   .footnotes {
     margin-top: 2em;
     color: var(--toc-item);
-    
+
     // hide the line
     hr { display: none; }
 

@@ -32,7 +32,11 @@ export default {
   },
   computed: {
     formattedDate() {
-      return this.formatDate(this.date)
+      const date = new Date(this.date)
+      return date.toLocaleDateString("en-US", {
+        month: "short",
+        year: "numeric",
+      })
     }
   },
 }
@@ -40,7 +44,7 @@ export default {
 
 <template>
   <nuxt-link :to="`/${slug}`" class="link-hover article-preview">
-    <div class="left">
+    <div class="headline">
       <div class="date">{{ this.formattedDate }}</div>
       <h3>{{ this.title }}</h3>
     </div>
@@ -63,41 +67,37 @@ export default {
 }
 
 .article-preview {
-  display: grid;
-  grid-template-columns: auto auto;
-  align-items: center;
+  display: block;
   padding-bottom: 0.5em;
 
-  @include mobile-screen {
-    grid-template-columns: 1fr;
-    grid-template-rows: auto auto;
-    grid-gap: 0.2em;
-  }
+  .headline {
+    display: grid;
+    grid-template-columns: 5rem minmax(0, 1fr);
+    align-items: baseline;
+    column-gap: 0.75rem;
 
-  .left {
     .date {
       opacity: 0.7;
-      font-size: 0.9rem;
+      font-size: 0.85rem;
     }
 
     h3 {
       margin: 0;
-      font-size: 1.1rem;
+      font-size: 1rem;
     }
-  } 
+  }
 
   .tags {
-    @include not-mobile-screen {
-      justify-self: end;
-    }
+    margin-top: 0.2rem;
+    margin-left: 5.75rem;
 
     .each-tag {
       display: inline-block;
-      padding: 0.1rem 0.5rem;
+      padding: 0.05rem 0.4rem;
       border-radius: var(--b-r);
-      font-size: 0.85rem;
+      font-size: 0.78rem;
       font-weight: 600;
-      
+
       & + .each-tag {
         margin-left: 0.5rem;
       }
