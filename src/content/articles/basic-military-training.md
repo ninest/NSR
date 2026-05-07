@@ -1,5 +1,5 @@
 ---
-title: Basic military training
+title: Basic military training guide
 description: Information on BMT, CQB, field camp, BTP, POP, IPPT, enlistment for NS
 created: 2020-04-29
 featured: True
