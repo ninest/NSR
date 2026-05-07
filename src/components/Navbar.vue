@@ -10,6 +10,9 @@
           <nuxt-link to="/basic-military-training" class="link-hover">BMT</nuxt-link>
         </li>
         <li>
+          <nuxt-link to="/faq" class="link-hover">FAQ</nuxt-link>
+        </li>
+        <li>
           <nuxt-link to="/links" class="link-hover">Links</nuxt-link>
         </li>
         <li>
@@ -73,15 +76,27 @@ header {
     margin: 0;
     padding: 0;
     display: flex;
+    align-items: center;
+    gap: 0.8em;
 
     li {
       font-weight: 600;
       color: var(--nav-link);
     }
-    li + li {
-      margin-left: 2em;
-      @include mobile-screen {
-        margin-left: 1.4em;
+
+    .link-hover {
+      display: inline-flex;
+      align-items: center;
+      margin: 0;
+      line-height: 1;
+    }
+
+    @include mobile-screen {
+      gap: 0.5em;
+
+      .link-hover {
+        padding-right: 0.35em;
+        padding-left: 0.35em;
       }
     }
   }

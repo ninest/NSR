@@ -29,6 +29,7 @@ ul {
   
   display: flex;
   flex-flow: wrap;
+  gap: 0.3rem 0.75rem;
 
   font-weight: 600;
   font-size: 0.9rem;
@@ -36,19 +37,12 @@ ul {
 
   li {
     display: inline-block;
-    margin-right: 0.9rem;
-    
-    margin-bottom: 0.5rem;
 
   }
   
   @include mobile-screen {
     font-size: 1.1rem;
-
-    li {
-      margin-right: 1.5rem;
-      margin-bottom: 0.75rem;
-    }
+    gap: 0.35rem 1rem;
   }
 }
 </style>
