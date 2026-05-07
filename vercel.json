@@ -9,6 +9,18 @@
       }
     }
   ],
+  "redirects": [
+    {
+      "source": "/drill-commands",
+      "destination": "/commands",
+      "permanent": true
+    },
+    {
+      "source": "/drill-commands/",
+      "destination": "/commands/",
+      "permanent": true
+    }
+  ],
   "routes": [
     {
       "src": "/(.*)",

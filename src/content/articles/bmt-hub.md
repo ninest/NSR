@@ -1,5 +1,5 @@
 ---
-title: BMT Hub
+title: "Basic Military Training Hub: Enlistment, Packing list, Field Camp, POP"
 description: Start here for BMT, enlistment, ranks, lingo, FAQs, packing, IPPT, and useful Singapore National Service links.
 created: 2026-05-07
 featured: true
@@ -13,13 +13,14 @@ Start here if you are entering National Service in Singapore, especially if you 
 ## Start here
 
 - **[Basic military training guide](/basic-military-training): packing, enlistment tips, admin time, field camp, route march, BTP, POP, and BMT survival notes.**
+- [Before enlistment checklist](/before-enlistment): quick haircut, packing, phone battery, fitness, and first-day prep.
 - [Frequently asked questions](/faq): haircut, packing list, field camp, IPPT, PES, vocation, and common pre-enlistment questions.
 - [Enlistment dates and public holidays](/dates): upcoming dates and public holidays to plan around.
 - [Useful links](/links): external guides, Reddit threads, official resources, and broader NS links.
 
 ## First-week essentials
 
-- [Hair requirement](/hair-requirement): what haircut to get before enlistment.
+- [Hair requirement](/hair-requirement): what haircut to get before enlistment, a guide on the haircut style, and what to avoid.
 - [Glasses requirement](/glasses-requirement): what spectacles are allowed and what to prepare.
 - [IPPT calculator](/ippt): estimate your IPPT score before enlistment or during training.
 - [Useful apps](/apps): apps that make NS admin and daily life easier.
@@ -36,7 +37,7 @@ Start here if you are entering National Service in Singapore, especially if you 
 
 - [BMT guide: Field camp](/basic-military-training#field-camp): field discipline, rifle security, body maintenance, MREs, shellscrape, and outfield tips.
 - [BMT guide: Route march](/basic-military-training#route-march): pacing, socks, and marching tips.
-- [BMT guide: Passing out of BMT](/basic-military-training#passing-out): IPPT, BTP, field camp, and POP requirements.
+- [BMT guide: Passing out of BMT](/basic-military-training#passing-out-parade): IPPT, BTP, field camp, and POP requirements.
 - [Songs](/songs): Infantry Song, BMT Roar, and other common NS songs.
 - [BMT Roar (POP) Song](/bmt-roar-pop-song): direct BMT Roar lyrics page.
 

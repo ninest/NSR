@@ -6,7 +6,7 @@ export default {
     }
   },
   async fetch() {
-    const events = (await this.$content('other/2025-dates')
+    const events = (await this.$content('other/2026-dates')
       .fetch()).result.items
     
     const now = new Date()
@@ -31,6 +31,9 @@ export default {
   <div class="date-group">
     <div v-if="$fetchState.pending">
       Loading ...
+    </div>
+    <div v-else-if="events.length === 0" class="empty">
+      No upcoming dates loaded. Check the official CMPB enlistment dates page.
     </div>
     <div 
       v-else
@@ -63,6 +66,13 @@ export default {
     h3 {
       margin: 0
     }
+  }
+
+  .empty {
+    grid-column: 1 / -1;
+    padding: 1em;
+    border-radius: var(--b-r);
+    background-color: #f5f5f5;
   }
 
   .holiday {

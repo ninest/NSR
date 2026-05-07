@@ -36,5 +36,7 @@ redirects:
     to: https://www.reddit.com/r/NationalServiceSG/
   - from: [bmt, bmt/cqb]
     to: /basic-military-training
+  - from: [drill-commands]
+    to: /commands
   - from: [telegram-ord-bot]
     to: /telegram-bots

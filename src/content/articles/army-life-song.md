@@ -8,6 +8,10 @@ tags:
 
 [*Click here to see all the songs*](/songs)
 
+This is one of those call-and-response army songs where every batch seems to have a slightly different version. The point is not perfect lyrics. Just know the tune, shout together, and don't be the only guy standing there silently when everyone else is singing.
+
+## Lyrics
+
 They say that in the army, the food is very nice
 You ask for curry chicken, they give you chao ta rice
 I don’t wanna live an army life ya
@@ -27,3 +31,9 @@ They say that in the army, the pay is very fine
 They give you hundred dollars, then take back ninety-nine
 I don’t wanna live an army life ya
 I just wanna live a simple life ya
+
+## Notes
+
+- The verses are usually swapped around depending on who is leading.
+- If your section has its own cleaner version, follow that. Or don't :)
+- For POP-related songs, see [BMT Roar](/bmt-roar-pop-song) and [Infantry Song](/infantry-song).

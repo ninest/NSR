@@ -7,6 +7,8 @@ tags:
   - bmt
 ---
 
+If you're looking for a full directory of BMT-related resources, check out the [BMT hub](/bmt-hub).
+
 
 ## Enlistment tips
 

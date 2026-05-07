@@ -8,6 +8,10 @@ tags:
 
 [*Click here to see all the songs*](/songs)
 
+This is the BMT POP hype song. You'll usually care about it only near the end of BMT, when rehearsals start and everyone suddenly needs to remember lyrics properly.
+
+## Lyrics
+
 BMT, are you ready?
 (READY)
 ATTENTION!
@@ -29,3 +33,8 @@ ROAR
 Excel! Through basics!
 Excel! Through basics!
 
+## Notes
+
+- Learn it together with the [Infantry Song](/infantry-song) if your POP rehearsal needs both.
+- The shouting matters more than sounding nice.
+- If your company teaches a different timing, follow your company.

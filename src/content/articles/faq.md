@@ -29,9 +29,25 @@ Just normal medical check-up stuff such as height, weight, urine and a blood dra
 Unfortunately, no one really knows. If you really want to ask, search for the "Enlistment" thread on the NS Subreddit. Do not create a new post, just look for the pinned post with the flair "Enlistment".
 
 ### Where can I see the packing guide?
-You should receive the packing list from the MINDEF. Also check out the [BMT page](/basic-military-training), or ask a question on [Reddit](https://www.reddit.com/r/NationalServiceSG) if you have any doubts.
+
+You should receive the packing list from MINDEF or your enlistment instructions. Also check out the [before enlistment checklist](/before-enlistment) and [BMT page](/basic-military-training).
+
+Reddit packing threads are useful for extra stuff like hangers, ziplock bags, power banks, wet wipes, and how not to overpack. But if Reddit and your enlistment letter disagree, follow your enlistment letter.
+
+### How many civilian clothes should I bring?
+
+Usually not many. You'll be issued admin attire, and many recruits say civilian shirts just become extra weight. Bring one spare set if you want peace of mind, but don't pack like chalet.
+
+For underwear, bring more. 7 to 12 pairs is usually enough for confinement week depending on how often you want to wash.
+
+### Can I use wall plugs in BMT?
+
+Depends on company and location. Bring power banks even if someone online says wall plugs were allowed for their batch.
+
+CMPB says wall plugged chargers are not allowed for Home Team Academy. For SAF BMT, follow your enlistment letter and your commanders' instructions.
 
 ### What kind of spectacles are allowed?
+
 Black plastic spectacles. Cannot be half-frame. 
 
 If you need to buy a new pair, make sure the receipt is dated after your enlistment, and you can claim $40.
@@ -59,6 +75,9 @@ To successfully pass out of BMT, the following are required:
 
 So if you fail your IPPT but pass field camp and BTP, you'll still POP. Note that in BMT, you will have 3 IPPT attempts (for enhanced PES A/B). Hand grenade and BIC are not requirements to POP.
 
+### I missed field camp because I was sick. Will I OOC?
+Not automatically. The usual answer is that you need to pass 2 out of 3: IPPT, BTP, and field camp. But your commanders and MO decide what happens for your case, especially if you miss a lot of training days.
+
 <div style="margin-top: 1rem">
   <AdWrapper />
 </div>
@@ -66,10 +85,10 @@ So if you fail your IPPT but pass field camp and BTP, you'll still POP. Note tha
 ### What are the requirements for command school
 Check out the page for [command school](/command-school).
 
-### Which vocation can will I get if I am PES A/B/C/E?
+### Which vocation can I get if I am PES A/B/C/E?
 Again, no one can be completely sure. If you are combat-fit (PES A/B), expect a combat vocation like infantry. But combat-fit enlistees can also become transport operators, clerks, or storemen, so no one can be 100% sure.
 
-Typically, lower PESes lie C to E get admin jobs (ASA/SA) or transport.
+Typically, lower PESes like C to E get admin jobs (ASA/SA) or transport.
 
 ### Are PES Es and Fs second-class citizens?
 **No**. People do not care about your PES unless you want to sign on and become a regular.
