@@ -10,6 +10,9 @@
           <nuxt-link to="/bmt-hub" class="link-hover">BMT</nuxt-link>
         </li>
         <li>
+          <nuxt-link to="/ord-countdown" class="link-hover">ORD</nuxt-link>
+        </li>
+        <li>
           <nuxt-link to="/faq" class="link-hover">FAQ</nuxt-link>
         </li>
         <li>

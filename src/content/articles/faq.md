@@ -97,6 +97,9 @@ See the full [PES guide](/pes) for what each grade means, and [how vocations and
 ### How much allowance do I get in NS?
 A recruit takes home $790 a month (from July 2025), and it goes up with your rank and vocation. See the full [NSF pay and allowance](/nsf-allowance) breakdown.
 
+### How many days do I have left until ORD?
+NS is 2 years, or about 1 year 10 months if you clear the Pre-Enlistee IPPT. Use the [ORD countdown](/ord-countdown) to see the days, weekends, and working days left.
+
 ### Are PES Es and Fs second-class citizens?
 **No**. People do not care about your PES unless you want to sign on and become a regular.
 

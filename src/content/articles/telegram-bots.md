@@ -28,3 +28,5 @@ It's [open source](https://github.com/markus-lendermann/temperature-ops-bot).
 [t.me/OWADIObot](https://t.me/OWADIObot)
 
 Count your days down to your Pink IC without the need to download an App! Try me out! 😊
+
+Prefer not to use Telegram? Use the on-site [ORD countdown](/ord-countdown) instead. Enter your ORD date and it shows the days, weekends, and working days left, with a shareable link.
