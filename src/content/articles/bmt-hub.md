@@ -23,7 +23,7 @@ Start here if you are entering National Service in Singapore, especially if you 
 - [Hair requirement](/hair-requirement): what haircut to get before enlistment, a guide on the haircut style, and what to avoid.
 - [Glasses requirement](/glasses-requirement): what spectacles are allowed and what to prepare.
 - [IPPT calculator](/ippt): estimate your IPPT score before enlistment or during training.
-- [ORD countdown](/ord-countdown): count the days, weekends, and working days left until you ORD.
+- [ORD calculator and countdown](/ord-countdown): count the days, weekends, and working days left until you ORD.
 - [Useful apps](/apps): apps that make NS admin and daily life easier.
 - [Telegram bots](/telegram-bots): ORD counters and other useful NS bots.
 
