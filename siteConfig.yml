@@ -9,6 +9,7 @@ pages:
   - about
   - dates
   - ippt
+  - ord-countdown
   - mn
 
 footerLinks:
@@ -40,3 +41,5 @@ redirects:
     to: /commands
   - from: [telegram-ord-bot]
     to: /telegram-bots
+  - from: [ord]
+    to: /ord-countdown
