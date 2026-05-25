@@ -6,11 +6,34 @@ tags:
   - scs
 ---
 
-The Specialist Cadet School (SCS) serves as the junior leadership school of the Singapore Armed Forces (SAF). It trains selected soldiers from all arms who demonstrate leadership potential to become specialists, equivalent to non-commissioned officers in other armed forces. SCS comprises three component schools (SCS I, SCS II, and SCS III) and operates under the Specialist and Warrant Officer Institute (SWI) at Pasir Laba Camp in the Western Water Catchment of Singapore
+The Specialist Cadet School (SCS) is the junior leadership school of the Singapore Armed Forces (SAF). It trains selected soldiers from all arms into specialists, the SAF equivalent of non-commissioned officers (NCOs) in other armed forces.
 
-As part of SWI, SCS supports the institute’s mission to develop effective, dynamic, and committed Warrant Officers and Specialists with a proud identity anchored on shared values. The school upholds the motto “With Pride We Lead,” instilling in cadets the principles of loyalty, duty, respect, care, integrity, discipline, and excellence in all they undertake 
+Quick facts:
+- **Location:** Pasir Laba Camp, Western Water Catchment
+- **Parent institute:** Specialist and Warrant Officer Institute (SWI)
+- **Schools:** SCS I, SCS II, SCS III (four companies each, twelve in total)
+- **Motto:** "With Pride We Lead"
+- **Outcome:** promotion to Third Sergeant (3SG)
 
-Upon graduating from Basic Military Training (BMT) at the Basic Military Training Centre, recruits who excel and exhibit leadership potential may be selected for Command School training at SCS. The selection process considers organisational needs, training performance, commanders’ recommendations, educational qualifications, and medical fitness. Selected cadets immediately assume the Specialist Cadet (SCT) rank for the duration of their specialist training. SCS comprises three schools, SCS I, SCS II, and SCS III, each organized into four companies, for a total of twelve companies. Command Teams in each company, supported by Subject Matter Experts from SWI Headquarters, plan and conduct the training syllabus to ensure consistency and high standards. Instructors include Regulars and National Servicemen who bring current operational experience to the programme
+## Mission and values
+
+As part of SWI, SCS develops effective, dynamic, and committed Warrant Officers and Specialists with an identity anchored on shared values: loyalty, duty, respect, care, integrity, discipline, and excellence. Basically, you need to become a man who is just as loving and caring as your Encik.
+
+## How cadets are selected
+
+After graduating from Basic Military Training (BMT) at the Basic Military Training Centre, recruits who excel and show leadership potential may be selected for Command School training at SCS. Selection considers:
+
+- Organisational needs
+- Training performance
+- Commanders' recommendations
+- Educational qualifications
+- Medical fitness
+
+Selected cadets immediately assume the **Specialist Cadet (SCT)** rank for the duration of their training.
+
+## School structure
+
+SCS is made up of three schools (SCS I, SCS II, and SCS III), each organised into four companies, for twelve companies in total. Command Teams in each company, supported by Subject Matter Experts from SWI Headquarters, plan and conduct the syllabus to keep standards consistent. Instructors include Regulars and National Servicemen who bring current operational experience to the course.
 
 ## Training phases
 
@@ -32,8 +55,19 @@ Most institutes end the term with a summative exercise that grades you.
 
 Cadets integrate their skills in realistic, combined-arms scenarios, operating alongside different formations to reinforce inter-unit cooperation and battlefield leadership under simulated operational conditions.
 
-## Next
+## Passing out
 
-At the end of the Combined Arms Term, cadets participate in a passing-out parade where they are promoted to Third Sergeant and assume leadership appointments in their units. Outstanding cadets may instead be taken out-of-course (OOC) and crossed over to the Officer Cadet School, and outstanding Third Sergeants may later be selected for advanced courses such as the Platoon Sergeant Course—to further enhance their leadership and tactical competencies 
+At the end of the Combined Arms Term, cadets attend a passing-out parade and are promoted to **Third Sergeant (3SG)**, taking up leadership appointments in their units.
 
-Third Sergeants serve as section commanders and act as the vital link between commissioned officers and enlisted soldiers. They plan and conduct training, enforce standards of discipline, and look after their section’s welfare. As subject matter experts, they mentor recruits, supervise daily routines, and support operational planning at the platoon level under the guidance of platoon commanders and platoon sergeants
+- Outstanding cadets may instead be taken out-of-course (OOC) and crossed over to the **Officer Cadet School (OCS)**.
+- Strong Third Sergeants may later be selected for advanced courses such as the **Platoon Sergeant Course**, to further develop their leadership and tactical competencies.
+
+## Role of a Third Sergeant
+
+Third Sergeants serve as section commanders, the vital link between commissioned officers and enlisted soldiers. As subject matter experts, they:
+
+- Plan and conduct training
+- Enforce standards of discipline
+- Look after their section's welfare
+- Mentor recruits and supervise daily routines
+- Support operational planning at the platoon level, under platoon commanders and platoon sergeants

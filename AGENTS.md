@@ -4,6 +4,11 @@
 - Keep UI changes compact and information dense. Prefer small shared style edits over page-specific overrides.
 - Use `npm run build` to verify. Existing Nuxt/Sass deprecation warnings and asset-size warnings are expected.
 
+## Content writing
+- Match my writing style
+- Never use em dashes
+- Use short paragraphs, bullet lists, subheadings, etc, to make content easier to read
+
 ## Agents and harness
 - Be as concise as possible, and sacrifice grammar for the sake of concision
 - While planning:
