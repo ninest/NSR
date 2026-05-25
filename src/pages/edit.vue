@@ -1,7 +1,11 @@
 <script>
+import Default from '~/components/layouts/Default.vue'
 import { createSeoHead } from '~/utils/seo'
 
 export default {
+  components: {
+    Default
+  },
   data() {
     return {
       pageId: this.$route.params.pageId?? null
