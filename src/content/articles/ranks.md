@@ -18,6 +18,8 @@ contributors:
       link: https://github.com/ninest
 ---
 
+*For current monthly allowance figures by rank and vocation, see [NSF pay and allowance](/nsf-allowance).*
+
 ## Enlistees
 
 | Symbol | Rank | Abbr. | Min. Allowance (S$) | 

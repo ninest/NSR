@@ -63,7 +63,7 @@ You don't need to become a commando before enlistment. Just make your body less 
 - Learn to swim if you can't swim.
 - Sleep earlier a few days before enlistment. You'll still be tired, but less destroyed.
 
-Passing your Pre-Enlistee IPPT can affect your BMT length, so don't ignore it if you still have time.
+Passing your [Pre-Enlistee IPPT](/ippt) can affect your BMT length, so don't ignore it if you still have time.
 
 ## Enlistment day
 
@@ -90,6 +90,7 @@ You'll be confused. Everyone is. Just do the next correct thing and don't make y
 ## More reading
 
 - [Full BMT guide](/basic-military-training)
+- [NS vocations and how postings work](/vocations)
 - [Packing and first-day requirements from CMPB](https://www.cmpb.gov.sg/before-ns/pre-enlistment-process/enlistment-day/)
 - [Preparing for NS from CMPB](https://www.cmpb.gov.sg/before-ns/preparing-for-ns/)
 - [BMT packing discussions on r/NationalServiceSG](https://www.reddit.com/r/NationalServiceSG/comments/1pyoo7y/packing_list_for_bmt_help/)

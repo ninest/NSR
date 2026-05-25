@@ -51,6 +51,7 @@ Start here if you are entering National Service in Singapore, especially if you 
 
 ## Money and daily life
 
+- [NSF pay and allowance](/nsf-allowance): how much you earn each month by rank and vocation.
 - [Financial advice](/financial-advice): bank accounts, saving, insurance, investing, and spending habits during NS.
 - [Saving money](/saving-money): practical ways to reduce spending while serving.
 - [eMarts and army shops](/army-shop-emart): where to get army items.
@@ -60,6 +61,7 @@ Start here if you are entering National Service in Singapore, especially if you 
 
 - **[Specialist Cadet School Hub](/scs-hub): everything for SCS in one place — selection, terms, postings, tips, and links.**
 - [Command school](/command-school): what to know about SCS and OCS selection.
+- [NS vocations and how postings work](/vocations): how your vocation is decided and the common vocations across the SAF.
 - [Transport vocation](/transport-vocation): what transport life can look like.
 - [Storeman / supply assistant](/storeman-non-combat): a non-combat supply assistant experience.
 
