@@ -151,16 +151,16 @@ module.exports = {
       const { $content } = require("@nuxt/content");
       const articles = await $content("articles").fetch();
 
-      let feed = ["/", "/add/"];
-      
+      let feed = ["/", "/add"];
+
       // Add static pages from siteConfig
       siteConfig.pages.forEach(page => {
-        feed.push(`/${page}/`);
+        feed.push(`/${page}`);
       });
 
       // Add article pages
       articles.forEach((art) => {
-        feed.push(`/${art.slug}/`);
+        feed.push(`/${art.slug}`);
       });
       return feed;
     },

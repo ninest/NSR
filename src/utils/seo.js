@@ -5,7 +5,7 @@ const normalizePath = (path) => {
     return "/";
   }
 
-  return `${path.replace(/\/+$/, "")}/`;
+  return path.replace(/\/+$/, "");
 };
 
 export const createSeoHead = ({ siteConfig, route, title, description, titleTemplate }) => {
