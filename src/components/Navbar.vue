@@ -13,6 +13,9 @@
           <nuxt-link to="/ord-countdown" class="link-hover">ORD</nuxt-link>
         </li>
         <li>
+          <nuxt-link to="/ippt" class="link-hover">IPPT</nuxt-link>
+        </li>
+        <li>
           <nuxt-link to="/faq" class="link-hover">FAQ</nuxt-link>
         </li>
         <li>
@@ -95,11 +98,12 @@ header {
     }
 
     @include mobile-screen {
-      gap: 0.5em;
+      gap: 0.3em;
+      font-size: 0.9rem;
 
       .link-hover {
-        padding-right: 0.35em;
-        padding-left: 0.35em;
+        padding-right: 0.25em;
+        padding-left: 0.25em;
       }
     }
   }

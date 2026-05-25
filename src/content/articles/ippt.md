@@ -2,6 +2,10 @@
 title: IPPT
 description: IPPT guide for NS - scoring and awards, how to pass and score gold, IPT and RT, exemptions, and an IPPT calculator
 created: 2026-05-25
+featured: true
+tags:
+  - general
+  - bmt
 ---
 
 The Individual Physical Proficiency Test (IPPT) has three stations: push ups, sit ups, and a 2.4 km run. Each station is scored by age group, for a total of 100 points.
