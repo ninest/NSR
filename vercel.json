@@ -19,6 +19,16 @@
       "source": "/drill-commands/",
       "destination": "/commands/",
       "permanent": true
+    },
+    {
+      "source": "/ord",
+      "destination": "/ord-countdown",
+      "permanent": true
+    },
+    {
+      "source": "/ord/",
+      "destination": "/ord-countdown/",
+      "permanent": true
     }
   ],
   "headers": [
