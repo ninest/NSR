@@ -3,6 +3,9 @@ title: "NS ORD Calculator: Count the Days Left to Your ORD"
 description: Free NS ORD calculator. Enter your ORD date to count the days, weekends, and working days left, see how to calculate your ORD, and bookmark or share the link.
 created: 2026-05-25
 featured: true
+app:
+  name: NS ORD Calculator
+  category: UtilitiesApplication
 tags:
   - general
 ---

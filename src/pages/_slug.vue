@@ -70,6 +70,7 @@ export default {
       route: this.$route,
       title: `${this.article.title}`,
       description: this.article.description,
+      app: this.article.app,
     });
   },
   computed: {
