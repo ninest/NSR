@@ -43,6 +43,7 @@ Start here if you are entering National Service in Singapore, especially if you 
 
 ## Medical, PES, and welfare
 
+- [PES status guide](/pes): what PES A, B, BP, C, D, E, and F mean and how they affect your vocation.
 - [Guide on up-PESing](/guide-on-uppes): what to consider if you want to up-PES.
 - [What does Attend C mean?](/what-is-attend-c): basic explanation of Attend C.
 - [Contact](/contact): CMPB, MINDEF, SAF counselling, NS hotline, and emergency contacts.
@@ -57,9 +58,8 @@ Start here if you are entering National Service in Singapore, especially if you 
 
 ## After BMT
 
+- **[Specialist Cadet School Hub](/scs-hub): everything for SCS in one place — selection, terms, postings, tips, and links.**
 - [Command school](/command-school): what to know about SCS and OCS selection.
-- [Specialist Cadet School](/specialist-cadet-school): overview of SCS.
-- [Tips for Specialist Cadet School](/scs-tips): practical SCS notes.
 - [Transport vocation](/transport-vocation): what transport life can look like.
 - [Storeman / supply assistant](/storeman-non-combat): a non-combat supply assistant experience.
 

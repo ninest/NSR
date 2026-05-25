@@ -9,12 +9,13 @@ tags:
 ## Before SCS
 
 - Achieve Gold in your IPPT before reporting in. That award earns you longer daily admin breaks and can even secure early weekend bookouts during Found Term.
-- Keep up interval training. SCS kicks off with demanding interval runs; adding uphill sprints to your routine will spare you agony later. 
+- Keep up interval training. SCS kicks off with demanding interval runs; adding uphill sprints to your routine will spare you agony later.
+- Found Term opens fast and shag. Don't report in unfit thinking you'll ease in. You won't.
 
 
 ## Admin time
 
-- Use admin hours to plot your maps and prepare kit before dark
+- Use admin hours to plot your maps and prepare kit before dark. Nav is graded and you don't want to be doing it under a torch
 - Keep your living area and kit spotless, book out earlier!
 
 ## Gear and packing
@@ -30,4 +31,5 @@ tags:
 ## Other
 
 - Build trust within your section. Don't sabo anyone
-- No bidets in the seated bowls. Prepare accordingly 
+- When you're IC during assessments, command loud and clear and commit to a plan. Indecision is what gets marked down, not a wrong call
+- No bidets in the seated bowls. Prepare accordingly

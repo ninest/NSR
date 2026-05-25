@@ -18,9 +18,15 @@ Upon graduating from Basic Military Training (BMT) at the Basic Military Trainin
 
 Cadets acquire core infantry skills, weapon handling, tactical drills, fieldcraft, and develop basic leadership through classroom lessons and practical exercises. They conclude this phase with a 12 km route march in full battle order and obstacle challenges that test physical endurance and teamwork.
 
-### Professional Term (13 weeks)
+### Professional Term (12.5 weeks)
 
-Cadets focus on vocation-specific training. Infantry and Guards specialists remain at SCS for advanced infantry leadership modules, while specialists in Armour, Artillery, Combat Engineers, Signals, Medical Corps, and other arms conduct equivalent training within their formation centres.
+Cadets focus on vocation-specific training. Your posting depends on your course grades and pre-enlistment screening, and decides where you spend this term:
+
+- Infantry and Guards specialists remain at SCS for advanced infantry leadership modules.
+- Specialists in other arms train at their formation institutes: Armour, Artillery, Combat Engineers, Signals, Medical Corps, Transport, and more.
+- Rarer postings exist too, such as sniper, military police, and intelligence roles.
+
+Most institutes end the term with a summative exercise that grades you.
 
 ### Combined Arms Term (8 days)
 
@@ -28,6 +34,6 @@ Cadets integrate their skills in realistic, combined-arms scenarios, operating a
 
 ## Next
 
-At the end of the Combined Arms Term, cadets participate in a passing-out parade where they are promoted to Third Sergeant and assume leadership appointments in their units. Outstanding Third Sergeants may be selected for advanced courses, such as the Platoon Sergeant Course or crossover to the Officer Cadet School—to further enhance their leadership and tactical competencies 
+At the end of the Combined Arms Term, cadets participate in a passing-out parade where they are promoted to Third Sergeant and assume leadership appointments in their units. Outstanding cadets may instead be taken out-of-course (OOC) and crossed over to the Officer Cadet School, and outstanding Third Sergeants may later be selected for advanced courses such as the Platoon Sergeant Course—to further enhance their leadership and tactical competencies 
 
 Third Sergeants serve as section commanders and act as the vital link between commissioned officers and enlisted soldiers. They plan and conduct training, enforce standards of discipline, and look after their section’s welfare. As subject matter experts, they mentor recruits, supervise daily routines, and support operational planning at the platoon level under the guidance of platoon commanders and platoon sergeants

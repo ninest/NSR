@@ -55,6 +55,8 @@ If you need to buy a new pair, make sure the receipt is dated after your enlistm
 ### I have this condition. Will I get a down PES?
 Unfortunately, no one but an MO can give you a definite answer. All you can do is bring a specialist letter from an outside doctor. If you are in pain and want to down PES, tell your specialist.
 
+See the full [PES guide](/pes) for what each grade means.
+
 ### Going for field camp soon, what is it like? Anyone have any tips?
 Yes, you're in luck. See the Field camp section of [BMT guide](/basic-military-training#field-camp).
 
@@ -90,8 +92,12 @@ Again, no one can be completely sure. If you are combat-fit (PES A/B), expect a 
 
 Typically, lower PESes like C to E get admin jobs (ASA/SA) or transport.
 
+See the full [PES guide](/pes) for what each grade means.
+
 ### Are PES Es and Fs second-class citizens?
 **No**. People do not care about your PES unless you want to sign on and become a regular.
+
+See the full [PES guide](/pes) for what each grade means.
 
 ### Will NS affect my future/career?
 No, no one outside NS cares about your rank or PES. This only matters if you want to sign on.
