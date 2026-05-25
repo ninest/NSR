@@ -9,7 +9,7 @@ tags:
 The Specialist Cadet School (SCS) is the junior leadership school of the Singapore Armed Forces (SAF). It trains selected soldiers from all arms into specialists, the SAF equivalent of non-commissioned officers (NCOs) in other armed forces.
 
 Quick facts:
-- **Location:** Pasir Laba Camp, Western Water Catchment
+- **Location:** Pasir Laba Camp, deep in the ulu Western Water Catchment
 - **Parent institute:** Specialist and Warrant Officer Institute (SWI)
 - **Schools:** SCS I, SCS II, SCS III (four companies each, twelve in total)
 - **Motto:** "With Pride We Lead"
@@ -33,7 +33,7 @@ Selected cadets immediately assume the **Specialist Cadet (SCT)** rank for the d
 
 ## School structure
 
-SCS is made up of three schools (SCS I, SCS II, and SCS III), each organised into four companies, for twelve companies in total. Command Teams in each company, supported by Subject Matter Experts from SWI Headquarters, plan and conduct the syllabus to keep standards consistent. Instructors include Regulars and National Servicemen who bring current operational experience to the course.
+SCS is made up of three schools (SCS I, SCS II, and SCS III), each organised into four companies, for twelve companies in total. Command Teams in each company, supported by Subject Matter Experts from SWI Headquarters, plan and conduct the syllabus to keep standards consistent. Instructors include Regulars and National Servicemen who bring current operational experience to the course. Expect at least one heartfelt talk about signing on. The answer is still on the lines, and you will still not sign there.
 
 ## Training phases
 
@@ -71,3 +71,5 @@ Third Sergeants serve as section commanders, the vital link between commissioned
 - Look after their section's welfare
 - Mentor recruits and supervise daily routines
 - Support operational planning at the platoon level, under platoon commanders and platoon sergeants
+
+In practice this means you absorb pressure from the officers above and the men below. Specs are the backbone of the SAF, mostly because everything gets stacked on it.
