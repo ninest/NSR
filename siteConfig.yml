@@ -19,6 +19,9 @@ footerLinks:
   - title: IPPT
     url: /ippt
     external: false
+  - title: ORD
+    url: /ord-countdown
+    external: false
   - title: Discord
     url: /discord
   - title: r/NSSG
