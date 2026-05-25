@@ -32,7 +32,7 @@ Only an MO can confirm your PES. No one online can tell you for sure what you wi
 
 ## Which vocation will I get?
 
-PES is only one factor (IPPT, aptitude, and luck also matter). Roughly:
+PES is only one factor (IPPT, aptitude, and luck also matter). See [how vocations and postings work](/vocations) for the full picture. Roughly:
 
 - PES A/B (combat fit): expect a combat vocation like infantry, but can also be transport, clerk, or storeman
 - PES C–E: usually admin (ASA/SA), support, or transport roles

@@ -63,7 +63,7 @@ You don't need to become a commando before enlistment. Just make your body less 
 - Learn to swim if you can't swim.
 - Sleep earlier a few days before enlistment. You'll still be tired, but less destroyed.
 
-Passing your [Pre-Enlistee IPPT](/ippt) can affect your BMT length, so don't ignore it if you still have time.
+If you're PES A or B1, passing your [Pre-Enlistee IPPT](/ippt) (61 points, 1 per station) lets you skip the 8-week Physical Training Phase, cutting about 2 months off your NS. Well worth clearing if you still have time.
 
 ## Enlistment day
 

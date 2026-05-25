@@ -18,6 +18,8 @@ During the two years you are in NS, it is the perfect time for you to save money
 
 Many of you are probably pursuing a further education after NS, some may even be thinking of starting their own business, or some may just want to kick-start their savings for their future: marriage, house, car, children, or even retirement!
 
+First, know [how much you'll earn](/nsf-allowance) each month, so you know what there is (if anything) to save.
+
 Personally, I am going to be enlisted in about two weeks time. I just want to give thanks to all the guides posted here, and the helpful people in the Discord for answering all my chao recruit questions. I hope this guide will help pay back for some of the help I have received.
 
 This guide will explain the basics of financial planning and literacy.

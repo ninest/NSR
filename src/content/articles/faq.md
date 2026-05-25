@@ -92,7 +92,10 @@ Again, no one can be completely sure. If you are combat-fit (PES A/B), expect a 
 
 Typically, lower PESes like C to E get admin jobs (ASA/SA) or transport.
 
-See the full [PES guide](/pes) for what each grade means.
+See the full [PES guide](/pes) for what each grade means, and [how vocations and postings work](/vocations) for the full list.
+
+### How much allowance do I get in NS?
+A recruit takes home $790 a month (from July 2025), and it goes up with your rank and vocation. See the full [NSF pay and allowance](/nsf-allowance) breakdown.
 
 ### Are PES Es and Fs second-class citizens?
 **No**. People do not care about your PES unless you want to sign on and become a regular.
