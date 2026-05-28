@@ -1,6 +1,6 @@
 ---
-title: "Basic Military Training Hub: Enlistment, Packing list, Field Camp, POP"
-description: Start here for BMT, enlistment, ranks, lingo, FAQs, packing, IPPT, and useful Singapore National Service links.
+title: "Singapore BMT Guide: Enlistment, Packing List, Field Camp & POP"
+description: Start here for Singapore BMT, enlistment prep, packing list, IPPT, ranks, lingo, field camp, POP, PES, money, and NS pathways.
 created: 2026-05-07
 featured: true
 tags:
@@ -8,11 +8,30 @@ tags:
   - general
 ---
 
-Start here if you are entering National Service in Singapore, especially if you are going into BMT soon.
+_Last updated: 7 May 2026_
+
+BMT is Basic Military Training, the first major phase for most Singaporean sons entering National Service. It is where you learn the SAF basics: military routine, fieldcraft, fitness, discipline, ranks, commands, and what life as an NSF roughly feels like.
+
+This page is for pre-enlistees who want to prepare before enlistment, parents and friends trying to understand what is coming, and NSFs who need quick links during BMT.
+
+Use it as a starting point for enlistment prep, packing, haircut rules, IPPT and BMI, ranks, army lingo, field camp, route march, POP, PES status, money, and what can happen after BMT.
+
+## Quick BMT preparation checklist
+
+- Check your enlistment notice and reporting details.
+- Get a proper haircut before enlistment, or bring $2 if you plan to cut inside.
+- Prepare dark-coloured spectacles and a spare pair if you need glasses.
+- Pack the basics: toiletries, underwear, hangers, clips, ziplock bags, detergent, wet wipes, black tape, stationery, and documents.
+- Charge your phone and bring enough power bank capacity for confinement.
+- Know your IPPT and BMI status, since it can affect your BMT path and training duration.
+- Make sure your bank account is ready for NSF allowance.
+- Save emergency contacts, including family, CMPB, NS hotline, and camp contacts once given.
+- Plan your transport to the reporting point early.
+- Learn the basic ranks and common army lingo so the first week is less blur.
 
 ## Start here
 
-- **[Basic military training guide](/basic-military-training): packing, enlistment tips, admin time, field camp, route march, BTP, POP, and BMT survival notes.**
+- **[Complete BMT guide for Singapore NS](/basic-military-training): packing, enlistment tips, admin time, field camp, route march, BTP, POP, and BMT survival notes.**
 - [Before enlistment checklist](/before-enlistment): quick haircut, packing, phone battery, fitness, and first-day prep.
 - [Frequently asked questions](/faq): haircut, packing list, field camp, IPPT, PES, vocation, and common pre-enlistment questions.
 - [Enlistment dates and public holidays](/dates): upcoming dates and public holidays to plan around.
