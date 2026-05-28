@@ -1,6 +1,6 @@
 ---
-title: "Specialist Cadet School Hub: Selection, Foundation Term, Postings, 3SG"
-description: Start here for SCS — selection, Foundation, Professional, and Combined Arms terms, postings, tips, IPPT, money, and official links.
+title: "SCS Guide: Selection, Foundation Term, Postings & 3SG"
+description: Start here for SCS selection, Foundation, Professional, and Combined Arms terms, postings, 3SG life, IPPT, money, tips, and official links.
 created: 2026-05-25
 featured: true
 tags:

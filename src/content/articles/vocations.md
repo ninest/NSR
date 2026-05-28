@@ -1,6 +1,6 @@
 ---
-title: NS vocations and how postings work
-description: List of common NS vocations across the SAF, and how your vocation and unit posting is decided after BMT
+title: "NS Vocations in Singapore: SAF Postings After BMT"
+description: Common SAF NS vocations, what combat and support roles are like, and how your vocation and unit posting are decided after BMT.
 created: 2026-05-25
 featured: True
 tags:

@@ -1,6 +1,6 @@
 ---
-title: IPPT
-description: IPPT guide for NS - scoring and awards, how to pass and score gold, IPT and RT, exemptions, and an IPPT calculator
+title: IPPT Calculator & Score Guide for NS
+description: Calculate your IPPT score, check pass, silver, and gold award bands, and learn how NS IPPT scoring, incentives, IPT, RT, and exemptions work.
 created: 2026-05-25
 featured: true
 tags:
