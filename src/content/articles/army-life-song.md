@@ -1,9 +1,10 @@
 ---
-title: Army Life Song
+title: Army Life Song Lyrics
 description: THEY SAY THAT IN THE ARMY ...
 created: 2024-05-15
 tags:
   - songs
+  - bmt
 ---
 
 [*Click here to see all the songs*](/songs)

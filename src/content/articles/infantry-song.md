@@ -1,9 +1,10 @@
 ---
-title: Infantry Song
+title: Infantry Song Lyrics
 description: Land Air and Sea! The Infantry Song for BMT in NS Singapore
 created: 2024-05-29
 tags:
   - songs
+  - bmt
 ---
 
 [*Click here to see all the songs*](/songs)

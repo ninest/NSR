@@ -1,9 +1,10 @@
 ---
-title: BMT Roar (POP) Song
+title: BMT Roar (POP) Song Lyrics
 description: Excel! Through Basics – BMT Roar song for when you finally go for POP
 created: 2024-05-26
 tags:
   - songs
+  - bmt
 ---
 
 [*Click here to see all the songs*](/songs)
