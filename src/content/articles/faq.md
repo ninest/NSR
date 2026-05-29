@@ -19,10 +19,10 @@ Yes, you likely won't get much time to shower after the haircut in Tekong. Ask y
 
 Protip: make sure you are unable to pinch and pull your hair after the haircut. If you can, it's not short enough.
 
-Check out the [BMT guide](/basic-military-training) for more information.
+See the [hair requirement](/hair-requirement) for the full rules, or the [BMT guide](/basic-military-training) for more information.
 
 ### What happens during the CMPB screening?
-Just normal medical check-up stuff such as height, weight, urine and a blood draw. Bring any medical documents that you may thing is relevant such as those for pre-existing conditions. Also eat a meal before going so you don't feel dizzy after drawing blood. Try to style your hair a bit as your picture for your 11B will also be taken then.
+Just normal medical check-up stuff such as height, weight, urine and a blood draw. Bring any medical documents that you may think is relevant such as those for pre-existing conditions. Also eat a meal before going so you don't feel dizzy after drawing blood. Try to style your hair a bit as your picture for your 11B will also be taken then.
 
 ### I'm enlisting at this time and this date. Is this a mono-intake?
 Unfortunately, no one really knows. If you really want to ask, search for the "Enlistment" thread on the NS Subreddit. Do not create a new post, just look for the pinned post with the flair "Enlistment".
@@ -51,6 +51,8 @@ Black plastic spectacles. Cannot be half-frame.
 
 If you need to buy a new pair, make sure the receipt is dated after your enlistment, and you can claim $40.
 
+See the full [glasses requirement](/glasses-requirement) for details.
+
 ### I have this condition. Will I get a down PES?
 Unfortunately, no one but an MO can give you a definite answer. All you can do is bring a specialist letter from an outside doctor. If you are in pain and want to down PES, tell your specialist.
 
@@ -59,7 +61,7 @@ See the full [PES guide](/pes) for what each grade means.
 ### Going for field camp soon, what is it like? Anyone have any tips?
 Yes, you're in luck. See the Field camp section of [BMT guide](/basic-military-training#field-camp).
 
-### How to I guard my rifle in field camp?
+### How do I guard my rifle in field camp?
 - At night, clip the sling to your uniform's belt holes. That way, if anyone tries to lift it, it won't come off because it's connected to you. Also hug it when you sleep.
 - Make sure it's never more than a meter away from you.
 
@@ -75,6 +77,8 @@ To successfully pass out of BMT, the following are required:
   - Field camp
 
 So if you fail your IPPT but pass field camp and BTP, you'll still POP. Note that in BMT, you will have 3 IPPT attempts (for enhanced PES A/B). Hand grenade and BIC are not requirements to POP.
+
+See the full [IPPT guide](/ippt) for the scoring and stations.
 
 ### I missed field camp because I was sick. Will I OOC?
 Not automatically. The usual answer is that you need to pass 2 out of 3: IPPT, BTP, and field camp. But your commanders and MO decide what happens for your case, especially if you miss a lot of training days.
@@ -114,4 +118,4 @@ They go through scheduled maintenance every weekend.
 See more on [CMPB's website](https://www.cmpb.gov.sg/web/portal/cmpb/home/).
 
 ### Disclaimer
-The information here is just for causal reference and is not to be taken as a strict guide that you should follow. The information listed here may also become outdated with time. Please visit the CMPB and the MINDEF websites for the most accurate and up to date information!
+The information here is just for casual reference and is not to be taken as a strict guide that you should follow. The information listed here may also become outdated with time. Please visit the CMPB and the MINDEF websites for the most accurate and up to date information!
