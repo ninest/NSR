@@ -1,12 +1,14 @@
 <script>
 import Default from '~/components/layouts/Default.vue'
 import AdWrapper from '~/components/global/AdWrapper.vue'
+import HubSection from '~/components/HubSection.vue'
 import { createSeoHead } from '~/utils/seo'
 
 export default {
   components: {
     Default,
-    AdWrapper
+    AdWrapper,
+    HubSection
   },
   async asyncData({ $content }) {
     const latestArticles = await $content("articles")
@@ -30,6 +32,7 @@ export default {
       siteConfig: this.siteConfig,
       route: this.$route,
       title: this.siteConfig.name,
+      description: this.siteConfig.description,
       titleTemplate: "%s",
     });
   },
@@ -42,6 +45,9 @@ export default {
       <div class="title">NSR</div>
       <div class="long-title">National Service Resources</div>
     </h1>
+    <p class="tagline">Your hub for everything NS in Singapore</p>
+
+    <HubSection />
 
     <section>
       <h2>Featured</h2>
@@ -59,6 +65,13 @@ export default {
 </template>
 
 <style lang="scss" scoped>
+.tagline {
+  margin-top: -0.4rem;
+  margin-bottom: 1.2rem;
+  color: var(--nav-link);
+  font-size: 0.95rem;
+}
+
 h1 {
   margin-top: 0;
   font-weight: 900;

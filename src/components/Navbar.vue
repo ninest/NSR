@@ -13,9 +13,6 @@
           <nuxt-link to="/ord-countdown" class="link-hover">ORD</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/ippt" class="link-hover">IPPT</nuxt-link>
-        </li>
-        <li>
           <nuxt-link to="/faq" class="link-hover">FAQ</nuxt-link>
         </li>
         <li>
