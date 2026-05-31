@@ -41,7 +41,7 @@ Things worth bringing:
 
 Things you probably don't need much of:
 
-- Civilian shirts. You'll be issued admin attire, and you usually book out in uniform.
+- Civilian shirts. You'll be issued admin attire, and you usually [book out in uniform](/uniform-in-public).
 - Huge bottles of toiletries. Small bottles are easier to store.
 - Extra fancy camp gear. Don't bring military equipment bought outside.
 
