@@ -10,6 +10,45 @@ tags:
 If you're looking for a full directory of BMT-related resources, check out the [BMT hub](/bmt-hub).
 
 
+## A typical day in BMT
+
+Every school, company, and week is different, but a confinement/training day roughly looks like this:
+
+| Time | What happens |
+| -- | -- |
+| ~0530 | Wake up, area cleaning, admin time (wash up, shave, fold your smart 4) |
+| ~0700 | Fall in, breakfast |
+| Morning | Training: drills, lessons, PT, IPPT, SOC, or range |
+| ~1200 | Lunch |
+| Afternoon | More training or lessons |
+| ~1700-1800 | Dinner. Eat enough, the next meal is far |
+| Evening | Admin time, area cleaning, sometimes night activities or lessons |
+| ~2230 | Lights out |
+
+Outfield days (field camp, route march, CQB) throw this schedule out the window. Expect long days and short sleep.
+
+Admin time is the most useful part of the day. Use it well. See the [admin time tips](#admin-time) below.
+
+## Ranks to know
+
+You don't need to memorise the whole [rank structure](/ranks) before enlistment, just the few you'll actually deal with.
+
+**You start as a Recruit (REC).** During BMT you can move up: REC, then Private (PTE), Lance Corporal (LCP), Corporal (CPL), and Corporal First Class (CFC).
+
+**Who's training you:**
+
+- **Sergeants** (3SG, 2SG): your section commanders, the ones you'll see most. Call them *Sergeant*.
+- **Encik** (warrant officers): senior, experienced. Call them *Encik*.
+- **Officers** (2LT, LTA, CPT, e.g. your platoon commander or OC): call them *Sir*.
+
+Quick trick to read the rank on the arm, from [the ranks guide](/ranks#sir-sergeant-or-encik):
+
+- Arrows pointing **down**: Sergeant
+- Horizontal lines: Sir (officer)
+- Arrows pointing **up**: Encik
+
+When in doubt, default to *Sir*. Better to over-respect than call an officer "Sergeant".
+
 ## Enlistment tips
 
 ### Before enlistment
