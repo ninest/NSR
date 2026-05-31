@@ -1,5 +1,6 @@
 ---
 title: "PES Status Guide: What PES A, B, C, D, E, F Mean in NS"
+displayTitle: "PES Status Guide"
 description: What PES A, B, BP, C, D, E, and F mean in Singapore National Service, how PES is decided, and how it affects your vocation.
 created: 2026-05-25
 tags:
@@ -9,6 +10,8 @@ tags:
 ---
 
 [*See more FAQs*](/faq). [*Want to change your PES? See the up-PES guide*](/guide-on-uppes).
+
+This page explains what each PES grade means, which vocations it opens up, and how it affects your NS.
 
 PES (Physical Employment Standard) is a medical grading from your pre-enlistment screening. It reflects your medical condition and helps decide your combat fitness and which vocations you can be posted to. No grade is "good" or "bad", they just point to different service paths.
 

@@ -1,5 +1,6 @@
 ---
 title: "Singapore BMT Guide: Enlistment, Packing List, Field Camp & POP"
+displayTitle: "BMT Guide"
 description: Start here for Singapore BMT, enlistment prep, packing list, IPPT, ranks, lingo, field camp, POP, PES, money, and NS pathways.
 created: 2026-05-07
 tags:

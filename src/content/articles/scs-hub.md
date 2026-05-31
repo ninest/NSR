@@ -1,5 +1,6 @@
 ---
 title: "SCS Guide: Selection, Foundation Term, Postings & 3SG"
+displayTitle: "SCS Guide"
 description: Start here for SCS selection, Foundation, Professional, and Combined Arms terms, postings, 3SG life, IPPT, money, tips, and official links.
 created: 2026-05-25
 tags:

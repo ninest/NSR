@@ -27,7 +27,7 @@ export default {
       for (const tag of tags) {
         const articles = await $content("articles")
           .where({ tags: { $contains: tag } })
-          .only(["slug", "title", "created", "tags"])
+          .only(["slug", "title", "displayTitle", "created", "tags"])
           .fetch();
         similarArticles = similarArticles.concat(articles);
       }
@@ -89,7 +89,7 @@ export default {
 
 <template>
   <Default
-    :title="article.title"
+    :title="article.displayTitle || article.title"
     :showEditButton="true"
     :showAddButton="true"
     :toc="article.toc"

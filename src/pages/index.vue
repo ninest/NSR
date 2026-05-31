@@ -13,13 +13,13 @@ export default {
   async asyncData({ $content }) {
     const latestArticles = await $content("articles")
       .sortBy("created", "desc")
-      .only(["title", "slug", "tags", "created", "author"])
+      .only(["title", "displayTitle", "slug", "tags", "created", "author"])
       .fetch();
 
     const featuredArticles = await $content("articles")
       .where({ featured: { $eq: true } })
       .sortBy("created", "desc")
-      .only(["title", "slug", "tags", "created", "author"])
+      .only(["title", "displayTitle", "slug", "tags", "created", "author"])
       .fetch();
 
     return {

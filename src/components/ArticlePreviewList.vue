@@ -33,7 +33,7 @@ export default {
     <ArticlePreview 
       v-else
       v-for="article in articles" v-bind:key="article.slug"
-      :title="article.title"
+      :title="article.displayTitle || article.title"
       :slug="article.slug"
       :date="article.created"
       :tags="article.tags"
