@@ -50,9 +50,8 @@ These websites are usually under maintenance on weekends.
 
 ### Money
 
-- [Saving money (1)](/saving-money)
+- [Saving money in NS](/saving-money)
 - [Saving money (2)](https://www.reddit.com/r/NationalServiceSG/comments/igv6jw/what_amount_of_money_should_i_have_saved_by_ord/)
-- [Financial advice](/financial-advice)
 
 ### Parents
 

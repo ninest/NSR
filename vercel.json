@@ -29,6 +29,16 @@
       "source": "/ord/",
       "destination": "/ord-countdown/",
       "permanent": true
+    },
+    {
+      "source": "/financial-advice",
+      "destination": "/saving-money",
+      "permanent": true
+    },
+    {
+      "source": "/financial-advice/",
+      "destination": "/saving-money/",
+      "permanent": true
     }
   ],
   "headers": [

@@ -31,8 +31,7 @@ Start here if you've been selected for Specialist Cadet School (SCS), or you're 
 
 ## Money and daily life
 
-- [Financial advice](/financial-advice): bank accounts, saving, insurance, and spending while serving.
-- [Saving money](/saving-money): practical ways to spend less during NS.
+- [Saving money](/saving-money): practical ways to budget your allowance and spend less during NS.
 - [Best canteen dishes](/best-canteen-dishes): what to eat around camp.
 - [Free time](/free-time): things to do with admin time and downtime.
 - [Useful apps](/apps): apps that make NS admin easier.

@@ -65,7 +65,6 @@ Your allowance isn't the only cash you can get.
 
 NS is the cheapest two years you'll ever live. Most of your food and lodging is covered, so the allowance is close to pure savings if you're disciplined.
 
-- Read the [saving money guide](/saving-money) for a full plan.
-- See [financial advice](/financial-advice) for what to do with what you save.
+- Read the [saving money guide](/saving-money) for a practical budget.
 
 Even on a recruit's allowance, setting aside a fixed amount each month adds up to a real sum by the time you [ORD](/ord-countdown).

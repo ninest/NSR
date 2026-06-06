@@ -72,8 +72,7 @@ Use it as a starting point for enlistment prep, packing, haircut rules, IPPT and
 ## Money and daily life
 
 - [NSF pay and allowance](/nsf-allowance): how much you earn each month by rank and vocation.
-- [Financial advice](/financial-advice): bank accounts, saving, insurance, investing, and spending habits during NS.
-- [Saving money](/saving-money): practical ways to reduce spending while serving.
+- [Saving money](/saving-money): practical ways to budget your allowance and reduce spending while serving.
 - [eMarts and army shops](/army-shop-emart): where to get army items.
 - [Best canteen dishes](/best-canteen-dishes): food recommendations around camps.
 

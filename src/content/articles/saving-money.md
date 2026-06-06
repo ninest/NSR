@@ -1,181 +1,132 @@
 ---
-title: Saving money
-description: Saving money in NS
-created: 2020-07-10
-
-authors:
-  - name: OxySempra
-    link: https://reddit.com/u/OxySempra
-    origin:
-      title: r/NationalServiceSG
-      link: https://www.reddit.com/r/NationalServiceSG/comments/hof2v9/guide_on_how_to_save_money_during_ns_by_uoxysempra/
-
+title: Saving Money in NS
+description: Practical ways to budget NSF allowance and spend less during NS in Singapore
+created: 2026-06-06
 tags:
   - financial
+  - general
 ---
 
-During the two years you are in NS, it is the perfect time for you to save money!
+Short answer: save the money first, then spend what is left.
 
-Many of you are probably pursuing a further education after NS, some may even be thinking of starting their own business, or some may just want to kick-start their savings for their future: marriage, house, car, children, or even retirement!
+NS allowance is not a lot, but most of your big costs are also covered if you are stay-in. Food, lodging, uniform, and basic medical care are handled more than they will ever be after ORD. That is why NS is one of the easiest times to build the habit.
 
-First, know [how much you'll earn](/nsf-allowance) each month, so you know what there is (if anything) to save.
+First, know [how much NSF allowance you get](/nsf-allowance). A recruit or private gets **$790 a month** from 1 July 2025. It goes up with rank and vocation.
 
-Personally, I am going to be enlisted in about two weeks time. I just want to give thanks to all the guides posted here, and the helpful people in the Discord for answering all my chao recruit questions. I hope this guide will help pay back for some of the help I have received.
+## The simple rule
 
-This guide will explain the basics of financial planning and literacy.
+When allowance comes in:
 
-## 1. Calculating and Optimising Your Expenses
+1. Move your savings aside first. This is VERY important.
+2. Keep enough for transport, phone bill, food, and weekends.
+3. Spend from that remaining amount only.
 
-First things first, what you need to do is to calculate and total up the amount of money you spend in a month. Everything from your srctelco bills, down to your bubble tea addiction. This shall be your ‘Fat Expense’.
+Do not wait until the end of the month to save. By then, the money is usually gone. By immediately setting aside money (transferring to a savings account) to save, you are less likely to unknowingly use it.
 
-Now, obviously, there will be a ton of stuff that you usually spend your money on that during your NS, you probably won’t be spending much on, if at all. So, things like transport (especially for those Grab addicts out there), food, and even things like computer games/IAP will be scaled down naturally without any effort from you. (MINDEF will help out in that department.) So, with that in mind, amend your ‘Fat Expense’ accordingly. This shall be your ‘Lean Expense’.
+You don't need a complicated system. Even a separate account or wallet works, as long as it makes you think twice before touching the money.
 
-The following is optional, but you can go ahead with it if you are dedicated enough:
+## Example budgets
 
-You can further cut back on your ‘Lean Expense’ by actively limiting your spending. Ideally, it should only consists of your basic expense and very little luxuries. Some examples:
+These are examples, not targets. Your camp, vocation, family situation, and stay-in or stay-out status matter a lot.
 
-Limiting all taxi rides, only go for public transport
+### Stay-in recruit
 
-Limiting dining expenses outside, eat only while in camp or at home. Your parents cooking won’t be there for you to enjoy forever, you know. (Morbid, but true.)
+Monthly allowance: **$790**
 
-Downgrading or canceling unneeded/superfluous subscription plans like Netflix 4K to 1080p.
+Item | Example amount
+-- | --
+Savings | $400
+Transport | $80
+Phone and subscriptions | $50
+Canteen and snacks | $100
+Weekend food and outings | $120
+Buffer | $40
 
-Congrats on making it this far! Keep those two figures in mind as it is important, and we will move on to the next step.
+Doable if you eat cookhouse most of the time and do not book out like the allowance is unlimited.
 
-## 2. Emergency Funds
+### Stay-out NSF
 
-Emergency funds are basically your ‘rainy day piggy bank’.
+Monthly allowance: **$790**
 
-In a perfect life, you will never need to touch this piggy bank, but life is not perfect. You or your family might get into an emergency, be it financially or medically. It is also handy for, in the future if you lose your job, you can take your time finding a new job while having 6 months of living expenses already saved up to rely on.
+Item | Example amount
+-- | --
+Savings | $200
+Transport | $120
+Meals outside camp | $250
+Phone and subscriptions | $50
+Weekend food and outings | $130
+Buffer | $40
 
-All of this is to protect you from debt. (Which is something you never, never, never want to get into.)
+Harder to save on. Transport and dinner can eat your allowance very quickly. If you are commuting daily, check whether a concession pass makes sense for your route.
 
-This is how much you need in your emergency funds: 3-6 months of your ‘Lean Expenses’ stored in a high-yield savings account with high liquidity. (Don’t fret over these cheem terms, I will to that next.)
+### After rank or vocation allowance
 
-## 3. Optimise Your Savings
+Once your allowance goes up, try not to upgrade your whole life immediately. Don't be a victim of lifestyle creep!
 
-Right, so I mentioned earlier a ‘high-yield savings account with high liquidity’. It is basically a bank deposit account that has high interest and absolutely no fees.
+If you were surviving on recruit pay, save most of the increase. That is the easiest win in NS. A few hundred dollars extra every month becomes real money by ORD, especially if you can invest it.
 
-I am sure many of you probably have a POSB whatever account that just gives you a debit/ATM card, and pretty much no interest. (Something like $0.02/month)
+## Where the money disappears
 
-This is basically that, but better in every way.
+### Canteen
 
-The following is the list of accounts I recommend, and the purpose of the account:
+A drink here, breakfast there, then lunch because cookhouse looks sad, then another drink because the day is long. Suddenly you spent $8 to $12 in camp for no reason.
 
-### I. Emergency Funds
+Eat cookhouse when the food is acceptable. Save canteen for the days you actually need it.
 
-I store 6 months’ worth of expenses into my Singlife Savings Account.
+### Bookout
 
-It is capital guaranteed by the SDIC. (Your money is as safe as it is in the bank.)
+You are tired, you want good food, and you feel like you deserve a treat. Fair enough. Just set a weekend amount before you go out.
 
-It has a non-guaranteed interest rate of 2.5%. (What it means is that it is not always 2.5%. But, based on my past history with this account, it has an average interest rate of around 2.2%. )
+If you spend without looking, the whole week's savings can disappear by Sunday night.
 
-It is very liquid. You can instantly deposit and withdraw money via FAST.
+### Transport
 
-ABSOLUTELY FREE!!! No fall below fee, no etc.
+If you stay in, transport is usually manageable.
 
-[6awp.app.link/ZhzUBhAlN6](https://6awp.app.link/ZhzUBhAlN6)
+If you stay out, transport becomes a real line item. Track it for one month: if public transport is a big chunk, compare it against the current concession pass price.
 
+Do not Grab by default. Grab is for when you are late, carrying too much stuff, or really need it.
 
-<in-post-ad />
+### Subscriptions and games
 
-### II. Savings Account
+NS is full of admin time, so it is easy to spend on games, food delivery, shopping, and random subscriptions.
 
-I store a month’s worth of expenses into my Standard Charted JumpStart account.
+Keep the ones you actually use and cut everything else. Piggyback off your parents or friends if you can! If you want to buy something expensive, just wait a day. If you still want it tomorrow, then decide.
 
-It is capital guaranteed by the SDIC. (Your money is as safe as it is… wait, it IS a bank, so…)
+### Army items
 
-It has a guaranteed interest rate of 1%
+Take care of your SAF items.
 
-It is very liquid. You can instantly deposit and withdraw money via FAST.
+Losing gear is annoying, and replacing things costs money or credits. Label your stuff, pack properly, and do not lend items unless you know they are coming back.
 
-Debit card linked to the account has a no frills 1% cashback on all debit transactions (with some limits of course, check their TOS)
+## A realistic goal
 
-IT IS ALSO ABSOLUTELY FREE!!! No fall below fee, no etc.
+For most NSFs, a good starting point is:
 
-[sc.com/sg/save/savings-accounts/jumpstart](https://www.sc.com/sg/save/savings-accounts/jumpstart/)
+- Stay-in: save **$300 to $500** a month if your family situation allows.
+- Stay-out: save **$100 to $250** a month if transport and meals are on you.
+- Higher allowance: save most of the increase when you rank up or enter a higher allowance vocation.
 
+If you cannot save much, do not fake it. Some people support family, pay rent, or have other real expenses. In that case, the goal is not maximum savings. The goal is control.
 
+Spend intentionally. Avoid debt. Do not borrow or lend money casually in camp.
 
-### III. ATM Account
+## What not to do
 
-This account will pretty much be empty almost always. It will exclusively be used for cash deposit and withdrawals. I use DBS My Account.
+- Do not treat allowance like a salary.
+- Do not chase random investment tips from Reddit, TikTok, or your bunkmate.
+- Do not buy financial products just because someone says "start young".
+- Do not lock up emergency money somewhere hard to access.
+- Do not compare your savings with someone whose parents pay for everything.
 
-Access to all DBS/POSB ATMs nationwide
+This page is about budgeting your allowance. It is not investment advice.
 
-And need I say it again? ABSOLUTELY FREE!!!
+## More
 
-[dbs.com.sg/personal/deposits/savings-accounts/my-account](https://www.dbs.com.sg/personal/deposits/savings-accounts/my-account)
+- [NSF allowance](/nsf-allowance): current pay by rank and vocation.
+- [Best canteen dishes](/best-canteen-dishes): useful, but cookhouse is still cheaper.
+- [How do you save your money from allowance?](https://www.reddit.com/r/NationalServiceSG/comments/iaa5sh/how_do_you_save_your_money_from_allowance/)
+- [How to save money as a stay out](https://www.reddit.com/r/NationalServiceSG/comments/1dmhm51/how_to_save_money_as_a_stay_out/)
+- [Cost of canteen food in NS](https://www.reddit.com/r/NationalServiceSG/comments/14n3r35/cost_of_canteen_food_in_ns/)
 
-
-
-### III part 2. Optional: Expenses Account
-
-If you do not mind complicating things up, you can apply for the SAFRA card and link it to your ATM Account.
-
-This is for you to stretch every dollar, as it provides you with a slightly higher cashback (of an additional 1%, total 2%), and some other SAFRA privileges.
-
-The downside (or upside if you are like me) is that every time you need to spend money, you must transfer the required amount to the DBS account. (This allows me to be more conscious of my spending though, so it is up to you.)
-
-[dbs.com.sg/personal/cards/debit-cards/dbs-safra-debit-card](https://www.dbs.com.sg/personal/cards/debit-cards/dbs-safra-debit-card)
-
-
-
-### IV. Long-term Savings
-
-For long-term savings (timescale of >3-5 years), you should park your money in an investment vehicle.
-
-Unlike the rest I mentioned above, this has some risks involved. So if you are not comfortable with it, feel free to skip this step.
-
-I personally use StashAway for my long-term savings. I won’t go into the nitty gritty details of these kind of services, but if you would like to know more details, this is an article from a finance blogger that I really respect: [firepathlion.com/a-bet-on-humanity-why-index-investing-works/](https://www.firepathlion.com/a-bet-on-humanity-why-index-investing-works/)
-
-Much lower costs than traditional brokers
-
-Completely automated and passive investment (Meaning you don’t have to do anything, just pump money in)
-
-No minimum investment required (You can invest $50 one month, $200 the next, and nothing at all the month after)
-
-[stashaway.sg](https://www.stashaway.sg/)
-
-(If you would like a referral code which allows BOTH you and I have up to $10,000 managed for free for 6 months, PM me. Details below.)
-
-
-
-## 4. Splitting Your Allowance
-
-I am sure many of you, by now, have this question in your minds. ‘This guy talking what cock? I only get paid $630 during my BMT, still want me save this, invest that.’
-
-My answer to that, my little turnips, is the 3:2 rule.
-
-Once you receive your first allowance, do the following:
-
-Set aside the money needed for the month’s expense and put it into your JumpStart (or equivalent) account.
-
-Split the remaining amount 3:2. Assign 3 to the investment account, 2 to the emergency fund account.
-
-So, for those who suck at math, let me give you an example.
-
-I will be using $300 for this example:
-
-$300 divided 5 = $60 3 x $60 = $180. This will go to your Singlife (or equivalent) account.
-
-2 x $60 = $120. This will go to your Stashaway (or equivalent) account.
-
-If you are risk-adverse and do not want to invest, then just put all of it into your Singlife (or equivalent) account.
-
-That is pretty much it for now. I will come back in the future and post more finance tips.
-
-If you have any questions, do not hesitate to comment here, PM me, or ping me on the National Service Discord channel. I will do my best to help you.
-
-I can be found here: [discord.com/invite/jZzsPGS](https://discord.com/invite/jZzsPGS) as Oxy#4350
-
-Disclaimer: I am not a trained finance professional. I am not a trained anything. I just have a rough experience growing up. Everything I have covered is my opinion only. I made every effort to make sure the information above is true and accurate, but since I am not a trained professional, I cannot guarantee anything.
-
-Other relevant subreddits I highly recommend you check out:
-- [r/personalfinance](https://reddit.com/r/personalfinance)
-- [r/financialindependence](https://reddit.com/r/financialindependence)
-- [r/leanfire](https://reddit.com/r/leanfire)
-- [r/fatFIRE](https://reddit.com/r/fatFIRE)
-- [r/Frugal](https://reddit.com/r/Frugal)
-- [r/investing](https://reddit.com/r/investing)
-- [r/ynab](https://reddit.com/r/ynab)
+*Last verified: June 2026. Pay figures should be checked against the [NSF allowance guide](/nsf-allowance) before using them for exact planning.*
