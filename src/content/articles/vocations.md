@@ -70,6 +70,8 @@ Military Police | Security, enforcement, and ceremonial duties. P30 pistol and T
 Intelligence | Analysis and ops support. Four disciplines: Fusion & Analysis, Combat ISR (drones, recce tab), Imagery, and Open Source.
 Maintenance | Army Technician (Leopard, Terrex, howitzers) or Air Force Technician (F-16, F-15, AH-64D, Heron). Diagnose and keep platforms operational.
 
+<in-post-ad />
+
 ## SCDF vocations
 
 If you're posted to the Singapore Civil Defence Force, these are the 8 vocations.

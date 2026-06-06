@@ -178,6 +178,8 @@ But when you throw the grenade, your PC fly behind
 _I don't want to live an army life yah._
 _I just want to live a simple life yah_
 
+<in-post-ad />
+
 ## Airborne
 
 A is for Airborne

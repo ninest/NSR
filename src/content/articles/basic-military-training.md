@@ -94,6 +94,8 @@ Other items include
 - Wallet with Pink IC
 - Smartphone and earphones
 
+<in-post-ad />
+
 ## BMT tips
 ### Admin time
 
@@ -180,7 +182,6 @@ If you're having trouble remembering the commands, head over to [the guide](/com
 
   You think about it, you ride one roller coaster then right out the gate it goes downhill already, everybody will kenna heart attack. Same principle here.
 
-
 #### Examples
 
 Your typical command got 3 stages.
@@ -226,6 +227,7 @@ For *PU*, drag. Again, mentally say "one thousand" in your head then continue wi
 SING, where you again, bring it down sharp like you whack that mosquito who try to suck your lanjiao for blood.
 
 
+<in-post-ad />
 
 ## Field Camp
 ### Field discipline
