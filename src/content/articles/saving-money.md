@@ -25,6 +25,8 @@ Do not wait until the end of the month to save. By then, the money is usually go
 
 You don't need a complicated system. Even a separate account or wallet works, as long as it makes you think twice before touching the money.
 
+<in-post-ad />
+
 ## Example budgets
 
 These are examples, not targets. Your camp, vocation, family situation, and stay-in or stay-out status matter a lot.
