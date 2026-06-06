@@ -34,6 +34,8 @@ A Viper Coy! warrior
 'Cos we are the best
 In the SAF
 
+<YoutubeVideo id="nfMrsWs-c6Q" title="When The Whistle Blows" />
+
 ## Notes
 
 - Swap "Viper" for your own company name when you sing it.

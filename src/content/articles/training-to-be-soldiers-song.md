@@ -24,3 +24,5 @@ People everywhere
 Children having fun
 While we are holding guns
 
+<YoutubeVideo id="aYLmy9GWVNI" title="Training To Be Soldiers" />
+

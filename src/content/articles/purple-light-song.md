@@ -63,3 +63,5 @@ That is where, my buddy dies
 If I die
 Would you bury me?
 (With my rifle and my buddy and me)
+
+<YoutubeVideo id="gbzK2heXf8Y" title="Purple Light" />

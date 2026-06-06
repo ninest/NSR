@@ -34,6 +34,8 @@ ROAR
 Excel! Through basics!
 Excel! Through basics!
 
+<YoutubeVideo id="1233rfzmgLQ" title="BMT Roar" />
+
 ## Notes
 
 - Learn it together with the [Infantry Song](/infantry-song) if your POP rehearsal needs both.
