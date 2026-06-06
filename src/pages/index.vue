@@ -54,7 +54,11 @@ export default {
 
     <section>
       <h2>Latest</h2>
-      <ArticlePreviewList :articles="latestArticles"></ArticlePreviewList>
+      <ArticlePreviewList
+        :articles="latestArticles"
+        :showInFeedAds="true"
+        :inFeedAdFrequency="10"
+      ></ArticlePreviewList>
     </section>
   </Default>
 </template>

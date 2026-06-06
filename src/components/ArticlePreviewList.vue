@@ -1,9 +1,24 @@
 <script>
+import InFeedAd from '~/components/global/InFeedAd.vue'
+
 export default {
+  components: {
+    InFeedAd,
+  },
   props: {
     articles: {
       type: Array,
       required: true,
+    },
+    showInFeedAds: {
+      type: Boolean,
+      required: false,
+      default: false,
+    },
+    inFeedAdFrequency: {
+      type: Number,
+      required: false,
+      default: 10,
     },
   },
   data() {
@@ -23,6 +38,14 @@ export default {
       const tagSlug = keys[i]
       this.colors[tagSlug] = tags[tagSlug].color
     }
+  },
+  methods: {
+    shouldShowInFeedAd(index) {
+      return this.showInFeedAds &&
+        this.inFeedAdFrequency > 0 &&
+        (index + 1) % this.inFeedAdFrequency === 0 &&
+        index < this.articles.length - 1
+    },
   }
 }
 </script>
@@ -30,25 +53,34 @@ export default {
 <template>
   <div class="article-list">
     <div v-if="$fetchState.pending">Loading articles ...</div>
-    <ArticlePreview 
-      v-else
-      v-for="article in articles" v-bind:key="article.slug"
-      :title="article.displayTitle || article.title"
-      :slug="article.slug"
-      :date="article.created"
-      :tags="article.tags"
-      :colors="colors"
+    <template v-else>
+      <template v-for="(article, index) in articles">
+        <ArticlePreview
+          v-bind:key="article.slug"
+          :title="article.displayTitle || article.title"
+          :slug="article.slug"
+          :date="article.created"
+          :tags="article.tags"
+          :colors="colors"
 
-      :tagsObject="tags"
-    > 
-    </ArticlePreview>
+          :tagsObject="tags"
+        >
+        </ArticlePreview>
+        <InFeedAd
+          v-if="shouldShowInFeedAd(index)"
+          v-bind:key="`in-feed-ad-${article.slug}`"
+        />
+      </template>
+    </template>
   </div>
 </template>
 
 <style lang="scss" scoped>
 .article-list {
   // spacing between articles above/below each other
-  a + a {
+  a + a,
+  a + .in-feed-ad,
+  .in-feed-ad + a {
     margin-top: 0.4rem;
   }
 }

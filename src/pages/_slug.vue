@@ -120,7 +120,11 @@ export default {
     <div v-if="this.showRelated" class="similar-articles">
       <section class="related">
         <h3>Related</h3>
-        <ArticlePreviewList :articles="sortedSimilar"></ArticlePreviewList>
+        <ArticlePreviewList
+          :articles="sortedSimilar"
+          :showInFeedAds="true"
+          :inFeedAdFrequency="5"
+        ></ArticlePreviewList>
       </section>
     </div>
   </Default>
