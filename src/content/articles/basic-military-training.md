@@ -121,10 +121,6 @@ Always keep extra black tape handy, and share with your buddies. They'll love yo
 - Your sergeants are real people too: If they're shouting at you, remember that they've been trained to do so. They are most likely NSFs waiting to ORD too.
 - DO NOT SIGN ON THE LINES
 
-<div style="margin-top: 1rem">
-  <AdWrapper />
-</div>
-
 #### Garters and boots
 Check [this video from NCC](https://www.youtube.com/watch?v=DaIvfD0eUJA) to learn how to tie your boot laces. I only recommend tying them this way if you're doing physical activity, route marching, or going outfiel. Otherwise stuffing them behind your garters is enough.
 
@@ -273,10 +269,6 @@ Day 2 is shellscrape-digging day. It's gonna be tough, but don't slack or give u
 ## Hand Grenade
 Hand grenade lasts around a day (half a day if you're lucky).
 
-<div style="margin-top: 1rem">
-  <AdWrapper />
-</div>
-
 ## Close Quarter Battle
 CQB is a 2-day, 1-night outfield.
 
@@ -299,10 +291,6 @@ To successfully pass out of BMT, the following are required:
 Hand grenade and BIC are not requirements to POP.
 
 After POP, you get 5 days off (+4 counting weekends, so 9 days totally). These 5 days are deducted from your annual leave of 14 days. Posting orders will be available on the Friday after POP.
-
-<div style="margin-top: 1rem">
-  <AdWrapper />
-</div>
 
 ## Videos
 ### Hand Grenade

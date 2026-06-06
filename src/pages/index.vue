@@ -1,13 +1,11 @@
 <script>
 import Default from '~/components/layouts/Default.vue'
-import AdWrapper from '~/components/global/AdWrapper.vue'
 import HubSection from '~/components/HubSection.vue'
 import { createSeoHead } from '~/utils/seo'
 
 export default {
   components: {
     Default,
-    AdWrapper,
     HubSection
   },
   async asyncData({ $content }) {
@@ -58,9 +56,6 @@ export default {
       <h2>Latest</h2>
       <ArticlePreviewList :articles="latestArticles"></ArticlePreviewList>
     </section>
-    
-    <AdWrapper />
-    
   </Default>
 </template>
 

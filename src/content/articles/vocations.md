@@ -31,10 +31,6 @@ That last point is why it feels random. Two guys with the same profile can get v
 
 Neither is automatically better. Combat pays a higher [vocation allowance](/nsf-allowance), but service vocations are usually more chill.
 
-<div style="margin-top: 1rem">
-  <AdWrapper />
-</div>
-
 ## Indicating your vocation interest
 
 Before your medical screening, you can indicate interest in vocations through the NS Portal. From the handbook:

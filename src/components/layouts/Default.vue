@@ -7,6 +7,7 @@ import Add from '~/components/sidebar/Add.vue'
 import ContributionTips from '~/components/sidebar/ContributionTips.vue'
 import DiscordWidget from '~/components/DiscordWidget.vue'
 import Links from '~/components/sidebar/Links.vue'
+import AdWrapper from '~/components/global/AdWrapper.vue'
 
 export default {
   components: {
@@ -17,7 +18,8 @@ export default {
     Add,
     ContributionTips,
     DiscordWidget,
-    Links
+    Links,
+    AdWrapper
   },
   props: {
     title: {
@@ -72,6 +74,11 @@ export default {
         <DiscordWidget></DiscordWidget>
 
         <Links></Links>
+
+        <AdWrapper
+          slot="5699309574"
+          placement="sidebar"
+        />
       </div>
     </main>
   </Base>

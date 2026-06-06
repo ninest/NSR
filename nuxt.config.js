@@ -26,8 +26,6 @@ module.exports = {
   head: {
     script: process.env.NODE_ENV === 'production' ? [
       {
-        // <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3633803003049248"
-        // crossorigin="anonymous"></script>
         src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3633803003049248",
         crossorigin: "anonymous",
         async: true,
@@ -106,12 +104,6 @@ module.exports = {
 
   gtag('config', 'G-ZT5H56PKVC');
 </script> */
-    [
-      "@nuxtjs/google-adsense",
-      {
-        id: "ca-pub-3633803003049248",
-      },
-    ],
   ],
   components: true,
   modules: [

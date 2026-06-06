@@ -78,10 +78,6 @@ Soul and heart
 Do it for our nation
 Do it for our Singapore
 
-<div style="margin-top: 1rem">
-  <AdWrapper />
-</div>
-
 ## Left Toe Right Toe
 
 Left toe right toe, keep up the tempo
@@ -206,10 +202,6 @@ Left them to drown
 
 We don't need no terrorist
 Hanging around
-
-<div style="margin-top: 1rem">
-  <AdWrapper />
-</div>
 
 ## _Attend C_
 

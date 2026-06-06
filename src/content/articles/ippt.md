@@ -60,10 +60,6 @@ The run is worth the most, so that is where golds are won and lost. For a quick 
 - Book your IPPT **early in your window**, not at the last minute. This leaves room for free retakes if you miss the award you wanted.
 - Warm up properly before the run. A cold start costs you seconds.
 
-<div style="margin-top: 1rem">
-  <AdWrapper />
-</div>
-
 ## IPT and RT
 
 If you don't pass, or you want help training up, you may be placed on one of these.

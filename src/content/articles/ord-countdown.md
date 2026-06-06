@@ -53,10 +53,6 @@ Check the OneNS portal or your NS records. This calculator is for planning, so i
 **Does clearing my IPPT change my ORD?**
 Yes. PES A or B1 enlistees who score 61 or more on the [Pre-Enlistee IPPT](/ippt) skip the 8-week PTP, which brings ORD forward by about 56 days.
 
-<div style="margin-top: 1rem">
-  <AdWrapper />
-</div>
-
 ## More reading
 
 - [BMT hub](/bmt-hub): start here for everything before and during BMT.

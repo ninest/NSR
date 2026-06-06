@@ -1,12 +1,10 @@
 <script>
 import Default from '~/components/layouts/Default.vue'
-import AdWrapper from '~/components/global/AdWrapper.vue'
 import { createSeoHead } from '~/utils/seo'
 
 export default {
   components: {
-    Default,
-    AdWrapper
+    Default
   },
   head() {
     return createSeoHead({
@@ -61,7 +59,5 @@ export default {
 
       <button type="submit">Submit</button>
     </form>
-
-    <AdWrapper />
   </Default>
 </template>

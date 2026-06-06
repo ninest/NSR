@@ -110,7 +110,12 @@ export default {
 
     <hr v-if="this.showRelated" />
 
-    <AdWrapper />
+    <div>
+      <AdWrapper
+        slot="6663230718"
+        placement="article-bottom"
+      />
+    </div>
 
     <div v-if="this.showRelated" class="similar-articles">
       <section class="related">
