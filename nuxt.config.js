@@ -84,6 +84,7 @@ module.exports = {
     "~/plugins/formatDate.js",
     "~/plugins/slug.js",
     "~/plugins/gtag.js",
+    "~/plugins/goatcounter.client.js",
   ],
   buildModules: [
     "@nuxt/components",
