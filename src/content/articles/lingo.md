@@ -59,6 +59,8 @@ Officer cadet school. Those who pass out of OCS become officiers (2LT rank). 2LT
 **SOL**
 Stoppage of leave. A punishment in which a serviceman is not allowed to leave the camp for a certain number of days.
 
+<in-post-ad />
+
 ## Words
 
 ### Non-English words
@@ -100,6 +102,8 @@ Forced preperation. Any preperation you do before going outfield.
 
 **Turnout**
 When you're woken up in the middle of the night for force prep and/or training to test your effectiveness.
+
+<in-post-ad />
 
 ## Phrases
 

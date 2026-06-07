@@ -74,6 +74,8 @@ Physical Employment Standards: Medical classification for service suitability.
 **MCS**  
 Medical Classification System. CMPB is introducing this for pre-enlistees enlisting from October 2027 onwards, so future batches may not use PES the same way?
 
+<in-post-ad />
+
 **AWOL**  
 Absent Without Leave: Being absent from duty without approval.
 

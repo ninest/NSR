@@ -35,6 +35,8 @@ Selected cadets immediately assume the **Specialist Cadet (SCT)** rank for the d
 
 SCS is made up of three schools (SCS I, SCS II, and SCS III), each organised into four companies, for twelve companies in total. Command Teams in each company, supported by Subject Matter Experts from SWI Headquarters, plan and conduct the syllabus to keep standards consistent. Instructors include Regulars and National Servicemen who bring current operational experience to the course. Expect at least one heartfelt talk about signing on. The answer is still on the lines, and you will still not sign there.
 
+<in-post-ad />
+
 ## Training phases
 
 ### Foundation Term (8 weeks)

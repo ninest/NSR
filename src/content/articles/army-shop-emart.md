@@ -30,6 +30,8 @@ Nearest MRT: EW24/NS1 Jurong East
 
 _Permanently closed_
 
+<in-post-ad />
+
 ## Other shops selling military/outdoor items
 
 These shops **do not** accept emart credits.

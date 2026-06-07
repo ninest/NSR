@@ -53,6 +53,8 @@ So on top of the rank table, add the difference:
 
 Combat allowance was folded into vocation allowance back in March 2020, so this one number covers it.
 
+<in-post-ad />
+
 ## Other money on top
 
 Your allowance isn't the only cash you can get.
