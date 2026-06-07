@@ -15,13 +15,17 @@ Credits are only accepted at eMarts.
 Opens **Wednesday To Monday** (1100 to 2100 hours)
 Closed every Tuesday
 
+_Temporarily closed 4 May to 30 Jun 2026. Reopens 1 Jul 2026. Order via the OneNS app/portal in the meantime._
+
 Direct bus: 84, 382, 382G, and 382W
-Nearest LRT/MRT: PW1 Sam Kee (vie NE17 Punggol)
+Nearest LRT/MRT: PW1 Sam Kee (via NE17 Punggol)
 
 ### Lifestylemart at The Chevrons
 
-Opens **Wednesday to** Monday (1100 to 2100 hours)
+Opens **Wednesday to Monday** (1100 to 2100 hours)
 Closed every Tuesday
+
+_Temporarily closed 1 Jul to 25 Aug 2026. Order via the OneNS app/portal in the meantime._
 
 Direct bus: 52, 99, 105, 105B, 188, and 502
 Nearest MRT: EW24/NS1 Jurong East
