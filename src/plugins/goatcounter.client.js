@@ -14,7 +14,7 @@ export default ({ app }) => {
   let lastPath = null;
 
   const countPageview = (route) => {
-    const path = route.fullPath || `${location.pathname}${location.search}${location.hash}`;
+    const path = route.path || location.pathname;
 
     if (!hasLoaded || !window.goatcounter.count || path === lastPath) {
       return;
