@@ -11,7 +11,7 @@ The source for this website can be found on [GitHub](https://github.com/ninest/n
 
 ## Contribution
 
-Adding a page is easy, click the [**Add article**](/add) button. To edit a page (add content to an exisitng page), click on the **Edit article** button.
+Adding a page is easy, click the [**Add article**](/add) button. To edit a page (add content to an existing page), click on the **Edit article** button.
 
 Here's a list of contributors 👨‍💻:
 - StoremandoHQ
@@ -23,3 +23,9 @@ Here's a list of contributors 👨‍💻:
 - themindstorm
 
 You can also make a pull request on [GitHub](https://github.com/ninest/nsr).
+
+## About me
+
+I created this website back in 2020! I wanted to make something because NS was confusing. I had a rough idea since my older brother did NS too, but I had no details. I started with only the links page, then documented my experience in the BMT guide, and added more pages like ranks and commands. I got a lot of help from nice users on reddit and discord.
+
+You can find out more about me at [my website](https://parthkabra.me). More specifically about [National Service Resources here](https://parthkabra.me/projects/national-service-resources/)!
