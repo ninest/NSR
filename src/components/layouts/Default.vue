@@ -76,7 +76,7 @@ export default {
         <Links></Links>
 
         <AdWrapper
-          slot="5699309574"
+          ad-slot="5699309574"
           placement="sidebar"
         />
       </div>

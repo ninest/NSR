@@ -112,7 +112,7 @@ export default {
 
     <div>
       <AdWrapper
-        slot="6663230718"
+        ad-slot="6663230718"
         placement="article-bottom"
       />
     </div>

@@ -76,7 +76,7 @@ So if you fail your IPPT but pass field camp and BTP, you'll still POP. Note tha
 
 See the full [IPPT guide](/ippt) for the scoring and stations.
 
-<in-post-ad />
+<in-post-ad></in-post-ad>
 
 ### I missed field camp because I was sick. Will I OOC?
 Not automatically. The usual answer is that you need to pass 2 out of 3: IPPT, BTP, and field camp. But your commanders and MO decide what happens for your case, especially if you miss a lot of training days.

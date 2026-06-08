@@ -64,7 +64,7 @@ This isn't a "one rule fits all", but in BMT the ranks you usually see are 3SG/2
 
 Refer to all warrant officers as *Encik*. CWOs may be addressed as *Sir* too.
 
-<in-post-ad />
+<in-post-ad></in-post-ad>
 
 ## Junior Officers
 
@@ -96,7 +96,7 @@ Refer to all Officers and Generals as *Sir*.
 | <image-comp path="ranks/saf/light/mg.png" :reset="true" :rank="true"></image-comp> | Major General | MG  |
 | <image-comp path="ranks/saf/light/lg.png" :reset="true" :rank="true"></image-comp> | Lieutenant General | LG  |
 
-<in-post-ad />
+<in-post-ad></in-post-ad>
 
 <!-- ## Military Domain Experts -->
 ## MDEs

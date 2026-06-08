@@ -75,7 +75,7 @@ Answer: None of the above, it's a trick question. About number 4, although I hav
 
 Apart from this, you will also assist in IPPT conducts and spatial training. In IPPTs, you may be a marshaller, or you could help the medics if required. In spatial training, you just move cones to the parade square. Both of these require ice packs and water areas set up, which you will do.
 
-<in-post-ad />
+<in-post-ad></in-post-ad>
 
 ## Other stuff
 Here are some (unspoken) rules, tips, or anything else that didn't fit under the above headings

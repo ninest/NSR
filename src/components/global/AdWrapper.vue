@@ -7,7 +7,7 @@
       class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-3633803003049248"
-      :data-ad-slot="slot"
+      :data-ad-slot="adSlot"
       data-ad-format="auto"
       data-full-width-responsive="true"
     ></ins>
@@ -17,7 +17,7 @@
 <script>
 export default {
   props: {
-    slot: {
+    adSlot: {
       type: String,
       required: true,
     },

@@ -25,7 +25,7 @@ Do not wait until the end of the month to save. By then, the money is usually go
 
 You don't need a complicated system. Even a separate account or wallet works, as long as it makes you think twice before touching the money.
 
-<in-post-ad />
+<in-post-ad></in-post-ad>
 
 ## Example budgets
 

@@ -34,7 +34,7 @@ Nearest MRT: EW24/NS1 Jurong East
 
 _Permanently closed_
 
-<in-post-ad />
+<in-post-ad></in-post-ad>
 
 ## Other shops selling military/outdoor items
 

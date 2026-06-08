@@ -53,7 +53,7 @@ Rules vary by company and school. Some people get to use wall plugs during admin
 
 For the first confinement period, 2 x 20,000 mAh is usually enough if you are not watching videos every night. You also won't have as much phone time as you think.
 
-<in-post-ad />
+<in-post-ad></in-post-ad>
 
 ## Fitness
 

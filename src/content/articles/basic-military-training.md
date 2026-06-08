@@ -94,7 +94,7 @@ Other items include
 - Wallet with Pink IC
 - Smartphone and earphones
 
-<in-post-ad />
+<in-post-ad></in-post-ad>
 
 ## BMT tips
 ### Admin time
@@ -227,7 +227,7 @@ For *PU*, drag. Again, mentally say "one thousand" in your head then continue wi
 SING, where you again, bring it down sharp like you whack that mosquito who try to suck your lanjiao for blood.
 
 
-<in-post-ad />
+<in-post-ad></in-post-ad>
 
 ## Field Camp
 ### Field discipline
