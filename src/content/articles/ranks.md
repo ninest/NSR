@@ -1,6 +1,7 @@
 ---
-title: Ranks
-description: Learn about all the ranks in the SAF, from sergeant to encik, and officers
+title: "SAF Ranks 2026: NS, ME & MDES Rank Equivalents Chart"
+displayTitle: "SAF Ranks"
+description: "Complete Singapore Armed Forces rank structure: Army, Navy & Air Force. Officer, specialist, warrant and ME (MDES) ranks with their equivalents and insignia."
 created: 2020-07-27
 tags:
   - general
