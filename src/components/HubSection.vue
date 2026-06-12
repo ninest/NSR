@@ -8,6 +8,10 @@ export default {
         { slug: "ippt", title: "IPPT", blurb: "Calculate your score and award bands." },
         { slug: "faq", title: "FAQ", blurb: "Common NS questions, answered." },
       ],
+      vocations: [
+        { slug: "transport-vocation", title: "Transport", blurb: "Driving course, nights out, and a driving licence." },
+        { slug: "logistics-vocation", title: "Logistics", blurb: "Supply assistant (storeman) and clerk (ASA) life." },
+      ],
     }
   },
 }
@@ -34,6 +38,28 @@ export default {
           <span class="arrow">&rarr;</span>
         </div>
         <p>{{ hub.blurb }}</p>
+      </nuxt-link>
+    </div>
+
+    <nuxt-link to="/vocations" class="bmt-banner vocations-banner">
+      <div class="text">
+        <h2>Vocations</h2>
+        <p>How postings work and every NS vocation, with in-depth guides.</p>
+      </div>
+      <div class="arrow">&rarr;</div>
+    </nuxt-link>
+
+    <div class="secondary">
+      <nuxt-link
+        v-for="vocation in vocations" v-bind:key="vocation.slug"
+        :to="`/${vocation.slug}`"
+        class="hub-card"
+      >
+        <div class="head">
+          <h3>{{ vocation.title }}</h3>
+          <span class="arrow">&rarr;</span>
+        </div>
+        <p>{{ vocation.blurb }}</p>
       </nuxt-link>
     </div>
   </section>
@@ -81,6 +107,32 @@ export default {
     .arrow {
       font-size: 1.4rem;
       color: #0e4500;
+    }
+  }
+
+  .vocations-banner {
+    margin-top: 1.2rem;
+    padding: 0.6rem 0.9rem;
+    background-color: var(--white-2);
+
+    &:hover {
+      background-color: var(--white-3);
+    }
+
+    .text {
+      h2 {
+        font-size: 1.05rem;
+        color: inherit;
+      }
+
+      p {
+        font-size: 0.85rem;
+      }
+    }
+
+    .arrow {
+      font-size: 1.1rem;
+      color: var(--nav-link);
     }
   }
 

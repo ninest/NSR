@@ -13,6 +13,15 @@ Your vocation is the job you do for most of your two years. For SAF, it's decide
 
 There are vocations across all three uniformed services: the SAF, the SCDF, and the SPF. This page covers how postings work and lists every vocation in the official [CMPB NS Vocations Handbook](/ns-vocations-handbook.pdf).
 
+## In-depth vocation guides
+
+For a day-to-day look at specific vocations:
+
+- [Transport](/transport-vocation): the driving course, nights out, and earning a [driving licence](/saf-driving-licence).
+- [Logistics (Supply Assistant & ASA)](/logistics-vocation): [storeman](/storeman-non-combat) and clerk life, the courses, and free time.
+
+More guides coming. The rest of this page is the full map of how postings work and every vocation.
+
 ## How postings are decided
 
 It's a mix of your profile and what the service needs that intake. The main factors:
