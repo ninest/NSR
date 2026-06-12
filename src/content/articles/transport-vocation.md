@@ -3,6 +3,7 @@ title: "Transport Vocation: SAF Driving Course & Operator Guide"
 displayTitle: Transport vocation
 description: Guide to the SAF Transport vocation - how to tell if you're posted to it, the driving course, transport nodes, nights out, and earning a driving licence.
 created: 2020-05-15
+updated: 2026-06-12
 tags:
   - vocation
 ---

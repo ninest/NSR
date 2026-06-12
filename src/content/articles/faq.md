@@ -2,6 +2,7 @@
 title: Frequently asked questions
 description: Very frequently asked questions
 created: 2020-03-10
+updated: 2026-06-12
 
 tags:
   - general

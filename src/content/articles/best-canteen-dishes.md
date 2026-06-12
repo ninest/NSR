@@ -2,6 +2,7 @@
 title: Best Canteen Dishes
 description: What to eat at SAF camp canteens in Singapore, with popular dishes and practical canteen tips for NSFs
 created: 2023-05-29
+updated: 2026-05-07
 tags:
   - general
 ---

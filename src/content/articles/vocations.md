@@ -3,6 +3,7 @@ title: "NS Vocations in Singapore: SAF, SCDF & SPF Roles"
 displayTitle: "Vocations: SAF, SCDF, and SPF Roles"
 description: Every NS vocation across the SAF, SCDF, and SPF, what each role does and trains on, how postings are decided after BMT, and how to indicate your vocation interest.
 created: 2026-05-25
+updated: 2026-06-12
 featured: True
 tags:
   - vocation

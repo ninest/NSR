@@ -3,6 +3,7 @@ title: "Logistics Vocation: Supply Assistant (Storeman) & Admin (ASA) Guide"
 displayTitle: Logistics vocation (SA & ASA)
 description: Guide to the SAF Logistics vocation - Supply Assistant (storeman) and Admin Support Assistant (ASA), how to tell which you're posted to, the courses, store and office life, free time, and what it's worth after ORD.
 created: 2026-06-12
+updated: 2026-06-12
 tags:
   - vocation
 ---

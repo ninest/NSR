@@ -151,9 +151,9 @@ module.exports = {
         feed.push(`/${page}`);
       });
 
-      // Add article pages
+      // Add article pages with last-modified date for SEO
       articles.forEach((art) => {
-        feed.push(`/${art.slug}`);
+        feed.push({ url: `/${art.slug}`, lastmod: art.updated || art.created });
       });
       return feed;
     },

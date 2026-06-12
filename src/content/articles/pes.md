@@ -3,6 +3,7 @@ title: "PES Status Guide: What PES A, B, C, D, E, F Mean in NS"
 displayTitle: "PES Status Guide"
 description: What PES A, B, BP, C, D, E, and F mean in Singapore National Service, how PES is decided, and how it affects your vocation.
 created: 2026-05-25
+updated: 2026-06-12
 tags:
   - medical
   - general

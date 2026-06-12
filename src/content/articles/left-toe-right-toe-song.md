@@ -2,6 +2,7 @@
 title: Left Toe Right Toe Song Lyrics
 description: Keep up the tempo! BMT Song NS Singapore
 created: 2024-05-29
+updated: 2026-06-05
 tags:
   - songs
   - bmt

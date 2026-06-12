@@ -3,6 +3,7 @@ title: "Wearing Your Uniform in Public: Rules and Etiquette for NSFs"
 displayTitle: "Uniform in Public"
 description: What you can and can't do in SAF uniform in public, the rules that can get you charged, the reserved-seat debate on the MRT, and how to look smart enough to avoid trouble.
 created: 2026-05-31
+updated: 2026-05-31
 tags:
   - general
 ---

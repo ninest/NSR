@@ -2,6 +2,7 @@
 title: What does Attend C mean?
 description: What Attend C means in NS, how it differs from Attend A and B, and what to expect for duties, sickbay, MC, and booking out.
 created: 2023-06-14
+updated: 2026-05-28
 tags:
   - general
 ---

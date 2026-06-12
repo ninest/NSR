@@ -2,6 +2,7 @@
 title: Army Life Song Lyrics
 description: THEY SAY THAT IN THE ARMY ...
 created: 2024-05-15
+updated: 2026-05-29
 tags:
   - songs
   - bmt

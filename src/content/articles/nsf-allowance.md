@@ -3,6 +3,7 @@ title: "NSF Allowance 2026: NS Pay by Rank and Vocation"
 displayTitle: "NSF Allowance"
 description: How much NSFs earn - monthly allowance by rank, vocation allowance, IPPT incentives, and what affects your pay.
 created: 2026-05-25
+updated: 2026-06-08
 featured: True
 tags:
   - financial

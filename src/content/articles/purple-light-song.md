@@ -2,6 +2,7 @@
 title: Purple Light Lyrics
 description: I asked my girl ... Purple Light ... NS Singapore song
 created: 2024-05-21
+updated: 2026-06-05
 tags:
   - songs
   - bmt

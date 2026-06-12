@@ -2,6 +2,7 @@
 title: eMarts and Army shops
 description: Where to buy most SAF-issued items
 created: 2021-02-08
+updated: 2026-06-12
 tags:
   - general
 ---

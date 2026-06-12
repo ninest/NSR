@@ -2,6 +2,7 @@
 title: A day in the life of a non-combat supply assistant (storeman)
 description: What it's like to be a storeman, and tips and tricks
 created: 2020-08-30
+updated: 2026-06-12
 tags:
   - vocation
 authors:

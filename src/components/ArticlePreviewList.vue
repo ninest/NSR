@@ -59,7 +59,7 @@ export default {
           v-bind:key="article.slug"
           :title="article.displayTitle || article.title"
           :slug="article.slug"
-          :date="article.created"
+          :date="article.updated || article.created"
           :tags="article.tags"
           :colors="colors"
 

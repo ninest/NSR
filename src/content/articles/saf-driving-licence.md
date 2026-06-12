@@ -3,6 +3,7 @@ title: "SAF Driving Licence: Military to Civilian (CDL) Guide"
 displayTitle: "Getting your driving licence in NS"
 description: How NSF transport operators earn a military driving licence and convert it to a civilian one (CDL) - the licence classes, the 4,000 km rule, testing, and collecting it at ORD.
 created: 2026-06-12
+updated: 2026-06-12
 tags:
   - vocation
 ---

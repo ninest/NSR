@@ -2,6 +2,7 @@
 title: "eMart credits: how they work and what to buy"
 description: How SAF eMart credits work, how many you get by service and vocation, when they expire, how to order, and the best items to spend them on.
 created: 2026-06-12
+updated: 2026-06-12
 tags:
   - financial
   - general

@@ -2,6 +2,7 @@
 title: When The Whistle Blows Lyrics
 description: When the whistle blows, silence everywhere ... the SAF Viper warriors song from NS Singapore
 created: 2026-05-29
+updated: 2026-06-05
 tags:
   - songs
   - bmt

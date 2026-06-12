@@ -1,6 +1,7 @@
 ---
 title: Telegram bots
 created: 2020-07-25
+updated: 2026-05-25
 description: A Telegram bot to count down the days to your pink IC
 
 authors:

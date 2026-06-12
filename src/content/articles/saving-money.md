@@ -2,6 +2,7 @@
 title: Saving Money in NS
 description: Practical ways to budget NSF allowance and spend less during NS in Singapore
 created: 2026-06-06
+updated: 2026-06-08
 tags:
   - financial
   - general

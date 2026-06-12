@@ -3,6 +3,7 @@ title: IPPT Calculator & Score Guide for NS
 displayTitle: "IPPT Calculator"
 description: Calculate your IPPT score, check pass, silver, and gold award bands, and learn how NS IPPT scoring, incentives, IPT, RT, and exemptions work.
 created: 2026-05-25
+updated: 2026-06-08
 tags:
   - general
   - bmt

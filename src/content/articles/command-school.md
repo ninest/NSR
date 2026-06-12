@@ -2,6 +2,7 @@
 title: Command school
 description: Getting into SCS or OCS
 created: 2020-08-29
+updated: 2020-08-30
 
 tags:
   - bmt

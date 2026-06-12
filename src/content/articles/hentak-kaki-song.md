@@ -2,6 +2,7 @@
 title: Hentak Kaki Song Lyrics
 description: Count by the count by the left foot count ya ... Come sing the Hentak Kaki NS Singapore song
 created: 2024-05-20
+updated: 2026-05-29
 tags:
   - songs
   - bmt

@@ -2,6 +2,7 @@
 title: Training To Be Soldiers Lyrics
 description: Fight four ourselves ... Have you ever wondered ... Singapore Armed Forces National Service Songs
 created: 2024-05-22
+updated: 2026-06-05
 tags:
   - songs
   - bmt

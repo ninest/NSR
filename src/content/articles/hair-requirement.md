@@ -2,6 +2,7 @@
 title: Hair Requirement
 description: What hair is acceptable? What does Botak mean?
 created: 2024-09-02
+updated: 2025-04-28
 tags:
   - bmt
   - general

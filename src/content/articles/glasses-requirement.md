@@ -2,6 +2,7 @@
 title: Glasses Requirement
 description: What time of spectacles are allowed in National Service and Basic Military Training in Singapore?
 created: 2024-09-01
+updated: 2025-04-28
 tags:
   - bmt
   - general

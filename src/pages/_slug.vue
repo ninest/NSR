@@ -27,7 +27,7 @@ export default {
       for (const tag of tags) {
         const articles = await $content("articles")
           .where({ tags: { $contains: tag } })
-          .only(["slug", "title", "displayTitle", "created", "tags"])
+          .only(["slug", "title", "displayTitle", "created", "updated", "tags"])
           .fetch();
         similarArticles = similarArticles.concat(articles);
       }
@@ -80,7 +80,7 @@ export default {
 
     sortedSimilar() {
       return this.similarArticles.sort((first, second) => {
-        return new Date(first.created) < new Date(second.created);
+        return new Date(second.updated || second.created) - new Date(first.updated || first.created);
       });
     },
   },

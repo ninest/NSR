@@ -2,6 +2,7 @@
 title: Army Dictionary
 description: What do BMT, POP, ORD, ATP, PTP, FTP, FML mean? Consult the army dictionary to learn what these terms mean
 created: 2023-05-15
+updated: 2026-06-08
 tags:
   - general
   - bmt

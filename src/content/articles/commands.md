@@ -2,6 +2,7 @@
 title: Commands
 description: Essential SAF drill commands, marching commands, parade commands, and Malay command meanings for BMT
 created: 2020-04-29
+updated: 2026-05-07
 tags:
   - general
   - bmt

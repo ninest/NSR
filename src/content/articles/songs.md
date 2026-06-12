@@ -2,6 +2,7 @@
 title: Songs
 description: ECHO AFTER ME AHH! Learn the Infantry song and BMT roar for your POP
 created: 2020-05-15
+updated: 2026-06-08
 tags:
   - songs
   - general

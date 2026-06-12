@@ -2,6 +2,7 @@
 title: What to do before enlisting into BMT?
 description: Simple things to settle before enlistment day, including haircut, packing, fitness, documents, phone battery, and first book-out tips
 created: 2024-04-29
+updated: 2026-06-08
 tags:
   - bmt
 ---

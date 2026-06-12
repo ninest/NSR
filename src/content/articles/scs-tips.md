@@ -2,6 +2,7 @@
 title: Tips for Specialist Cadet School
 description: Tips on SCS for NS
 created: 2024-07-22
+updated: 2026-05-25
 tags:
   - scs
 ---
