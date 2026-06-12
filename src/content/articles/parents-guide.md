@@ -83,6 +83,8 @@ POP, the Passing Out Parade, marks the end of BMT, usually around 9 weeks in. Pa
 
 It is a real milestone. He went in a civilian and comes out a trained soldier. Wait for the official instructions on timing and guest numbers rather than assuming, then show up and be proud. Make sure you ask your son about how many tickets he has if you want to bring your grandparents / other friends.
 
+<in-post-ad></in-post-ad>
+
 ## Is BMT safe?
 
 NS training is not risk free. Serious training incidents have happened over the years, and some were tragic. But the system today is far more formalised than the stories you may remember. Because of past incidents, the SAF built in real safeguards:
@@ -125,6 +127,8 @@ Two things parents often get wrong:
 
 See the [PES guide](/pes) for what each grade means, and [medical concerns on CMPB](https://www.cmpb.gov.sg/parents-guide/medical-concerns/).
 
+<in-post-ad></in-post-ad>
+
 ## Help him prepare before enlistment
 
 The boys who settle fastest are the ones who arrive with basic life skills and realistic expectations. Fitness helps, but it is not everything.
@@ -150,6 +154,8 @@ All the numbers (CMPB, safety, counselling) are on the [contact page](/contact).
 - **"First book out is exactly two weeks, right?"** Usually after the first two weekends, around the third Friday, but it varies.
 - **"Should I call his commander when he's down?"** Call a counsellor first. The officer may not be the right person.
 - **"He should push through and not miss POP."** No. Report sick, let the MO decide.
+
+<in-post-ad></in-post-ad>
 
 ## More reading
 
