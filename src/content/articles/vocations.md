@@ -78,7 +78,7 @@ Naval Operations | Naval Warfare System Operator (NWSO) for boarding, fast craft
 ### Combat support and service
 Vocation | What it's like
 -- | --
-Transport | Drive military and heavy vehicles, Class 3 and/or Class 4. Convert your military licence to a [civilian licence](/saf-driving-licence) at ORD if you meet the mileage and clean-record bar.
+[Transport](/transport-vocation) | Drive military and heavy vehicles, Class 3 and/or Class 4. Convert your military licence to a [civilian licence](/saf-driving-licence) at ORD if you meet the mileage and clean-record bar.
 Logistics (Supply Assistant) | The [storeman and clerk (ASA)](/logistics-vocation) life. Supply Assistant course covering accounting, materiel, and maintenance. Lots of saikang, lots of admin time.
 [Medical](/medic-vocation) | Combat medic or medical centre medic. EMT course at SMTI with IV cannulation and a WSQ healthcare cert.
 Military Police | Security, enforcement, and ceremonial duties. P30 pistol and Taser X2, plus roles like investigator, K-9 handler, traffic outrider, and Detention Barracks.
