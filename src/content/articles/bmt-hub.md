@@ -78,7 +78,7 @@ Use it as a starting point for enlistment prep, packing, haircut rules, IPPT and
 
 ## After BMT
 
-- **[Specialist Cadet School Hub](/scs-hub): everything for SCS in one place — selection, terms, postings, tips, and links.**
+- **[Specialist Cadet School Hub](/scs-hub): everything for SCS in one place: selection, terms, postings, tips, and links.**
 - [Command school](/command-school): what to know about SCS and OCS selection.
 - [NS vocations and how postings work](/vocations): how your vocation is decided and the common vocations across the SAF.
 - [Transport vocation](/transport-vocation): what transport life can look like.
