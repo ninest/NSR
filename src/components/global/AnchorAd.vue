@@ -8,11 +8,9 @@
     >&times;</button>
     <ins
       class="adsbygoogle"
-      style="display:block; width:100%;"
+      style="display:inline-block; width:320px; height:50px;"
       data-ad-client="ca-pub-3633803003049248"
       data-ad-slot="8299224621"
-      data-ad-format="auto"
-      data-full-width-responsive="true"
     ></ins>
   </div>
 </template>
@@ -48,7 +46,7 @@ export default {
     if (!this.visible) return
 
     // reserve space so the fixed bar doesn't cover page-bottom content
-    document.body.style.paddingBottom = '90px'
+    document.body.style.paddingBottom = '66px'
 
     this.$nextTick(() => {
       try {
@@ -91,9 +89,9 @@ export default {
     background: #fff;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.08);
-    padding: 0.25rem 0.5rem;
-    min-height: 50px;
-    overflow: hidden;
+    padding: 4px 0;
+    height: 58px;
+    text-align: center;
   }
 
   .anchor-ad__close {

@@ -12,8 +12,8 @@ export default {
       if (sessionStorage.hasOwnProperty('discord_online')) {
         this.online = sessionStorage.getItem('discord_online')
       } else {
-        const url = "https://discordapp.com/api/guilds/692230983650377731/widget.json"
-        const response = await fetch(`https://api.codetabs.com/v1/proxy?quest=${url}`) 
+        const url = "https://discord.com/api/guilds/692230983650377731/widget.json"
+        const response = await fetch(url)
         const json = await response.json()
 
         this.online = json['presence_count']
