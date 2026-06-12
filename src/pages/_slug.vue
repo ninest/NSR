@@ -1,12 +1,14 @@
 <script>
 import Default from '~/components/layouts/Default.vue'
 import AdWrapper from '~/components/global/AdWrapper.vue'
+import AnchorAd from '~/components/global/AnchorAd.vue'
 import { createSeoHead } from '~/utils/seo'
 
 export default {
   components: {
     Default,
-    AdWrapper
+    AdWrapper,
+    AnchorAd
   },
   async asyncData({ $content, params, redirect, app }) {
     const slug = params.slug;
@@ -127,6 +129,8 @@ export default {
         ></ArticlePreviewList>
       </section>
     </div>
+
+    <AnchorAd />
   </Default>
 </template>
 
