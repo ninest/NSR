@@ -10,6 +10,8 @@ authors:
     origin:
       title: r/NationalServiceSG
       link: https://www.reddit.com/r/NationalServiceSG/comments/fyirqd/ord_countdown_telegram_bot/
+  - name: JustinLKX07
+    link: https://www.reddit.com/user/JustinLKX07/
 
 tags:
   - utility
@@ -31,3 +33,8 @@ It's [open source](https://github.com/markus-lendermann/temperature-ops-bot).
 Count your days down to your Pink IC without the need to download an App! Try me out! 😊
 
 Prefer not to use Telegram? Use the on-site [ORD countdown](/ord-countdown) instead. Enter your ORD date and it shows the days, weekends, and working days left, with a shareable link.
+
+## Lightning risk channel
+[t.me/ArmyCAT1](https://t.me/ArmyCAT1)
+
+Real-time lightning and weather alerts for outdoor training. Get a heads up when the lightning risk changes in your area.
