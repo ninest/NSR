@@ -9,8 +9,6 @@ tags:
   - general
 ---
 
-_Last updated: 7 May 2026_
-
 BMT is Basic Military Training, the first major phase for most Singaporean sons entering National Service. It is where you learn the SAF basics: military routine, fieldcraft, fitness, discipline, ranks, commands, and what life as an NSF roughly feels like.
 
 This page is for pre-enlistees who want to prepare before enlistment, parents and friends trying to understand what is coming, and NSFs who need quick links during BMT.

@@ -73,11 +73,25 @@ export default {
       title: `${this.article.title}`,
       description: this.article.description,
       app: this.article.app,
+      article: this.article.created
+        ? {
+            datePublished: this.article.created,
+            dateModified: this.article.updated || this.article.created,
+          }
+        : undefined,
     });
   },
   computed: {
     showRelated() {
       return this.similarArticles.length > 0;
+    },
+
+    updatedLabel() {
+      const date = this.article.updated || this.article.created;
+      if (!date) return null;
+      const parsed = new Date(date);
+      if (isNaN(parsed)) return null;
+      return parsed.toLocaleDateString("en-GB", { month: "long", year: "numeric" });
     },
 
     sortedSimilar() {
@@ -97,6 +111,8 @@ export default {
     :toc="article.toc"
   >
     <Authors v-if="article.authors" :authors="article.authors"></Authors>
+
+    <p v-if="updatedLabel" class="article-updated">Updated {{ updatedLabel }}</p>
 
     <article :class="`page-${article.slug}`">
       <nuxt-content :document="article"></nuxt-content>
@@ -135,6 +151,13 @@ export default {
 </template>
 
 <style lang="scss" scoped>
+.article-updated {
+  margin-top: -0.3rem;
+  margin-bottom: 1.4rem;
+  font-size: 0.85rem;
+  color: var(--nav-link);
+}
+
 hr {
   margin: 2.5em 0;
 }
