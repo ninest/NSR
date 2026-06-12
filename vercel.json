@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "trailingSlash": false,
   "builds": [
     {
       "src": "package.json",
@@ -16,28 +17,13 @@
       "permanent": true
     },
     {
-      "source": "/drill-commands/",
-      "destination": "/commands/",
-      "permanent": true
-    },
-    {
       "source": "/ord",
       "destination": "/ord-countdown",
       "permanent": true
     },
     {
-      "source": "/ord/",
-      "destination": "/ord-countdown/",
-      "permanent": true
-    },
-    {
       "source": "/financial-advice",
       "destination": "/saving-money",
-      "permanent": true
-    },
-    {
-      "source": "/financial-advice/",
-      "destination": "/saving-money/",
       "permanent": true
     }
   ],
