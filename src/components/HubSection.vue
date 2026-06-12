@@ -17,6 +17,13 @@ export default {
         { slug: "transport-vocation", title: "Transport", blurb: "Driving course, nights out, and a driving licence." },
         { slug: "logistics-vocation", title: "Logistics", blurb: "Supply assistant (storeman) and clerk (ASA) life." },
       ],
+      guides: [
+        { slug: "ranks", title: "Ranks" },
+        { slug: "pes", title: "PES status" },
+        { slug: "nsf-allowance", title: "NSF allowance" },
+        { slug: "lingo", title: "Army lingo" },
+        { slug: "songs", title: "Songs" },
+      ],
     }
   },
 }
@@ -66,6 +73,15 @@ export default {
         </div>
         <p>{{ vocation.blurb }}</p>
       </nuxt-link>
+    </div>
+
+    <div class="guides">
+      <span class="guides-label">Other guides</span>
+      <nuxt-link
+        v-for="guide in guides" v-bind:key="guide.slug"
+        :to="`/${guide.slug}`"
+        class="guide-link"
+      >{{ guide.title }}</nuxt-link>
     </div>
   </section>
 </template>
@@ -184,6 +200,32 @@ export default {
         font-size: 0.8rem;
         line-height: 1.3;
         color: var(--nav-link);
+      }
+    }
+  }
+
+  .guides {
+    margin-top: 1.2rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.4rem 0.9rem;
+
+    .guides-label {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--nav-link);
+    }
+
+    .guide-link {
+      font-size: 0.9rem;
+      color: #0e4500;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+
+      &:hover {
+        background-color: #0e4500;
+        color: white;
       }
     }
   }

@@ -61,7 +61,16 @@ h4 {
 article {
   a {
     &:not(.button) {
-      @include link
+      @include link;
+      border-radius: 0;
+      text-decoration: underline;
+
+      &:hover {
+        background-color: blue;
+        color: white;
+        margin: 0;
+        padding: 0;
+      }
     }
   }
 
