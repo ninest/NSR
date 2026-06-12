@@ -51,6 +51,8 @@ SAFVC volunteer | 50 per completed year of service
 
 Check your exact balance and allocation in the OneNS app or portal.
 
+<in-post-ad></in-post-ad>
+
 ## Expiry and rollover
 
 Credits do not last forever.
@@ -132,6 +134,8 @@ Order in the OneNS app or portal, then pick self-collection or home delivery.
 Selected SAF items, open to the public, 24/7. Next-day delivery, excluding weekends and public holidays.
 
 Note: this channel does **not** accept eMart credits. You pay with normal Lazada payment methods.
+
+<in-post-ad></in-post-ad>
 
 ## Tips
 

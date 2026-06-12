@@ -64,6 +64,8 @@ This varies by cohort, so treat it as a guide, not a fixed route. If you can, **
 
 After the course you're posted to a unit and become its storeman. That can be a maintenance base (MES / AMB), a [transport](/transport-vocation) unit, or basically any company that needs someone to run its store.
 
+<in-post-ad></in-post-ad>
+
 ## Store life
 
 Once you're in unit, you're the **custodian of the store**. The job is part inventory, part saikang:
@@ -103,6 +105,8 @@ Both roles are admin vocations, which means a lot of **downtime**. Expect **2 ho
 - Clear your [IPPT](/ippt) early to bank the award money
 - Read, learn a skill, or [save money](/saving-money)
 - Keep shows downloaded offline before you book in
+
+<in-post-ad></in-post-ad>
 
 ## Ranks and progression
 

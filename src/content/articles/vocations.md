@@ -133,6 +133,8 @@ If you do well in BMT, you may be picked for command school:
 
 Both add training time but rank you up faster and pay more by the end of your two years.
 
+<in-post-ad></in-post-ad>
+
 ## Can you choose your vocation?
 
 Mostly no, but a few things help:

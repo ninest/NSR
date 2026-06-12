@@ -53,6 +53,8 @@ _BMT will beat you AR, toughen you AR_
 _Excel! Through basics!_
 _Excel! Through basics!_
 
+<in-post-ad></in-post-ad>
+
 ## Training To Be Soldiers
 
 Training to be soldiers
@@ -102,6 +104,8 @@ Down the hill
 Any sweat?
 No sweat, chicken feet ha ha
 All the way
+
+<in-post-ad></in-post-ad>
 
 ## When The Whistle Blows
 
@@ -226,6 +230,8 @@ Beg him (YAH!)
 Plead him (YAH!)
 Beg him, plead him (YAH YAH!)
 
+<in-post-ad></in-post-ad>
+
 ## Cold Wind
 
 In the early morning march
@@ -279,6 +285,8 @@ Now its time for me to rest
 Tell my girl I've done my best
 Silver wings upon my chest.
 
+<in-post-ad></in-post-ad>
+
 ## I Ask My Girl
 
 I ask my girl
@@ -331,6 +339,8 @@ Viper Coy! Viper Coy! all the way
 We like it here we like it here
 We found ourselves a home
 A home, a home sweet home
+
+<in-post-ad></in-post-ad>
 
 ## Book Out Day
 

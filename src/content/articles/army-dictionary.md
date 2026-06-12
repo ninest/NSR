@@ -113,6 +113,8 @@ Full Battle Order: Usually helmet, LBS, field pack, and rifle.
 **LBS**  
 Load Bearing System. The vest/webbing you wear to carry equipment.
 
+<in-post-ad></in-post-ad>
+
 **SAR 21**  
 Singapore Assault Rifle 21.
 

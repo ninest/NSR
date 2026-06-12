@@ -68,6 +68,8 @@ The waiting period and the daily admin time add up to a lot of free hours. Some 
 - Read, learn a skill, or [save money](/saving-money)
 - Download shows offline before you book in
 
+<in-post-ad></in-post-ad>
+
 ## The driving course
 
 The course is **stay-in**. Whether you get nights out or stay out depends on your cohort, platoon, unit policy, and how you're doing, so there's no single rule. There might be a ton of stay-out; or there might be stay-in until you clear key tests.
@@ -115,6 +117,8 @@ There's an **attempt cap**, but the exact number isn't officially published and 
 - Older accounts mention 7 or 8
 
 Treat these as anecdotal, not rules. Repeated failure past the cap can mean **OOC** from the driving course. After OOC, outcomes vary: some get reposted to non-driving roles like [storeman / ASA](/storeman-non-combat), others stay in a transport unit doing support work.
+
+<in-post-ad></in-post-ad>
 
 ## After the course: admin time
 
