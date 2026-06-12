@@ -92,6 +92,12 @@ export default {
     padding: 4px 0;
     height: 58px;
     text-align: center;
+    overflow: hidden;
+  }
+
+  .anchor-ad .adsbygoogle {
+    width: 320px;
+    height: 50px;
   }
 
   .anchor-ad__close {
