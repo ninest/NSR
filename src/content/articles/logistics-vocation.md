@@ -76,7 +76,7 @@ Once you're in unit, you're the **custodian of the store**. The job is part inve
 - **Support duties**: helping set up [IPPT](/ippt) conducts and spatial training
 - **Steps**: it's a walking job, anywhere from 2 to 13 km a day
 
-For a full first-person breakdown of what the day actually feels like, read the companion piece: **[a day in the life of a storeman](/storeman-non-combat)**.
+For a full first-person breakdown of what the day actually feels like, read: **[a day in the life of a storeman](/storeman-non-combat)**.
 
 ## Admin Support Assistant (ASA)
 
