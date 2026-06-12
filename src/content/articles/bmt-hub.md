@@ -82,6 +82,7 @@ Use it as a starting point for enlistment prep, packing, haircut rules, IPPT and
 - [Command school](/command-school): what to know about SCS and OCS selection.
 - [NS vocations and how postings work](/vocations): how your vocation is decided and the common vocations across the SAF.
 - [Transport vocation](/transport-vocation): what transport life can look like.
+- [Driving licence in NS](/saf-driving-licence): how transport operators convert a military licence to a civilian one.
 - [Storeman / supply assistant](/storeman-non-combat): a non-combat supply assistant experience.
 
 ## Official links

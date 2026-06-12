@@ -48,7 +48,7 @@ Cadets acquire core infantry skills, weapon handling, tactical drills, fieldcraf
 Cadets focus on vocation-specific training. Your posting depends on your course grades and pre-enlistment screening, and decides where you spend this term:
 
 - Infantry and Guards specialists remain at SCS for advanced infantry leadership modules.
-- Specialists in other arms train at their formation institutes: Armour, Artillery, Combat Engineers, Signals, Medical Corps, Transport, and more.
+- Specialists in other arms train at their formation institutes: Armour, Artillery, Combat Engineers, Signals, Medical Corps, [Transport](/transport-vocation), and more.
 - Rarer postings exist too, such as sniper, military police, and intelligence roles.
 
 Most institutes end the term with a summative exercise that grades you.

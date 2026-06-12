@@ -42,7 +42,7 @@ There's some more stuff "supply chain management" and forklifts, but none of thi
 
 It's possible to be posted to a unit as an SA. You may see something like "SA(GE)", which means supply assistant general equipment. In my unit, however, none of the SAs (or ASAs) were directly posted here, but all of them OOC-ed from some course and ended up here.
 
-Those who get Supply assistant on their posting order after BMT will probably go through the Course (unsure of the exact name), which I believe is held in Sembawang camp, similar to the driving course. To see more about the course, refer to **page 39** of the [**NS Vocations Handbook**](https://www.cmpb.gov.sg/web/wcm/connect/cmpb/226de7de-4248-498d-a595-fabee56c4b73/ns-vocations-handbook.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_1QK41482L8MQ70QO51TJLK00Q6-226de7de-4248-498d-a595-fabee56c4b73-mNB41uf).
+Those who get Supply assistant on their posting order after BMT will probably go through the Course (unsure of the exact name), which I believe is held in Sembawang camp, similar to the [driving course](/transport-vocation). To see more about the course, refer to **page 39** of the [**NS Vocations Handbook**](https://www.cmpb.gov.sg/web/wcm/connect/cmpb/226de7de-4248-498d-a595-fabee56c4b73/ns-vocations-handbook.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_1QK41482L8MQ70QO51TJLK00Q6-226de7de-4248-498d-a595-fabee56c4b73-mNB41uf).
 
 
 ## What's a day in my life like?

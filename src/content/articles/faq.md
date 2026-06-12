@@ -85,7 +85,7 @@ Not automatically. The usual answer is that you need to pass 2 out of 3: IPPT, B
 Check out the page for [command school](/command-school).
 
 ### Which vocation can I get if I am PES A/B/C/E?
-Again, no one can be completely sure. If you are combat-fit (PES A/B), expect a combat vocation like infantry. But combat-fit enlistees can also become transport operators, clerks, or storemen, so no one can be 100% sure.
+Again, no one can be completely sure. If you are combat-fit (PES A/B), expect a combat vocation like infantry. But combat-fit enlistees can also become [transport operators](/transport-vocation), clerks, or storemen, so no one can be 100% sure.
 
 Typically, lower PESes like C to E get admin jobs (ASA/SA) or transport.
 

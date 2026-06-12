@@ -42,6 +42,7 @@ Start here if you've been selected for Specialist Cadet School (SCS), or you're 
 - [Ranks](/ranks): you pass out as a 3SG and take on a section commander appointment.
 - [OCS crossover](/specialist-cadet-school#next): outstanding cadets can be taken out-of-course to OCS or sent for the Platoon Sergeant Course.
 - [Transport vocation](/transport-vocation): what transport life can look like.
+- [Driving licence in NS](/saf-driving-licence): how transport operators convert a military licence to a civilian one.
 - [Storeman / supply assistant](/storeman-non-combat): a non-combat supply assistant experience.
 
 ## Official links
