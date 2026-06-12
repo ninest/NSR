@@ -37,12 +37,16 @@ Armour takes **combat-fit** people ([PES](/pes) A and B1). Postings still go by 
 
 Both are combat roles. The big practical difference is that tank operators live around the **tank**, while armoured infantry are **infantry with a vehicle**.
 
+Armoured infantry is usually the more physically demanding of the two, since troopers still **dismount and fight on foot**. Tank crew is less foot-slogging but more **technical, cramped, and maintenance-heavy**. Which one you get comes down to posting, manpower, and medical suitability, not a free choice.
+
 ### The vehicles
 
 - **Leopard 2SG**: the main battle tank, 120mm gun
 - **Hunter AFV**: the locally built, fully digital fighting vehicle (crew of 3 plus dismounts)
 - **Bionix II**: the tracked infantry fighting vehicle
 - **Bronco / M113**: tracked carriers for support roles
+
+You won't necessarily crew the newest platform. Depending on your unit and role you might be on a Leopard 2SG, Hunter, Bionix, or a support vehicle, or in a non-crew armoured infantry role.
 
 ## The course
 
@@ -52,7 +56,7 @@ Armour trains at the **Armour Training Institute (ATI)** in **Sungei Gedong Camp
 - **Armoured infantry** training mixes basic infantry with **armoured warfare tactics**, mounted and dismounted
 - Armour leans on **simulators** for gunnery and driving before you touch the real thing
 
-Exact course lengths vary by role and batch, so confirm with your own cohort.
+After BMT there's a trades phase before full unit training. Armoured infantry accounts put it at **around 3 months**; tank crew describe a similar first few months of tank familiarisation before being streamed into a role (gunner, loader, driver). Lengths shift by platform, role, and batch, so check with your cohort.
 
 <in-post-ad></in-post-ad>
 
@@ -65,16 +69,16 @@ Armour's NSF battalions, based at **Keat Hong** and **Sungei Gedong** camps:
 | **40, 41, 42 SAR** | Armoured infantry |
 | **48 SAR** | Tanks |
 
-Unit and camp details can change, so always follow your official posting order.
+That's the rough split, but a battalion needs more than crews and troopers: there are also vehicle operators, gunners, recce, signals, medics, technicians, and HQ/support roles. **48 SAR** (tanks) is the one most tied to the Germany exercise. Unit and camp details can change, so always follow your official posting order.
 
 ## Overseas exercises
 
-You'll likely get to travel overseas:
+Overseas training is a real possibility, and one of Armour's biggest draws:
 
-- **Exercise Wallaby** in **Australia**, the SAF's largest overseas exercise, with live-firing across huge training areas
-- **Exercise Panzerstrike** in **Germany** (around 3 weeks), gunnery and manoeuvre alongside the German army
+- **Exercise Wallaby** in **Australia**, the SAF's largest overseas exercise, with live-firing across huge training areas (usually the second half of the year)
+- **Exercise Panzerstrike** in **Germany** (around 3 weeks), gunnery and manoeuvre alongside the German army, most associated with the **48 SAR** tanks
 
-Not everyone goes every cycle, but a big chunk of the appeal of a combat vehicle vocation is getting to actually open up on terrain you'll never get at home.
+It's **selected units and batches** that go, not every NSF automatically, and it depends on your unit's cycle, role, and manpower. Still, getting to actually open up on terrain you'll never get at home is a big part of the appeal.
 
 ## How hard is it really
 
@@ -88,7 +92,7 @@ You still go outfield and do live-firing, but the day-to-day texture is more "ve
 
 ## Maintenance is the saikang
 
-Worth setting expectations: a real part of armour life is **looking after the vehicle**. After exercises and shoots, there's cleaning, servicing, and prep, and it can run long. The machines are the whole point of the vocation, so they come first.
+Worth setting expectations: a real part of armour life is **looking after the vehicle**. Force prep, stores, vehicle checks, and post-exercise servicing and cleaning can take up a meaningful part of the week, and during heavy training it can feel like the **second half of the outfield**. The machines are the whole point of the vocation, so they come first.
 
 ## Daily life
 
@@ -119,7 +123,7 @@ If you do well you can be picked for command school:
 
 ## Is it worth anything after ORD
 
-There's no civilian licence like [transport](/transport-vocation) gives, but the experience isn't nothing:
+Unfortunately, Armour will not get a civilian driving licence, that's a [transport](/transport-vocation) thing, not an armour one. But the experience isn't nothing:
 
 - Hands-on **vehicle systems, gunnery, and maintenance** exposure
 - Strong **crew teamwork** and, if you make commander, real leadership
