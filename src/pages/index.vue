@@ -45,6 +45,10 @@ export default {
     </h1>
     <p class="tagline">Your hub for everything NS in Singapore</p>
 
+    <p class="start-here-cta">
+      Unsure where to start? <nuxt-link to="/start-here">Click here</nuxt-link>
+    </p>
+
     <HubSection />
 
     <section>
@@ -66,9 +70,27 @@ export default {
 <style lang="scss" scoped>
 .tagline {
   margin-top: -0.4rem;
+  margin-bottom: 0.2rem;
+  color: var(--nav-link);
+  font-size: 0.95rem;
+}
+
+.start-here-cta {
+  margin-top: 0;
   margin-bottom: 1.2rem;
   color: var(--nav-link);
   font-size: 0.95rem;
+
+  a {
+    color: #0e4500;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+
+    &:hover {
+      background-color: #0e4500;
+      color: white;
+    }
+  }
 }
 
 h1 {

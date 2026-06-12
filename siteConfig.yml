@@ -11,6 +11,9 @@ pages:
   - mn
 
 footerLinks:
+  - title: Start Here
+    url: /start-here
+    external: false
   - title: Dates
     url: /dates
     external: false
