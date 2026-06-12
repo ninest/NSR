@@ -19,7 +19,9 @@ There are vocations across all three uniformed services: the SAF, the SCDF, and 
 For a day-to-day look at specific vocations:
 
 - [Infantry](/infantry-vocation): IVT, the SIR battalions, outfields, stay-in life, and the Combat Skills Badge.
+- [Guards](/guards-vocation): elite infantry, GVT, earning the khaki beret, and heliborne and amphibious ops.
 - [Island Defence (Security Trooper)](/island-defence-vocation): guard duty, shift work, IDTI training, and the 8/9 SIR battalions.
+- [Medic](/medic-vocation): combat vs medical centre medic, the EMT course, IV cannulation, and the WSQ cert you earn.
 - [Transport](/transport-vocation): the driving course, nights out, and earning a [driving licence](/saf-driving-licence).
 - [Logistics (Supply Assistant & ASA)](/logistics-vocation): [storeman](/storeman-non-combat) and clerk life, the courses, and free time.
 
@@ -66,7 +68,7 @@ Vocation | What it's like
 Armour | Crew the Leopard 2SG tank, Hunter, or Bionix. Heavy on gunnery, driving, and vehicle maintenance, usually with an overseas exercise.
 Artillery | Gun crews and fire support on HIMARS, SLWH, or FH2000. Most do Artillery Operator Training (AOT). Some run radars like the TPQ-53.
 Combat engineer | Demolitions, bridging, obstacles. Common Engineer Course, then one of five specialisations: Field, Armoured, Bridging, CBRD, or EOD.
-Guards | Elite infantry. Complete Guards Vocation Training (GVT) for the khaki beret. Heliborne and amphibious ops, fast marches, coastal swims.
+[Guards](/guards-vocation) | Elite infantry. Complete Guards Vocation Training (GVT) for the khaki beret. Heliborne and amphibious ops, fast marches, coastal swims.
 Signals | Comms and network experts. One of four courses: Army Cyber Defence, Infocomm 1, Infocomm 2, or Infosystem (IS).
 Air Defence | Air Defence Weapon Operator (ADWO) running ground-based systems like SPYDER and RBS 70. Air Force squadron, 24/7 rotational duties.
 Naval Operations | Naval Warfare System Operator (NWSO) for boarding, fast craft, or surveillance, or a Sea Soldier doing naval base defence.
@@ -77,7 +79,7 @@ Vocation | What it's like
 -- | --
 Transport | Drive military and heavy vehicles, Class 3 and/or Class 4. Convert your military licence to a [civilian licence](/saf-driving-licence) at ORD if you meet the mileage and clean-record bar.
 Logistics (Supply Assistant) | The [storeman and clerk (ASA)](/logistics-vocation) life. Supply Assistant course covering accounting, materiel, and maintenance. Lots of saikang, lots of admin time.
-Medical | Combat medic or medical centre medic. Three-phase EMT course (paramedic, healthcare, military) with a WSQ healthcare cert.
+[Medical](/medic-vocation) | Combat medic or medical centre medic. EMT course at SMTI with IV cannulation and a WSQ healthcare cert.
 Military Police | Security, enforcement, and ceremonial duties. P30 pistol and Taser X2, plus roles like investigator, K-9 handler, traffic outrider, and Detention Barracks.
 Intelligence | Analysis and ops support. Four disciplines: Fusion & Analysis, Combat ISR (drones, recce tab), Imagery, and Open Source.
 Maintenance | Army Technician (Leopard, Terrex, howitzers) or Air Force Technician (F-16, F-15, AH-64D, Heron). Diagnose and keep platforms operational.

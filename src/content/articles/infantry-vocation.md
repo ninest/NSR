@@ -12,6 +12,8 @@ Infantry is the **largest fighting force** in the Army, the troops who seize and
 
 Expect **stay-in** unit life, regular **outfields**, route marches, combat PT, and a strong **section and platoon** culture. The upside is the brotherhood and the fitness you walk away with.
 
+For the tougher, elite version of this, see [Guards](/guards-vocation).
+
 ## How do you know you're in infantry
 
 Check your **posting order** after [BMT](/basic-military-training). Infantry shows up as something like:
@@ -42,7 +44,7 @@ After BMT, troopers go through **IVT**, which teaches the basics of operating as
 - PT and combat circuits
 - Live-firing requirements
 
-Length **varies by battalion and batch**. Recent accounts range from about **4 to 5 weeks** up to a longer VFT/IVT-style block of around **13 weeks** with several outfields. Don't treat any single number as official, confirm with your own batch.
+Length **varies by battalion and batch**. It might be around **4 to 5 weeks**, or a longer VFT/IVT-style block closer to **13 weeks** with several outfields, depending on your unit. Don't treat any single number as official, confirm with your own batch.
 
 After IVT, training **scales up**: from section to **platoon**, **company**, and **battalion-level** exercises.
 
@@ -85,7 +87,7 @@ The tempo is **uneven**. Some weeks are packed back-to-back; lull periods can be
 
 ### Outfields
 
-Frequency is inconsistent and **batch-dependent**. Recent accounts range from roughly weekly to once every month or two, often **clustered** around exercises.
+Frequency is inconsistent and **batch-dependent**. It could be roughly weekly, or as little as once every month or two, often **clustered** around exercises.
 
 - IVT outfields are often **2D1N**
 - These scale up to **3D2N**, then **4D3N** company training
