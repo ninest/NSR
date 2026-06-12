@@ -57,8 +57,8 @@ Infantry runs several active **Singapore Infantry Regiment** battalions. The cam
 | **3 SIR** | Publicly tied to Selarang Camp |
 | **5 SIR** | Commonly associated with Kranji Camp III |
 | **6 SIR** | Publicly tied to Maju Camp |
-| **8 SIR** | Homeland-security role, established 2010 |
-| **9 SIR** | Protects key installations (Island Defence), established 2010 |
+| **8 SIR** | [Island Defence](/island-defence-vocation) security trooper unit, established 2010 |
+| **9 SIR** | [Island Defence](/island-defence-vocation), protects key installations, established 2010 |
 
 Treat this as a rough guide, not a live posting list.
 

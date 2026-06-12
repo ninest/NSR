@@ -10,6 +10,7 @@ export default {
       ],
       vocations: [
         { slug: "infantry-vocation", title: "Infantry", blurb: "IVT, the SIR battalions, outfields, and stay-in life." },
+        { slug: "island-defence-vocation", title: "Island Defence", blurb: "Security trooper guard duty, shift work, and IDTI." },
         { slug: "transport-vocation", title: "Transport", blurb: "Driving course, nights out, and a driving licence." },
         { slug: "logistics-vocation", title: "Logistics", blurb: "Supply assistant (storeman) and clerk (ASA) life." },
       ],

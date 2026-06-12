@@ -19,6 +19,7 @@ There are vocations across all three uniformed services: the SAF, the SCDF, and 
 For a day-to-day look at specific vocations:
 
 - [Infantry](/infantry-vocation): IVT, the SIR battalions, outfields, stay-in life, and the Combat Skills Badge.
+- [Island Defence (Security Trooper)](/island-defence-vocation): guard duty, shift work, IDTI training, and the 8/9 SIR battalions.
 - [Transport](/transport-vocation): the driving course, nights out, and earning a [driving licence](/saf-driving-licence).
 - [Logistics (Supply Assistant & ASA)](/logistics-vocation): [storeman](/storeman-non-combat) and clerk life, the courses, and free time.
 
@@ -69,7 +70,7 @@ Guards | Elite infantry. Complete Guards Vocation Training (GVT) for the khaki b
 Signals | Comms and network experts. One of four courses: Army Cyber Defence, Infocomm 1, Infocomm 2, or Infosystem (IS).
 Air Defence | Air Defence Weapon Operator (ADWO) running ground-based systems like SPYDER and RBS 70. Air Force squadron, 24/7 rotational duties.
 Naval Operations | Naval Warfare System Operator (NWSO) for boarding, fast craft, or surveillance, or a Sea Soldier doing naval base defence.
-Island Defence | Security Trooper protecting key installations. Trained as ST (Combat, armed) or ST (Service, unarmed) at IDTI.
+[Island Defence](/island-defence-vocation) | Security Trooper protecting key installations. Trained as ST (Combat, armed) or ST (Service, unarmed) at IDTI.
 
 ### Combat support and service
 Vocation | What it's like
