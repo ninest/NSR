@@ -11,6 +11,7 @@ export default {
       vocations: [
         { slug: "infantry-vocation", title: "Infantry", blurb: "IVT, the SIR battalions, outfields, and stay-in life." },
         { slug: "guards-vocation", title: "Guards", blurb: "Elite infantry, GVT, and the khaki beret." },
+        { slug: "armour-vocation", title: "Armour", blurb: "Tank operator vs armoured infantry, and overseas exercises." },
         { slug: "island-defence-vocation", title: "Island Defence", blurb: "Security trooper guard duty, shift work, and IDTI." },
         { slug: "medic-vocation", title: "Medic", blurb: "Combat vs clinic medic, the EMT course, and a WSQ cert." },
         { slug: "transport-vocation", title: "Transport", blurb: "Driving course, nights out, and a driving licence." },

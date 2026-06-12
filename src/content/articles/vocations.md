@@ -20,6 +20,7 @@ For a day-to-day look at specific vocations:
 
 - [Infantry](/infantry-vocation): IVT, the SIR battalions, outfields, stay-in life, and the Combat Skills Badge.
 - [Guards](/guards-vocation): elite infantry, GVT, earning the khaki beret, and heliborne and amphibious ops.
+- [Armour](/armour-vocation): tank operator vs armoured infantry, the Leopard 2SG and Hunter, and overseas exercises.
 - [Island Defence (Security Trooper)](/island-defence-vocation): guard duty, shift work, IDTI training, and the 8/9 SIR battalions.
 - [Medic](/medic-vocation): combat vs medical centre medic, the EMT course, IV cannulation, and the WSQ cert you earn.
 - [Transport](/transport-vocation): the driving course, nights out, and earning a [driving licence](/saf-driving-licence).
@@ -65,7 +66,7 @@ The 15 SAF vocations from the handbook, grouped by how they feel day to day.
 Vocation | What it's like
 -- | --
 [Infantry](/infantry-vocation) | The largest fighting force. Vocation Fitness Training then Infantry Vocation Training (IVT), section weapons, live-firing, and the Terrex. Earn the Combat Skills Badge with a 16km tactical march.
-Armour | Crew the Leopard 2SG tank, Hunter, or Bionix. Heavy on gunnery, driving, and vehicle maintenance, usually with an overseas exercise.
+[Armour](/armour-vocation) | Crew the Leopard 2SG tank, Hunter, or Bionix. Heavy on gunnery, driving, and vehicle maintenance, usually with an overseas exercise.
 Artillery | Gun crews and fire support on HIMARS, SLWH, or FH2000. Most do Artillery Operator Training (AOT). Some run radars like the TPQ-53.
 Combat engineer | Demolitions, bridging, obstacles. Common Engineer Course, then one of five specialisations: Field, Armoured, Bridging, CBRD, or EOD.
 [Guards](/guards-vocation) | Elite infantry. Complete Guards Vocation Training (GVT) for the khaki beret. Heliborne and amphibious ops, fast marches, coastal swims.

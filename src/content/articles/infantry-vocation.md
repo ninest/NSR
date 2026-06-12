@@ -12,7 +12,7 @@ Infantry is the **largest fighting force** in the Army, the troops who seize and
 
 Expect **stay-in** unit life, regular **outfields**, route marches, combat PT, and a strong **section and platoon** culture. The upside is the brotherhood and the fitness you walk away with.
 
-For the tougher, elite version of this, see [Guards](/guards-vocation).
+For the tougher, elite version of this, see [Guards](/guards-vocation). For the version that rides into the fight, see [Armour](/armour-vocation).
 
 ## How do you know you're in infantry
 
