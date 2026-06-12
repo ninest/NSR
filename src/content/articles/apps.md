@@ -50,6 +50,12 @@ Download via: [ippt-plus.com](https://ippt-plus.com/)
 
 <youtube-video id="is5PuWIPTbc"></youtube-video>
 
+### IPPT score calculator
+
+A quick web tool to work out your score and award from your push-ups, sit-ups and 2.4km time. No download needed, just enter your numbers.
+
+Try it at: [ipptscore.com](https://ipptscore.com/)
+
 ### Running apps for the 2.4km
 
 The 2.4km run is worth the most points on the [IPPT](/ippt), so it is the easiest place to gain. A run tracker with GPS pace and interval workouts helps a lot.
