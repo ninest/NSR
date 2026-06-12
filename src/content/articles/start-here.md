@@ -96,7 +96,7 @@ ICT and reservist guides are on the way. If you want to help write them, see [ho
 
 ## If you are a parent
 
-A dedicated parent guide is in the works. For now, these pages help.
+Start with the [parent's guide to NS and BMT](/parents-guide): enlistment day, why he goes quiet during confinement, when you can call and see him, is BMT safe, and how to support him. The pages below go deeper.
 
 ### You want to understand what your son is going through
 
