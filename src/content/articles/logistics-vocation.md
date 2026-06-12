@@ -20,6 +20,7 @@ Both are admin-heavy, both come with a lot of **free time**, and in many units t
 Check your **posting order** after BMT. It shows up as something like:
 
 - **Supply Assistant (Trainee)** or **SA(GE)** (general equipment) for the storeman
+- **SUP ASST (AMMO)**, sometimes with suffixes like **Enhanced**, **Support**, or **Service**, for the ammunition supply route
 - **Admin Support Assistant (Trainee)** for the clerk
 
 Postings go by operational needs, medical fitness, and your attributes. Logistics and admin take a lot of **lower-PES** people, so if you're [PES](/pes) C or E there's a decent chance you land here.
@@ -32,7 +33,7 @@ A lot of people also **OOC into these roles** rather than getting posted in dire
 | -- | -- | -- |
 | Role | Storeman | Clerk |
 | Domain | Logistics formation | Manpower / admin |
-| Course | Supply Assistant Course, STC Sembawang | Admin course, School of Manpower |
+| Course | Supply Assistant Course / ammo specialisation depending on posting | Admin course, School of Manpower |
 | Workplace | The store (often no aircon) | Office (usually aircon) |
 | Work | Physical: stock, keys, saikang | Computer: personnel and admin |
 | Stay | Varies by unit | Varies, often stay-out |
@@ -59,6 +60,28 @@ Held at the **Supply & Transport Centre (STC)** in **Sembawang Camp**, similar t
 - Mostly **stay-in**, but since many here are non-combat fit, applying for **stay-out** is often straightforward.
 
 This varies by cohort, so treat it as a guide, not a fixed route. If you can, **confirm the current length and content with people from your own batch**.
+
+If your posting says **SUP ASST (AMMO)**, your route may be through the ammunition school at Kranji Camp III rather than the general SA course at STC.
+
+### Supply Assistant (Ammo)
+
+There is also an ammo branch: **SUP ASST (AMMO)**, sometimes shown with suffixes like **Enhanced**, **Support**, or **Service** on the posting order.
+
+This is still a **logistics / supply** role, not a combat vocation, but it is more specialised than general equipment storeman work. Recent first-hand accounts say ammo trainees report to the **Ammunition Training Wing / School of Ammunition** at **Kranji Camp III**.
+
+The main course is **BASC**, the **Basic Ammunition Specialisation Course**. Recent accounts describe BASC as a roughly **9-week stay-in course**. Older accounts describe the course as having a foundation phase followed by a more specialised phase, so the internal structure may vary by batch, but most trainees refer to the overall ammo pipeline as BASC.
+
+Expect mostly classroom-based training, with tests and controlled practical components for those eligible. The detailed course content is sensitive, so this page will not go into specifics. Broadly, the role supports the safe accounting, storage, movement, issue, return, and maintenance support of ammunition under SAF procedures.
+
+Important things to know:
+
+- The ammo course is **stay-in** now, even though older accounts described it as stay-out.
+- After course, unit life is often reported as more **stay-out / 8-to-5**, but this depends on posting and duty rotations.
+- Trainees online mention receiving the **Logistics tab**, formation items, and later the **fireball badge** after completing ammo specialisation.
+- The course has been described by trainees as **WSQ-certified**, with certification tied to completing the required practical components. Do not count on any specific payout unless your course commanders confirm it.
+- The suffixes like **Enhanced**, **Support**, and **Service** seem to affect posting eligibility, but there is no public official breakdown. Treat them as posting-order labels, not something you can choose.
+
+Do not rely on old Reddit packing-list comments over your actual posting order. If the posting order says to bring stay-in items, helmet, LBS, or all SAF-issued items, follow the posting order.
 
 ### Posting to a unit
 
@@ -135,3 +158,5 @@ Low-key, but more transferable than people give it credit for.
 - [Logistics vocation - CMPB](https://www.cmpb.gov.sg/ns-vocations/logistics/)
 - [NS Vocations Handbook (PDF)](/ns-vocations-handbook.pdf): the official CMPB handbook
 - [A day in the life of a storeman](/storeman-non-combat): the companion first-person account
+- CMPB NS Vocations Handbook: official broad description of Logistics / Supply Assistant training
+- Thanks to [u/zydreus](https://www.reddit.com/u/zydreus) for contributing to the Supply Assistant (Ammo) section.

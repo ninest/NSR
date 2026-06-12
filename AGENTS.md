@@ -15,3 +15,4 @@
   - Interview me relentlessly about every aspect of this plan until we reach a shared understanding; walk down each branch of the design tree, resolving dependencies between decisions one-by-one
   - For each question, provide your recommended answer; ask the questions one at a time
   - If a question can be answered by exploring the codebase, explore the codebase instead
+- If you are unable to access a link or anything, let me know a question / list of questions, and I can get them answer for you either from myself or other tools
