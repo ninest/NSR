@@ -8,7 +8,7 @@ tags:
 
 ## eMarts
 
-Credits are only accepted at eMarts.
+Credits are only accepted at eMarts. New to credits? See [how eMart credits work and what to buy](/emart-credits).
 
 ### Lifestylemart at SAFRA Punggol
 
@@ -30,9 +30,26 @@ _Temporarily closed 1 Jul to 25 Aug 2026. Order via the OneNS app/portal in the 
 Direct bus: 52, 99, 105, 105B, 188, and 502
 Nearest MRT: EW24/NS1 Jurong East
 
+### Lifestylemart at CMPB
+
+91 Hillview Link, Block 1, #01-02, Central Manpower Base
+
+Open to the public. CMPB lists it under amenities open to the public.
+
+Opens **Wednesday to Monday** (1100 to 2100 hours)
+Closed every Tuesday
+
+Some items may still be restricted by product type or payment eligibility.
+
 ### Lifestylemart at SAFRA Mount Faber
 
 _Permanently closed_
+
+## Mobile eMart truck
+
+For camps without their own eMart, mobile eMart trucks park at designated spots and sell selected items. Locations include Bukit Panjang Camp, Mandai Hill Camp, Pasir Ris Camp, SAFTI MI, Kranji Camp II, Selarang Camp, and Sembawang Camp.
+
+Hours change often, so check the OneNS app before heading down.
 
 <in-post-ad></in-post-ad>
 
