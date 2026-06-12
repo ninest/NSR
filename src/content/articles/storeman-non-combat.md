@@ -17,6 +17,8 @@ authors:
 Before I get started, I'd like to say that every unit is different in many ways: location, commanders, and culture, so most of this may not apply to you. I also do not know what it's like to be a supply assistant in a non-combat unit. Additionally, in order to comply with OSA, I'll try to stay very general and not reveal too much about my unit.
 </alert>
 
+For the full vocation overview (courses, timeline, and how the storeman and clerk roles overlap), see the [logistics vocation guide](/logistics-vocation). This page is one storeman's day-in-the-life.
+
 For reference, my exact vocation is *SA(GE)*, and I'm a pretty relaxed *company storeman* for a CSSCOM unit.
 
 ## What is a supply assistant?

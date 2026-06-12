@@ -64,7 +64,7 @@ Island Defence | Security Trooper protecting key installations. Trained as ST (C
 Vocation | What it's like
 -- | --
 Transport | Drive military and heavy vehicles, Class 3 and/or Class 4. Convert your military licence to a [civilian licence](/saf-driving-licence) at ORD if you meet the mileage and clean-record bar.
-Logistics (Supply Assistant) | The [storeman](/storeman-non-combat) life. Supply Assistant course covering accounting, materiel, and maintenance. Lots of saikang, lots of admin time.
+Logistics (Supply Assistant) | The [storeman and clerk (ASA)](/logistics-vocation) life. Supply Assistant course covering accounting, materiel, and maintenance. Lots of saikang, lots of admin time.
 Medical | Combat medic or medical centre medic. Three-phase EMT course (paramedic, healthcare, military) with a WSQ healthcare cert.
 Military Police | Security, enforcement, and ceremonial duties. P30 pistol and Taser X2, plus roles like investigator, K-9 handler, traffic outrider, and Detention Barracks.
 Intelligence | Analysis and ops support. Four disciplines: Fusion & Analysis, Combat ISR (drones, recce tab), Imagery, and Open Source.
@@ -144,7 +144,7 @@ It helps for combat and specialised roles, but manpower needs still decide a lot
 It's hard once you're in unit. The easiest changes happen early, through OOC or medical reposting.
 
 **Which vocation has the most admin time?**
-Service and support roles like [storeman](/storeman-non-combat) and clerk usually do. Combat vocations spend more time in the field.
+Service and support roles like [storeman and clerk](/logistics-vocation) usually do. Combat vocations spend more time in the field.
 
 **Which vocation gives a driving licence?**
 [Transport](/transport-vocation). Clock the required mileage with a clean record and your military licence converts to a [civilian one](/saf-driving-licence) at ORD.
