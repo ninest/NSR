@@ -9,6 +9,8 @@ tags:
 
 This is the quick version of the [BMT guide](/basic-military-training). Read this if your enlistment date is coming and you just want to settle the important stuff first.
 
+<alert>Parent helping him prepare? See the [parent's guide to NS and BMT](/parents-guide).</alert>
+
 ## One week before
 
 - Start packing from the official list first. Add the extra comfort items after that.

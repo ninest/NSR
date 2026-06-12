@@ -32,7 +32,7 @@ What helps:
 - Make sure he gets a proper [haircut](/hair-requirement) a day or two before. Saves him time and $2 in camp.
 - Keep the goodbye short and calm. A long teary send-off makes it harder for both of you.
 
-That is the last you will see of him for a couple of weeks, and that's is normal.
+That is the last you will see of him for a couple of weeks, and that's normal.
 
 Side note: this cookhouse meal will be the best one your son eats on that island because all the parents are watching.
 
@@ -54,7 +54,7 @@ Homesickness in these weeks is extremely common. Recruits cope with small anchor
 
 ## When can you contact him
 
-He can bring a smartphone, but he cannot use it freely. Phones are often kept locked away during the day and usage is mostly limited to admin time after the day's training
+He can bring a smartphone, but he cannot use it freely. Phones are often kept locked away during the day and usage is mostly limited to admin time after the day's training.
 
 A few things to set expectations:
 

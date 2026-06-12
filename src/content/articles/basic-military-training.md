@@ -10,6 +10,8 @@ tags:
 
 If you're looking for a full directory of BMT-related resources, check out the [BMT hub](/bmt-hub).
 
+<alert>Parent reading this? Start with the [parent's guide to NS and BMT](/parents-guide).</alert>
+
 
 ## A typical day in BMT
 
