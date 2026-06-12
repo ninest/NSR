@@ -9,6 +9,7 @@ export default {
         { slug: "faq", title: "FAQ", blurb: "Common NS questions, answered." },
       ],
       vocations: [
+        { slug: "infantry-vocation", title: "Infantry", blurb: "IVT, the SIR battalions, outfields, and stay-in life." },
         { slug: "transport-vocation", title: "Transport", blurb: "Driving course, nights out, and a driving licence." },
         { slug: "logistics-vocation", title: "Logistics", blurb: "Supply assistant (storeman) and clerk (ASA) life." },
       ],
