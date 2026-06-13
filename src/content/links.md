@@ -249,6 +249,19 @@ Just some content to binge read.
 
 - [SteamedChickenRice guide](https://www.reddit.com/r/NationalServiceSG/comments/i1uqze/owadio_a_final_psa_for_those_who_are_going_to_ord/)
 
+## NSman and reservist
+
+- [NSman guide](/nsman-guide): ORNS cycle, ICT, call-ups, reservist IPPT, pay, deferment, and travel.
+
+### Official
+
+- [OneNS portal](https://www.ns.gov.sg/): the main NS portal and app for call-ups, IPPT, pay, and exit permits.
+- [MHA NS Portal](https://ns.mha.gov.sg/): for Home Team (Police and Civil Defence) NSmen.
+
+### Reddit and forums
+
+- [How reservist works](https://www.reddit.com/r/NationalServiceSG/comments/edj9vf/question_about_ippts_and_ict_after_ns/)
+
 ## After NS
 
 - [Overseas experience and military discounts](https://www.reddit.com/r/singapore/comments/gplj4p/has_anyone_talked_about_ns_experience_with/)

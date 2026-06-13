@@ -83,6 +83,7 @@ Use it as a starting point for enlistment prep, packing, haircut rules, IPPT and
 - [Transport vocation](/transport-vocation): what transport life can look like.
 - [Driving licence in NS](/saf-driving-licence): how transport operators convert a military licence to a civilian one.
 - [Storeman / supply assistant](/storeman-non-combat): a non-combat supply assistant experience.
+- [NSman guide](/nsman-guide): years later, what reservist life and ICT look like after you ORD.
 
 ## Official links
 

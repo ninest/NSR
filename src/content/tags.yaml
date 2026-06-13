@@ -14,6 +14,11 @@ tags:
     slug: scs
     color: 160, 30, 30
 
+  nsman:
+    title: NSman
+    slug: nsman
+    color: 160, 30, 30
+
   vocation:
     title: Vocation
     slug: vocation

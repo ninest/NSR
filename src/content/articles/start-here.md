@@ -77,22 +77,22 @@ You're already serving, in BMT or a unit.
 
 ## If you are an NSMan
 
-You've ORD'd and you're operationally ready. Most of this site is written for serving NSFs, so NSMan-specific content is still thin. A few pages still help.
+You've ORD'd and you're operationally ready, with ICT and reservist duty ahead.
 
 ### You just ORD'd and want to know what changes
 
+- The full picture: [NSman guide](/nsman-guide), covering the ORNS cycle, ICT, call-ups, reservist IPPT, pay, deferment, and travel rules.
 - NS portal and official resources: [useful links](/links)
 - Official contacts: [contact](/contact)
 
 ### You have an IPPT window to clear
 
 - Estimate your score: [IPPT calculator](/ippt)
+- How the NSman window works: [NSman guide: reservist IPPT](/nsman-guide#reservist-ippt)
 
 ### You've been away and need a refresher
 
 - Brush up: [ranks](/ranks), [army lingo](/lingo), [army dictionary](/army-dictionary)
-
-ICT and reservist guides are on the way. If you want to help write them, see [how to contribute](https://github.com/ninest/nsr).
 
 ## If you are a parent
 
