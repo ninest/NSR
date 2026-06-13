@@ -51,6 +51,8 @@ There are two ways you can be mobilised:
 
 If a call-up clashes with something serious, you can apply to defer (see below). Don't just no-show.
 
+<in-post-ad></in-post-ad>
+
 ## What ICT is actually like
 
 ICT is your unit coming back together to train. What you do depends heavily on your vocation, but the shape is similar.
@@ -91,6 +93,8 @@ You get paid for every day of ORNS activity, weekends included.
 - **Service pay.** Based on your rank and vocation.
 - **Make-up pay.** If your civilian salary is higher than your service pay, the difference is topped up so you don't lose money for serving. If you're employed, this usually goes through your company.
 - **Self-employed, unemployed, or studying?** There are separate ways to work out your pay. Check the portal or call the NS hotline.
+
+<in-post-ad></in-post-ad>
 
 ## Deferment and overseas travel
 
