@@ -30,7 +30,7 @@ There's no rule against an NSF using a reserved seat. It's an etiquette question
 The fair answer most people land on:
 
 - If someone who needs it more is around (elderly, pregnant, injured, parent with a young kid), give it up. Same as any other commuter.
-- If no one needs it, sitting down because you're genuinely exhausted is fine. You're allowed to be tired.
+- If no one needs it, sitting down because you're really exhausted is fine. You're allowed to be tired.
 - Don't sprawl, don't take two seats with your field pack, don't pretend to sleep to avoid giving it up. That's what gets you posted on STOMP.
 
 You're in uniform, so you're visible. People notice and judge faster than they would a civilian. That's the real reason to be a bit more considerate than usual, not because of any rule.

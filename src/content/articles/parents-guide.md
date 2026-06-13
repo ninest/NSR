@@ -95,7 +95,7 @@ NS training is not risk free. Serious training incidents have happened over the 
 
 The actual numbers are reassuring. Around 300,000 men serve NS duties each year. Over a recent 20-year span, the proportion of deaths due to service was about 0.001 percent. Every incident is investigated at the highest level.
 
-The most useful thing you can teach your son: **report sick when he is genuinely unwell, and never push through illness or injury to avoid missing a march or POP.** Sounding off is not weakness. It is exactly what the safety system is built around.
+The most useful thing you can teach your son: **report sick when he is unwell, and never push through illness or injury to avoid missing a march or POP.** Sounding off is not weakness. It is exactly what the safety system is built around.
 
 ## How to support him
 
@@ -114,7 +114,7 @@ What to avoid:
 - Treating a hard week as proof he cannot cope.
 - Calling his commanders as your first move when he is struggling. Actually, never do this.
 
-If you are genuinely worried about how he is coping, call a counsellor for advice rather than his officer. See the [counselling helplines](/contact).
+If you are worried about how he is coping, call a counsellor for advice rather than his officer. See the [counselling helplines](/contact).
 
 ## Medical and PES worries
 

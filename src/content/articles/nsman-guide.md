@@ -35,7 +35,7 @@ A few terms worth knowing:
 - **Work-year.** Your ORNS year runs 1 April to 31 March. You "clear" an active year by doing any ORNS activity in it.
 - **Up to 40 days a year.** You can be called up for up to 40 days of ORNS activities a work-year. In practice most people do far less, usually one to two weeks at a time.
 - **MR (MINDEF Reserve).** Once you finish your cycle, or hit the statutory age (**40 for most men, 50 for officers**), you're posted to MR. You're no longer actively called up.
-- **ROD.** Eventually you're fully released. NSmen who complete their service get a letter of release, a medal, and a small gift.
+- **ROD (Run Out Date).** Eventually you're fully released, your NS liability ends for good. Think of it as the reservist version of ORD. NSmen who complete their service get a letter of release, a medal, and a small gift.
 
 ## Getting called up
 
@@ -94,13 +94,17 @@ You get paid for every day of ORNS activity, weekends included.
 
 ## Deferment and overseas travel
 
-**Deferment.** If you genuinely can't make a call-up, apply to defer through Manage Call-Ups on the NS portal.
+### Deferment
+
+If you can't make a call-up, apply to defer through Manage Call-Ups on the NS portal.
 
 - Apply **at least 10 weeks** before the ICT starts.
 - It's assessed case by case. Common valid reasons: birth of a child, exams or professional evaluations, your wedding, or being a new hire in your first 3 months.
 - Work commitments alone usually aren't accepted, since you're given so much notice.
 
-**Overseas travel.** The rules eased over the years.
+### Overseas travel 
+
+The rules have eased over the years.
 
 - For normal trips and holidays, you **don't need to notify** MINDEF.
 - You only need to apply for an **Exit Permit** if you'll be overseas for **12 months or more**.

@@ -113,7 +113,7 @@ Clinic and HQ medic postings often come with real downtime; combat medic downtim
 ## Tips
 
 - **Master your IV early**. It's your bread and butter, and getting confident takes the stress out of the rest
-- **Don't slack the medical knowledge**: people genuinely depend on you, and it's the part that pays off after ORD
+- **Don't slack the medical knowledge**: people depend on you, and it's the part that pays off after ORD
 - **Look after your own health** too, especially as a combat medic carrying extra load outfield
 - **Clear IPPT and admin** in the quieter stretches
 

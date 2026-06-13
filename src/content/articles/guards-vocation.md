@@ -59,7 +59,7 @@ The Guards skill set is what sets it apart from line infantry:
 
 On top of that you still do everything infantry does: outfields, route marches, live-firing, and section to battalion exercises.
 
-Realistically you get genuine exposure to the heli and coastal skills, but it's not constant helicopter action. Most days are still infantry: PT, rehearsals, force prep, rotation training, and outfields.
+Realistically you get exposure to the heli and coastal skills, but it's not constant helicopter action. Most days are still infantry: PT, rehearsals, force prep, rotation training, and outfields.
 
 ## The battalions
 
