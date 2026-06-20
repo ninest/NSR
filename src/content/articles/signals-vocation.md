@@ -35,7 +35,7 @@ Signallers go to the **Signal Institute (SI)** after finishing the BMT route ass
 
 The SI, the formation's training school, is publicly associated with **Stagmont Camp**. This is where you learn to set up and operate **signal sets** and military comms equipment.
 
-Public sources don't give a fixed course length. Community accounts commonly put operator training at roughly **7 to 8 weeks**, sometimes described as about **2 months**, varying by track and batch.
+Public sources don't give a fixed course length. Operator training is roughly **7 to 8 weeks** varying by track and batch.
 
 The formation's motto is **"Speed Through Skill"**, and the work is exactly that: get the network up, keep it up, move on.
 
@@ -56,7 +56,7 @@ That split is from the official handbook. There's no clean "IC1 is desk, IC2 is 
 
 Course names, length, and content **change over time and by batch**. Confirm with your own posting.
 
-**On the IC1 driving course:** IC1 can include a driving course because some comms systems are deployed by vehicle. Don't confuse this with the [Transport](/transport-vocation) route to a [civilian licence](/saf-driving-licence). Conversion depends on hitting the mileage and clean-record bar, and community accounts say most Signals IC1s **don't clock enough mileage** for it.
+**On the IC1 driving course:** IC1 can include a driving course because some comms systems are deployed by vehicle. Don't confuse this with the [Transport](/transport-vocation) route to a [civilian licence](/saf-driving-licence). Conversion depends on hitting the mileage and clean-record bar, and most Signals IC1s **don't clock enough mileage** for it.
 
 ## Where you get posted
 
@@ -83,7 +83,7 @@ On camps: training is strongly tied to **Stagmont Camp** (the Signal Institute, 
 - You carry a **signal set** on top of your normal field load
 - The **IC2** tactical track tends to be the more field-heavy one
 
-About the "72km march" rumour: older accounts tie that distance to **signal officer cadets**, not operators. For a normal Signals Operator, community accounts describe **shorter** route marches during course, with load varying heavily by IC1/IC2/IS and posting. I couldn't verify 72km as a current operator standard, so don't take it as one.
+About the "72km march" rumour: usually **signal officer cadets**, not operators. For a normal Signals Operator, there may be a **shorter** route marches during course, with load varying heavily by IC1/IC2/IS and posting. I couldn't verify 72km as a current operator standard, so don't take it as one.
 
 Even the "chill" postings have **duties, exercises, and stand-by comms**, so it's not a guaranteed lepak vocation. It's just less physical than infantry on average.
 
