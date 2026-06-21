@@ -8,6 +8,7 @@
 - Match my writing style
 - Never use em dashes
 - Use short paragraphs, bullet lists, subheadings, etc, to make content easier to read
+- Do not write things like "community accounts say ..."
 
 ## Agents and harness
 - Be as concise as possible, and sacrifice grammar for the sake of concision
