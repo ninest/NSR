@@ -18,6 +18,11 @@ export default {
       type: Boolean,
       required: false,
       default: false
+    },
+    alt: {
+      type: String,
+      required: false,
+      default: ''
     }
   },
   data() {
@@ -38,6 +43,7 @@ export default {
   <div>
     <img 
       :src="require(`~/assets/articles/${path}`)" 
+      :alt="alt"
       :class="{ fullwidth: fullwidth, reset: reset, rank: rank, expanded: expanded }" 
       @click="rank ? expand() : null"
     ></img>
