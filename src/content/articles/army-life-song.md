@@ -39,3 +39,4 @@ I just wanna live a simple life ya
 - The verses are usually swapped around depending on who is leading.
 - If your section has its own cleaner version, follow that. Or don't :)
 - For POP-related songs, see [BMT Roar](/bmt-roar-pop-song) and [Infantry Song](/infantry-song).
+- For what a sergeant is, see [ranks](/ranks). For current pay figures, see [NSF allowance](/nsf-allowance).

@@ -10,6 +10,8 @@ tags:
 
 [*Click here to see all the songs*](/songs)
 
+Related: [drill commands](/commands) you'll hear in BMT.
+
 I ask my girl
 To take a walk
 To take a walk
@@ -53,7 +55,7 @@ Saw her with, another man
 Scold the man, dump my girlfriend
 (With my rifle and my buddy and me)
 
-ORD, back to study
+[ORD](/ord-countdown), back to study
 Get degree, so happy
 Can’t forget, days in army
 (With my rifle and my buddy and me)

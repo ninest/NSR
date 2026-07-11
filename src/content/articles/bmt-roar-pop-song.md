@@ -40,5 +40,6 @@ Excel! Through basics!
 ## Notes
 
 - Learn it together with the [Infantry Song](/infantry-song) if your POP rehearsal needs both.
+- See [drill commands](/commands) for what *Sedia* (Attention) and other commands mean.
 - The shouting matters more than sounding nice.
 - If your company teaches a different timing, follow your company.

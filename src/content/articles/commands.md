@@ -71,3 +71,4 @@ You'll hear these commands in your [POP](/lingo).
 
 - [CMPB ranks and drill commands](https://www.cmpb.gov.sg/life-in-ns/saf/ranks-and-drill-commands/)
 - [BMT guide: tips for shouting commands](/basic-military-training#tips-for-shouting-commands)
+- [Songs](/songs) - marching and cadence songs

@@ -9,6 +9,8 @@ tags:
   - bmt
 ---
 
+Singing these in BMT? Also see [drill commands](/commands) and [ranks](/ranks).
+
 ## Infantry Song
 
 We are the bedrock of our army

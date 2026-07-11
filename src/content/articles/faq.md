@@ -113,6 +113,11 @@ No, no one outside NS cares about your rank or PES. This only matters if you wan
 ### Why can't I access NS.SG or the CMPB websites?
 They go through scheduled maintenance every weekend.
 
+### More guides
+- [Ranks](/ranks)
+- [Commands](/commands)
+- [Songs](/songs)
+
 ## More
 See more on [CMPB's website](https://www.cmpb.gov.sg/web/portal/cmpb/home/).
 
