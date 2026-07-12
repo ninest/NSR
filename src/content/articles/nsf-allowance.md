@@ -44,8 +44,8 @@ Tier | Examples | Vocation allowance
 -- | -- | --
 Service / technical | clerk, storeman, technician | $75
 General combat | most combat vocations | $225
-Higher-risk combat | infantry, armour, aircrew, combat medic, seagoing | $300
-Specialised high-risk | commando, naval diver, CBRE | $500
+Higher-risk combat | infantry, armour, guards, aircrew, combat medics in MRF/SCDF ambulances, seagoing | $300
+Specialised high-risk | commando, naval diver, CBRD, EOD | $500
 
 So on top of the rank table, add the difference:
 - General combat: about **+$150**
