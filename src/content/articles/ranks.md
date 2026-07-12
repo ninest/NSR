@@ -138,6 +138,8 @@ Information on the equivalent rank may not be accurate, and may differ between u
 | <image-comp path="ranks/saf/light/sv3.png" :reset="true" :rank="true" alt="SAFVC Volunteer 3 (SV3) rank insignia"></image-comp> | SAFVC Volunteer 3 | SV3 |
 | <image-comp path="ranks/saf/light/sv4.png" :reset="true" :rank="true" alt="SAFVC Volunteer 4 (SV4) rank insignia"></image-comp> | SAFVC Volunteer 4 | SV4 |
 
+SAFVC volunteers are not paid a monthly salary. They receive a per-day SV Allowance during call-ups, pro-rated from the NSF rank allowance. If call-up causes civilian income loss, employed volunteers can claim Make-Up Pay (the difference). Uniform, lodging, food, and medical are provided during training. There is no eMart, IPPT incentive, or tax relief. "Volunteer" here means the scheme is not mandatory, not that it's unpaid.
+
 ## Vocation allowance
 
 | Tier | Examples | Allowance (S$) |

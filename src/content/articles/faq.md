@@ -2,7 +2,7 @@
 title: Frequently asked questions
 description: Very frequently asked questions
 created: 2020-03-10
-updated: 2026-06-12
+updated: 2026-07-11
 
 tags:
   - general
@@ -19,12 +19,37 @@ Note that all information on this page (and all other pages) is publicly availab
 
 <alert>Parent reading this? Start with the [parent's guide to NS and BMT](/parents-guide).</alert>
 
+### How long is BMT?
+
+BMT length depends on your PES and pre-enlistee IPPT score:
+
+| BMT type | Who | Duration |
+| -- | -- | -- |
+| Enhanced BMT | PES A/B1, 61+ on pre-enlistee IPPT | 9 weeks |
+| PTP + BMT | PES A/B1, under 61 on pre-enlistee IPPT | 8 weeks PTP + 9 weeks BMT (17 total) |
+| Obese BMT | PES BP (BMI over 27.0) | 19 weeks |
+| Modified BMT | PES B2-B4, C, E | 9 weeks |
+
+If you are PES A or B1, passing your [pre-enlistee IPPT](/ippt) with 61 points or more (at least 1 per station) lets you skip the 8-week Physical Training Phase. That cuts about 2 months off your NS.
+
+See the [BMT guide](/basic-military-training) for what happens during those weeks.
+
 ### Should I get a haircut before enlisting?
 Yes, you likely won't get much time to shower after the haircut in Tekong. Ask your barber for the "zero" cut, and remember to get it done not more than a day or two before enlistment. If your commanders think your hair is too long, you'll waste $2. 
 
 Protip: make sure you are unable to pinch and pull your hair after the haircut. If you can, it's not short enough.
 
 See the [hair requirement](/hair-requirement) for the full rules, or the [BMT guide](/basic-military-training) for more information.
+
+### How short does my hair need to be?
+
+Ask for a "number 0" (also called zero cut or botak). That is the shortest clipper guard.
+
+A number 1 is usually not short enough. If your commanders think your hair is too long, you will pay $2 for another cut in Tekong and lose time to settle in.
+
+The pinch test: after the cut, try to pinch and pull your hair. If you can grab any, it is not short enough.
+
+See the full [hair requirement](/hair-requirement) for the rules.
 
 ### What happens during the CMPB screening?
 Just normal medical check-up stuff such as height, weight, urine and a blood draw. Bring any medical documents that you may think is relevant such as those for pre-existing conditions. Also eat a meal before going so you don't feel dizzy after drawing blood. Try to style your hair a bit as your picture for your 11B will also be taken then.
@@ -44,6 +69,17 @@ Usually not many. You'll be issued admin attire, and many recruits say civilian 
 
 For underwear, bring more. 7 to 12 pairs is usually enough for confinement week depending on how often you want to wash.
 
+### Can I bring my phone to BMT?
+
+Yes, you can bring your smartphone. But you cannot use it freely.
+
+- Phones are usually locked away during the day
+- You get phone time during admin periods, often just before lights out
+- During field camp and outfield, assume no phone at all
+- Reception on Tekong can be patchy. StarHub is usually the most reliable
+
+For charging, see [wall plugs](#can-i-use-wall-plugs-in-bmt). Bring power banks either way.
+
 ### Can I use wall plugs in BMT?
 
 Depends on company and location. Bring power banks even if someone online says wall plugs were allowed for their batch.
@@ -58,10 +94,32 @@ If you need to buy a new pair, make sure the receipt is dated after your enlistm
 
 See the full [glasses requirement](/glasses-requirement) for details.
 
+### How do I claim my spectacles?
+
+You can claim $40 for black plastic spectacles. The receipt must be dated after your enlistment. Bring it to your S1 branch (admin) in camp.
+
+If you buy them before enlistment, you cannot claim.
+
+See the full [glasses requirement](/glasses-requirement) for what frames are allowed.
+
+### Can I wear contact lenses in BMT?
+
+Avoid them, at least for BMT. Between the sweat, dust, field camp, and limited hygiene time, contacts are more trouble than they are worth.
+
+Wear black plastic [spectacles](/glasses-requirement) instead. If you normally wear contacts, switch to glasses a week or two before enlistment so you are used to them.
+
 ### I have this condition. Will I get a down PES?
 Unfortunately, no one but an MO can give you a definite answer. All you can do is bring a specialist letter from an outside doctor. If you are in pain and want to down PES, tell your specialist.
 
 See the full [PES guide](/pes) for what each grade means.
+
+### What time do recruits wake up?
+
+Around 0530. Then it is area cleaning, wash up, shave, fold your smart 4, and fall in for breakfast around 0700.
+
+Outfield days throw this out the window. Expect long days and short sleep.
+
+See the [typical day in BMT](/basic-military-training#a-typical-day-in-bmt) for the full schedule.
 
 ### Going for field camp soon, what is it like? Anyone have any tips?
 Yes, you're in luck. See the Field camp section of [BMT guide](/basic-military-training#field-camp).
@@ -70,21 +128,54 @@ Yes, you're in luck. See the Field camp section of [BMT guide](/basic-military-t
 - At night, clip the sling to your uniform's belt holes. That way, if anyone tries to lift it, it won't come off because it's connected to you. Also hug it when you sleep.
 - Make sure it's never more than a meter away from you.
 
-### I failed my IPPT. Can I still pass out of BMT?
-To successfully pass out of BMT, the following are required:
-- Pass 2 out of 3 of
-  - IPPT (over 61 points)
-  - BTP
-  - Field camp
+### What happens if I fail or miss my IPPT?
 
-So if you fail your IPPT but pass field camp and BTP, you'll still POP. Note that in BMT, you will have 3 IPPT attempts (for enhanced PES A/B). Hand grenade and BIC are not requirements to POP.
+**During BMT:** you need to pass 2 out of 3 (IPPT, BTP, field camp) to POP. If you fail IPPT but pass the other two, you still POP. You get 3 IPPT attempts during BMT (for PES A/B).
 
-See the full [IPPT guide](/ippt) for the scoring and stations.
+If you miss an attempt because you are on status or sick, you will be scheduled for a retake. If you miss too many training days, your commanders and MO decide what happens.
+
+**For NSmen:** if you fail or do not take your IPPT in your window, you will be put on RT (Remedial Training).
+
+**For pre-enlistees:** nothing happens if you fail. Just sign up for another attempt.
+
+See the full [IPPT guide](/ippt) for scoring, stations, and retake rules.
 
 <in-post-ad></in-post-ad>
 
 ### I missed field camp because I was sick. Will I OOC?
 Not automatically. The usual answer is that you need to pass 2 out of 3: IPPT, BTP, and field camp. But your commanders and MO decide what happens for your case, especially if you miss a lot of training days.
+
+### What are the POP requirements?
+
+POP (Passing Out Parade) is your BMT graduation. To pass out, you need:
+
+- Pass 2 out of 3 of:
+  - IPPT (over 61 points)
+  - BTP (Basic Trainfire, your shooting test)
+  - Field camp
+- 75% attendance (needs confirmation)
+
+Hand grenade and BIC (Battle Inoculation Course) are not requirements to POP.
+
+If you fail one of the three but pass the other two, you still POP. See [what happens if I fail my IPPT](#what-happens-if-i-fail-or-miss-my-ippt) for more.
+
+See the [BMT guide](/basic-military-training#passing-out-parade) for what happens after POP.
+
+### Can parents attend POP?
+
+Yes. Parents are invited to POP. The unit shares the date and venue closer to the day.
+
+Guest numbers vary, so ask your son to check how many tickets he has. Do not assume you can bring the whole family.
+
+See the [parent's guide](/parents-guide#graduation-pop) for what to expect.
+
+### Do I need a haircut after BMT?
+
+Rules depend on your unit and school. Generally you can keep it slightly longer than the BMT botak, but it still cannot touch your collar or eyebrows.
+
+Command schools (OCS, SCS) tend to be stricter. Some units are more relaxed. Follow what your encik or RSM tells you.
+
+See the [hair requirement](/hair-requirement) for the basics.
 
 ### What are the requirements for command school
 Check out the page for [command school](/command-school).
