@@ -12,15 +12,17 @@ tags:
 
 Short answer: wisdom tooth removal during NS **can be covered**, but don't assume every extraction is automatically free.
 
-Treatment at an SAF Dental Clinic is free. If you are sent to a public hospital, what you pay depends on your referral and whether the hospital classifies it as normal dental treatment or day surgery. A simple extraction at an outside clinic is not the same thing as surgical removal of an impacted wisdom tooth.
+Treatment at an SAF Dental Clinic is free. If you're sent to a public hospital, what you pay depends on your referral and whether the hospital classifies it as normal dental treatment or day surgery. A simple extraction at an outside clinic is not the same thing as surgical removal of an impacted wisdom tooth.
 
 Settle the billing question before the procedure. "My friend did it for free" is not a payment guarantee.
+
+<alert>This guide covers SAF NSFs. If you serve in the SPF or SCDF, check your Home Team benefits and claim process before booking.</alert>
 
 ## Surgery vs extraction
 
 ### Simple extraction
 
-The tooth is already visible and can be removed normally. The dentist loosens it and pulls it out without cutting into the gum or bone. Nice.
+The tooth is already visible and can be removed normally. The dentist loosens it and pulls it out without cutting into the gum or bone.
 
 Outside an SAF Dental Clinic, this is generally treated as normal dental work. It may fall under the SAF Dental Subsidy Scheme instead of being fully paid as hospital treatment.
 
@@ -30,7 +32,9 @@ The tooth is impacted, partly buried, growing sideways, or otherwise difficult t
 
 Hospitals can classify this as **day surgery**. That classification matters because hospital day surgery is billed differently from an ordinary dental extraction.
 
-You do not choose the classification yourself. The dentist examines your mouth and X-rays, then decides what treatment is medically appropriate.
+MINDEF also uses this distinction in its [official guidance on dental surgery billing](https://ask.gov.sg/mindef/questions/cmh4fdasf0275uk1bfjf8m9rm).
+
+You don't choose the classification yourself. The dentist examines your mouth and X-rays, then decides what treatment is medically appropriate.
 
 ## What 11B covers
 
@@ -58,17 +62,17 @@ The safest route is through your unit.
 1. Tell your commander that you need a dental appointment.
 2. Book an appointment with an SAF Dental Clinic or ask your Medical Officer where your unit sends dental cases.
 3. Go for the examination and X-ray.
-4. If the clinic cannot do the procedure, get the proper referral to a restructured hospital or the National Dental Centre Singapore.
+4. If the clinic can't do the procedure, get the proper referral to a restructured hospital or the National Dental Centre Singapore.
 5. Confirm your subsidy and any payment before accepting the surgery date.
 6. Inform your commander once the appointment and expected MC are confirmed.
 
 Some NSFs start at a polyclinic and get referred to a public hospital. That route may work, but confirm the referral and billing with the hospital and your unit before going ahead.
 
-Do not book a named specialist or walk into a hospital as a private patient and assume 11B will settle everything. MINDEF says a direct specialist visit or request for a specific consultant can create a first consultation fee that is not covered.
+Don't book a named specialist or walk into a hospital as a private patient and assume 11B will settle everything. MINDEF says a direct specialist visit or request for a specific consultant can create a first consultation fee that is not covered.
 
 ## When to start before ORD
 
-Start early. **Three to six months before ORD** is a sensible buffer, not an official rule.
+Start early. **3 to 6 months before ORD** is a sensible buffer, not an official rule.
 
 You may need time for:
 
@@ -80,13 +84,13 @@ You may need time for:
 - A second operation if the dentist recommends doing one side at a time
 - Follow-up and stitch removal
 
-Do not wait until your last month. A referral or consultation before ORD does not necessarily mean a procedure after ORD will still be covered.
+Don't wait until your last month. A referral or consultation before ORD doesn't necessarily mean a procedure after ORD will still be covered.
 
-Your medical and dental claims must be submitted within **three calendar months from the receipt date, or before your last day of service, whichever comes first**. If your ORD is near, submit the claim immediately through OneNS.
+Your medical and dental claims must be submitted within **3 calendar months from the receipt date, or before your last day of service, whichever comes first**. If your ORD is near, submit the claim immediately through OneNS.
 
 ## How much MC you get
 
-There is no guaranteed number of MC days for wisdom tooth surgery.
+There's no guaranteed number of MC days for wisdom tooth surgery.
 
 It depends on:
 
@@ -97,11 +101,13 @@ It depends on:
 - Your recovery
 - The dentist's assessment
 
-Discomfort and swelling commonly last around **three to five days**, but that does not automatically mean you will receive five days of MC. The dentist decides what you need.
+Discomfort and swelling commonly last around **3 to 5 days**, but that doesn't automatically mean you'll get 5 days of MC. The dentist decides what you need.
 
 An MC issued by an SAF Dental Officer or a dentist registered with the Singapore Dental Council can qualify for medical leave. Inform your commander and submit it using your unit's process.
 
 Don't plan the surgery around getting the longest MC. Plan it around a date when you can recover properly without missing an important exercise, course requirement, or ORD clearance.
+
+If your surgery lands right before a major exercise, expect questions. Conveniently timed dental MC is a classic keng pattern.
 
 ## What recovery is like
 
@@ -116,13 +122,13 @@ For the first few days:
 - Avoid smoking
 - Attend the follow-up if one is given
 
-Follow the instructions from your dentist over anything you read here. Contact the clinic if the bleeding does not settle, the pain gets worse instead of better, or you are worried about your recovery.
+Follow the instructions from your dentist over anything you read here. Contact the clinic if the bleeding doesn't settle, the pain gets worse instead of better, or you're worried about your recovery.
 
 ## Should you remove all four
 
 Not automatically.
 
-Some people have two impacted lower wisdom teeth and two upper teeth that grew normally. Some have only one troublesome tooth. Others do not need anything removed.
+Some people have two impacted lower wisdom teeth and two upper teeth that grew normally. Some have only one troublesome tooth. Others don't need anything removed.
 
 The dentist may recommend:
 
@@ -132,7 +138,7 @@ The dentist may recommend:
 - Removing all four in one procedure
 - Leaving healthy teeth alone
 
-Do not remove a healthy tooth just because you heard NS will pay for it. Get the X-ray, ask what problem the tooth is likely to cause, and make the decision with the dentist.
+Don't remove a healthy tooth just because you heard NS will pay for it. Get the X-ray, ask what problem the tooth is likely to cause, and make the decision with the dentist.
 
 ## Common questions
 
@@ -146,11 +152,11 @@ At an SAF Dental Clinic, dental treatment is free. At an outside clinic, a simpl
 
 ### Can I go to a private dentist?
 
-Yes, but normal private dental treatment is subject to the SAF Dental Subsidy Scheme. Do not assume private wisdom tooth surgery will be fully paid by MINDEF.
+Yes, but normal private dental treatment is subject to the SAF Dental Subsidy Scheme. Don't assume private wisdom tooth surgery will be fully paid by MINDEF.
 
 ### Can I use MediSave?
 
-MediSave can generally be used for eligible surgical wisdom tooth removal, subject to CPF rules and the clinic's accreditation. That is separate from your NSF medical benefits. Ask the clinic which payment route it is using before signing anything.
+MediSave can generally be used for eligible surgical wisdom tooth removal, subject to CPF rules and the clinic's accreditation. That's separate from your NSF medical benefits. Ask the clinic which payment route it is using before signing anything.
 
 ### What if my surgery date is after ORD?
 
