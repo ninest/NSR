@@ -41,7 +41,7 @@ Selection is not one test. Commanders build a picture of you over the whole of B
 - **[IPPT](/ippt) pass**, at minimum. Higher score helps.
 - **Marksman** or a strong shoot at [BTP](/basic-military-training#btp).
 - **Good general performance**: fieldcraft, drill, discipline, attitude.
-- **SIT test** performance as an IC.
+- **[SIT test](/sit-test)** performance as an IC.
 - **Peer appraisal**: your section mates rate each other near the end of BMT.
 - **Commander's nomination**: your PC and sergeants can put your name forward.
 
@@ -49,7 +49,9 @@ You don't need to top every one. Consistency across them matters more than a sin
 
 ## SIT test
 
-The Situational Test (SIT) is the biggest single event for command school selection. It usually runs during or around [field camp](/basic-military-training#field-camp).
+The Situational Test (SIT) is a major leadership assessment for command school selection. It usually runs during or around [field camp](/basic-military-training#field-camp).
+
+See the full [SIT test guide](/sit-test) for what happens, a simple approach for leading each station, and common mistakes.
 
 How it works:
 

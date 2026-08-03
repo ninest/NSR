@@ -265,7 +265,7 @@ Day 2 is shellscrape-digging day. It's gonna be tough, but don't slack or give u
 - **Wear your boots when you sleep** along with your garters and socks to keep away the insects.
 
 ### SIT test
-- The SIT test is the main event for [command school](/command-school) selection. See [how to do well in the SIT test](/command-school#sit-test).
+- The SIT test is a major leadership assessment for [command school](/command-school) selection. See [how to do well in the SIT test](/sit-test).
 - If you're not interested in going to command school, volunteer to be sentry.
 
 ### After fieldcamp

@@ -55,6 +55,7 @@ Use it as a starting point for enlistment prep, packing, haircut rules, IPPT and
 ## Training and milestones
 
 - [BMT guide: Field camp](/basic-military-training#field-camp): field discipline, rifle security, body maintenance, MREs, shellscrape, and outfield tips.
+- [SIT test guide](/sit-test): what happens, how to lead as IC, and mistakes to avoid.
 - [BMT guide: Route march](/basic-military-training#route-march): pacing, socks, and marching tips.
 - [BMT guide: Passing out of BMT](/basic-military-training#passing-out-parade): IPPT, BTP, field camp, and POP requirements.
 - [Songs](/songs): Infantry Song, BMT Roar, and other common NS songs.

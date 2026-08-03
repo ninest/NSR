@@ -122,7 +122,7 @@ Singapore Assault Rifle 21.
 Standard Obstacle Course.
 
 **SIT test**  
-Situational test. Usually associated with field camp and command school assessment.
+[Situational Test](/sit-test). Usually associated with field camp and command school assessment.
 
 **SCS**  
 Specialist Cadet School.
