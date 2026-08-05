@@ -2,7 +2,7 @@
 title: Specialist Cadet School
 description: Information on SCS for NS
 created: 2024-05-22
-updated: 2026-06-12
+updated: 2026-08-05
 tags:
   - scs
 ---
@@ -49,7 +49,7 @@ Cadets acquire core infantry skills, weapon handling, tactical drills, fieldcraf
 Cadets focus on vocation-specific training. Your posting depends on your course grades and pre-enlistment screening, and decides where you spend this term:
 
 - Infantry and Guards specialists remain at SCS for advanced infantry leadership modules.
-- Specialists in other arms train at their formation institutes: Armour, Artillery, Combat Engineers, Signals, Medical Corps, [Transport](/transport-vocation), and more.
+- Specialists in other arms train at their formation institutes: Armour, Artillery, [Combat Engineers](/combat-engineer-vocation), [Signals](/signals-vocation), Medical Corps, [Transport](/transport-vocation), and more.
 - Rarer postings exist too, such as sniper, military police, and intelligence roles.
 
 Most institutes end the term with a summative exercise that grades you.

@@ -3,12 +3,12 @@ title: "Signals Vocation: Signaller Life, Courses & Is It Chill?"
 displayTitle: Signals vocation
 description: Guide to the SAF Signals vocation - how you know you're a signaller, training at the Signal Institute, the four signal courses, command post vs field signaller, whether it's chill or siong, stay-in life, and what it's worth after ORD.
 created: 2026-06-19
-updated: 2026-06-19
+updated: 2026-08-05
 tags:
   - vocation
 ---
 
-Signals is the Army's **communication and network** vocation, the people who keep command and control running on the battlefield. It's a **combat** vocation on paper, but the day-to-day swings more than almost any other.
+Signals is the Army's **communication and network** vocation, the people who keep command and control running on the battlefield. Officially, Signal Operator is **Combat Support**. That label doesn't tell you whether your posting will be chill or siong.
 
 The one thing to understand up front: **signaller life is a posting lottery**. Land in a command post and it can be one of the more **chill** vocations. Get attached to a combat unit and you do their outfields **plus** carry the comms set. Same vocation, very different two years.
 
@@ -52,7 +52,7 @@ Which course you do shapes your whole posting. From the handbook, signals runs *
 | **Infocomm 2** | Advanced **combat radios** linking soldiers and vehicle computer systems for battlefield updates. The more tactical, field-facing track. |
 | **Infosystem (IS)** | Computer information systems and networks for operations planning and execution. More server-room and screen-based. |
 
-That split is from the official handbook. There's no clean "IC1 is desk, IC2 is field" rule, but community shorthand roughly lines up: NSFs tend to call **IC2** the more outfield and manpack route, **IC1** the larger vehicle/satcom setup, and **IS** the more network-room role. Treat that as batch chatter, not doctrine.
+That split is from the official handbook. There's no clean "IC1 is desk, IC2 is field" rule. The unofficial shorthand calls **IC2** the more outfield and manpack route, **IC1** the larger vehicle/satcom setup, and **IS** the more network-room role. Treat that as batch chatter, not doctrine.
 
 Course names, length, and content **change over time and by batch**. Confirm with your own posting.
 
@@ -65,7 +65,7 @@ This is the part that decides chill vs siong. Broadly two worlds:
 - **Signal battalions and command posts**: each Army division (**3rd, 6th, 9th**) has a signal battalion, and brigades have a signal company at HQ. Work centres on running the comms network from a **command post**, often with more screen time and admin time.
 - **Attached to a combat unit**: signals also feeds signallers down to units that need them. Here you follow **their** training tempo, including [infantry](/infantry-vocation) or [armour](/armour-vocation) outfields, **on top of** your comms job.
 
-On camps: training is strongly tied to **Stagmont Camp** (the Signal Institute, and the SAF **Cyber Defence School** for the cyber track). Postings vary, and recent community reports include **Mandai Hill Camp** for some signal and C4I-related roles. Selarang is an SAF camp that shows up in some divisional postings, but it's not a core signals camp. Always follow your **official posting order**.
+On camps: training is strongly tied to **Stagmont Camp** (the Signal Institute, and the SAF **Cyber Defence School** for the cyber track). Postings vary, and some signal and C4I-related roles go to **Mandai Hill Camp**. Selarang is an SAF camp that shows up in some divisional postings, but it's not a core signals camp. Always follow your **official posting order**.
 
 <in-post-ad></in-post-ad>
 
@@ -76,7 +76,7 @@ On camps: training is strongly tied to **Stagmont Camp** (the Signal Institute, 
 **The chill version**
 - Command-post or HQ signaller, often air-con, more routine hours
 - Real **admin time** between exercises
-- Less load and fewer outfields than the combat vocations
+- Less load and fewer outfields than frontline combat vocations
 
 **The siong version**
 - Attached to a combat unit, so you inherit their **outfields and route marches**
@@ -99,7 +99,7 @@ Treat nights out as a bonus, not a fixed schedule.
 
 ## Downtime and admin time
 
-Signals can give some of the best [free time](/free-time) of any combat vocation, especially in command-post roles during lull periods. Don't waste it:
+Signals can give you plenty of [free time](/free-time), especially in command-post roles during lull periods. Don't waste it:
 
 - Study or take [free online courses](/free-time)
 - Clear your [IPPT](/ippt) early to bank the award money
@@ -112,13 +112,13 @@ But it's **not guaranteed**. Exercise periods, duties, and equipment prep can fi
 
 ## Vocation allowance
 
-Signals is generally treated as a **combatant** vocation for pay, not service or technical. So a standard signaller appears to draw the **higher combatant rate** ($225 on the current SAF table), not the lower service/technical rate ($75).
+Combat Support does not automatically mean the $75 service rate. CMPB lists a **$225 combatant tier**, but the public table does not name Signal Operator.
 
-It's usually **not** the top Infantry, Guards, or Armour tier, but it's well above a desk vocation. See the full breakdown on the [NSF allowance](/nsf-allowance) page.
+Check your posting or pay details for the exact rate. See the published tiers on the [NSF allowance](/nsf-allowance) page.
 
 ## Is it worth anything after ORD
 
-More than the average combat vocation, and one track even gives a paper cert.
+More than the average field vocation, and one track even gives a paper cert.
 
 - The **IS course** awards a **WDA Advanced Certificate** in network operations management, monitoring, and maintenance, per the official CMPB handbook. That's an actual credential, not just exposure.
 - **Cyber Defence** value is more **scheme-dependent**: selected Cyber Specialist Award holders can get SIT work-learn academic credits, but there's no guaranteed civilian cert for every cyber trainee.
@@ -133,7 +133,7 @@ If you want a tech career after NS, IS gives you a line on the resume; the rest 
 - **Stay fit anyway**: even chill postings have IPPT, duties, and the odd exercise. Don't let your [fitness](/ippt) slide
 - **Protect your back and feet**: if you're attached to a combat unit, the set adds weight, so train your core and **season your boots**
 - **Lock in your course early**: pay attention during the [Signal Institute](https://www.cmpb.gov.sg/ns-vocations/signals/) course, your performance and track shape your posting
-- **Mindset**: if you draw a field-heavy posting, treat it like a [combat vocation](/vocations) and pace yourself
+- **Mindset**: if you draw a field-heavy posting, expect the host unit's tempo and pace yourself
 
 ## The command route
 
@@ -147,10 +147,10 @@ Pro-term is often described as more **lecture and test heavy** than infantry-sty
 ## Common questions
 
 **Is signals a combat vocation?**
-Yes, officially. But the day-to-day ranges from command-post chill to combat-unit siong depending on where you're attached.
+Officially it is **Combat Support**, not Combat. You can still get a command-post chill posting or a combat-unit siong one.
 
 **Is signals chill?**
-It can be one of the more chill combat vocations in a command post or HQ role. Attached to a combat unit it is not chill.
+It can be chill in a command post or HQ role. Attached to a combat unit it is not chill.
 
 **Where do signallers train?**
 At the **Signal Institute (SI)**, publicly associated with Stagmont Camp.
@@ -159,7 +159,7 @@ At the **Signal Institute (SI)**, publicly associated with Stagmont Camp.
 The **IS course** gives a WDA Advanced Certificate in network operations, an actual credential. Cyber and the other tracks give relevant exposure rather than a guaranteed cert.
 
 **Does signals get combat pay?**
-It appears to draw the combatant [vocation allowance](/nsf-allowance) rate ($225), above the service/technical rate but below the top combat tiers.
+CMPB does not name Signal Operator under a public [vocation allowance](/nsf-allowance) tier. Check your own pay details for the exact rate.
 
 **Does signals give a driving licence?**
 Only the IC1 driving course touches vehicles, and it's not the [Transport](/transport-vocation) licence-conversion route. Most signallers don't clock the mileage needed to convert to a [civilian licence](/saf-driving-licence).
@@ -169,6 +169,8 @@ Not really. Course and posting come down to needs, your profile, and performance
 
 ## Sources
 - [Signals vocation - CMPB](https://www.cmpb.gov.sg/ns-vocations/signals/): the official overview
+- [MINDEF vocation classification](https://ask.gov.sg/mindef/questions/cmnwt9i9q001q37018trhb8jj): Signal Operator is classified as Combat Support
+- [CMPB monthly allowance](https://www.cmpb.gov.sg/life-in-ns/saf/service-benefits-and-welfare/monthly-allowance/): the public rank and vocation allowance tiers
 - [NS Vocations Handbook (PDF)](https://www.cmpb.gov.sg/ResourcePackages/MINDEFPreEnlistment/assets/pdf/ns-vocations-handbook.pdf): the four courses and the IS course WDA Advanced Certificate
 - [Signals - Singapore Army](https://www.mindef.gov.sg/army/our-forces/formations/signals): formation, Stagmont home, and C4 systems
 - [MINDEF: Cyber Defence School](https://www.mindef.gov.sg/news-and-events/latest-releases/20feb19_nr/): cyber training at Stagmont and the cyber expert schemes

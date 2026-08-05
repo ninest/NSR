@@ -2,7 +2,7 @@
 title: Frequently asked questions
 description: Very frequently asked questions
 created: 2020-03-10
-updated: 2026-07-11
+updated: 2026-08-05
 
 tags:
   - general
@@ -107,6 +107,12 @@ See the full [glasses requirement](/glasses-requirement) for what frames are all
 Avoid them, at least for BMT. Between the sweat, dust, field camp, and limited hygiene time, contacts are more trouble than they are worth.
 
 Wear black plastic [spectacles](/glasses-requirement) instead. If you normally wear contacts, switch to glasses a week or two before enlistment so you are used to them.
+
+### Is wisdom tooth removal free during NS?
+
+It can be covered, but it isn't always free. Treatment at an SAF Dental Clinic is free. Outside treatment depends on the referral, procedure, and how it is billed.
+
+See the [wisdom tooth removal guide](/wisdom-tooth-removal) before booking. Bring your 11B and confirm the bill before the procedure.
 
 ### I have this condition. Will I get a down PES?
 Unfortunately, no one but an MO can give you a definite answer. All you can do is bring a specialist letter from an outside doctor. If you are in pain and want to down PES, tell your specialist.

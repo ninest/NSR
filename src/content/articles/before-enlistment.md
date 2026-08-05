@@ -2,7 +2,7 @@
 title: What to do before enlisting into BMT?
 description: Simple things to settle before enlistment day, including haircut, packing, fitness, documents, phone battery, and first book-out tips
 created: 2024-04-29
-updated: 2026-06-08
+updated: 2026-08-05
 tags:
   - bmt
 ---
@@ -19,6 +19,7 @@ This is the quick version of the [BMT guide](/basic-military-training). Read thi
 - Check that your watch is dark-coloured and cheap enough that you won't cry if it gets scratched.
 - Take photos of important documents on your phone, but still bring what your enlistment letter asks for.
 - Save CMPB, NS portal, and your parents' numbers somewhere easy to find.
+- If your wisdom tooth already hurts or is swollen, see a dentist. Don't wait for BMT and assume 11B will cover it later. Read the [wisdom tooth removal guide](/wisdom-tooth-removal) first.
 
 Don't bring expensive stuff. The best BMT item is usually the one you don't mind destroying.
 

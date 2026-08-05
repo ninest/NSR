@@ -2,7 +2,7 @@
 title: Saving Money in NS
 description: Practical ways to budget NSF allowance and spend less during NS in Singapore
 created: 2026-06-06
-updated: 2026-06-08
+updated: 2026-08-05
 tags:
   - financial
   - general
@@ -10,7 +10,11 @@ tags:
 
 Short answer: save the money first, then spend what is left.
 
-NS allowance is not a lot, but most of your big costs are also covered if you are stay-in. Food, lodging, uniform, and basic medical care are handled more than they will ever be after ORD. That is why NS is one of the easiest times to build the habit.
+NS allowance is not a lot, but most of your big costs are also covered if you are stay-in. Food, lodging, uniform, and basic medical care are handled more than they will ever be after ORD.
+
+Dental is different. Check the [wisdom tooth removal guide](/wisdom-tooth-removal) before booking an outside clinic and assuming 11B will pay everything.
+
+That is why NS is one of the easiest times to build the habit.
 
 First, know [how much NSF allowance you get](/nsf-allowance). A recruit or private gets **$790 a month** from 1 July 2025. It goes up with rank and vocation.
 

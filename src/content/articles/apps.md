@@ -2,7 +2,7 @@
 title: Useful Apps
 description: Apps, websites, and bots that make NS in Singapore easier
 created: 2021-06-06
-updated: 2026-06-12
+updated: 2026-08-05
 tags:
   - general
   - utility
@@ -21,6 +21,7 @@ What you can do:
 - Check in fast with QR code or geolocation for ICT and mobilisation
 - Book and reschedule [IPPT](/ippt)
 - Apply for deferment and check excuse status
+- Submit transport, medical, and dental claims. Keep your receipts, especially for things like [wisdom tooth removal](/wisdom-tooth-removal)
 - Track milestones like awards, credits, and disbursements
 - View ICT training records
 

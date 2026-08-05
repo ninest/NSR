@@ -3,7 +3,7 @@ title: "NS Vocations in Singapore: SAF, SCDF & SPF Roles"
 displayTitle: "Vocations: SAF, SCDF, and SPF Roles"
 description: Every NS vocation across the SAF, SCDF, and SPF, what each role does and trains on, how postings are decided after BMT, and how to indicate your vocation interest.
 created: 2026-05-25
-updated: 2026-06-12
+updated: 2026-08-05
 featured: True
 tags:
   - vocation
@@ -42,11 +42,13 @@ It's a mix of your profile and what the service needs that intake. The main fact
 
 That last point is why it feels random. Two guys with the same profile can get very different postings.
 
-### Combat vs non-combat
-- **Combat**: you carry a weapon, train in the field, and do more physical work.
-- **Combat support and service**: you keep the machine running, often with more admin time and a more routine schedule.
+### Combat, support, and service
 
-Neither is automatically better. Combat pays a higher [vocation allowance](/nsf-allowance), but service vocations are usually more chill.
+- **Combat**: frontline roles like Infantry Trooper.
+- **Combat Support**: directly supports combat operations. This includes Artillery Operator, Combat Engineer Pioneer, and Signal Operator.
+- **Combat Service Support and service**: logistics, maintenance, transport, and the other roles that keep everything running.
+
+The label alone doesn't tell you how siong the posting is or how much it pays. Check the actual role and [vocation allowance](/nsf-allowance) tier.
 
 ## Indicating your vocation interest
 
@@ -69,10 +71,7 @@ Vocation | What it's like
 -- | --
 [Infantry](/infantry-vocation) | The largest fighting force. Vocation Fitness Training then Infantry Vocation Training (IVT), section weapons, live-firing, and the Terrex. Earn the Combat Skills Badge with a 16km tactical march.
 [Armour](/armour-vocation) | Crew the Leopard 2SG tank, Hunter, or Bionix. Heavy on gunnery, driving, and vehicle maintenance, usually with an overseas exercise.
-Artillery | Gun crews and fire support on HIMARS, SLWH, or FH2000. Most do Artillery Operator Training (AOT). Some run radars like the TPQ-53.
-[Combat engineer](/combat-engineer-vocation) | Demolitions, bridging, obstacles. Common Engineer Course, then one of five specialisations: Field, Armoured, Bridging, CBRD, or EOD. EOD and CBRD pay the top tier.
 [Guards](/guards-vocation) | Elite infantry. Complete Guards Vocation Training (GVT) for the khaki beret. Heliborne and amphibious ops, fast marches, coastal swims.
-[Signals](/signals-vocation) | Comms and network experts. One of four courses: Army Cyber Defence, Infocomm 1, Infocomm 2, or Infosystem (IS). Chill in a command post, siong attached to a combat unit.
 Air Defence | Air Defence Weapon Operator (ADWO) running ground-based systems like SPYDER and RBS 70. Air Force squadron, 24/7 rotational duties.
 Naval Operations | Naval Warfare System Operator (NWSO) for boarding, fast craft, or surveillance, or a Sea Soldier doing naval base defence.
 [Island Defence](/island-defence-vocation) | Security Trooper protecting key installations. Trained as ST (Combat, armed) or ST (Service, unarmed) at IDTI.
@@ -80,6 +79,9 @@ Naval Operations | Naval Warfare System Operator (NWSO) for boarding, fast craft
 ### Combat support and service
 Vocation | What it's like
 -- | --
+Artillery | Combat Support. Gun crews and fire support on HIMARS, SLWH, or FH2000. Most do Artillery Operator Training (AOT). Some run radars like the TPQ-53.
+[Combat engineer](/combat-engineer-vocation) | Combat Support. Demolitions, bridging, obstacles. Common Engineer Course, then Field, Armoured, Bridging, CBRD, or EOD.
+[Signals](/signals-vocation) | Combat Support. Comms and network experts. One of four courses, with life ranging from command post to combat-unit outfields.
 [Transport](/transport-vocation) | Drive military and heavy vehicles, Class 3 and/or Class 4. Convert your military licence to a [civilian licence](/saf-driving-licence) at ORD if you meet the mileage and clean-record bar.
 Logistics (Supply Assistant) | The [storeman and clerk (ASA)](/logistics-vocation) life. Supply Assistant course covering accounting, materiel, and maintenance. Lots of saikang, lots of admin time.
 [Medical](/medic-vocation) | Combat medic or medical centre medic. EMT course at SMTI with IV cannulation and a WSQ healthcare cert.
@@ -172,4 +174,5 @@ Service and support roles like [storeman and clerk](/logistics-vocation) usually
 
 - [NS Vocations Handbook (PDF)](/ns-vocations-handbook.pdf): the official CMPB handbook this page is based on.
 - [CMPB NS vocations](https://www.cmpb.gov.sg/cmpb/ns-vocations): official vocation videos and handbook.
+- [MINDEF vocation classification](https://ask.gov.sg/mindef/questions/cmnwt9i9q001q37018trhb8jj): examples of Combat, Combat Support, and Combat Service Support roles.
 - [r/NationalServiceSG](https://www.reddit.com/r/NationalServiceSG/): real NSF experiences on postings, OOC, and which vocations are chill.

@@ -1,9 +1,9 @@
 ---
-title: "Singapore NSman Guide: ICT, Call-Ups, Reservist IPPT & Exit Permit"
+title: "NSman Guide: First ICT, SAF100, Reservist Pay & IPPT"
 displayTitle: "NSman Guide"
-description: "Just ORD'd? Start here for life as an Operationally Ready NSman: the ORNS cycle, ICT, SAF100 call-ups, reservist IPPT, make-up pay, deferment, and overseas travel rules."
+description: "Just ORD'd? A practical NSman guide to your first reservist ICT: SAF100 call-ups, what to pack, IPPT, make-up pay, deferment, and overseas travel."
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-08-05
 tags:
   - nsman
   - general
@@ -73,8 +73,28 @@ What to expect the first time:
 - It's a lot more relaxed than BMT. You're a working adult now, not a recruit, and most commanders treat you that way.
 - Expect plenty of admin and waiting around. Bring a power bank and something to do.
 - You'll draw your equipment, do refresher training, and catch up with the same guys from your unit.
-- Pack light: toiletries, spare socks, mozzie repellent, and any personal meds. The rest is issued.
 - Protip: clear your IPPT during a low-key ICT if it falls in your window. One less thing to chase on your own time.
+
+### First ICT packing list
+
+Your SAF100 or unit packing list comes first. **FBO** = Full Battle Order. **SBO** = Skeletal Battle Order. What goes inside varies by unit, so don't trust your memory from NSF days.
+
+Before reporting:
+
+- **Check your uniform and boots early.** Try everything on. Look for cracked boot soles, mould, missing gear, and uniforms that no longer fit.
+- **Use your eMart credits.** Replace worn personal equipment through eMart. Don't leave this until the night before ICT.
+- **No instructions?** Contact your unit if the packing list or reporting details are missing. If you don't have a unit contact, call the NS Call Centre.
+- **Plan for stay-in.** Follow the stated schedule, but keep a small overnight set ready if the instructions are vague.
+
+Useful personal items:
+
+- 11B, phone, charger, and power bank
+- Toiletries, towel, slippers, and spare underwear and socks
+- Personal medication, plasters, and mozzie repellent
+- Pen, small notebook, earplugs, and something to read
+- A small fan if your unit allows it
+
+Label your items and pack light. If your unit asks for issued equipment, bring it. Don't bet on "they probably won't check" for your first ICT.
 
 ## Reservist IPPT
 

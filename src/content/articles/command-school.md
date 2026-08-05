@@ -3,7 +3,7 @@ title: "Command School: How to Get into SCS or OCS in BMT"
 displayTitle: "Command school"
 description: "How command school selection works in BMT, and tips to get into SCS or OCS: the SIT test, peer appraisal, IPPT, marksmanship, and showing leadership."
 created: 2020-08-29
-updated: 2026-06-12
+updated: 2026-08-05
 
 tags:
   - bmt
@@ -32,7 +32,7 @@ Reasons people don't:
 - Command appointments carry real stress and accountability.
 - You may prefer a specific vocation over a command track.
 
-If you don't want it, you don't have to chase it. During the [SIT test](#sit-test), you can volunteer to be sentry instead of taking command roles.
+If you don't want it, you don't have to chase it. During the [SIT test](/sit-test), you can volunteer to be sentry instead of taking command roles.
 
 ## What gets you selected
 
@@ -51,24 +51,9 @@ You don't need to top every one. Consistency across them matters more than a sin
 
 The Situational Test (SIT) is a major leadership assessment for command school selection. It usually runs during or around [field camp](/basic-military-training#field-camp).
 
-See the full [SIT test guide](/sit-test) for what happens, a simple approach for leading each station, and common mistakes.
+Assessors care more about how you lead than whether you finish the mission. Be clear, delegate, track the clock, and adapt when the plan fails. You can be picked as IC at any time, so stay switched on.
 
-How it works:
-
-- You and a buddy are made ICs of a group of 10 or more people, often from other sections.
-- You get a mission with a time limit, usually around 15 minutes.
-- Missions vary: carry an "injured" casualty, get the team through an obstacle, solve a problem under pressure.
-- Assessors can add curveballs mid-task: a new "injury", a new "enemy", a change in the situation.
-
-What assessors actually watch:
-
-- **You don't have to complete the mission.** They watch how you lead, not whether you win.
-- **Lift the team's morale** when things go wrong. Staying positive under pressure is the point.
-- **Be clear and decisive.** Give simple, loud orders. A clear wrong call beats a mumbled right one.
-- **Don't over-plan.** Spend a little time planning, then commit and execute. Time runs out fast.
-- **Track the clock** and tell your team how long is left so they push.
-
-Stay ready. You can be picked as IC at any time, so don't switch off when it isn't your turn.
+See the full [SIT test guide](/sit-test) for the station format, a simple leadership sequence, and common mistakes.
 
 ## Peer appraisal
 

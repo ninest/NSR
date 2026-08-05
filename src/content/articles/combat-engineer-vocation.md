@@ -3,14 +3,14 @@ title: "Combat Engineer Vocation: Specialisations, Course & Is It Siong?"
 displayTitle: Combat Engineer vocation
 description: Guide to the SAF Combat Engineer vocation - how you know you're an engineer, the Common Engineer Course, the five specialisations (field, plant, bridging, armoured, EOD, CBRD), which battalion and camp you get, chill vs siong, allowance, and what it's worth after ORD.
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-08-05
 tags:
   - vocation
 ---
 
 Combat Engineers are the Army's **explosives and machinery** vocation. The official line: provide **mobility** (bridge gaps, clear mines so troops advance), **counter-mobility** (build obstacles, anti-tank ditches, lay minefields), and **survivability** (dig in, fortify, decontaminate). The motto is **"Advance and Overcome"**.
 
-The one thing to understand up front: **your specialisation decides your two years**. Combat engineer is not one job. It splits into a handful of very different tracks, each in its own battalion and camp, with two different pay tiers. Land in plant and it's one of the more relaxed combat postings. Land in field or armoured engineering and you're a "construction worker with a rifle" doing outfields plus heavy store work.
+The one thing to understand up front: **your specialisation decides your two years**. Combat engineer is not one job. It splits into a handful of very different tracks, each in its own battalion and camp, with allowances depending on your exact role. Land in plant and it's one of the more relaxed engineer postings. Land in field or armoured engineering and you're a "construction worker with a rifle" doing outfields plus heavy store work.
 
 For the units engineers support, see [infantry](/infantry-vocation) and [armour](/armour-vocation).
 
@@ -22,7 +22,7 @@ Check your **posting order** after [BMT](/basic-military-training). Engineers us
 - **Engineer Pioneer**
 - A specialisation tag like **Field**, **Bridging**, or **CBRD**
 
-Postings go by operational needs, [PES](/pes) and medical fitness, [IPPT](/ippt) and BMT performance, plus your attributes. Combat engineer takes mostly **PES A and B1** people. It's a **combat** vocation, so expect a physical baseline.
+Postings go by operational needs, [PES](/pes) and medical fitness, [IPPT](/ippt) and BMT performance, plus your attributes. Officially it is **Combat Support**, but don't read that as a desk job. It is still physical and field-heavy.
 
 ## Official links
 - [Combat Engineers - CMPB](https://www.cmpb.gov.sg/ns-vocations/combat-engineers/)
@@ -45,7 +45,7 @@ Outfield load ramps up hard in the **specialisation and unit phase**, not the co
 
 This is the part that decides chill vs siong. The handbook formally lists **five** specialisations after the Common Engineer Course (Field, Armoured, Bridging, CBRD, EOD); plant and construction sits as a track under field engineering.
 
-| Specialisation | Unit / camp | Allowance | Chill vs siong |
+| Specialisation | Unit / camp | Allowance* | Chill vs siong |
 | -- | -- | -- | -- |
 | **Field engineer** | 30 SCE / Jurong | $225 | One of the most siong: demolitions, wire obstacles, minefields, plus heavy store and equipment work |
 | **Plant / construction** | 30 SCE / Jurong | $225 | Reputed most relaxed: excavators, dozers, machinery does the labour |
@@ -56,8 +56,10 @@ This is the part that decides chill vs siong. The handbook formally lists **five
 
 Two things to read off that table:
 
-- **EOD and CBRD pay more.** They sit in the **specialised high-risk tier** at $500, not the $225 general-combat rate the other engineers draw. See the [NSF allowance](/nsf-allowance) page for the full table.
+- **EOD and CBRD pay more.** CMPB explicitly lists them in the **$500 tier**. See the [NSF allowance](/nsf-allowance) page for the full table.
 - **Plant is the soft landing, EOD/CBRD trade outfields for a brutal course.** Field and armoured are the safe bets for "most siong".
+
+\*CMPB names **CBRD and EOD at $500**. It does not list the other engineer tracks by name under $225, so check your own pay details.
 
 <in-post-ad></in-post-ad>
 
@@ -101,10 +103,10 @@ Treat nights out as a bonus, not a fixed schedule. **Year 1** is busier; **year 
 
 ## Vocation allowance
 
-Combat engineer splits across **two pay tiers**:
+The public table is clear on EOD and CBRD, but less clear on the other tracks:
 
-- **Field, plant, bridging, armoured**: the **$225 general-combat** rate, like most combat vocations.
-- **EOD and CBRD**: the **$500 specialised high-risk** rate, the same top tier as commandos and naval divers (this is the **CBRE** line on the official table).
+- **Field, plant, bridging, armoured**: shown here at the **$225 all-other-combatants** rate. CMPB does not name them individually, so check your own pay details.
+- **EOD and CBRD**: the **$500 specialised high-risk** rate, the same top tier as commandos and naval divers.
 
 That's on top of your rank allowance. Full breakdown on the [NSF allowance](/nsf-allowance) page. Older posts quoting $300 or $400 for engineers are stale.
 
@@ -127,7 +129,7 @@ Across all tracks the soft value is the usual one: discipline, teamwork, working
 - **Protect your back and feet**: field and armoured engineering pile on weight and store work, so train your core and **season your boots**.
 - **Use the course admin time**: clear your [IPPT](/ippt) early to bank the award money, and use lull periods well. See [free time](/free-time) and [saving money](/saving-money).
 - **If you draw EOD or CBRD**: the course is the hard part. Pace yourself, hydrate, and the allowance and steadier operational life are the payoff.
-- **Mindset for field/armoured**: treat it like a [combat vocation](/vocations), because it is one.
+- **Mindset for field/armoured**: expect a frontline unit's field tempo and pace yourself.
 
 ## The command route
 
@@ -141,13 +143,13 @@ Both add training time but rank you up faster and pay more by ORD.
 ## Common questions
 
 **Is combat engineer a combat vocation?**
-Yes. The day-to-day ranges from relaxed plant work to siong field and armoured engineering, but the baseline is combat-fit and physical.
+Officially it is **Combat Support**, not Combat. That doesn't make it a desk vocation. The day-to-day still ranges from relaxed plant work to siong field and armoured engineering.
 
 **Which engineer specialisation is the most chill?**
 Plant and construction is the usual answer. Field and armoured are the most siong.
 
 **Which engineer pays the most?**
-EOD (36 SCE) and CBRD (39 SCE), at the $500 specialised high-risk rate. The other engineers draw $225.
+EOD (36 SCE) and CBRD (39 SCE). CMPB lists both at $500. It does not name the other engineer tracks individually, so check your own pay details.
 
 **Where do combat engineers train?**
 At the **Engineer Training Institute (ETI)**, with HQ SCE and several battalions at Nee Soon, plus 30 SCE (Jurong), 35 SCE (Seletar), and 38 SCE (Sungei Gedong).
@@ -163,6 +165,8 @@ Not really. It comes down to needs, your profile, and performance. You can [indi
 
 ## Sources
 - [Combat Engineers - CMPB](https://www.cmpb.gov.sg/ns-vocations/combat-engineers/): the official vocation overview
+- [MINDEF vocation classification](https://ask.gov.sg/mindef/questions/cmnwt9i9q001q37018trhb8jj): Combat Engineer Pioneer is classified as Combat Support
+- [CMPB monthly allowance](https://www.cmpb.gov.sg/life-in-ns/saf/service-benefits-and-welfare/monthly-allowance/): the public rank and vocation allowance tiers
 - [NS Vocations Handbook (PDF)](/ns-vocations-handbook.pdf): the Common Engineer Course and five specialisations
 - [Singapore Combat Engineers - Singapore Army](https://www.army.gov.sg/our-forces/formations/singapore-combat-engineers/): mobility, counter-mobility, survivability and equipment
 - [Singapore Combat Engineers - Wikipedia](https://en.wikipedia.org/wiki/Singapore_Combat_Engineers): battalions, training school, camps, and kit

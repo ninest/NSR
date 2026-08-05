@@ -13,6 +13,7 @@ export default {
         { slug: "guards-vocation", title: "Guards", blurb: "Elite infantry, GVT, and the khaki beret." },
         { slug: "armour-vocation", title: "Armour", blurb: "Tank operator vs armoured infantry, and overseas exercises." },
         { slug: "signals-vocation", title: "Signals", blurb: "Signaller life, the four courses, and chill vs siong postings." },
+        { slug: "combat-engineer-vocation", title: "Combat Engineer", blurb: "Five specialisations, camps, allowance, and chill vs siong." },
         { slug: "island-defence-vocation", title: "Island Defence", blurb: "Security trooper guard duty, shift work, and IDTI." },
         { slug: "medic-vocation", title: "Medic", blurb: "Combat vs clinic medic, the EMT course, and a WSQ cert." },
         { slug: "transport-vocation", title: "Transport", blurb: "Driving course, nights out, and a driving licence." },

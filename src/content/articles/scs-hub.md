@@ -3,7 +3,7 @@ title: "SCS Guide: Selection, Foundation Term, Postings & 3SG"
 displayTitle: "SCS Guide"
 description: Start here for SCS selection, Foundation, Professional, and Combined Arms terms, postings, 3SG life, IPPT, money, tips, and official links.
 created: 2026-05-25
-updated: 2026-06-12
+updated: 2026-08-05
 tags:
   - scs
   - general
@@ -19,7 +19,7 @@ Start here if you've been selected for Specialist Cadet School (SCS), or you're 
 
 ## Getting selected
 
-- [Command school: SIT test](/command-school#sit-test): show interest by doing well as IC; you can be ambushed any time.
+- [SIT test guide](/sit-test): what happens, how to lead as IC, and mistakes to avoid.
 - [Ranks](/ranks): where 3SG sits, and who to call sergeant, sir, or encik.
 - [IPPT calculator](/ippt): estimate your score; aim for Gold before reporting in for the admin perks.
 

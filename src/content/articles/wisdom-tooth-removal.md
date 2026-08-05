@@ -3,7 +3,7 @@ title: "Wisdom Tooth Removal During NS: 11B, Referrals & MC"
 displayTitle: Wisdom tooth removal
 description: How wisdom tooth removal works for SAF NSFs, including what 11B covers, surgery vs extraction, referrals, claims, MC, recovery, and when to start before ORD.
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 tags:
   - medical
   - financial
@@ -55,6 +55,8 @@ Check the current [medical and dental benefits on CMPB](https://www.cmpb.gov.sg/
 Ask the dental clinic or hospital how the consultation, X-ray, extraction, surgery, medication, and follow-up will be billed. Do this before agreeing to the procedure.
 </alert>
 
+Bring your 11B to every appointment. Show it at registration and again before payment. Don't wait until after the bill is issued to mention that you're an NSF.
+
 ## How to get it done
 
 The safest route is through your unit.
@@ -64,11 +66,23 @@ The safest route is through your unit.
 3. Go for the examination and X-ray.
 4. If the clinic can't do the procedure, get the proper referral to a restructured hospital or the National Dental Centre Singapore.
 5. Confirm your subsidy and any payment before accepting the surgery date.
-6. Inform your commander once the appointment and expected MC are confirmed.
+6. Bring your 11B and referral letter to the hospital.
+7. Inform your commander once the appointment and expected MC are confirmed.
 
 Some NSFs start at a polyclinic and get referred to a public hospital. That route may work, but confirm the referral and billing with the hospital and your unit before going ahead.
 
 Don't book a named specialist or walk into a hospital as a private patient and assume 11B will settle everything. MINDEF says a direct specialist visit or request for a specific consultant can create a first consultation fee that is not covered.
+
+## Local vs general anaesthesia
+
+The dentist or oral surgeon decides what is suitable after examining you. Don't choose based only on the price or how much MC you expect.
+
+Option | What it means | What to check
+-- | -- | --
+Local anaesthesia (LA) | You stay awake while the area around the tooth is numbed. You may still feel pressure or movement. | Ask what you can eat or drink beforehand and whether someone needs to accompany you.
+General anaesthesia (GA) | You're asleep for the procedure while an anaesthesia team monitors you. You need an assessment first. | Follow the fasting instructions exactly and arrange for someone to bring you home if told to do so.
+
+Sedation may also be an option. What you can use depends on the procedure, your health, and the hospital. Ask how it changes the bill before booking.
 
 ## When to start before ORD
 
@@ -150,6 +164,10 @@ It can be. Treatment done at an SAF Dental Clinic is free. At a public hospital,
 
 At an SAF Dental Clinic, dental treatment is free. At an outside clinic, a simple extraction may fall under the 85% dental subsidy with the $250 annual cap instead of full hospital coverage.
 
+### Should I choose local or general anaesthesia?
+
+Follow the surgeon's recommendation. LA keeps you awake with the area numbed. GA puts you to sleep and needs an anaesthesia team. Ask about fasting, getting home, and the bill before accepting the date.
+
 ### Can I go to a private dentist?
 
 Yes, but normal private dental treatment is subject to the SAF Dental Subsidy Scheme. Don't assume private wisdom tooth surgery will be fully paid by MINDEF.
@@ -171,6 +189,7 @@ You still need to inform your chain of command and arrange the appointment aroun
 - Ask whether it is a simple extraction or surgical removal.
 - Ask whether it will be classified as day surgery.
 - Confirm whether your SAF Card or 11B will be billed directly.
+- Bring your 11B and show it at registration and before payment.
 - Ask what you need to pay first and claim later.
 - Get the correct referral.
 - Check that the procedure is before ORD.

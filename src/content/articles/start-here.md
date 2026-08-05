@@ -3,7 +3,7 @@ title: "Start Here: A Map to National Service in Singapore"
 displayTitle: "Start Here"
 description: "New to NS or to this site? Find your starting point by who you are: pre-enlistee, NSF, NSMan, parent, or just curious about National Service in Singapore."
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-08-05
 tags:
   - general
   - bmt
@@ -63,7 +63,7 @@ You're already serving, in BMT or a unit.
 ### You want to understand vocations and postings
 
 - How vocations and posting order work: [vocations](/vocations)
-- Specific vocations: [infantry](/infantry-vocation), [guards](/guards-vocation), [armour](/armour-vocation), [medic](/medic-vocation), [transport](/transport-vocation), [logistics](/logistics-vocation)
+- Specific vocations: [infantry](/infantry-vocation), [guards](/guards-vocation), [armour](/armour-vocation), [signals](/signals-vocation), [combat engineer](/combat-engineer-vocation), [medic](/medic-vocation), [transport](/transport-vocation), [logistics](/logistics-vocation)
 
 ### You want to manage your time and money
 
