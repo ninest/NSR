@@ -80,7 +80,7 @@ So expect to stay in, and treat nights out as a bonus rather than a fixed schedu
 Harder than the average NS vocation. The grind is mostly **outfields, load, route marches, combat PT, and sleep debt**, on top of heat and rain while still chasing timings.
 
 - The first year is usually the **siong** part
-- Carrying a [SAR 21](/army-dictionary), field pack, and a section weapon (MATADOR, SAW, or M203) adds up fast
+- Carrying a [SAR 21](/lingo#equipment-and-inspections), field pack, and a section weapon (MATADOR, SAW, or M203) adds up fast
 - The dreaded calls: **"Everything On!"** and **"Camo On"**
 
 The tempo is **uneven**. Some weeks are packed back-to-back; lull periods can be much quieter.

@@ -17,6 +17,11 @@
       "permanent": true
     },
     {
+      "source": "/army-dictionary",
+      "destination": "/lingo",
+      "permanent": true
+    },
+    {
       "source": "/ord",
       "destination": "/ord-countdown",
       "permanent": true

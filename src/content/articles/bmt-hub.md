@@ -47,8 +47,7 @@ Use it as a starting point for enlistment prep, packing, haircut rules, IPPT and
 
 ## Understand what people are saying
 
-- [Army lingo](/lingo): common BMT words, phrases, and abbreviations.
-- [Army dictionary](/army-dictionary): quick meanings for terms like BMT, POP, ORD, PES, PTP, SCS, and OCS.
+- [Army lingo](/lingo): common terms such as BMT, POP, ORD, PES, PTP, SCS, and OCS.
 - [Ranks](/ranks): how to identify ranks and who to call sir, sergeant, or encik.
 - [Commands](/commands): common Malay drill and parade commands.
 

@@ -45,6 +45,8 @@ redirects:
     to: /basic-military-training
   - from: [drill-commands]
     to: /commands
+  - from: [army-dictionary]
+    to: /lingo
   - from: [telegram-ord-bot]
     to: /telegram-bots
   - from: [ord]

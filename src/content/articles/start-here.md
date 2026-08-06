@@ -19,7 +19,7 @@ You have NS coming, or you're trying to figure out what it involves.
 
 - What NS is and how it starts: [BMT guide](/basic-military-training)
 - The different jobs and how postings work: [vocations](/vocations)
-- Decode the slang: [army lingo](/lingo) and the [army dictionary](/army-dictionary)
+- Decode the slang: [army lingo and NS terms](/lingo)
 
 ### You are waiting for your medical exams
 
@@ -51,7 +51,7 @@ You're already serving, in BMT or a unit.
 ### You are about to start BMT or want to know what's ahead
 
 - First-week essentials: [BMT Hub](/bmt-hub)
-- Understand the slang: [army lingo](/lingo) and the [army dictionary](/army-dictionary)
+- Understand the slang: [army lingo and NS terms](/lingo)
 - Ranks: [ranks](/ranks)
 - Drill commands: [commands](/commands)
 
@@ -92,7 +92,7 @@ You've ORD'd and you're operationally ready, with ICT and reservist duty ahead.
 
 ### You've been away and need a refresher
 
-- Brush up: [ranks](/ranks), [army lingo](/lingo), [army dictionary](/army-dictionary)
+- Brush up: [ranks](/ranks) and [army lingo](/lingo)
 
 ## If you are a parent
 
@@ -122,6 +122,6 @@ Maybe you're from outside Singapore, or you just want to understand what NS is.
 
 ### You want to decode the culture
 
-- The slang: [army lingo](/lingo) and the [army dictionary](/army-dictionary)
+- The slang: [army lingo and NS terms](/lingo)
 - Songs and memes: [NS songs](/songs), [movies](/movies), [meme assets](/meme-assets)
 - Everything else: [useful links](/links)
