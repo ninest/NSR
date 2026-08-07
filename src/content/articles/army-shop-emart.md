@@ -1,106 +1,190 @@
 ---
-title: eMarts and Army shops
-description: Where to buy most SAF-issued items
+title: "SAF eMart Locations & Opening Hours: Punggol, CMPB & Chevrons"
+displayTitle: "SAF eMart & Army Shops"
+description: Current SAF eMart locations and opening hours for CMPB, SAFRA Punggol, Chevrons, in-camp outlets and mobile trucks, plus army shops in Pasir Ris, Tampines and Beach Road.
 created: 2021-02-08
-updated: 2026-06-12
+updated: 2026-08-06
 tags:
   - general
 ---
 
-## eMarts
+Need SAF-issued kit and want to pay with eMart credits? Use an SAF eMart or order through OneNS.
 
-Credits are only accepted at eMarts. New to credits? See [how eMart credits work and what to buy](/emart-credits).
+Need something urgently, or an item eMart does not sell? Try one of the cash-only army shops further down.
 
-### Lifestylemart at SAFRA Punggol
+Opening hours change. Call before making a long trip, especially on public holidays.
 
-Opens **Wednesday To Monday** (1100 to 2100 hours)
-Closed every Tuesday
+## Public SAF eMart locations
 
-_Temporarily closed 4 May to 30 Jun 2026. Reopens 1 Jul 2026. Order via the OneNS app/portal in the meantime._
+These three Lifestylemart outlets are open to the public. You do not need camp security clearance.
 
-Direct bus: 84, 382, 382G, and 382W
-Nearest LRT/MRT: PW1 Sam Kee (via NE17 Punggol)
+| Outlet | Address | Opening hours | Phone |
+| -- | -- | -- | -- |
+| **CMPB** | 91 Hillview Link, Block 1, #01-02 | Mon, Wed to Sun, 1000 to 2000 | 6559 7031 (eMart support) |
+| **SAFRA Punggol** | 9 Sentul Crescent, #02-04 | Mon, Wed to Sun, 1100 to 2100 | 6243 6505 |
+| **The Chevrons** | 48 Boon Lay Way | Mon, Wed to Sun, 1100 to 2100 | 6862 5600 |
 
-### Lifestylemart at The Chevrons
+All three are closed on Tuesdays. Selected public-holiday closures may apply.
 
-Opens **Wednesday to Monday** (1100 to 2100 hours)
-Closed every Tuesday
+<alert type="warning">
 
-_Temporarily closed 1 Jul to 25 Aug 2026. Order via the OneNS app/portal in the meantime._
+The Chevrons Lifestylemart is closed for renovation from 1 July to 25 August 2026. It reopens on 26 August 2026.
 
-Direct bus: 52, 99, 105, 105B, 188, and 502
-Nearest MRT: EW24/NS1 Jurong East
+</alert>
 
-### Lifestylemart at CMPB
+### Which eMart is nearest?
 
-91 Hillview Link, Block 1, #01-02, Central Manpower Base
+- **North-east or east**: SAFRA Punggol
+- **West**: The Chevrons at Jurong East
+- **Central or north-west**: CMPB at Hillview
 
-Open to the public. CMPB lists it under amenities open to the public.
+There is no longer an eMart at SAFRA Mount Faber. It is permanently closed.
 
-Opens **Wednesday to Monday** (1100 to 2100 hours)
-Closed every Tuesday
+### What can I pay with eMart credits?
 
-Some items may still be restricted by product type or payment eligibility.
+Only selected credit items. Other items need cash or card.
 
-### Lifestylemart at SAFRA Mount Faber
+Your balance, expiry date and eligible items are shown in OneNS. See [how eMart credits work and what to buy](/emart-credits).
 
-_Permanently closed_
+## OneNS online eMart
 
-## Mobile eMart truck
+The easiest option is usually the eMart inside the OneNS app or portal.
 
-For camps without their own eMart, mobile eMart trucks park at designated spots and sell selected items. Locations include Bukit Panjang Camp, Mandai Hill Camp, Pasir Ris Camp, SAFTI MI, Kranji Camp II, Selarang Camp, and Sembawang Camp.
+- Pay with eMart credits for eligible items
+- Pay normally for cash items
+- Choose home delivery or self-collection where available
+- Check your balance before ordering
 
-Hours change often, so check the OneNS app before heading down.
+Online stock can differ from the physical outlets.
+
+## In-camp eMart locations
+
+You need security clearance for these outlets. They are closed on weekends and public holidays.
+
+### Army camps
+
+| Camp | Opening hours | Phone |
+| -- | -- | -- |
+| Clementi Camp | Mon to Fri, 0900 to 1600 | 6469 2195 |
+| Jurong Camp II | Mon, 0900 to 1900; Tue to Thu, 1100 to 1800; Fri, 0900 to 1300 | 6261 6842 |
+| Kranji Camp III | Mon to Fri, 0900 to 1600 | 6219 7562 |
+| Khatib Camp | Mon to Fri, 0900 to 1600 | 6759 1909 |
+| Nee Soon Camp | Mon to Fri, 0900 to 1600 | 6452 0209 |
+| Pasir Laba Camp | Mon to Fri, 0900 to 1600 | 6862 3674 |
+| Pulau Tekong Camp | Mon, Wed to Fri, 0930 to 1615; Tue, 0930 to 1730 | 6546 7651 |
+| Seletar Camp | Mon to Fri, 0900 to 1600 | 6694 1440 |
+| Sungei Gedong Camp | Mon to Fri, 0900 to 1600 | 6574 6136 |
+
+### Air Force camps and bases
+
+| Camp or base | Opening hours | Phone |
+| -- | -- | -- |
+| Air Force Training Command | Mon to Fri, 1000 to 1400 | 6557 1002 |
+| Paya Lebar Air Base | Mon and Tue, 1000 to 1400; Wed to Fri, 1300 to 1700 | 6283 5362 |
+| Changi Air Base West | Mon to Fri, 1000 to 1400 | 6586 4360 |
+| Sembawang Air Base | Mon to Fri, 1000 to 1400 | 6752 7863 |
+| Tengah Air Base | Mon and Tue, 0900 to 1300; Wed to Fri, 1000 to 1400 | 6765 8846 |
+| Chong Pang Camp | Mon to Fri, 1000 to 1400 | 6481 8267 |
+
+### Navy bases
+
+| Camp or base | Opening hours | Phone |
+| -- | -- | -- |
+| Changi Naval Base | Mon to Fri, 0830 to 1630 | 6588 1605 |
+| Tuas Naval Base | Mon to Fri, 0830 to 1630 | 6862 6595 |
+| Sembawang Camp, NDU | Mon and Thu, 0830 to 1330 | Check with your unit |
+
+Source: [MINDEF's current eMart location list](https://ask.gov.sg/mindef/questions/cmh4fdasn02b7uk1bpzallbl3).
 
 <in-post-ad></in-post-ad>
 
-## Other shops selling military/outdoor items
+## Mobile eMart truck
 
-These shops **do not** accept emart credits.
+The mobile truck visits camps without a permanent outlet. It sells a smaller range, including uniforms and field-pack items.
 
-### Black Tactical @ The Adelphi
+| Camp | Day and time |
+| -- | -- |
+| Bukit Panjang Camp | Mon, 0900 to 1545 |
+| Mandai Hill Camp | Tue, 0900 to 1545 |
+| Pasir Ris Camp | Wed, 0900 to 1545 |
+| SAFTI MI | Tue and Thu, 0900 to 1545 |
+| Kranji Camp II | Thu, 0900 to 1545 |
+| Selarang Camp | Fri, 0900 to 1545 |
+| Sembawang Camp | Fri, 0900 to 1545 |
 
-<a href="https://black-tactical.com/" class="button" target="_blank">Website</a>
+Call 6559 7031 or email [emart@defence.gov.sg](mailto:emart@defence.gov.sg) before going. The schedule can change.
 
-Opens **Monday to Saturday** (1200 to 2000 hours)
-Closed every Sunday
+Source: [MINDEF's mobile eMart schedule](https://ask.gov.sg/mindef/questions/cmh4fdasn02b9uk1bj4pmnm9d).
 
-Direct bus: 51, 61, 63, 80, 124, 145, 166, 174, 174e, 197, 851, 851e, 961, and 961M
-Nearest MRT: EW13/NS25 City Hall
+## Army shops that do not accept eMart credits
 
-### Golden Mile Food Centre aka Beach Road Army Market
+These are normal retail shops. You pay with cash, card or their online payment methods.
 
-Open daily (timing vary across different vendors)
+### G Military at White Sands, Pasir Ris
 
-Direct bus: 100, 961, 961M, and 980
-Nearest MRT: CC5 Nicoll Highway CCL
+- **Address**: White Sands, 1 Pasir Ris Central Street 3, #02-21/22
+- **Opening hours**: Daily, 1100 to 2100, including public holidays
+- **Phone**: 6702 2894
+- **Website**: [G Military](https://g-military.com/)
 
-### G Military @ White Sands
+This is the easiest army shop if you are around Pasir Ris Interchange or booking in to Tekong.
 
-<a href="https://g-military.com/" class="button" target="_blank">Website</a>
+### Ghim Huat Sports, Tampines
 
-<a href="tel:96485053" class="button" target="_blank">Phone (9648 5053)</a>
+- **Address**: Block 801 Tampines Avenue 4, #01-271
+- **Opening hours**: Daily, 1100 to 2100, including public holidays
+- **Phone**: 6787 9953
 
-White Sands Mall opposite Pasir Ris MRT
+This is near Tampines West MRT. It sells military equipment and provides services such as sewing badges onto uniforms.
 
-Open daily (1100 to 2100 hours)
+### G Military warehouse, Tampines
 
-### Ghim Huat Sports
+- **Address**: Block 9005 Tampines Street 93, #03-232/34/36
+- **Opening hours**: Mon to Sat, 1000 to 2100
+- **Closed**: Sundays and public holidays
+- **Phone**: 6636 4153
 
-<a href="tel:67879953" class="button" target="_blank">Phone (6787 9953)</a>
+Use this for the wider warehouse range. Call before going if you need a specific size or item.
 
-Opposite DT31 Tampines West Downtown Line
+### Beach Road Army Market
 
-Open daily (1100-2100 hours)
+- **Address**: Upper level of Golden Mile Food Centre, 505 Beach Road
+- **Nearest MRT**: Nicoll Highway
+- **Payment**: Cash or the individual shop's accepted methods
 
-### HIS Army Shop
+Opening hours differ between stalls. Many open around late morning and close in the evening, but do not assume every stall is open daily.
 
-<a href="https://www.hisarmyshop.com/" class="button" target="_blank">Website</a>
+Beach Road is useful for name tags, badges, sewing, boots, bags and older pieces of kit. Compare prices before buying.
 
-<a href="tel:97797024" class="button" target="_blank">Phone (9779 7024)</a>
+### Black Tactical
 
-Pasir Ris Bus Interchange Dropoff point
+- **Self-collection**: Ubi Techpark, 10 Ubi Crescent, Lobby B, #07-33
+- **Opening hours**: Mon to Sat, 1100 to 1800
+- **Closed**: Sundays
+- **Website**: [Black Tactical](https://www.black-tactical.com/)
 
-Open Tuesday to Saturday (1200 to 1930 hours)
-Open on Sunday (1100 to 2030 hours)
-Closed on Monday
+Black Tactical focuses more on outdoor and tactical gear than standard SAF-issued kit.
+
+## SAF, SPF or SCDF?
+
+The eMart locations above are for the SAF.
+
+If you serve in SPF or SCDF, check your Home Team portal or ask your unit where to buy issued items. Do not make a trip to an SAF eMart assuming your Home Team credits will work there.
+
+## Quick answers
+
+### Can the public enter SAFRA Punggol, CMPB or The Chevrons eMart?
+
+Yes. The Lifestylemart outlets are publicly accessible. You still need to meet the payment rules for credit items.
+
+### Can I enter an in-camp eMart?
+
+Only if you have clearance for that camp or base.
+
+### Can I use eMart credits at Beach Road or G Military?
+
+No. eMart credits only work through SAF eMart channels and only on eligible items.
+
+### What happened to the Mount Faber eMart?
+
+It closed permanently. Use CMPB, SAFRA Punggol or The Chevrons instead.

@@ -91,7 +91,7 @@ Order SAF gear and replace worn-out kit with your [eMart credits](/emart-credits
 
 Pay with eMart credits, Visa, Mastercard, or PayLah!.
 
-More: [army shops and eMarts](/army-shop-emart), and [what eMart credits are](/emart-credits).
+More: [SAF eMart locations and army shops](/army-shop-emart), and [what eMart credits are](/emart-credits).
 
 ## Bots
 

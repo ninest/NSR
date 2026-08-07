@@ -88,7 +88,7 @@ Credits do **not** work at:
 - Outside army shops like Black Tactical, the Beach Road army market, or G Military. Those are cash only.
 - The Lifestylemart store on Lazada. It sells selected SAF items to the public, but only takes normal Lazada payment, not credits.
 
-See the full list of outlets and addresses on the [eMarts and army shops](/army-shop-emart) page.
+See the full list of outlets and opening hours on the [SAF eMart locations and army shops](/army-shop-emart) page.
 
 <in-post-ad></in-post-ad>
 
@@ -147,7 +147,7 @@ Note: this channel does **not** accept eMart credits. You pay with normal Lazada
 
 ## More
 
-- [eMarts and army shops](/army-shop-emart): every outlet, address, and the cash-only army shops.
+- [SAF eMart locations and army shops](/army-shop-emart): every outlet, address, opening hours, and the cash-only army shops.
 - [Saving money in NS](/saving-money): budgeting your allowance.
 - [NSF allowance](/nsf-allowance): how much you actually get paid.
 

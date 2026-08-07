@@ -72,7 +72,7 @@ Use it as a starting point for enlistment prep, packing, haircut rules, IPPT and
 
 - [NSF pay and allowance](/nsf-allowance): how much you earn each month by rank and vocation.
 - [Saving money](/saving-money): practical ways to budget your allowance and reduce spending while serving.
-- [eMarts and army shops](/army-shop-emart): where to get army items.
+- [SAF eMart locations and army shops](/army-shop-emart): where to get army items.
 - [Best canteen dishes](/best-canteen-dishes): food recommendations around camps.
 
 ## After BMT

@@ -32,7 +32,7 @@ You have NS coming, or you're trying to figure out what it involves.
 
 - What to pack and buy: [before enlistment checklist](/before-enlistment)
 - Haircut: [hair requirement](/hair-requirement)
-- Army gear: [army shops and eMarts](/army-shop-emart)
+- Army gear: [SAF eMart locations and army shops](/army-shop-emart)
 
 ### You want to learn about basic training
 
