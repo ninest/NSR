@@ -60,6 +60,8 @@ You'll hear these commands in your [POP](/lingo).
 | *Hormat Senjata* | Present arms |
 | *Julang Senjata* | High port arms |
 
+<in-post-ad></in-post-ad>
+
 ## Quick tips
 
 - Listen for the final word. That is usually when the movement happens.

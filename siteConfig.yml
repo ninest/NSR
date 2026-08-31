@@ -33,6 +33,8 @@ footerLinks:
     url: https://www.cmpb.gov.sg/web/portal/cmpb/home/
   - title: GitHub
     url: https://github.com/ninest/nsr
+  - title: Buy Me a Coffee
+    url: https://buymeacoffee.com/ninest
 
 redirects:
   - from: [discord, d]
