@@ -44,7 +44,7 @@ Also note there is no public SAF document spelling out exact size limits or plac
 
 This is where people get charged, not for having tattoos, but for getting them badly.
 
-- Ask your superior first. This is the single most repeated advice
+- Ask your superior first. This is the single most important thing
 - New tattoos that are visible in No.4 are not allowed
 - Command school and courses are stricter. Check before doing anything during block leave
 - Some courses reportedly screen for tattoos directly. There are accounts of an RP course where everyone strips and checks each other, and any tattoo drops you from the course
