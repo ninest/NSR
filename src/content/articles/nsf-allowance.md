@@ -3,7 +3,7 @@ title: "NSF Allowance 2026: NS Pay by Rank and Vocation"
 displayTitle: "NSF Allowance"
 description: How much NSFs earn - monthly allowance by rank, vocation allowance, IPPT incentives, and what affects your pay.
 created: 2026-05-25
-updated: 2026-06-08
+updated: 2026-08-31
 featured: True
 tags:
   - financial
@@ -61,8 +61,18 @@ Combat allowance was folded into vocation allowance back in March 2020, so this 
 Your allowance isn't the only cash you can get.
 
 - **IPPT incentives**: up to **$500 for gold**, $300 silver, $200 pass with incentive, once you're posted to your unit (not during BMT or command school). See the [IPPT guide](/ippt).
-- **Marksmanship**: an incentive if you shoot marksman at your range.
+- **Marksmanship**: **$200** each time you score marksman at a shoot. It is not strictly one-time: NSFs report getting $200 for marksman at their year 1 ATP and again at the year 2 combat shoot. Don't count on it before you've shot, but it's a real bonus if you're a decent shooter.
 - **Field and overseas**: extra allowances during certain exercises and overseas deployments.
+
+Pay lands monthly, usually in the first half of the month (around the 9th, occasionally a day or two earlier).
+
+## Common questions
+
+**Does my BMT performance affect my pay?**
+Not directly. Pay is decided by rank and vocation only. Doing well in BMT can matter indirectly, because commander courses like [SCS](/scs-hub) and OCS lead to higher ranks faster, which is where the real money is. See the [ranks guide](/ranks).
+
+**Why was my pay different this month?**
+Most common reasons: IPPT or marksman payouts landing, deductions (like a magazine subscription you forgot to cancel), or claims processing. Check your payslip on OneNS before assuming an error.
 
 ## What this means for saving
 

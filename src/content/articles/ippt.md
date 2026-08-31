@@ -3,7 +3,7 @@ title: IPPT Calculator & Score Guide for NS
 displayTitle: "IPPT Calculator"
 description: Calculate your IPPT score, check pass, silver, and gold award bands, and learn how NS IPPT scoring, incentives, IPT, RT, and exemptions work.
 created: 2026-05-25
-updated: 2026-06-08
+updated: 2026-08-31
 tags:
   - general
   - bmt
@@ -77,6 +77,28 @@ If you don't pass, or you want help training up, you may be placed on one of the
 
 Either way the move is the same: clear it early so it doesn't pile up near your window closing.
 
+## Missed everything? Fines and summary trials
+
+This is the part NSmen ask about most, because it escalates quietly.
+
+The sequence for defaulting on your IPPT or NS FIT obligation:
+
+1. **You do nothing all window.** No IPPT attempt, RT incomplete, or NS FIT sessions unfinished
+2. **Warning letter.** This is your last cheap exit. Clear the requirement now and you stop here
+3. **Automatic fine.** First-time defaulters get fined, and it shows up when you log into the NS portal or OneNS with Singpass, not always as an announcement. Expect around **$150** for a first offence, and no appeals for most cases
+4. **Summary trial at CMPB.** Repeat defaulters can still get summoned to CMPB for a summary trial, which is exactly what it sounds like: you report to CMPB, explain yourself, and accept the outcome
+
+If you do get summoned, what people consistently report:
+
+- Be truthful and bring any documents you have. Medical records, schedules, proof of attempts
+- If you cleared most of your sessions and missed a few for genuine reasons, fines rather than harsher outcomes are the norm
+- Detention is reserved for people who completely ignored the system for years, not for someone who missed a few NS FIT sessions. Still, don't test the line
+- If you have a real medical reason, say so and bring the memo. Downpes and medical downgrades are the legitimate escape route
+
+The boring way to never deal with any of this: book your IPPT or NS FIT sessions in the first half of your window, same as the [timing advice](#plan-your-timing) above.
+
+*Fine amounts are community-reported as of 2026 and can change. Sources: [PSA on automatic fines for NSmen defaulters](https://www.reddit.com/r/NationalServiceSG/comments/1e94747/psa_no_more_summary_trials_for_nsmen_who_default/) and [IPPT summary trial, what to expect (Aug 2026)](https://www.reddit.com/r/NationalServiceSG/comments/1w0eyuu/ippt_summary_trial_what_to_expect/).*
+
 ## Exemptions and partial tests
 - If you're medically excused a station (for example your [PES status](/pes) or an injury), you take a modified test, and your pass mark and scoring are adjusted.
 - Use the official [IPPT scoring calculator on NS.SG](https://www.ns.sg/web/portal/nsmen/home/nstopics/ippt-ipt-rt/ippt/ippt-stations-and-scoring-system/scoring-calculation) to work out your standard if you're exempted any station.
@@ -88,6 +110,9 @@ For NSmen it runs birthday to birthday. For NSFs it's the test window your unit 
 
 **What happens if I fail?**
 No award, and you'll likely be put on RT (NSmen) or a retest and IPT (NSFs). There's no fine for failing as long as you fulfil your sessions. For **pre-enlistees**, nothing happens if you fail. You can just sign up for another attempt.
+
+**What happens if I ignore IPPT and NS FIT entirely (NSmen)?**
+Warning letter, then a fine of around $150, then potentially a summary trial at CMPB for repeat defaulters. See [missed everything? fines and summary trials](#missed-everything-fines-and-summary-trials).
 
 **How many tries do I get for the pre-enlistee IPPT?**
 Unlimited, as long as you still have enough time before enlistment to book another slot. Take it as many times as you can fit in.
