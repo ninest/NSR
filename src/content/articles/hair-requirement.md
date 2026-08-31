@@ -8,7 +8,7 @@ tags:
   - general
 ---
 
-[*Click here to see more about BMT*](/bmt). [*Click here to see more FAQs*](/faq).
+[*Click here to see more about BMT*](/bmt). [*Click here to see more FAQs*](/faq). Also check the [SAF tattoo policy](/tattoo-policy) for the other big appearance question.
 
 - Ask your barber for the “0”-number buzz so your hair won’t touch your collar or eyebrows
 - Natural black only. Your own colour, lah. No highlights, no ombré

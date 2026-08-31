@@ -51,6 +51,12 @@ The pinch test: after the cut, try to pinch and pull your hair. If you can grab 
 
 See the full [hair requirement](/hair-requirement) for the rules.
 
+### Can I have tattoos in NS?
+
+Yes, tattoos are allowed in the SAF. They just cannot be visible when you are in No.4, and there can be no offensive designs. Declare them honestly at the CMPB medical checkup.
+
+See the full [SAF tattoo policy](/tattoo-policy) for details, including getting a tattoo while serving and the stricter SPF and SCDF rules.
+
 ### What happens during the CMPB screening?
 Just normal medical check-up stuff such as height, weight, urine and a blood draw. Bring any medical documents that you may think is relevant such as those for pre-existing conditions. Also eat a meal before going so you don't feel dizzy after drawing blood. Try to style your hair a bit as your picture for your 11B will also be taken then.
 

@@ -29,6 +29,10 @@ Get your haircut one or two days before enlistment. Ask for a number 0 buzz cut.
 
 If you can pinch and pull your hair, it's probably still too long. If your commanders think it's too long, you may have to pay for another haircut in Tekong and lose time that could have been used to unpack.
 
+## Tattoos
+
+Allowed, as long as they are not visible in No.4. Declare them honestly at the CMPB medical checkup, and don't get new ink while serving without asking first. See the full [SAF tattoo policy](/tattoo-policy).
+
 ## Packing without overpacking
 
 Reddit packing threads all say the same thing after a while: most people overpack.
