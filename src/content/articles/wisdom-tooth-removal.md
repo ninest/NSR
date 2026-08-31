@@ -84,6 +84,8 @@ General anaesthesia (GA) | You're asleep for the procedure while an anaesthesia 
 
 Sedation may also be an option. What you can use depends on the procedure, your health, and the hospital. Ask how it changes the bill before booking.
 
+<in-post-ad></in-post-ad>
+
 ## When to start before ORD
 
 Start early. **3 to 6 months before ORD** is a sensible buffer, not an official rule.

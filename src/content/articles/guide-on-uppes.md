@@ -40,6 +40,8 @@ This specialist can either come from the private/government sector. You can alwa
 #### 3. Go back to the medical centre for another medical review, and pass your specialist memo to your MO
 Afterwards, he will make you sign a form about your application, and the wheels would have started rolling. Do also ask him when the next medical board meeting is. Usually if its 1-3 weeks (in the same month) after you submit your application, your case will not make it to that month's meeting, so you have to wait for the next month's one.
 
+<in-post-ad></in-post-ad>
+
 #### 4. Wait for your new PES status
 
 Call up the medical centre to ask them to help you check on your application status on **the day after** the medical board meeting (don't call on the day of the meeting as they will have no clue about the results). There can only be three scenarios:

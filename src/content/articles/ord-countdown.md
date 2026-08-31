@@ -33,6 +33,8 @@ See [what to do before enlisting](/before-enlistment) for how to clear the Pre-E
 - **Working days left**: weekdays only (Mon to Fri). This does not subtract leave, public holidays, or duties, so treat it as a rough weekday count.
 - **Progress**: how far through you are. The enlistment date defaults to your ORD minus 2 years, so progress is marked approximate. Change it to your real enlistment date (for example if you got the 8-week IPPT reduction) and it becomes exact.
 
+<in-post-ad></in-post-ad>
+
 ## Find your exact ORD
 
 This page is for planning and counting down. For your official ORD, check the **OneNS** portal or your NS records. If the two ever disagree, follow the official date.

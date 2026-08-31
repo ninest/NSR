@@ -35,6 +35,8 @@ The fair answer most people land on:
 
 You're in uniform, so you're visible. People notice and judge faster than they would a civilian. That's the real reason to be a bit more considerate than usual, not because of any rule.
 
+<in-post-ad></in-post-ad>
+
 ## Looking the part
 
 You won't get charged for most of this in transit, but a regular or MP who spots you can stop you, and your own commanders will nag. Easier to just look smart.

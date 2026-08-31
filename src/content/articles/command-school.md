@@ -64,6 +64,8 @@ Near the end of BMT, your section mates rank each other on things like leadershi
 - **Just do the work.** Volunteer, help others, carry your weight. Respect builds on its own.
 - **Be consistent.** The way you act when nobody's assessing is what your mates remember.
 
+<in-post-ad></in-post-ad>
+
 ## Fitness and shooting
 
 These are concrete scores you can move before and during BMT.

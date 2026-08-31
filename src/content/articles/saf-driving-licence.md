@@ -37,6 +37,8 @@ To convert your military licence to a CDL:
 
 Since **April 2016**, SAF testing uses the **Traffic Police curriculum**: basic theory, final theory, and a practical test. The course and test details are on the [transport page](/transport-vocation).
 
+<in-post-ad></in-post-ad>
+
 ## Military licence vs civilian licence
 
 They're not the same thing.

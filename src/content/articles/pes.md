@@ -41,6 +41,8 @@ PES is only one factor (IPPT, aptitude, and luck also matter). See [how vocation
 - PES A/B (combat fit): expect a combat vocation like infantry, but can also be [transport](/transport-vocation), clerk, or storeman
 - PES C–E: usually admin (ASA/SA), support, or transport roles
 
+<in-post-ad></in-post-ad>
+
 ## Can I change my PES?
 
 Yes, you can apply to up-PES (or down-PES) through your MO with a specialist memo. See the full [guide on up-PESing](/guide-on-uppes). Already serving and dealing with an injury or illness? See [OOC and downpes: sick or injured during NS](/ooc-downpes) for what happens and who to talk to.

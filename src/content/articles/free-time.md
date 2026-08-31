@@ -76,6 +76,8 @@ Most nights you will only have your phone. That is enough to be productive.
 - **Driving theory**: knock out BTT and FTT revision, see the [SAF driving licence](/saf-driving-licence) page
 - **Useful apps**: more tools on the [apps](/apps) page
 
+<in-post-ad></in-post-ad>
+
 ## Exercise and the camp gym
 
 Gym access is not guaranteed. It varies by camp, unit, PES, vocation, and whether you are still a recruit or posted to a unit. During BMT and the recruit phase, do not count on it. Assume bodyweight and running, and treat gym time as a bonus when your commanders allow it.

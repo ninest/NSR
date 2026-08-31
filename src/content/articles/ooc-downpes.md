@@ -73,6 +73,8 @@ The flow:
 
 The same machine runs in reverse if you want to up-PES later. That's covered step by step in the [up-PES guide](/guide-on-uppes).
 
+<in-post-ad></in-post-ad>
+
 ## Re-BMT and where you end up
 
 If you downpes during BMT, you will usually re-do a modified BMT:

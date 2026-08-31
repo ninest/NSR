@@ -120,6 +120,8 @@ Listening to a useful suggestion doesn't make you a weak leader. Letting ten peo
 
 If the assessor introduces an injury, enemy, missing item, or new restriction, acknowledge it immediately. Tell the group what changes and continue.
 
+<in-post-ad></in-post-ad>
+
 ## How to behave when you are not IC
 
 You are part of somebody else's assessment, so don't switch off.
