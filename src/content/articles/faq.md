@@ -57,6 +57,12 @@ Yes, tattoos are allowed in the SAF. They just cannot be visible when you are in
 
 See the full [SAF tattoo policy](/tattoo-policy) for details, including getting a tattoo while serving and the stricter SPF and SCDF rules.
 
+### What happens if I get injured during BMT or NS?
+
+Report it. Tell your section commander and report sick the next morning. The MO decides the rest: MC, hospitalisation leave, excuse statuses, or in some cases OOC from your course and a downpes through the medical board, followed by a new posting or a re-BMT.
+
+See the full [OOC and downpes guide](/ooc-downpes) for the step by step process and who to talk to at each stage.
+
 ### What happens during the CMPB screening?
 Just normal medical check-up stuff such as height, weight, urine and a blood draw. Bring any medical documents that you may think is relevant such as those for pre-existing conditions. Also eat a meal before going so you don't feel dizzy after drawing blood. Try to style your hair a bit as your picture for your 11B will also be taken then.
 

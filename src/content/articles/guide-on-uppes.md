@@ -19,7 +19,7 @@ tags:
 
 ## For NSFs
 
-As I'm sure some of you guys here have been looking for answers on how to down/up PES, I figured that I would share my knowledge, as I was once as lost as you guys. 
+As I'm sure some of you guys here have been looking for answers on how to down/up PES, I figured that I would share my knowledge, as I was once as lost as you guys. Going the other direction? See [OOC and downpes: sick or injured during NS](/ooc-downpes).
 
 To start off, I would like to address some misconceptions and questions about the PES status application.
 

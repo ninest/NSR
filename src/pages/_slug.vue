@@ -86,6 +86,10 @@ export default {
       return this.similarArticles.length > 0;
     },
 
+    showStartHereCta() {
+      return !["start-here", "bmt-hub", "scs-hub"].includes(this.article.slug);
+    },
+
     updatedLabel() {
       const date = this.article.updated || this.article.created;
       if (!date) return null;
@@ -117,6 +121,11 @@ export default {
     <article :class="`page-${article.slug}`">
       <nuxt-content :document="article"></nuxt-content>
     </article>
+
+    <p v-if="showStartHereCta" class="start-here-cta">
+      New to NS, or not sure where to look?
+      <nuxt-link to="/start-here">Start here</nuxt-link> for a map to the whole site.
+    </p>
 
     <hr v-if="article.contributors" />
 
@@ -156,6 +165,24 @@ export default {
   margin-bottom: 1.4rem;
   font-size: 0.85rem;
   color: var(--nav-link);
+}
+
+.start-here-cta {
+  margin: 1.4rem 0;
+  font-size: 0.9rem;
+  color: var(--nav-link);
+
+  a {
+    color: #0e4500;
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+
+    &:hover {
+      background-color: #0e4500;
+      color: white;
+    }
+  }
 }
 
 hr {

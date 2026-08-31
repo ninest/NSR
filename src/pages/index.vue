@@ -47,9 +47,23 @@ export default {
     </h1>
     <p class="tagline">Your hub for everything NS in Singapore</p>
 
-    <p class="start-here-cta">
-      Unsure where to start? <nuxt-link to="/start-here">Click here</nuxt-link>
-    </p>
+    <div class="start-here-panel">
+      <div class="panel-card">
+        <nuxt-link to="/start-here" class="panel-head">
+          <div class="text">
+            <h2>Start here</h2>
+            <p>New to NS? A map to everything on this site.</p>
+          </div>
+          <div class="arrow">&rarr;</div>
+        </nuxt-link>
+        <div class="personas">
+          <nuxt-link to="/start-here#if-you-are-a-pre-enlistee">Pre-enlistee</nuxt-link>
+          <nuxt-link to="/start-here#if-you-are-an-nsf">NSF</nuxt-link>
+          <nuxt-link to="/start-here#if-you-are-an-nsman">NSMan</nuxt-link>
+          <nuxt-link to="/start-here#if-you-are-a-parent">Parent</nuxt-link>
+        </div>
+      </div>
+    </div>
 
     <HubSection />
 
@@ -77,20 +91,69 @@ export default {
   font-size: 0.95rem;
 }
 
-.start-here-cta {
-  margin-top: 0;
+.start-here-panel {
   margin-bottom: 1.2rem;
-  color: var(--nav-link);
-  font-size: 0.95rem;
 
   a {
-    color: #0e4500;
-    text-decoration: underline;
-    text-underline-offset: 2px;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .panel-card {
+    padding: 0.9rem 1.1rem;
+    background-color: rgba(14, 69, 0, 0.07);
+    border-radius: var(--b-r);
+    transition: 0.15s background-color;
 
     &:hover {
-      background-color: #0e4500;
-      color: white;
+      background-color: rgba(14, 69, 0, 0.12);
+    }
+  }
+
+  .panel-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+
+    .text {
+      h2 {
+        margin: 0;
+        font-size: 1.3rem;
+        color: #0e4500;
+        border-bottom: none;
+      }
+
+      p {
+        margin: 0.2rem 0 0;
+        font-size: 0.9rem;
+        color: var(--nav-link);
+      }
+    }
+
+    .arrow {
+      font-size: 1.4rem;
+      color: #0e4500;
+    }
+  }
+
+  .personas {
+    margin-top: 0.7rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.9rem;
+
+    a {
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: #0e4500;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+
+      &:hover {
+        background-color: #0e4500;
+        color: white;
+      }
     }
   }
 }

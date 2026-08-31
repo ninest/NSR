@@ -43,7 +43,7 @@ PES is only one factor (IPPT, aptitude, and luck also matter). See [how vocation
 
 ## Can I change my PES?
 
-Yes, you can apply to up-PES (or down-PES) through your MO with a specialist memo. See the full [guide on up-PESing](/guide-on-uppes).
+Yes, you can apply to up-PES (or down-PES) through your MO with a specialist memo. See the full [guide on up-PESing](/guide-on-uppes). Already serving and dealing with an injury or illness? See [OOC and downpes: sick or injured during NS](/ooc-downpes) for what happens and who to talk to.
 
 ## Is a low PES bad?
 
