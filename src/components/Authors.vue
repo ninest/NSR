@@ -22,9 +22,9 @@ export default {
           <a :href="author.link" target=_blank>{{ author.name }}</a>
         </div>
 
-        <div class="via">via</div>
+        <div v-if="author.origin" class="via">via</div>
 
-        <div class="origin">
+        <div v-if="author.origin" class="origin">
           <a :href="author.origin.link" target=_blank>{{ author.origin.title }}</a>
         </div>
       </div>

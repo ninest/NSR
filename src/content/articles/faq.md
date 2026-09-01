@@ -63,6 +63,12 @@ Report it. Tell your section commander and report sick the next morning. The MO 
 
 See the full [OOC and downpes guide](/ooc-downpes) for the step by step process and who to talk to at each stage.
 
+### Can I work a part-time job during NS?
+
+No. Paid work without approval is a chargeable offence for NSFs, and that includes gig platforms, banquet jobs, and tuition. People have been fined and court martialled for it, even months after ORD.
+
+See the full [moonlighting guide](/moonlighting) for what counts, what happens if you get caught, and what changes after ORD.
+
 ### What happens during the CMPB screening?
 Just normal medical check-up stuff such as height, weight, urine and a blood draw. Bring any medical documents that you may think is relevant such as those for pre-existing conditions. Also eat a meal before going so you don't feel dizzy after drawing blood. Try to style your hair a bit as your picture for your 11B will also be taken then.
 

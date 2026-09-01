@@ -121,6 +121,7 @@ Spend intentionally. Avoid debt. Do not borrow or lend money casually in camp.
 ## What not to do
 
 - Do not treat allowance like a salary.
+- Do not moonlight. Gig work, banquet jobs, tuition, and side hustles are all chargeable offences for NSFs, and people have been fined four figures for it. See the [moonlighting guide](/moonlighting) for why the risk is not worth it.
 - Do not chase random investment tips from Reddit, TikTok, or your bunkmate.
 - Do not buy financial products just because someone says "start young".
 - Do not lock up emergency money somewhere hard to access.
