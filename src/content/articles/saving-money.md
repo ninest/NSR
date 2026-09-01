@@ -2,7 +2,7 @@
 title: Saving Money in NS
 description: Practical ways to budget NSF allowance and spend less during NS in Singapore
 created: 2026-06-06
-updated: 2026-08-05
+updated: 2026-09-01
 tags:
   - financial
   - general
@@ -121,7 +121,7 @@ Spend intentionally. Avoid debt. Do not borrow or lend money casually in camp.
 ## What not to do
 
 - Do not treat allowance like a salary.
-- Do not moonlight. Gig work, banquet jobs, tuition, and side hustles are all chargeable offences for NSFs, and people have been fined four figures for it. See the [moonlighting guide](/moonlighting) for why the risk is not worth it.
+- Do not moonlight. Full-time NSFs are not allowed to undertake external activities involving remuneration. If you are struggling, approach your commanders for financial assistance. See the [moonlighting guide](/moonlighting).
 - Do not chase random investment tips from Reddit, TikTok, or your bunkmate.
 - Do not buy financial products just because someone says "start young".
 - Do not lock up emergency money somewhere hard to access.

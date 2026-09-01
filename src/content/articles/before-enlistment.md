@@ -2,7 +2,7 @@
 title: What to do before enlisting into BMT?
 description: Simple things to settle before enlistment day, including haircut, packing, fitness, documents, phone battery, and first book-out tips
 created: 2024-04-29
-updated: 2026-08-05
+updated: 2026-09-01
 tags:
   - bmt
 ---
@@ -31,7 +31,7 @@ If you can pinch and pull your hair, it's probably still too long. If your comma
 
 ## Tattoos
 
-Allowed, as long as they are not visible in No.4. Declare them honestly at the CMPB medical checkup, and don't get new ink while serving without asking first. See the full [SAF tattoo policy](/tattoo-policy).
+Answer any official registration or medical questions about tattoos accurately. Do not rely on a “covered by No.4” rule. If you are considering a new tattoo before or during service, ask the NS Contact Centre or your unit first. See the [tattoos and NS guide](/tattoo-policy).
 
 ## Packing without overpacking
 

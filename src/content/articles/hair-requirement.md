@@ -2,13 +2,13 @@
 title: Hair Requirement
 description: What hair is acceptable? What does Botak mean?
 created: 2024-09-02
-updated: 2025-04-28
+updated: 2026-09-01
 tags:
   - bmt
   - general
 ---
 
-[*Click here to see more about BMT*](/bmt). [*Click here to see more FAQs*](/faq). Also check the [SAF tattoo policy](/tattoo-policy) for the other big appearance question.
+[*Click here to see more about BMT*](/bmt). [*Click here to see more FAQs*](/faq). Also check the [tattoos and NS guide](/tattoo-policy) for the other big appearance question.
 
 - Ask your barber for the “0”-number buzz so your hair won’t touch your collar or eyebrows
 - Natural black only. Your own colour, lah. No highlights, no ombré

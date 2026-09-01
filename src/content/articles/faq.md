@@ -2,7 +2,7 @@
 title: Frequently asked questions
 description: Very frequently asked questions
 created: 2020-03-10
-updated: 2026-08-05
+updated: 2026-09-01
 
 tags:
   - general
@@ -53,21 +53,21 @@ See the full [hair requirement](/hair-requirement) for the rules.
 
 ### Can I have tattoos in NS?
 
-Yes, tattoos are allowed in the SAF. They just cannot be visible when you are in No.4, and there can be no offensive designs. Declare them honestly at the CMPB medical checkup.
+There is no detailed public SAF rule that answers every question about tattoo placement, visibility, courses, and vocations. Answer official registration or medical questions accurately. If you are serving or plan to sign on, ask your unit or recruiter before getting a new tattoo.
 
-See the full [SAF tattoo policy](/tattoo-policy) for details, including getting a tattoo while serving and the stricter SPF and SCDF rules.
+See the [tattoos and NS guide](/tattoo-policy) for the safest process and official contacts.
 
 ### What happens if I get injured during BMT or NS?
 
-Report it. Tell your section commander and report sick the next morning. The MO decides the rest: MC, hospitalisation leave, excuse statuses, or in some cases OOC from your course and a downpes through the medical board, followed by a new posting or a re-BMT.
+Report it. Tell your section commander and follow your unit's report-sick process. Seek immediate help for a serious or worsening injury. The medical and administrative outcome depends on the assessment, course, and unit.
 
 See the full [OOC and downpes guide](/ooc-downpes) for the step by step process and who to talk to at each stage.
 
 ### Can I work a part-time job during NS?
 
-No. Paid work without approval is a chargeable offence for NSFs, and that includes gig platforms, banquet jobs, and tuition. People have been fined and court martialled for it, even months after ORD.
+Full-time NSFs are not allowed to undertake external activities involving remuneration. That includes ordinary paid gig work, banquet jobs, and tuition. If you are unsure about an unusual arrangement or need financial help, speak to your commander before doing paid work.
 
-See the full [moonlighting guide](/moonlighting) for what counts, what happens if you get caught, and what changes after ORD.
+See the [moonlighting guide](/moonlighting) for the official rule, financial-assistance route, and what changes after ORD.
 
 ### What happens during the CMPB screening?
 Just normal medical check-up stuff such as height, weight, urine and a blood draw. Bring any medical documents that you may think is relevant such as those for pre-existing conditions. Also eat a meal before going so you don't feel dizzy after drawing blood. Try to style your hair a bit as your picture for your 11B will also be taken then.

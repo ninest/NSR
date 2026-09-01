@@ -1,8 +1,9 @@
 ---
-title: SAF Tattoo Policy
-description: Are tattoos allowed in NS? Rules before enlistment, during service, sign-on restrictions for SPF and SCDF, and what happens after ORD.
+title: "Tattoos and NS: What to Check Before Enlistment"
+displayTitle: "Tattoos and NS"
+description: What to do if you have a tattoo before NS, are considering one while serving, or plan to apply for a uniformed-service career.
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-09-01
 tags:
   - bmt
   - general
@@ -10,79 +11,67 @@ tags:
 
 [*Click here to see more about BMT*](/bmt). [*Click here to see more FAQs*](/faq).
 
-<!-- TODO confirm later: 1) exact CMPB declaration treatment and that PES is unaffected, 2) official wording of the No.4 visibility rule if a doc exists, 3) SCDF specifics. All sourced from community accounts for now. -->
+There is no public SAF page that sets out one universal tattoo rule covering placement, size, visibility, courses, and vocations. Requirements can also differ between the SAF, SPF, SCDF, and regular-service applications.
+
+This page therefore sticks to the safe process: disclose information when asked and get an answer from the organisation that actually controls your case.
 
 ## TL;DR
 
-- Tattoos are allowed in the SAF. Having them does not affect your PES status
-- They must not be visible when you are in No.4. Sleeves cover your arms, so arms are the easy case
-- No offensive or obscene designs, ever
-- Don't get new ink while serving without asking your superior first
-- SPF is the strict one. Visible tattoos are not allowed, and sign-on applications require a tattoo declaration
-- Declare honestly at your CMPB medical checkup. The declaration form asks
+- Do not use an online post to predict your medical fitness, vocation, or course eligibility
+- Answer registration, medical, and recruitment questions accurately when they are asked
+- If you are already serving, ask your chain of command before getting a new tattoo
+- If you plan to sign on, ask the relevant SAF, SPF, or SCDF recruiter before making a permanent decision
+- Treat personal experiences as anecdotes, not as a published rule
 
 ## Before enlistment
 
-The pre-enlistment form asks if you have tattoos, and the CMPB medical checkup asks again during registration, alongside allergies and medical history. Answer honestly.
+Complete your pre-enlistment registration and medical screening accurately. If a form, clinician, or interviewer asks about tattoos, answer the question honestly.
 
-Having tattoos does not change your PES status and it does not stop you from being enlisted. It is just recorded.
+CMPB determines medical fitness through its medical-screening process. Its public medical-screening pages do not list a tattoo as a shortcut to any particular medical classification or vocation.
 
-What about getting one after your checkup but before enlistment? People do ask this. There is no public rule that says you must re-declare, but if it becomes visible in any uniform or PT kit later, commanders will see it anyway. Hiding information you could have just declared is worse than the tattoo itself.
+If you get a tattoo after screening and are unsure whether updated information is required, contact the NS Contact Centre or ask during your next official interaction. Do not guess.
 
-## Where tattoos can be
+## Visibility and placement
 
-The practical line is simple: not visible in No.4.
+Do not assume that “covered by No.4” is a complete rule. Sleeves can be worn differently, other uniforms and PT kit expose different areas, and a course or vocation may have its own requirements.
 
-- Arms: covered by sleeves in No.4, so generally fine
-- Back, chest, torso: covered, the safest areas
-- Legs: No.4 trousers cover them, but remember PT kit and shorts exist. Thigh and calf tattoos will show
-- Hands, forearms, neck, face: visible in most clothing. Avoid, or expect problems
-
-Also note there is no public SAF document spelling out exact size limits or placement rules. The guidance above is the consistent picture from people who have served through it, not from an official PDF.
+Because there is no public general rule detailed enough to settle every placement question, the reliable answer must come from your unit or recruiter. Ask about the exact location and size you are considering.
 
 ## Getting a tattoo while serving
 
-This is where people get charged, not for having tattoos, but for getting them badly.
+Ask your commander before booking the appointment. Explain the proposed placement and size, and ask whether an approval or declaration is required.
 
-- Ask your superior first. This is the single most important thing
-- New tattoos that are visible in No.4 are not allowed
-- Command school and courses are stricter. Check before doing anything during block leave
-- Some courses reportedly screen for tattoos directly. There are accounts of an RP course where everyone strips and checks each other, and any tattoo drops you from the course
+Do not rely on a friend's experience from another unit. If the answer could affect a course, vocation, or disciplinary decision, request confirmation through the official chain.
 
-For regulars there is a formal approval process. For NSFs, the safest answer is to wait until after ORD. Two years is short, your tattoo artist is not going anywhere.
+Waiting until after full-time NS is the lowest-risk option if you cannot get a clear answer.
 
 ## Vocations, sign-on, and the Home Team
 
-- **SPF**: visible tattoos are not allowed, and SPF or SPS sign-on applications include a tattoo declaration. Multiple applicants have been told visible tattoos disqualify them
-- **SCDF**: stricter than SAF, though the exact rules are not published. Assume visible is a problem and check with them directly
-- **MP, NDU, and other selection-heavy vocations**: community reports say visible tattoos can count against you during selection. Not an official rule, just what people have experienced
+Public recruitment pages do not provide enough detail to promise that a tattoo will or will not be accepted for a specific uniformed position.
 
-So if you are set on uniformed services later, think very carefully before getting anything a short-sleeve shirt cannot hide.
+- For an SAF regular application, contact the relevant SAF Career Centre
+- For SPF, use the contact route on the [SPF careers site](https://www.police.gov.sg/join-us)
+- For SCDF, contact [SCDF recruitment](https://www.scdf.gov.sg/join-us/uniformed-positions)
+
+Ask before getting the tattoo, not after applying.
 
 ## After ORD and NSmen
 
-No rules. You are a civilian, and NSmen with tattoos still get called up for reservist like everyone else.
+ORD ends full-time service, but NSmen still have ORNS obligations. During ICT, mobilisation, or other service, follow the orders and uniform standards that apply to you.
 
-The one exception is if you become a regular or sign on with the SAF, SPF, or SCDF afterwards. Then their in-service rules apply again.
+If you later apply for a regular or uniformed-service role, that organisation's current recruitment and in-service requirements apply.
 
 ## Practical tips
 
-- Declare honestly at the CMPB checkup. The form asks, and lying on a declaration is worse than any tattoo
-- If you must get inked during NS, ask first and keep it covered by No.4
-- Skip offensive or vulgar designs. That is a hard line everywhere
-- If you plan to sign on with SPF or SCDF, keep everything under a t-shirt
-- When in doubt, ask your superior before the tattoo appointment, not after
+- Answer official forms and interviews accurately
+- Ask your commander before getting a tattoo during full-time NS
+- Ask a recruiter before getting a tattoo if you plan to sign on
+- Keep a record of any official answer that affects your decision
+- When in doubt, wait
 
-## Sources
+## Official contacts and sources
 
-Most of the details here come from people who went through it, since SAF does not publish a public tattoo policy document. Use these as the primary references:
-
-- [Are tattoos against or not against the SAF rules (r/NationalServiceSG)](https://www.reddit.com/r/NationalServiceSG/comments/17lziol/are_tattoos_against_or_not_against_the_saf_rules/)
-- [What happens at CMPB NS army medical checkup (r/NationalServiceSG)](https://www.reddit.com/r/NationalServiceSG/comments/tws3ee/what_happens_at_cmpb_ns_army_medical_checkup/)
-- [Tattoo before NS, unsure if it's allowed (r/NationalServiceSG)](https://www.reddit.com/r/NationalServiceSG/comments/1d5mn17/tattoo_before_ns_unsure_if_its_allowed/)
-- [Do I need to declare a new tattoo as a pre-enlistee? (r/NationalServiceSG)](https://www.reddit.com/r/NationalServiceSG/comments/122hz5s/do_i_need_to_declare_a_new_tattoo_as_a_pre/)
-- [New tattoo during service (r/NationalServiceSG)](https://www.reddit.com/r/NationalServiceSG/comments/qpc5i9/new_tattoo_during_service/)
-- [Tattoo after ORD in SPF allowed? (r/NationalServiceSG)](https://www.reddit.com/r/NationalServiceSG/comments/sfn2uu/tattoo_after_ord_in_spf_allowed/)
-- [Tattoos and signing on as a female (SPF/SPS declaration) (r/NationalServiceSG)](https://www.reddit.com/r/NationalServiceSG/comments/1dzga0l/tattoos_and_signing_on_as_a_female/)
-- [Signing on SCDF with tattoos (r/NationalServiceSG)](https://www.reddit.com/r/NationalServiceSG/comments/1d2t49l/signing_on_scdf_with_tattoos/)
-- [Will tattoos affect my posting after MOCC? (r/NationalServiceSG, Aug 2026)](https://www.reddit.com/r/NationalServiceSG/comments/1w3dfgi/future_mo_here_will_tattoos_affect_my_posting/)
+- [CMPB medical screening](https://www.cmpb.gov.sg/before-ns/pre-enlistment-process/medical-screening-and-psychometric-test/)
+- [MINDEF and NS Contact Centre](https://www.mindef.gov.sg/contact-us/)
+- [SPF careers](https://www.police.gov.sg/join-us)
+- [SCDF uniformed positions and recruitment contact](https://www.scdf.gov.sg/join-us/uniformed-positions)

@@ -1,9 +1,9 @@
 ---
 title: "OOC and Downpes: Sick or Injured During NS, What Happens"
 displayTitle: "OOC and Downpes Guide"
-description: Got injured or sick during NS? What OOC, OOT, downpes, excuses, and medical board mean, and the exact steps to take and who to talk to.
+description: Got injured or sick during NS? A practical overview of OOC, OOT, medical exemptions, downpes, medical reviews, and who to ask for help.
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-09-01
 tags:
   - bmt
   - general
@@ -16,60 +16,60 @@ If you're here to keng, this is not the place for you. Genuinely.
 
 But if you rolled an ankle during SOC, your knee is swelling after route march, or you just can't keep going and don't know who to tell, this page is for you. Here's what actually happens, in order, and who handles each step.
 
+<alert type="warning">Medical decisions, terminology, and administrative timelines vary by condition, course, unit, and service. Follow your MO's instructions and your unit's official process over anything on this page.</alert>
+
 ## First: report it
 
 The biggest mistake is hiding it. Pushing through a real injury will turn weeks of recovery into months, and likely follow you after ORD.
 
-- Tell your buddy or section commander first. Don't self-diagnose and don't self-medicate
-- Report sick (RSI) at the medical centre the next morning, or immediately for anything serious
-- The MO decides everything after this point. Not your sergeant, not you
-- Follow the MO's orders exactly. This protects you and your recovery
-
-One more thing: commanders can tell when something is real. limping badly but laughing at the cookhouse line reads very differently from limping badly and still trying. Credibility is your best protection through this whole process.
+- Tell your buddy or section commander and follow your unit's report-sick process
+- Seek help immediately for a serious or worsening injury. Do not wait for the next morning if it may be an emergency
+- Describe your symptoms and what happened accurately. Let the MO assess the condition
+- Follow the documented medical instructions and exemptions you are given
 
 ## Statuses
 
-The MO can give you different things, and they are not the same:
+Depending on the assessment, you may receive different forms of medical leave or exemption:
 
-- **MC (medical leave)**: days off from all duty. For illness or after procedures
-- **HL (hospitalisation leave)**: given after surgery or hospital treatment, can run for months. Long HL is usually paired with a specialist follow-up
-- **Excuse status**: you still report for duty, but a specific activity is off limits. Excused RMJ (running, jumping), excused upper limb, excused heavy load, excused boots, excused dust, excused stay-in. They can be temporary (7, 14, 28 days) or permanent
-- **Light duty (LD)**: administrative or non-physical work while you recover
+- **MC (medical leave)**: a period when you are medically unfit for duty
+- **Hospitalisation leave**: leave issued in connection with hospital treatment or recovery
+- **Medical exemption**: you remain in service but are not medically eligible for specified activities. Examples can include running, marching, jumping, upper-limb activities, IPPT, or other training
+- **Light duty**: duties adjusted around your medical restrictions while you recover
 
-All of these live in your eHealth record, and permanent excuses typically show up there after the MO enters them. If a status isn't showing, ask your medical centre to check.
+Your official medical record and instructions are the reference. If an exemption or status is missing or unclear, contact your medical centre rather than relying on word of mouth.
 
-Getting placed on sleep out late (SOL) or given duties while excused? Raise it with your superiors against your official status first. Your eHealth record is the reference, not word of mouth.
+If a duty appears to conflict with a documented medical exemption, show the official record to your commander and ask the medical centre to clarify it. **SOL means Stoppage of Leave**, which is a disciplinary punishment, not a medical status.
 
 ## OOC: out of course
 
-OOC means you are removed from a training course: BMT, SCS, OCS, or vocational training. It usually happens because an injury or condition stops you from completing the training requirements. It is a medical and administrative process, not a punishment.
+OOC means you are formally removed from a training course such as BMT, SCS, OCS, or vocational training. Medical reasons are common, but training and administrative reasons can also lead to OOC. The route after that varies by course and unit.
 
 What actually happens:
 
-- You are taken off your platoon and become a soldier in transit (SIT)
-- Expect a holding role while you wait. Company office, admin work, temporary storeman. It's boring and it can feel isolating, but it's temporary
-- Your case goes through medical review. If your condition changes your fitness grade, the downpes and medical board process below kicks in
-- Then you get a new posting, or you recourse to redo the training
+- You stop the course activities you are no longer eligible to complete
+- You may be placed on holding or administrative duties while decisions are made
+- A medical review may be needed if your medical fitness or exemptions have changed
+- You may recourse, continue in a different training path, or receive a new posting
 
-At SCS specifically, most OOC cases come out of the physical demands of Professional Term, and most people end up redeployed to a combat support or service support path. OOC from OCS often works the same way. It's not the end of anything. Plenty of people finish NS in a completely different role than the one they started in.
+Your school or unit manpower branch is the right source for the next administrative step. Someone else's OOC outcome does not predict yours.
 
 ## OOT: out of training
 
-OOT is the lighter version. You're excused from training (long excused boots or light duty, 80+ days is common) but you have not been formally removed from a course.
+OOT generally means you are out of training but have not necessarily completed the formal OOC process. Usage can differ between schools and services, so ask what the term means for your course.
 
-- You typically stay attached to your school or unit and report daily
-- You wait for medical review to decide: return to training, recourse, or repost
+- You may remain attached to your school or unit on duties compatible with your medical instructions
+- A later review can determine whether you return to training, recourse, OOC, or move elsewhere
 
 ## Downpes and the medical board
 
-Downpes is a formal change of your PES grade, decided by a medical board, not by any single person.
+Downpes is a change to your medical fitness classification. It follows a medical assessment and the authorised review process. A commander cannot promise or grant it.
 
 The flow:
 
-1. **See the MO** for a medical review. Explain your condition and outcome honestly
-2. **Get a specialist memo** if needed. Your MO can refer you to a government specialist (2 to 3 weeks), or you can see one privately. Bring the memo back to your MO
-3. **The medical board reviews your case**. Boards meet monthly. Ask your MO when the next one is, because timing matters. Miss the cutoff and you wait a month
-4. **Get your new PES**. Check with the medical centre the day after the board meets. Your new status also shows up in SAFHealth and eHealth
+1. **See the MO** for a medical review and explain your symptoms, history, and current treatment
+2. **Provide relevant medical documents**. The MO will decide whether more information or a specialist review is needed
+3. **Wait for the authorised medical review**. The process and timetable depend on the case, and there is no reliable universal waiting time
+4. **Check the official result** through the system or medical centre your unit directs you to use
 
 The same machine runs in reverse if you want to up-PES later. That's covered step by step in the [up-PES guide](/guide-on-uppes).
 
@@ -77,13 +77,13 @@ The same machine runs in reverse if you want to up-PES later. That's covered ste
 
 ## Re-BMT and where you end up
 
-If you downpes during BMT, you will usually re-do a modified BMT:
+If your medical fitness changes during BMT, possible outcomes include returning to training, recourse, a modified training path, or a different posting:
 
-- Modified BMT for PES C and E recruits runs at Kranji (BMTC School V side)
-- Timing varies. Some people wait a while for the next intake, which is one of the most common frustrations. Ask your S1 branch for the expected timeline rather than guessing
-- OOC'd recruits who stay PES B can recourse to a later BMT batch instead
+- Modified BMT has traditionally been conducted at BMTC School V for relevant medical classifications
+- Intake and recourse timing varies. Ask your manpower branch for the expected timeline
+- Your medical fitness, completed training, and manpower needs all affect the outcome
 
-Postings after downpes skew to combat support and service support: ASA, SA, transport, storeman, signaller. The [vocations page](/vocations) maps out what each involves. Note that the vocation you get also depends on where you were when you OOC'd: OOC from BMT, from SCS pro term, and from vocational training each route differently, and your S1 is the person who actually knows your case.
+Any later posting depends on your medical fitness, training status, service, and manpower needs. The [vocations page](/vocations) explains common roles, but it cannot predict your posting. Ask your unit's manpower branch about your case.
 
 ## The part nobody warns you about
 
@@ -91,10 +91,10 @@ OOC and downpes mess with your head more than the injury does. You watch your pl
 
 A few things worth knowing:
 
-- The waiting is the worst part, and it ends. Postings come through
-- Your PES status does not follow you into your civilian life. Nobody will ever ask about it again after ORD
-- If the mental weight gets heavy, that is a medical matter too. Tell the MO. Referrals to PCC (the SAF's primary care clinics) and IMH exist for exactly this, and excused stay-in memos can be granted for sleep issues
-- The SAF's own line is that soldiers are its most important asset. Sometimes you have to be the one to make them act like it
+- Administrative waiting can be frustrating. Ask your unit for an update if the stated review period has passed
+- MINDEF says service personnel's medical information is confidential and is not shared with civilian employers or insurers
+- If the mental weight gets heavy, tell the MO. The SAF's **Psychological Care Centre (PCC)**, SAF Counselling Centre, and public healthcare services are among the support routes that may be appropriate
+- For urgent safety concerns, tell someone immediately and use the official support contacts below
 
 ## Who to talk to, at each stage
 
@@ -106,13 +106,19 @@ A few things worth knowing:
 | Downpes application, board timing | MO, then the medical centre |
 | Posting, recourse, re-BMT timing | Unit S1 or manpower branch |
 | Status not showing in eHealth | Medical centre admin |
-| Not coping mentally | MO first, then PCC or IMH referral |
+| Not coping mentally | MO, SAF Counselling Centre, or the support route your unit provides |
 
-General rule: medical questions go to medical people, posting questions go to S1, and everything goes through your chain of command. Jumping the chain rarely speeds anything up, and the one exception is a long wait with no news, where a polite direct question to the medical centre works better than three weeks of asking your PC to chase.
+General rule: medical questions go to the medical centre, posting questions go to the manpower branch, and administrative questions go through your chain of command. For a delayed medical review, ask the medical centre how to check its status.
 
-## Sources
+## Official information and support
 
-SAF does not publish a public manual on this, so the details here come from people who went through the process:
+- [CMPB medical review](https://www.cmpb.gov.sg/before-ns/pre-enlistment-process/medical-screening-and-psychometric-test/medical-review/)
+- [CMPB medical exemptions under the refreshed Medical Classification System](https://www.cmpb.gov.sg/before-ns/pre-enlistment-process/medical-screening-and-psychometric-test/medical-fitness/refreshed-medical-classification-system--mcs-/)
+- [MINDEF on medical-information confidentiality](https://www.mindef.gov.sg/news-and-events/latest-releases/5may26-pq/)
+- [MINDEF on SAF mental-health support](https://www.mindef.gov.sg/news-and-events/latest-releases/04oct21_pq/)
+- [MINDEF contact page and 24-hour SAF Counselling Centre hotline](https://www.mindef.gov.sg/contact-us/)
+
+The discussions below are personal experiences. They can show how different cases have unfolded, but they are not policy and cannot predict an individual outcome:
 
 - [Sustained shoulder injury in SCS infantry pro term (r/NationalServiceSG)](https://www.reddit.com/r/NationalServiceSG/comments/1vypu0j/sustained_shoulder_injury_in_scs_infantry_pro/)
 - [C9 OOC, when will I re-BMT and how is it like? (r/NationalServiceSG)](https://www.reddit.com/r/NationalServiceSG/comments/1w0kkr9/c9_ooc_when_will_i_rebmt_and_how_is_it_like/)
