@@ -24,7 +24,7 @@ export default {
         { slug: "pes", title: "PES status" },
         { slug: "nsf-allowance", title: "NSF allowance" },
         { slug: "lingo", title: "Army lingo" },
-        { slug: "songs", title: "Songs" },
+        { slug: "culture", title: "NS culture" },
       ],
     }
   },

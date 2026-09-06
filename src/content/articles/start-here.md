@@ -3,7 +3,7 @@ title: "Start Here: A Map to National Service in Singapore"
 displayTitle: "Start Here"
 description: "New to NS or to this site? Find your starting point by who you are: pre-enlistee, NSF, NSMan, parent, or just curious about National Service in Singapore."
 created: 2026-06-12
-updated: 2026-08-31
+updated: 2026-09-05
 tags:
   - general
   - bmt
@@ -54,5 +54,5 @@ Start with the [parent's guide to NS and BMT](/parents-guide): enlistment day, w
 Maybe you're from outside Singapore, or you just want to understand what NS is.
 
 - The basics: what NS actually is ([BMT guide](/basic-military-training)) and how the different jobs work ([vocations](/vocations))
-- Decoding the culture: [army lingo](/lingo), [NS songs](/songs), [movies](/movies), and [meme assets](/meme-assets)
+- Decoding the culture: start with the [NS culture hub](/culture), or jump into [army lingo](/lingo), [NS songs](/songs), [movies](/movies), and [meme assets](/meme-assets)
 - Everything else: [useful links](/links)

@@ -3,7 +3,7 @@ title: "Army Lingo: SAF, BMT & NS Terms Explained"
 displayTitle: "Army Lingo"
 description: What common SAF and NS terms mean, from saikang, POP and PTP to SBO, FBO, SOL, OOC, ASA, coy and upperstudy.
 created: 2020-05-15
-updated: 2026-08-06
+updated: 2026-09-05
 tags:
   - general
   - bmt
@@ -126,6 +126,7 @@ Your **upperstudy** is the person whose job you are taking over. They teach you 
 
 ## Army slang
 
+- **White horse**: The son of someone influential who is suspected of receiving special treatment. An official SAF classification existed before 2000, although the Government said it was intended to prevent preferential treatment. See the full [white horse explainer](/white-horse).
 - **Kenna**: To get subjected to something, usually something bad. Example: "I kenna SOL."
 - **Bobo shooter**: Someone who cannot shoot properly.
 - **Wayang**: Putting on a show to impress commanders or look busier than you are.
