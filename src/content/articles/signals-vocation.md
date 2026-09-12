@@ -140,7 +140,7 @@ If you want a tech career after NS, IS gives you a line on the resume; the rest 
 Signals also has a specialist and officer track. If you do well, you can be picked for:
 
 - **[Specialist Cadet School (SCS)](/specialist-cadet-school)**: train to become a Signals **3SG**, with Signals pro-term back at Stagmont/SI.
-- **Officer Cadet School (OCS)**: train to become a Signals **officer**, like a Battalion Signal Officer.
+- **[Officer Cadet School (OCS)](/officer-cadet-school)**: train to become a Signals **officer**, like a Battalion Signal Officer.
 
 Pro-term is often described as more **lecture and test heavy** than infantry-style training. But unit life as a Signals commander varies a lot, since you might support a combat unit, an HQ, or a C4I and network role.
 

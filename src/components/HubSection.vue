@@ -3,10 +3,14 @@ export default {
   data() {
     return {
       hubs: [
-        { slug: "scs-hub", title: "SCS", blurb: "Selection, Foundation & Professional terms, postings, 3SG life." },
         { slug: "ord-countdown", title: "ORD", blurb: "Count the days left to your ORD." },
         { slug: "ippt", title: "IPPT", blurb: "Calculate your score and award bands." },
         { slug: "faq", title: "FAQ", blurb: "Common NS questions, answered." },
+      ],
+      afterBmt: [
+        { slug: "officer-cadet-school", title: "OCS", blurb: "Course phases, wings, streaming, fitness, and survival tips." },
+        { slug: "specialist-cadet-school", title: "SCS", blurb: "Course terms, postings, assessments, 3SG life, and survival tips." },
+        { slug: "command-school", title: "Command school", blurb: "How selection works during BMT, including SIT test and peer appraisal." },
       ],
       vocations: [
         { slug: "infantry-vocation", title: "Infantry", blurb: "IVT, the SIR battalions, outfields, and stay-in life." },
@@ -52,6 +56,28 @@ export default {
           <span class="arrow">&rarr;</span>
         </div>
         <p>{{ hub.blurb }}</p>
+      </nuxt-link>
+    </div>
+
+    <nuxt-link to="/after-bmt" class="bmt-banner after-bmt-banner">
+      <div class="text">
+        <h2>After BMT</h2>
+        <p>Posting orders, block leave, OCS, SCS, vocation training, and what happens next.</p>
+      </div>
+      <div class="arrow">&rarr;</div>
+    </nuxt-link>
+
+    <div class="secondary pathway-cards">
+      <nuxt-link
+        v-for="pathway in afterBmt" v-bind:key="pathway.slug"
+        :to="`/${pathway.slug}`"
+        class="hub-card"
+      >
+        <div class="head">
+          <h3>{{ pathway.title }}</h3>
+          <span class="arrow">&rarr;</span>
+        </div>
+        <p>{{ pathway.blurb }}</p>
       </nuxt-link>
     </div>
 
@@ -159,6 +185,15 @@ export default {
     }
   }
 
+  .after-bmt-banner {
+    margin-top: 1.2rem;
+    background-color: rgba(14, 69, 0, 0.11);
+
+    &:hover {
+      background-color: rgba(14, 69, 0, 0.16);
+    }
+  }
+
   .secondary {
     margin-top: 0.6rem;
     display: grid;
@@ -203,6 +238,14 @@ export default {
         line-height: 1.3;
         color: var(--nav-link);
       }
+    }
+  }
+
+  .pathway-cards {
+    grid-template-columns: repeat(3, 1fr);
+
+    @include mobile-screen {
+      grid-template-columns: 1fr;
     }
   }
 

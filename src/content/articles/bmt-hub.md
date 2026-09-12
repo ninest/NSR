@@ -3,7 +3,7 @@ title: "Singapore BMT Guide: Enlistment, Packing List, Field Camp & POP"
 displayTitle: "BMT Guide"
 description: Start here for Singapore BMT, enlistment prep, packing list, IPPT, ranks, lingo, field camp, POP, PES, money, and NS pathways.
 created: 2026-05-07
-updated: 2026-06-12
+updated: 2026-09-12
 tags:
   - bmt
   - general
@@ -77,8 +77,10 @@ Use it as a starting point for enlistment prep, packing, haircut rules, IPPT and
 
 ## After BMT
 
-- **[Specialist Cadet School Hub](/scs-hub): everything for SCS in one place: selection, terms, postings, tips, and links.**
-- [Command school](/command-school): what to know about SCS and OCS selection.
+- **[After BMT](/after-bmt): posting orders, OCS, SCS, vocation training, and what happens next.**
+- [Command school](/command-school): how selection for OCS and SCS works.
+- [OCS guide](/officer-cadet-school): what to expect after receiving an OCS posting.
+- [SCS guide](/specialist-cadet-school): terms, postings, assessments, and survival tips.
 - [NS vocations and how postings work](/vocations): how your vocation is decided and the common vocations across the SAF.
 - [Transport vocation](/transport-vocation): what transport life can look like.
 - [Driving licence in NS](/saf-driving-licence): how transport operators convert a military licence to a civilian one.

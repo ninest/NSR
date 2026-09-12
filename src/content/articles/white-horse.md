@@ -62,7 +62,7 @@ Sometimes the label is just a joke. One popular Reddit post asked whether having
 
 ## Do white horses get into OCS?
 
-No, being called a white horse does not automatically send someone to [Officer Cadet School](/command-school).
+No, being called a white horse does not automatically send someone to [Officer Cadet School](/officer-cadet-school).
 
 Command school selection considers performance and suitability. Vocation postings also depend on operational and manpower requirements. One story about somebody getting a convenient posting does not prove there is a secret express lane into OCS.
 

@@ -3,16 +3,17 @@ title: "Command School: How to Get into SCS or OCS in BMT"
 displayTitle: "Command school"
 description: "How command school selection works in BMT, and tips to get into SCS or OCS: the SIT test, peer appraisal, IPPT, marksmanship, and showing leadership."
 created: 2020-08-29
-updated: 2026-08-05
+updated: 2026-09-12
 
 tags:
   - bmt
   - scs
+  - ocs
 ---
 
-Command school means [Specialist Cadet School (SCS)](/scs-hub) or Officer Cadet School (OCS), the two BMT pathways that train you to be a commander. SCS passes you out as a 3SG section commander. OCS passes you out as an officer (2LT).
+Command school means [Specialist Cadet School (SCS)](/specialist-cadet-school) or [Officer Cadet School (OCS)](/officer-cadet-school), the two BMT pathways that train you to be a commander. SCS passes you out as a 3SG section commander. OCS passes you out as an officer (2LT).
 
-This page is about getting selected during BMT. If you're already in, see the [SCS hub](/scs-hub).
+This page is about getting selected during BMT. If you already have your posting, read the [OCS guide](/officer-cadet-school) or [SCS guide](/specialist-cadet-school).
 
 New to BMT? Start at the [BMT hub](/bmt-hub).
 
@@ -95,9 +96,9 @@ Commanders will usually ask whether you want SCS or OCS. Say so clearly.
 
 Both are command tracks. OCS is the officer route and is longer; SCS trains specialists (3SGs). Your education, [IPPT](/ippt), performance, and the SAF's needs all feed into which one you're offered.
 
-- [SCS hub](/scs-hub): selection, the three terms, postings, and 3SG life.
-- [Specialist Cadet School](/specialist-cadet-school): what SCS actually is.
-- [Tips for SCS](/scs-tips): once you're in.
+- [OCS guide](/officer-cadet-school): course phases, wings, streaming, daily life, and survival tips.
+- [SCS guide](/specialist-cadet-school): the three terms, postings, assessments, 3SG life, and survival tips.
+- [After BMT](/after-bmt): the complete map of command and vocation routes after POP.
 
 ## More
 

@@ -14,6 +14,11 @@ tags:
     slug: scs
     color: 160, 30, 30
 
+  ocs:
+    title: OCS
+    slug: ocs
+    color: 160, 30, 30
+
   nsman:
     title: NSman
     slug: nsman

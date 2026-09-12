@@ -3,7 +3,7 @@ title: "Start Here: A Map to National Service in Singapore"
 displayTitle: "Start Here"
 description: "New to NS or to this site? Find your starting point by who you are: pre-enlistee, NSF, NSMan, parent, or just curious about National Service in Singapore."
 created: 2026-06-12
-updated: 2026-09-05
+updated: 2026-09-12
 tags:
   - general
   - bmt
@@ -27,7 +27,7 @@ You have NS coming, or you're trying to figure out what it involves.
 You're already serving, in BMT or a unit.
 
 - About to start BMT or want to know what's ahead: [BMT Hub](/bmt-hub), [ranks](/ranks), [drill commands](/commands), and [army lingo](/lingo)
-- Going to command school: [how selection works](/command-school), [SCS Hub](/scs-hub), and [SCS tips](/scs-tips)
+- Received your posting: start with [what happens after BMT](/after-bmt), then read the [OCS guide](/officer-cadet-school), [SCS guide](/specialist-cadet-school), or [vocations guide](/vocations)
 - Understanding vocations and postings: [vocations](/vocations), or a specific one: [infantry](/infantry-vocation), [guards](/guards-vocation), [armour](/armour-vocation), [signals](/signals-vocation), [combat engineer](/combat-engineer-vocation), [medic](/medic-vocation), [transport](/transport-vocation), [logistics](/logistics-vocation)
 - Managing your time and money: [NSF allowance](/nsf-allowance), [saving money](/saving-money), [eMart credits](/emart-credits), [free time](/free-time), [movies](/movies), and [best canteen dishes](/best-canteen-dishes)
 - About to ORD: [ORD countdown](/ord-countdown) and [Telegram bots](/telegram-bots)

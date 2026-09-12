@@ -87,7 +87,7 @@ export default {
     },
 
     showStartHereCta() {
-      return !["start-here", "bmt-hub", "scs-hub"].includes(this.article.slug);
+      return !["start-here", "bmt-hub", "after-bmt", "specialist-cadet-school"].includes(this.article.slug);
     },
 
     updatedLabel() {

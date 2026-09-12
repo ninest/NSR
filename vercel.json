@@ -30,6 +30,16 @@
       "source": "/financial-advice",
       "destination": "/saving-money",
       "permanent": true
+    },
+    {
+      "source": "/scs-hub",
+      "destination": "/specialist-cadet-school",
+      "permanent": true
+    },
+    {
+      "source": "/scs-tips",
+      "destination": "/specialist-cadet-school#scs-survival-guide",
+      "permanent": true
     }
   ],
   "headers": [

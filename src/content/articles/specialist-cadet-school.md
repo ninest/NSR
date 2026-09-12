@@ -1,78 +1,121 @@
 ---
-title: Specialist Cadet School
-description: Information on SCS for NS
+title: "SCS Guide: Specialist Cadet School & Survival Tips"
+displayTitle: "Specialist Cadet School guide"
+description: "A practical SCS guide for NSFs: Foundation, Professional and Combined Arms terms, postings, fitness, packing, assessments, daily life and survival tips."
 created: 2024-05-22
-updated: 2026-08-05
+updated: 2026-09-12
 tags:
   - scs
+  - general
 ---
 
-The Specialist Cadet School (SCS) is the junior leadership school of the Singapore Armed Forces (SAF). It trains selected soldiers from all arms into specialists, the SAF equivalent of non-commissioned officers (NCOs) in other armed forces.
+Start here if your posting order says **Specialist Cadet School (SCS)**. You will train as a Specialist Cadet (SCT) and normally pass out as a Third Sergeant (3SG).
 
-Quick facts:
-- **Location:** Pasir Laba Camp, deep in the ulu Western Water Catchment
+Still in BMT and trying to get selected? Read [how command school selection works](/command-school). Comparing every route after POP? Start with the [After BMT guide](/after-bmt).
+
+## SCS at a glance
+
+- **Location:** Pasir Laba Camp
 - **Parent institute:** Specialist and Warrant Officer Institute (SWI)
-- **Schools:** SCS I, SCS II, SCS III (four companies each, twelve in total)
+- **Schools:** SCS I, SCS II and SCS III
 - **Motto:** "With Pride We Lead"
-- **Outcome:** promotion to Third Sergeant (3SG)
+- **Outcome:** promotion to 3SG after completing the course
 
-## Mission and values
+SCS trains specialists, the SAF equivalent of non-commissioned officers. As a 3SG, you will usually become a section commander or take another specialist appointment in your unit.
 
-As part of SWI, SCS develops effective, dynamic, and committed Warrant Officers and Specialists with an identity anchored on shared values: loyalty, duty, respect, care, integrity, discipline, and excellence. Basically, you need to become a man who is just as loving and caring as your Encik.
+## The three SCS terms
 
-## How cadets are selected
+### Foundation Term
 
-After graduating from Basic Military Training (BMT) at the Basic Military Training Centre, recruits who excel and show leadership potential may be selected for Command School training at SCS. Selection considers:
+Foundation Term lasts about eight weeks. It builds common soldiering and leadership skills before cadets split into vocation-specific training.
 
-- Organisational needs
-- Training performance
-- Commanders' recommendations
-- Educational qualifications
-- Medical fitness
+Expect infantry fundamentals, weapon handling, navigation, fieldcraft, tactical exercises, physical training and assessed command appointments. The exact programme can change by batch.
 
-Selected cadets immediately assume the **Specialist Cadet (SCT)** rank for the duration of their training.
+### Professional Term
 
-## School structure
+Professional Term lasts about 13 weeks. Your vocation determines where and what you train:
 
-SCS is made up of three schools (SCS I, SCS II, and SCS III), each organised into four companies, for twelve companies in total. Command Teams in each company, supported by Subject Matter Experts from SWI Headquarters, plan and conduct the syllabus to keep standards consistent. Instructors include Regulars and National Servicemen who bring current operational experience to the course. Expect at least one heartfelt talk about signing on. The answer is still on the lines, and you will still not sign there.
+- Infantry and Guards cadets generally continue their relevant specialist training at SCS.
+- Armour, Artillery, [Combat Engineers](/combat-engineer-vocation), [Signals](/signals-vocation), Medical, [Transport](/transport-vocation) and other cadets train at their formation institutes.
+- Smaller or specialised postings may follow different pipelines.
+
+You do not freely choose every posting. Course performance, suitability, medical fitness and manpower requirements can all matter.
+
+### Combined Arms Term
+
+The final Combined Arms Term lasts eight days. Cadets return to a common programme focused on leadership and working across formations before the Specialist Cadet Graduation Parade.
+
+## What happens after SCS?
+
+Graduates are promoted to **3SG** and posted to a unit. Your day-to-day life depends heavily on your vocation and appointment.
+
+A section commander commonly:
+
+- Trains and supervises soldiers
+- Enforces standards and discipline
+- Looks after the section's welfare
+- Accounts for equipment and administration
+- Carries out the platoon commander's plan
+
+Outstanding cadets may be considered for advanced courses or crossover to OCS. Neither should be treated as guaranteed.
 
 <in-post-ad></in-post-ad>
 
-## Training phases
+## SCS survival guide
 
-### Foundation Term (8 weeks)
+### Before reporting
 
-Cadets acquire core infantry skills, weapon handling, tactical drills, fieldcraft, and develop basic leadership through classroom lessons and practical exercises. They conclude this phase with a 12 km route march in full battle order and obstacle challenges that test physical endurance and teamwork.
+- Keep running and arrive able to pass IPPT. A stronger fitness base makes the first weeks less painful.
+- Do not panic if you do not have Gold. Follow your instructors' current requirements and use scheduled training to improve.
+- Follow the official posting order for reporting time and packing. It beats any old online packing list.
 
-### Professional Term (12.5 weeks)
+### Fitness and recovery
 
-Cadets focus on vocation-specific training. Your posting depends on your course grades and pre-enlistment screening, and decides where you spend this term:
+- Build aerobic fitness, leg strength and load tolerance instead of cramming one hard workout before reporting.
+- Bring enough socks and manage hot spots early during field training.
+- Eat, hydrate and sleep when the programme gives you the chance. Do not burn every night of admin time on your phone.
 
-- Infantry and Guards specialists remain at SCS for advanced infantry leadership modules.
-- Specialists in other arms train at their formation institutes: Armour, Artillery, [Combat Engineers](/combat-engineer-vocation), [Signals](/signals-vocation), Medical Corps, [Transport](/transport-vocation), and more.
-- Rarer postings exist too, such as sniper, military police, and intelligence roles.
+### Admin time and equipment
 
-Most institutes end the term with a summative exercise that grades you.
+- Prepare maps, notes and equipment before lights out.
+- Check your LBS layout and required stores before an exercise, not at the last minute.
+- Keep shared areas clean and help the section finish together. Fast individual work is useless if the whole section is held back.
 
-### Combined Arms Term (8 days)
+### Assessments and command appointments
 
-Cadets integrate their skills in realistic, combined-arms scenarios, operating alongside different formations to reinforce inter-unit cooperation and battlefield leadership under simulated operational conditions.
+- Give a clear plan, delegate tasks and keep track of time.
+- Speak loudly enough to be understood. Random shouting is not leadership.
+- Commit to a workable decision, then adapt when new information appears.
+- Look after the team while completing the mission. Assessors can see the difference between leading and wayang.
 
-## Passing out
+### Company and course differences
 
-At the end of the Combined Arms Term, cadets attend a passing-out parade and are promoted to **Third Sergeant (3SG)**, taking up leadership appointments in their units.
+Welfare, schedules and exercise details vary by school, company, vocation and batch. Treat stories about a particular company as snapshots, not promises. Your current trainers and training programme are the source of truth.
 
-- Outstanding cadets may instead be taken out-of-course (OOC) and crossed over to the **Officer Cadet School (OCS)**.
-- Strong Third Sergeants may later be selected for advanced courses such as the **Platoon Sergeant Course**, to further develop their leadership and tactical competencies.
+## Common questions
 
-## Role of a Third Sergeant
+### Is SCS just BMT again?
 
-Third Sergeants serve as section commanders, the vital link between commissioned officers and enlisted soldiers. As subject matter experts, they:
+No. Some soldiering skills carry over, but you are now expected to plan, command and take responsibility for other people. The leadership and assessment pressure is the bigger change.
 
-- Plan and conduct training
-- Enforce standards of discipline
-- Look after their section's welfare
-- Mentor recruits and supervise daily routines
-- Support operational planning at the platoon level, under platoon commanders and platoon sergeants
+### Do I need IPPT Gold before SCS?
 
-In practice this means you absorb pressure from the officers above and the men below. Specs are the backbone of the SAF, mostly because everything gets stacked on it.
+Do your best to arrive fit, but do not treat online claims about Gold privileges as a universal rule. Standards and incentives can differ by course and batch.
+
+### Can I choose my Professional Term vocation?
+
+You may get opportunities to indicate preferences, but your posting is not entirely your choice. Suitability, performance and organisational needs apply.
+
+### What if I OOC?
+
+The outcome depends on why and when you go out of course. You may recourse or receive another posting. Read the [OOC and down-PES guide](/ooc-downpes), then ask your commanders about your actual case.
+
+## Related guides
+
+- [After BMT](/after-bmt): the full posting-day map
+- [OCS guide](/officer-cadet-school): what to expect if you are posted to OCS
+- [Command school selection](/command-school): SIT test, peer appraisal and BMT performance
+- [Ranks](/ranks): where SCT and 3SG sit
+- [NSF allowance](/nsf-allowance): cadet and 3SG allowance
+- [Official CMPB overview](https://www.cmpb.gov.sg/life-in-ns/saf/after-basic-training/)
+- [Official SCS page](https://safti.mindef.gov.sg/safti-units/swi/)

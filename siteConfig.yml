@@ -53,3 +53,7 @@ redirects:
     to: /telegram-bots
   - from: [ord]
     to: /ord-countdown
+  - from: [scs-hub]
+    to: /specialist-cadet-school
+  - from: [scs-tips]
+    to: /specialist-cadet-school#scs-survival-guide

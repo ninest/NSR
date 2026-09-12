@@ -69,7 +69,7 @@ Pay lands monthly, usually in the first half of the month (around the 9th, occas
 ## Common questions
 
 **Does my BMT performance affect my pay?**
-Not directly. Pay is decided by rank and vocation only. Doing well in BMT can matter indirectly, because commander courses like [SCS](/scs-hub) and OCS lead to higher ranks faster, which is where the real money is. See the [ranks guide](/ranks).
+Not directly. Pay is decided by rank and vocation only. Doing well in BMT can matter indirectly, because commander courses like [SCS](/specialist-cadet-school) and [OCS](/officer-cadet-school) lead to higher ranks faster, which is where the real money is. See the [ranks guide](/ranks).
 
 **Why was my pay different this month?**
 Most common reasons: IPPT or marksman payouts landing, deductions (like a magazine subscription you forgot to cancel), or claims processing. Check your payslip on OneNS before assuming an error.
