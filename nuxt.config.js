@@ -31,6 +31,12 @@ module.exports = {
         async: true,
       },
       {
+        src: "https://emotionalsupport.misc.page/flock.js",
+        defer: true,
+        "data-key": "pk_production_gbUeFefYqDfpoD6sNbpMzyc2",
+        "data-mode": "cookieless",
+      },
+      {
         type: 'application/ld+json',
         json: websiteJsonLd
       }
