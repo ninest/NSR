@@ -97,6 +97,7 @@ module.exports = {
     "~/plugins/slug.js",
     "~/plugins/gtag.js",
     "~/plugins/goatcounter.client.js",
+    "~/plugins/flock.client.js",
   ],
   buildModules: [
     "@nuxt/components",
