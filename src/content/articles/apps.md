@@ -56,6 +56,11 @@ Download via: [ippt-plus.com](https://ippt-plus.com/)
 A quick web tool to work out your score and award from your push-ups, sit-ups and 2.4km time. No download needed, just enter your numbers.
 
 Try it at: [ipptscore.com](https://ipptscore.com/)
+### IPPT Scores
+
+A free web calculator that uses the exact SAF scoring tables — every push-up/sit-up rep band and every 10-second run band, across all 14 age groups — instead of a formula estimate. Work out your score and award, plan a target, or print the score chart. No download or sign-up needed.
+
+Try it at: [ipptscores.com](https://ipptscores.com/)
 
 ### Running apps for the 2.4km
 
